@@ -85,43 +85,55 @@
             color: #fff;
         }
 
-        /* Font size classes */
-        .font-small {
-            --font-title: 0.9rem;
-            --font-meta: 0.75rem;
-            --font-content: 1rem;
-            --font-heading: 1.8rem;
+        /* Font size classes - Small */
+        body.font-small .article-item-title {
+            font-size: 0.85rem !important;
+        }
+        body.font-small .article-item-meta {
+            font-size: 0.7rem !important;
+        }
+        body.font-small .article-view-title {
+            font-size: 1.6rem !important;
+        }
+        body.font-small .article-view-content {
+            font-size: 0.95rem !important;
+        }
+        body.font-small .article-view-meta {
+            font-size: 0.8rem !important;
         }
 
-        .font-medium {
-            --font-title: 1.1rem;
-            --font-meta: 0.9rem;
-            --font-content: 1.15rem;
-            --font-heading: 2rem;
+        /* Font size classes - Medium */
+        body.font-medium .article-item-title {
+            font-size: 1.05rem !important;
+        }
+        body.font-medium .article-item-meta {
+            font-size: 0.85rem !important;
+        }
+        body.font-medium .article-view-title {
+            font-size: 1.9rem !important;
+        }
+        body.font-medium .article-view-content {
+            font-size: 1.1rem !important;
+        }
+        body.font-medium .article-view-meta {
+            font-size: 0.95rem !important;
         }
 
-        .font-large {
-            --font-title: 1.35rem;
-            --font-meta: 1.05rem;
-            --font-content: 1.35rem;
-            --font-heading: 2.2rem;
+        /* Font size classes - Large */
+        body.font-large .article-item-title {
+            font-size: 1.3rem !important;
         }
-
-        /* Apply font size variables */
-        .article-item-title {
-            font-size: var(--font-title, 0.95rem);
+        body.font-large .article-item-meta {
+            font-size: 1rem !important;
         }
-
-        .article-item-meta {
-            font-size: var(--font-meta, 0.75rem);
+        body.font-large .article-view-title {
+            font-size: 2.2rem !important;
         }
-
-        .article-view-content {
-            font-size: var(--font-content, 1.1rem);
+        body.font-large .article-view-content {
+            font-size: 1.3rem !important;
         }
-
-        .article-view-title {
-            font-size: var(--font-heading, 2rem);
+        body.font-large .article-view-meta {
+            font-size: 1.1rem !important;
         }
 
         .article-list {
