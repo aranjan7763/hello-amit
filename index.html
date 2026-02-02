@@ -114,6 +114,27 @@
             margin-right: 4px;
         }
 
+        .category {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 12px;
+        }
+
+        .category-label {
+            color: #666;
+            font-size: 0.8rem;
+        }
+
+        .category-value {
+            background: rgba(0, 212, 255, 0.2);
+            color: #00d4ff;
+            padding: 4px 12px;
+            border-radius: 6px;
+            font-size: 0.85rem;
+            font-weight: 600;
+        }
+
         .tag {
             background: linear-gradient(135deg, #7b2cbf 0%, #00d4ff 100%);
             color: #fff;
@@ -217,8 +238,10 @@
                 .replace(/<[^>]*>/g, '')  // Remove HTML tags
                 .substring(0, 400) + '...';  // Limit to 400 characters (3-4 lines)
 
-            // Get categories/tags
-            const tags = article.categories || [];
+            // Get categories/tags (first one is category, rest are tags)
+            const allCategories = article.categories || [];
+            const category = allCategories[0] || '';
+            const tags = allCategories.slice(1);
 
             card.innerHTML = `
                 <h2 class="article-title">
@@ -228,6 +251,12 @@
                     <span class="author">By ${article.author || 'TechCrunch'}</span>
                     <span class="date">${formattedDate}</span>
                 </div>
+                ${category ? `
+                <div class="category">
+                    <span class="category-label">Category:</span>
+                    <span class="category-value">${category}</span>
+                </div>
+                ` : ''}
                 <p class="article-summary">${summary}</p>
                 <div class="tags">
                     ${tags.length > 0 ? '<span class="tags-label">Tags:</span>' : ''}
