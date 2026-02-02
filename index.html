@@ -278,6 +278,9 @@
 
         /* Mobile responsive */
         @media (max-width: 768px) {
+            body {
+                font-size: 18px;
+            }
             .app-container {
                 flex-direction: column;
             }
@@ -288,43 +291,58 @@
                 border-bottom: 1px solid rgba(255, 255, 255, 0.1);
             }
             .panel-header h1 {
-                font-size: 1.6rem;
+                font-size: 1.8rem;
             }
             .panel-header .subtitle {
-                font-size: 1rem;
-            }
-            .article-item-title {
                 font-size: 1.1rem;
             }
-            .article-item-meta {
+            .last-updated {
                 font-size: 0.9rem;
             }
+            .article-item {
+                padding: 18px;
+            }
+            .article-item-title {
+                font-size: 1.2rem;
+                line-height: 1.5;
+            }
+            .article-item-meta {
+                font-size: 1rem;
+            }
             .right-panel {
-                padding: 20px;
+                padding: 24px;
             }
             .article-view-title {
-                font-size: 1.6rem;
+                font-size: 1.8rem;
+                line-height: 1.4;
             }
             .article-view-meta {
-                font-size: 1rem;
+                font-size: 1.1rem;
+                gap: 12px;
             }
             .article-view-content {
-                font-size: 1.15rem;
-                line-height: 1.8;
+                font-size: 1.2rem;
+                line-height: 1.9;
             }
-            .category-value, .category-label {
-                font-size: 1rem;
+            .category-value {
+                font-size: 1.05rem;
+                padding: 8px 16px;
+            }
+            .category-label {
+                font-size: 1.05rem;
             }
             .tag {
-                font-size: 0.85rem;
-                padding: 6px 14px;
+                font-size: 0.95rem;
+                padding: 8px 16px;
             }
             .tags-label {
-                font-size: 1rem;
+                font-size: 1.05rem;
             }
             .read-full-btn {
-                font-size: 1.1rem;
-                padding: 16px 32px;
+                font-size: 1.2rem;
+                padding: 18px 36px;
+                width: 100%;
+                text-align: center;
             }
         }
     </style>
