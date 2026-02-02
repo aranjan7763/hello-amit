@@ -39,6 +39,18 @@
             backdrop-filter: blur(10px);
         }
 
+        .panel-header-title {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .logo {
+            width: 36px;
+            height: 36px;
+            flex-shrink: 0;
+        }
+
         .panel-header h1 {
             font-size: 1.4rem;
             background: linear-gradient(90deg, #00d4ff, #7b2cbf);
@@ -512,7 +524,27 @@
         <!-- Left Panel: Article List -->
         <div class="left-panel">
             <div class="panel-header">
-                <h1>TechCrunch Reader</h1>
+                <div class="panel-header-title">
+                    <svg class="logo" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                                <stop offset="0%" style="stop-color:#00d4ff"/>
+                                <stop offset="100%" style="stop-color:#7b2cbf"/>
+                            </linearGradient>
+                        </defs>
+                        <!-- Outer rounded square -->
+                        <rect x="5" y="5" width="90" height="90" rx="20" fill="url(#logoGradient)"/>
+                        <!-- News/article lines -->
+                        <rect x="18" y="22" width="40" height="6" rx="3" fill="white"/>
+                        <rect x="18" y="34" width="64" height="4" rx="2" fill="white" opacity="0.7"/>
+                        <rect x="18" y="44" width="64" height="4" rx="2" fill="white" opacity="0.7"/>
+                        <rect x="18" y="54" width="50" height="4" rx="2" fill="white" opacity="0.7"/>
+                        <!-- Play/read icon -->
+                        <circle cx="70" cy="72" r="16" fill="white" opacity="0.9"/>
+                        <polygon points="65,64 65,80 79,72" fill="url(#logoGradient)"/>
+                    </svg>
+                    <h1>TechCrunch Reader</h1>
+                </div>
                 <p class="subtitle">Latest tech news</p>
                 <p class="last-updated" id="last-updated"></p>
                 <div class="font-toggle">
