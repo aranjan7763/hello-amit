@@ -45,6 +45,12 @@
             width: 300px;
             margin-right: 10px;
         }
+        #search-input {
+            padding: 8px;
+            width: 200px;
+            margin-left: 20px;
+            border: 2px solid darkblue;
+        }
     </style>
 </head>
 <body>
@@ -52,6 +58,7 @@
 
     <input type="text" id="task-input" placeholder="Enter a new task...">
     <button onclick="addRow()">Add Task</button>
+    <input type="text" id="search-input" placeholder="Search tasks..." oninput="searchTable()">
 
     <table id="task-table">
         <tr>
@@ -125,6 +132,32 @@
             // Find the row that contains this button and remove it
             const row = button.parentElement.parentElement;
             row.remove();
+        }
+
+        // Function to search/filter the table
+        function searchTable() {
+            // Get the search text (convert to lowercase for easier matching)
+            const searchText = document.getElementById('search-input').value.toLowerCase();
+
+            // Get all rows in the table
+            const table = document.getElementById('task-table');
+            const rows = table.getElementsByTagName('tr');
+
+            // Loop through all rows (skip the first one - it's the header)
+            for (let i = 1; i < rows.length; i++) {
+                const row = rows[i];
+                const cells = row.getElementsByTagName('td');
+
+                // Get the text from the Details column (index 1)
+                const taskText = cells[1].textContent.toLowerCase();
+
+                // Show or hide the row based on whether it matches
+                if (taskText.includes(searchText)) {
+                    row.style.display = '';  // Show the row
+                } else {
+                    row.style.display = 'none';  // Hide the row
+                }
+            }
         }
     </script>
 </body>
