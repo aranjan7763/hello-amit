@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="UTF-8">
     <title>Login - TechCrunch Reader</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect x='5' y='5' width='90' height='90' rx='18' fill='url(%23g)'/><defs><linearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='100%25'><stop offset='0%25' stop-color='%2300d4ff'/><stop offset='100%25' stop-color='%237b2cbf'/></linearGradient></defs><text x='50' y='58' text-anchor='middle' font-family='Arial' font-weight='bold' font-size='36' fill='white'>TC</text></svg>">
     <style>
         * {
             margin: 0;
@@ -165,8 +168,30 @@
             display: none;
         }
 
+        /* Back link */
+        .back-link {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            color: #888;
+            text-decoration: none;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: #00d4ff;
+        }
+
         /* Mobile responsive */
         @media (max-width: 768px) {
+            body {
+                padding: 60px 15px 20px;
+            }
+
             .auth-container {
                 flex-direction: column;
             }
@@ -177,7 +202,30 @@
             }
 
             .auth-panel {
-                padding: 30px 25px;
+                padding: 25px 20px;
+            }
+
+            .logo-header {
+                margin-bottom: 20px;
+            }
+
+            h2 {
+                font-size: 1.3rem;
+            }
+
+            .subtitle {
+                font-size: 0.85rem;
+                margin-bottom: 20px;
+            }
+
+            input {
+                padding: 12px 14px;
+                font-size: 16px; /* Prevents zoom on iOS */
+            }
+
+            .btn {
+                padding: 14px;
+                font-size: 1rem;
             }
 
             .divider {
@@ -187,10 +235,15 @@
                 padding: 10px;
                 font-size: 0.85rem;
             }
+
+            .login-panel .logo-header {
+                display: none;
+            }
         }
     </style>
 </head>
 <body>
+    <a href="index.html" class="back-link">&#8592; Back to Home</a>
     <div class="auth-container">
         <!-- Signup Panel -->
         <div class="auth-panel signup-panel">

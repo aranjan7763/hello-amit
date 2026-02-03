@@ -237,6 +237,15 @@
                 display: none;
             }
 
+            .nav-links {
+                gap: 10px;
+            }
+
+            .nav-link {
+                padding: 8px 14px;
+                font-size: 0.85rem;
+            }
+
             .hero {
                 flex-direction: column;
                 padding: 100px 20px 60px;
@@ -249,25 +258,69 @@
 
             .hero-image {
                 order: 0;
-                margin-bottom: 40px;
+                margin-bottom: 30px;
+            }
+
+            .hero-image img {
+                max-width: 90%;
             }
 
             .headline {
-                font-size: 2.2rem;
+                font-size: 2rem;
             }
 
             .secondary-headline {
-                font-size: 1.2rem;
+                font-size: 1.1rem;
             }
 
             .tertiary-line {
-                font-size: 1rem;
+                font-size: 0.95rem;
                 max-width: 100%;
+                margin-bottom: 30px;
+            }
+
+            .cta-btn {
+                padding: 16px 32px;
+                font-size: 1rem;
+                width: 100%;
+                text-align: center;
+            }
+
+            .features {
+                padding: 60px 20px;
+            }
+
+            .features-title {
+                font-size: 1.5rem;
+                margin-bottom: 40px;
             }
 
             .features-grid {
                 grid-template-columns: 1fr;
                 gap: 20px;
+            }
+
+            .feature-card {
+                padding: 25px 20px;
+            }
+
+            .feature-icon {
+                font-size: 2rem;
+            }
+
+            .feature-title {
+                font-size: 1.1rem;
+            }
+        }
+
+        /* Small mobile */
+        @media (max-width: 400px) {
+            .headline {
+                font-size: 1.7rem;
+            }
+
+            .secondary-headline {
+                font-size: 1rem;
             }
         }
     </style>
