@@ -160,13 +160,12 @@
             border-radius: 13px;
             cursor: pointer;
             transition: all 0.3s;
-            overflow: hidden;
-            font-size: 0;
-            color: transparent;
+            padding: 0;
+            appearance: none;
+            -webkit-appearance: none;
         }
 
-        .theme-toggle-btn::after {
-            content: '🌙';
+        .theme-toggle-btn .toggle-circle {
             position: absolute;
             top: 3px;
             left: 3px;
@@ -175,11 +174,23 @@
             background: linear-gradient(135deg, #00d4ff 0%, #7b2cbf 100%);
             border-radius: 50%;
             transition: all 0.3s;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 10px;
-            color: white;
+        }
+
+        .theme-toggle-btn .toggle-icon {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 12px;
+            transition: all 0.3s;
+        }
+
+        .theme-toggle-btn .icon-moon {
+            right: 6px;
+        }
+
+        .theme-toggle-btn .icon-sun {
+            left: 6px;
+            opacity: 0.3;
         }
 
         /* Light mode styles */
@@ -193,9 +204,16 @@
             border-color: #a0aec0;
         }
 
-        body.light-mode .theme-toggle-btn::after {
-            content: '☀️';
+        body.light-mode .theme-toggle-btn .toggle-circle {
             left: 27px;
+        }
+
+        body.light-mode .theme-toggle-btn .icon-moon {
+            opacity: 0.3;
+        }
+
+        body.light-mode .theme-toggle-btn .icon-sun {
+            opacity: 1;
         }
 
         /* User section */
@@ -796,7 +814,11 @@
                 </div>
                 <div class="theme-toggle">
                     <span class="theme-toggle-label">Theme</span>
-                    <button class="theme-toggle-btn" id="theme-toggle" aria-label="Toggle theme"></button>
+                    <button class="theme-toggle-btn" id="theme-toggle">
+                        <span class="toggle-circle"></span>
+                        <span class="toggle-icon icon-sun">☀</span>
+                        <span class="toggle-icon icon-moon">🌙</span>
+                    </button>
                 </div>
                 <div class="user-section">
                     <span class="user-email" id="user-email"></span>
