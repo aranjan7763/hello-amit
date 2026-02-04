@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-02-04T08:47:34.952323+00:00",
+  "last_updated": "2026-02-04T09:50:07.652703+00:00",
   "articles": [
+    {
+      "title": "Exclusive: Positron raises $230M Series B to take on Nvidia’s AI chips",
+      "link": "https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-take-on-nvidias-ai-chips/",
+      "author": "Rebecca Bellan",
+      "date": "2026-02-04T00:18:51-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/positron.jpg?w=1200",
+      "category": "AI",
+      "content": "Semiconductor startupPositronhas secured $230 million in Series B funding, TechCrunch has exclusively learned. The outfit plans to use the capital to speed up deployment of its high-speed memory chips, a critical component for the chips used for AI workloads, sources familiar with the matter told TechCrunch.\n\nInvestors in the round include Qatar Investment Authority (QIA), the country’s sovereign wealth fund, which has been increasingly focused on building out AI infrastructure, the sources said.\n\nThe Reno-based startup’s Series B comes as hyperscalers and AI firms push to reduce their reliance on longstanding leader Nvidia. These firms include OpenAI, which, despite being one of Nvidia’s largest and most important customers, isreportedlyunsatisfied with some of the firm’s latest AI chips and has been seeking alternatives since last year.\n\nMeanwhile, Qatar, through QIA, has been accelerating a broader push into so-called “sovereign” AI infrastructure – a priority repeatedly underscored at Web Summit Qatar in Doha this week. Several sources told TechCrunch the country views compute capacity as critical to staying competitive on the global economic stage, and is positioning itself as a leading AI services hub in the Middle East, fueling interest in startups like Positron.\n\nThe strategy is already taking shape through major commitments, including a $20 billion AI infrastructurejoint venture with Brookfield Asset Managementthat was announced in September.\n\nPositron’s fundraise brings the three-year-old startup’s total capital raised to just over $300 million. The startup previously raised $75 million last year from investors including Valor Equity Partners, Atreides Management, DFJ Growth, Flume Ventures and Resilience Reserve.\n\nThe company claims its first-generation chip, Atlas, manufactured in Arizona, can match the performance of Nvidia’s H100 GPUs for less than a third of the power. Positron is focused on inference – computing needed to run AI models for real-world",
+      "excerpt": "Semiconductor startupPositronhas secured $230 million in Series B funding, TechCrunch has exclusively learned. The outfit plans to use the capital to speed up deployment of its high-speed memory chips, a critical component for the chips used for AI workloads, sources familiar with the matter told Te",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Epstein-linked longevity guru Peter Attia leaves David Protein, and his own startup ‘won’t comment’",
+      "link": "https://techcrunch.com/2026/02/03/epstein-linked-longevity-guru-peter-attia-leaves-david-protein-and-his-own-startup-wont-comment/",
+      "author": "Julie Bort",
+      "date": "2026-02-03T16:11:48-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/10/unsplash_exit_sign-e1770157478202.jpeg?w=1102",
+      "category": "Startups",
+      "content": "The founder of David Protein, maker of popular high-protein nutrition bars,announcedon X on Monday that longevity guru Dr. Peter Attia “has stepped down from his role as Chief Science Officer at David.”\n\nThe announcement comes after Attia’s name appeared in more than 1,700 documents, including email correspondence, released on Friday as part of a massive file dump related to convicted sex offender Jeffrey Epstein,according to The New York Times. Attia served on the executive team of the food startup and was also anearly investor.\n\nFor those unfamiliar, Attia is a Canadian American physician who has become one of the most prominent voices in longevity and preventive health. He’s best known for his bestselling book “Outlive: The Science and Art of Longevity” and his now seven-year-old podcast, wherein he explores optimization strategies. He was also hired just last month as a contributor to CBS.\n\nThree-year-old, New York-based David Protein raised a $75 million Series A funding round in May of last year led by Greenoaks, with participation from Valor Equity Partners. The company has experienced significant growth since launching its flagship protein bar in September 2024, a product it describes as having 28 grams of protein, zero sugar, and 150 calories.\n\nIn a lengthypost on X, Attia wrote that he was “ashamed” of some of the crude content in his emails with Epstein, but he also said he was not involved in criminal activity and never visited Epstein’s island or traveled on his plane. Attia also discussed at length how he came to know Epstein and why he stayed involved with him even after Epstein’s2008 conviction.\n\nThe fallout appears to extend beyond David Protein. It also appears that Biograph, the healthcare testing and longevity startup that Attia co-founded with entrepreneur John Hering, may be distancing itself from the physician. The company declined to comment on Attia’s ongoing participation with the startup or about the pages on its website that used to menti",
+      "excerpt": "The founder of David Protein, maker of popular high-protein nutrition bars,announcedon X on Monday that longevity guru Dr. Peter Attia “has stepped down from his role as Chief Science Officer at David.”\n\nThe announcement comes after Attia’s name appeared in more than 1,700 documents, including email",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
     {
       "title": "The Minneapolis tech community holds strong during ‘tense and difficult time’",
       "link": "https://techcrunch.com/2026/02/03/minnesota-tech-community-founders-investors-ice-response/",
@@ -87,23 +121,6 @@
       ]
     },
     {
-      "title": "Skyryse lands another $300M to make flying, even helicopters, simple and safe",
-      "link": "https://techcrunch.com/2026/02/03/skyryse-lands-another-300m-to-make-flying-even-helicopters-simple-and-safe/",
-      "author": "Kirsten Korosec",
-      "date": "2026-02-03T10:21:23-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/skyryse-helicopters.jpg?resize=1200,675",
-      "category": "Transportation",
-      "content": "Skyryse, an El Segundo, California-based aviation automation startup, has raised more than $300 million in a Series C investment, pushing its valuation to $1.15 billion and into unicorn territory.\n\nThe round, which was announced Tuesday and led by Autopilot Ventures, provided a multimillion-dollar accelerant for the startup as it nears the end of a lengthy Federal Aviation Administration certification process for its flight control system. The capital will also be used to integrate its operating system, known as SkyOS, across numerous aircraft, including U.S. military Black Hawk helicopters.\n\nOther investors in this round include Fidelity Management & Research Company, ArrowMark Partners, Atreides Management LP, BAM Elevate, Baron Capital Group, Durable Capital Partners, Positive Sum, Qatar Investment Authority, RCM Private Markets Fund managed by Rokos Capital Management, and Woodline Partners. The startup, which was founded in 2016, has raised more than $605 million in equity capital.\n\nSkyryse has made inroads with investors as well as the U.S. military, emergency medical service operators, law enforcement, and private operators for its simplified flight system. The startup has stripped out dozens of mechanical flight controls like gauges and switches and replaced them with a system containing several flight computers that automate the more complicated and dangerous aspects of flying.\n\nThis is not a fully autonomous system; a pilot must still handle the operations. But it’s designed to automate the trickiest aspects of flying, enhance the skills of pilots, and improve safety.\n\nThat simplicity and ease of operation — a literalswipe of the finger on a touchscreen— has won over companies like United Rotorcraft, Air Methods, and Mitsubishi Corporation, which have contracts with Skyryse to integrate SkyOS on a variety of helicopters and airplanes.\n\nSkyryse started building and testing its system on helicopters, one of the most unstable aircraft to operate. But the idea",
-      "excerpt": "Skyryse, an El Segundo, California-based aviation automation startup, has raised more than $300 million in a Series C investment, pushing its valuation to $1.15 billion and into unicorn territory.\n\nThe round, which was announced Tuesday and led by Autopilot Ventures, provided a multimillion-dollar a",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
       "title": "Fitbit founders launch AI platform to help families monitor their health",
       "link": "https://techcrunch.com/2026/02/03/fitbit-founders-launch-ai-platform-to-help-families-monitor-their-health/",
       "author": "Aisha Malik",
@@ -121,14 +138,14 @@
       ]
     },
     {
-      "title": "Vema predicts cheap hydrogen could change where data centers are built",
-      "link": "https://techcrunch.com/2026/02/03/vema-predicts-cheap-hydrogen-could-change-where-data-centers-are-built/",
-      "author": "Tim De Chant",
-      "date": "2026-02-03T04:15:49-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2166404383.jpeg?resize=1200,800",
+      "title": "India’s Varaha bags $20M to scale carbon removal from the Global South",
+      "link": "https://techcrunch.com/2026/02/03/indias-varaha-bags-20m-to-scale-carbon-removal-from-the-global-south/",
+      "author": "Jagmeet Singh",
+      "date": "2026-02-03T15:30:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/varaha-farm-work.jpg?resize=1200,800",
       "category": "Climate",
-      "content": "The automotive industry has struggled to adopt hydrogen at scale, but industrial users and data centers might have better luck.\n\nVema Hydrogeninked a deal in December to supply California data centers, and now it has completed a pilot project in Quebec to power industry with hydrogen that it produces deep underground.\n\nThe startup drills wells in regions with specific types of iron-rich rock that release hydrogen gas when treated with water, heat, pressure, and some catalysts. Vema then draws the hydrogen to the surface and sells it to industrial users.\n\n“To supply the Quebec local market, which is about 100,000 tons per year, you would need 3 square kilometers, which is nothing,” Pierre Levin, CEO of Vema, told TechCrunch.\n\nVema’s first pilot well will produce several tons of hydrogen per day, and next year, it plans to drill its first commercial well, which will reach 800 meters into the earth. Vema expects to produce hydrogen from the first wells for less than $1 per kilogram, a widely used benchmark for clean hydrogen.\n\nMost hydrogen today is made by a process known as steam reforming of methane (SMR), in which steam is used to break hydrogen molecules off methane from natural gas. It’s energy intensive, and both the process to make steam and the chemical reaction itself release carbon dioxide.\n\nLess polluting sources of hydrogen exist, but they tend to cost more. Hydrogen from SMR costs between 70 cents and $1.60 per kilogram,accordingto the IEA. Capturing carbon from SMR can add around 50% to those prices, while the cleanest process, which uses zero carbon electricity to power an electrolyzer, drives costs up several fold.\n\nStimulated geologic hydrogen, or “engineered mineral hydrogen,” as Vema calls it, promises to be one of the cleanest sources of hydrogen,accordingto the Oxford Institute for Energy Studies.\n\nOnce Vema has refined its techniques, Levin expects it to produce hydrogen for less than 50 cents per kilogram. At that price, Vema’s hydrogen would be",
-      "excerpt": "The automotive industry has struggled to adopt hydrogen at scale, but industrial users and data centers might have better luck.\n\nVema Hydrogeninked a deal in December to supply California data centers, and now it has completed a pilot project in Quebec to power industry with hydrogen that it produce",
+      "content": "Varaha, an India-based climate tech startup, has raised $20 million in fresh funding as it looks to scale carbon removal projects from the Global South and position itself as a lower-cost supplier for verified emissions reductions.\n\nThe investment marks the first portion of a planned $45 million Series B round led by WestBridge Capital, the venture firm’s first investment in climate tech, with participation from existing investors including RTP Global and Omnivore. Founded in 2022, Varaha has raised about $33 million in equity to date, alongside $35 million inproject financingand $500,000 in grants, as it builds carbon removal projects across Asia and Africa.\n\nIndia has emerged as an increasingly important base for carbon removal projects, offering lower operating costs, deep agricultural supply chains, and a large pool of technical talent as corporate demand for verified removals rises, including from companies facing growing energy use from data centers and AI workloads. Varaha is positioning itself to capitalize on those advantages, arguing that its execution-focused model allows it to deliver carbon removal at lower cost while meeting the same international verification standards as higher-priced competitors in Europe and North America.\n\nVaraha’s advantage lies less in proprietary technology and more in execution, said co-founder and chief executive Madhur Jain in an interview, arguing that high operating costs could become a constraint for carbon removal developers in wealthier markets as prices come under pressure.\n\n“If carbon credit is a cost to the businesses that are buying these carbon credits … it’s a cost on their balance sheet. It’s not a CSR item,” Jain told TechCrunch. “And hence, if the cost of a certain geography is going to be so high by an order of magnitude of like, 1.5x to 3x credit production, it is going to be extremely hard for those companies to survive.”\n\nVaraha develops carbon removal projects across four main pathways: regenerative agricu",
+      "excerpt": "Varaha, an India-based climate tech startup, has raised $20 million in fresh funding as it looks to scale carbon removal projects from the Global South and position itself as a lower-cost supplier for verified emissions reductions.\n\nThe investment marks the first portion of a planned $45 million Ser",
       "tags": [
         "Apple",
         "Amazon",
@@ -138,31 +155,14 @@
       ]
     },
     {
-      "title": "Exclusive: Positron raises $230M Series B to take on Nvidia’s AI chips",
-      "link": "https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-take-on-nvidias-ai-chips/",
-      "author": "Rebecca Bellan",
-      "date": "2026-02-04T00:18:51-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/positron.jpg?w=1200",
-      "category": "AI",
-      "content": "Semiconductor startupPositronhas secured $230 million in Series B funding, TechCrunch has exclusively learned. The outfit plans to use the capital to speed up deployment of its high-speed memory chips, a critical component for the chips used for AI workloads, sources familiar with the matter told TechCrunch.\n\nInvestors in the round include Qatar Investment Authority (QIA), the country’s sovereign wealth fund, which has been increasingly focused on building out AI infrastructure, the sources said.\n\nThe Reno-based startup’s Series B comes as hyperscalers and AI firms push to reduce their reliance on longstanding leader Nvidia. These firms include OpenAI, which, despite being one of Nvidia’s largest and most important customers, isreportedlyunsatisfied with some of the firm’s latest AI chips and has been seeking alternatives since last year.\n\nMeanwhile, Qatar, through QIA, has been accelerating a broader push into so-called “sovereign” AI infrastructure – a priority repeatedly underscored at Web Summit Qatar in Doha this week. Several sources told TechCrunch the country views compute capacity as critical to staying competitive on the global economic stage, and is positioning itself as a leading AI services hub in the Middle East, fueling interest in startups like Positron.\n\nThe strategy is already taking shape through major commitments, including a $20 billion AI infrastructurejoint venture with Brookfield Asset Managementthat was announced in September.\n\nPositron’s fundraise brings the three-year-old startup’s total capital raised to just over $300 million. The startup previously raised $75 million last year from investors including Valor Equity Partners, Atreides Management, DFJ Growth, Flume Ventures and Resilience Reserve.\n\nThe company claims its first-generation chip, Atlas, manufactured in Arizona, can match the performance of Nvidia’s H100 GPUs for less than a third of the power. Positron is focused on inference – computing needed to run AI models for real-world",
-      "excerpt": "Semiconductor startupPositronhas secured $230 million in Series B funding, TechCrunch has exclusively learned. The outfit plans to use the capital to speed up deployment of its high-speed memory chips, a critical component for the chips used for AI workloads, sources familiar with the matter told Te",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Epstein-linked longevity guru Peter Attia leaves David Protein, and his own startup ‘won’t comment’",
-      "link": "https://techcrunch.com/2026/02/03/epstein-linked-longevity-guru-peter-attia-leaves-david-protein-and-his-own-startup-wont-comment/",
-      "author": "Julie Bort",
-      "date": "2026-02-03T16:11:48-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/10/unsplash_exit_sign-e1770157478202.jpeg?w=1102",
-      "category": "Startups",
-      "content": "The founder of David Protein, maker of popular high-protein nutrition bars,announcedon X on Monday that longevity guru Dr. Peter Attia “has stepped down from his role as Chief Science Officer at David.”\n\nThe announcement comes after Attia’s name appeared in more than 1,700 documents, including email correspondence, released on Friday as part of a massive file dump related to convicted sex offender Jeffrey Epstein,according to The New York Times. Attia served on the executive team of the food startup and was also anearly investor.\n\nFor those unfamiliar, Attia is a Canadian American physician who has become one of the most prominent voices in longevity and preventive health. He’s best known for his bestselling book “Outlive: The Science and Art of Longevity” and his now seven-year-old podcast, wherein he explores optimization strategies. He was also hired just last month as a contributor to CBS.\n\nThree-year-old, New York-based David Protein raised a $75 million Series A funding round in May of last year led by Greenoaks, with participation from Valor Equity Partners. The company has experienced significant growth since launching its flagship protein bar in September 2024, a product it describes as having 28 grams of protein, zero sugar, and 150 calories.\n\nIn a lengthypost on X, Attia wrote that he was “ashamed” of some of the crude content in his emails with Epstein, but he also said he was not involved in criminal activity and never visited Epstein’s island or traveled on his plane. Attia also discussed at length how he came to know Epstein and why he stayed involved with him even after Epstein’s2008 conviction.\n\nThe fallout appears to extend beyond David Protein. It also appears that Biograph, the healthcare testing and longevity startup that Attia co-founded with entrepreneur John Hering, may be distancing itself from the physician. The company declined to comment on Attia’s ongoing participation with the startup or about the pages on its website that used to menti",
-      "excerpt": "The founder of David Protein, maker of popular high-protein nutrition bars,announcedon X on Monday that longevity guru Dr. Peter Attia “has stepped down from his role as Chief Science Officer at David.”\n\nThe announcement comes after Attia’s name appeared in more than 1,700 documents, including email",
+      "title": "Skyryse lands another $300M to make flying, even helicopters, simple and safe",
+      "link": "https://techcrunch.com/2026/02/03/skyryse-lands-another-300m-to-make-flying-even-helicopters-simple-and-safe/",
+      "author": "Kirsten Korosec",
+      "date": "2026-02-03T10:21:23-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/skyryse-helicopters.jpg?resize=1200,675",
+      "category": "Transportation",
+      "content": "Skyryse, an El Segundo, California-based aviation automation startup, has raised more than $300 million in a Series C investment, pushing its valuation to $1.15 billion and into unicorn territory.\n\nThe round, which was announced Tuesday and led by Autopilot Ventures, provided a multimillion-dollar accelerant for the startup as it nears the end of a lengthy Federal Aviation Administration certification process for its flight control system. The capital will also be used to integrate its operating system, known as SkyOS, across numerous aircraft, including U.S. military Black Hawk helicopters.\n\nOther investors in this round include Fidelity Management & Research Company, ArrowMark Partners, Atreides Management LP, BAM Elevate, Baron Capital Group, Durable Capital Partners, Positive Sum, Qatar Investment Authority, RCM Private Markets Fund managed by Rokos Capital Management, and Woodline Partners. The startup, which was founded in 2016, has raised more than $605 million in equity capital.\n\nSkyryse has made inroads with investors as well as the U.S. military, emergency medical service operators, law enforcement, and private operators for its simplified flight system. The startup has stripped out dozens of mechanical flight controls like gauges and switches and replaced them with a system containing several flight computers that automate the more complicated and dangerous aspects of flying.\n\nThis is not a fully autonomous system; a pilot must still handle the operations. But it’s designed to automate the trickiest aspects of flying, enhance the skills of pilots, and improve safety.\n\nThat simplicity and ease of operation — a literalswipe of the finger on a touchscreen— has won over companies like United Rotorcraft, Air Methods, and Mitsubishi Corporation, which have contracts with Skyryse to integrate SkyOS on a variety of helicopters and airplanes.\n\nSkyryse started building and testing its system on helicopters, one of the most unstable aircraft to operate. But the idea",
+      "excerpt": "Skyryse, an El Segundo, California-based aviation automation startup, has raised more than $300 million in a Series C investment, pushing its valuation to $1.15 billion and into unicorn territory.\n\nThe round, which was announced Tuesday and led by Autopilot Ventures, provided a multimillion-dollar a",
       "tags": [
         "Apple",
         "Amazon",
