@@ -1,6 +1,91 @@
 {
-  "last_updated": "2026-02-05T16:54:34.400797+00:00",
+  "last_updated": "2026-02-05T17:51:01.451627+00:00",
   "articles": [
+    {
+      "title": "ElevenLabs CEO: Voice is the next interface for AI",
+      "link": "https://techcrunch.com/2026/02/05/elevenlabs-ceo-voice-is-the-next-interface-for-ai/",
+      "author": "Rebecca Bellan",
+      "date": "2026-02-05T06:41:12-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Web-Summit-Doha-Staniszewski-Seth-Pierrepont.png?resize=1200,657",
+      "category": "AI",
+      "content": "ElevenLabs co-founder and CEO Mati Staniszewski says voice is becoming the next major interface for AI – the way people will increasingly interact with machines as models move beyond text and screens.\n\nSpeaking atWeb Summit in Doha, Staniszewski told TechCrunch voice models like those developed by ElevenLabs have recently moved beyond simply mimicking human speech — including emotion and intonation – to working in tandem with the reasoning capabilities of large language models. The result, he argued, is a shift in how people interact with technology.\n\nIn the years ahead, he said, “hopefully all our phones will go back in our pockets, and we can immerse ourselves in the real world around us, with voice as the mechanism that controls technology.”\n\nThat vision fueled ElevenLabs’s$500 million raisethis week at an $11 billion valuation, and it is increasingly shared across the AI industry.OpenAIandGooglehave both made voice a central focus of their next-generation models, while Apple appears to be quietly building voice-adjacent, always-on technologies throughacquisitions like Q.ai.As AI spreads into wearables, cars, and other new hardware, control is becoming less about tapping screens and more about speaking, making voice a key battleground for the next phase of AI development.\n\nIconiq Capital general partner Seth Pierrepont echoed that view onstage at Web Summit, arguing that while screens will continue to matter for gaming and entertainment, traditional input methods like keyboards are starting to feel “outdated.”\n\nAnd as AI systems become more agentic, Pierrepont said, the interaction itself will also change, with models gaining guardrails, integrations, and context needed to respond with less explicit prompting from users.\n\nStaniszewski pointed to that agentic shift as one of the biggest changes underway. Rather than spelling out every instruction, he said future voice systems will increasingly rely on persistent memory and context built up over time, making intera",
+      "excerpt": "ElevenLabs co-founder and CEO Mati Staniszewski says voice is becoming the next major interface for AI – the way people will increasingly interact with machines as models move beyond text and screens.\n\nSpeaking atWeb Summit in Doha, Staniszewski told TechCrunch voice models like those developed by E",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Spotify ventures into physical book sales, adds new audiobook features",
+      "link": "https://techcrunch.com/2026/02/05/spotify-ventures-into-physical-book-sales-adds-new-audiobook-features/",
+      "author": "Lauren Forristal",
+      "date": "2026-02-05T04:00:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Spotify_Physical_Books.png?w=1200",
+      "category": "Apps",
+      "content": "While Spotify users faceyet another price hike, book lovers have some exciting developments to look forward to that could help cushion the blow.\n\nSpotifyannouncedseveral updates for its audiobook business on Thursday, notably its expansion into physical books. Users in the U.S. and the UK will soon be able to purchase physical copies of their favorite audiobooks directly through the app, marking a significant pivot for the once digital-only platform.\n\nThe company also introduced two features designed to make the audiobook experience smoother and more flexible, including a new tool called “Page Match” that lets users scan a page from a physical book to instantly transition to that spot in the audiobook.\n\nAdditionally, “Audiobook Recaps”—a previously iOS-only feature—is coming to Android devices in the spring. This feature provides bite-sized recaps tailored to the last section users stopped listening to.\n\n​Spotify’s decision to sell physical books through its app positions it as a competitor to major booksellers, including Amazon and Barnes & Noble. The company also recognizes that many readers still value physical books, and by offering both print and digital formats, Spotify is trying to turn itself into a one-stop shop for book lovers.\n\nSpotify has partnered withBookshop.orgon the new offering, an online marketplace that supports local, independent bookstores. This partnership is great news for indie booksellers, as every purchase made via Spotify will directly benefit local book communities. Spotify then earns an affiliate fee on sales.\n\nThe ability to purchase physical books will roll out this spring and appear on audiobook pages in the app as a button labeled “Add to your bookshelf at home.” Clicking it takes users to Bookshop’s website, which handles the pricing, inventory, and shipping.\n\nTo bridge the gap between formats, Spotify is also launching a feature called Page Match, which is currently available to premium subscribers and will roll out to all audiobo",
+      "excerpt": "While Spotify users faceyet another price hike, book lovers have some exciting developments to look forward to that could help cushion the blow.\n\nSpotifyannouncedseveral updates for its audiobook business on Thursday, notably its expansion into physical books. Users in the U.S. and the UK will soon ",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Data breach at govtech giant Conduent balloons, affecting millions more Americans",
+      "link": "https://techcrunch.com/2026/02/05/data-breach-at-govtech-giant-conduent-balloons-affecting-millions-more-americans/",
+      "author": "Zack Whittaker",
+      "date": "2026-02-05T07:25:38-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/data-breach-2024-roundup.jpg?resize=1200,675",
+      "category": "Security",
+      "content": "A data breach at government technology giant Conduent appears to affect far more people than first disclosed, with the number of victims potentially stretching to dozens of millions of people across the United States.\n\nThe January 2025 ransomware attack, whichknocked out Conduent’s operations for several days, is now known to affect at least 15.4 million people in Texas alone, accounting for about half of the state’s population. Conduent said in October that 4 million people across the state were affected.\n\nAnother 10.5 million people are affected across Oregon, per the state’s attorney general.\n\nConduent has also notified hundreds of thousands of people across Delaware, Massachusetts, New Hampshire, and other states, according to data breach notifications seen by TechCrunch.\n\nThe stolen data includes individuals’ names, Social Security numbers, medical data and health insurance information.\n\nOne of the largest government contractors today, Conduent handles and processes large amounts of personal and sensitive information on behalf of large corporations, government departments, andseveral U.S. states. The companysaysits technology and operational support services reach more than 100 million people in the United States across various government healthcare programs.\n\nWhen contacted with several questions about the data breach, Conduent spokesperson Sean Collins provided a boilerplate statement that did not address the questions, nor did they answer if Conduent knows how many individuals are affected by the cyberattack. The spokesperson would not say if the breach affects more than 100 million people.\n\nCollins said that the company has been working to “conduct a detailed analysis of the affected files to identify the personal information” taken in the breach, but would not say how many data breach notifications the company has sent out to date.\n\nLittle else is known about the breach, and the company has disclosed few details. Conduentdisclosed the cyberattack in April,",
+      "excerpt": "A data breach at government technology giant Conduent appears to affect far more people than first disclosed, with the number of victims potentially stretching to dozens of millions of people across the United States.\n\nThe January 2025 ransomware attack, whichknocked out Conduent’s operations for se",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Fundamental raises $255 million Series A with a new take on big data analysis",
+      "link": "https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data-analysis/",
+      "author": "Russell Brandom",
+      "date": "2026-02-05T07:00:02-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/CEO_3.jpg?resize=1200,800",
+      "category": "AI",
+      "content": "An AI lab calledFundamentalemerged from stealth on Thursday, offering a new foundation model to solve an old problem: how to draw insights from the huge quantities of structured data produced by enterprises. By combining the old systems of predictive AI with more contemporary tools, the company believes it can reshape how large enterprises analyze their data.\n\n“While LLMs have been great at working with unstructured data, like text, audio, video, and code, they don’t work well with structured data like tables,” CEO Jeremy Fraenkel told TechCrunch. “With our model Nexus, we have built the best foundation model to handle that type of data.”\n\nThe idea has already drawn significant interest from investors. The company is emerging from stealth with $255 million in funding at a $1.2 billion valuation. The bulk of it comes from the recent $225 million Series A round led by Oak HC/FT, Valor Equity Partners, Battery Ventures, and Salesforce Ventures; Hetz Ventures also participated in the Series A, with angel funding from Perplexity CEO Aravind Srinivas, Brex co-founder Henrique Dubugras, and Datadog CEO Olivier Pomel.\n\nCalled a Large Tabular Model (LTM) rather than a Large Language Model (LLM), Fundamental’s Nexus breaks from contemporary AI practices in a number of significant ways. The model is deterministic — that is, it will give the same answer every time it is asked a given question — and doesn’t rely onthe transformer architecturethat defines models from most contemporary AI labs. Fundamental calls it a foundation model because it goes through the normal steps of pre-training and fine-tuning, but the result is something profoundly different from what a client would get when partnering with OpenAI or Anthropic.\n\nThose differences are important because Fundamental is chasing a use-case where contemporary AI models often falter. Because Transformer-based AI models can only process data that’s within their context window, they often have trouble reasoning over extremely ",
+      "excerpt": "An AI lab calledFundamentalemerged from stealth on Thursday, offering a new foundation model to solve an old problem: how to draw insights from the huge quantities of structured data produced by enterprises. By combining the old systems of predictive AI with more contemporary tools, the company beli",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Substack confirms data breach affects users’ email addresses and phone numbers",
+      "link": "https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/",
+      "author": "Ivan Mehta",
+      "date": "2026-02-05T06:55:02-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/substack-on-a-phone.jpg?resize=1200,800",
+      "category": "Security",
+      "content": "Newsletter platform Substack has confirmed a data breach in an email to users. The company said that in October, an “unauthorized third party” accessed user data, including email addresses, phone numbers, and other unspecified “internal metadata.”\n\nSubstack specified that more sensitive data, such as credit card numbers, passwords, and other financial information, was unaffected.\n\nIn an email sent to users, Substack chief executive Chris Best said that the company identified the issue in February that allowed someone to access its systems. Best said that the company has fixed the problem and started an investigation.\n\n“I’m reaching out to let you know about a security incident that resulted in the email address and phone number from your Substack account being shared without your permission,” said Best in the email to users. “I’m incredibly sorry this happened. We take our responsibility to protect your data and your privacy seriously, and we came up short here.”\n\nIt’s not clear what exactly the issue was with its systems, and the scope of the data that was accessed. It’s also not yet known why the company took five months to detect the breach, or if the company was contacted by hackers demanding a ransom. TechCrunch asked the company for more details, and we will update our story if we hear back.\n\nSubstack did not say how many users are affected. The company said that it doesn’t have any evidence that users’ data is being misused, but did not say what technical means, such as logs, it has to detect evidence of abuse. However, the company asked users to take caution with emails and texts without any particular indicators or direction.\n\nOn its website, Substack says that its site has more than 50 million active subscriptions, including 5 million paid subscriptions — a milestoneit reached last March. In July 2025, the company raised$100 million in Series C fundingled by BOND and The Chernin Group (TCG) with participation from a16z, Klutch Sports Group CEO Rich Paul, a",
+      "excerpt": "Newsletter platform Substack has confirmed a data breach in an email to users. The company said that in October, an “unauthorized third party” accessed user data, including email addresses, phone numbers, and other unspecified “internal metadata.”\n\nSubstack specified that more sensitive data, such a",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
     {
       "title": "Alphabet won’t talk about the Google-Apple AI deal, even to investors",
       "link": "https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/",
@@ -53,82 +138,14 @@
       ]
     },
     {
-      "title": "Elon Musk’s SpaceX company town is getting a police department",
-      "link": "https://techcrunch.com/2026/02/04/elon-musks-spacex-company-town-is-getting-a-police-department/",
-      "author": "Sean O'Kane",
-      "date": "2026-02-04T13:47:41-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2074390033.jpg?resize=1200,675",
-      "category": "Space",
-      "content": "Starbase, the company town that Elon Musk’s SpaceX created in South Texas, is forming its own police squad.\n\nThe city’s commission approved anordinanceduring a special meeting Tuesday that would create a municipal police department, subject to approval from the Texas Commission on Law Enforcement (TCOLE). The department will be run by a chief of police elected by the city’s commission, and is expected to hire eight officers, according to local news outletValley Central. It could be up and running in a few months.\n\n“There is a lot of assets here with the operations of SpaceX,” Starbase city administrator Kent Myers told the outlet. “Those assets need to be protected, and so the police department will play a critical part in protecting those assets.”\n\nIt’s not clear if Starbase has submitted its application to the TCOLE yet. The city and the TCOLE did not respond to requests for comment. Starbase reportedly hired security consulting firm Vision Quest Solutions to build out the department.\n\nStarbase is where SpaceX makes and tests its prototype Starship rocket. The city is small — it is currently home to just a few hundred residents, most of whom are SpaceX employees (or family of those workers). But it is geographically isolated. The closest neighboring town is Brownsville, which is about 10 miles away, though the drive can take 45 minutes or longer.\n\nA police department would be the latest addition to public services that have become available in Starbase since it was incorporatedas a city last year. In October, a handful of SpaceX employees who live at Starbasestarted a volunteer fire department. The city also created a fire marshal position and took on its own building inspections and permitting around that same time.\n\nStarbase initially tried to handle law enforcement within its city limits by contracting with the Cameron County sheriff’s office. The citystruck a $3.5 million, five-year contractwith the sheriff’s office that was supposed to see two deputies patrol",
-      "excerpt": "Starbase, the company town that Elon Musk’s SpaceX created in South Texas, is forming its own police squad.\n\nThe city’s commission approved anordinanceduring a special meeting Tuesday that would create a municipal police department, subject to approval from the Texas Commission on Law Enforcement (T",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Hackers publish personal information stolen during Harvard, UPenn data breaches",
-      "link": "https://techcrunch.com/2026/02/04/hackers-publish-personal-information-stolen-during-harvard-upenn-data-breaches/",
-      "author": "Lorenzo Franceschi-Bicchierai",
-      "date": "2026-02-04T09:56:37-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/harvard-university-campus-2025.jpg?resize=1200,770",
-      "category": "Security",
-      "content": "A notorious hacking group has claimed responsibility for last year’s data breaches at Harvard University and the University of Pennsylvania (UPenn) and published the data that they claim to have stolen from the two schools.\n\nOn Wednesday, the group known asShinyHunterspublished what it claims are more than 1 million records from each university on the group’s dedicated leak site, which the gang uses to extort its victims.\n\nIn November,UPenn confirmed a data breachof “a select group of information systems related to Penn’s development and alumni activities.” At the time, the hackers also sent alumni emails announcing the hack fromofficial university addresses.\n\nThe university blamed the breach onsocial engineering, an attack that often relies on hackers impersonating someone and tricking them into doing something they would not normally do. In itsofficial breach disclosure web page, which has since been taken offline, UPenn did not say exactly what type of data the hackers stole, simply saying the cybercriminals accessed “systems related to Penn’s development and alumni activities.”\n\nContact UsDo you have more information about these breaches, or similar attacks? From a non-work device, you can contact Lorenzo Franceschi-Bicchierai securely on Signal at +1 917 257 1382, or via Telegram, Keybase and Wire @lorenzofb, oremail.\n\nTechCrunch verified a portion of the dataset by confirming with alumni and public records, such as matching the data against student ID numbers.\n\nLater in November, Harvard University also confirmed a breach on its alumni systems, blaming it on a voicephishingattack, meaning an attack where hackers tricked the targets into clicking on a link or opening an attachment with a voice call. The hackers told TechCrunch that their hacks were part of therecently disclosed phishing attackstargeting Okta and single sign-on providers.\n\nHarvardsaidthat the stolen data included email addresses, phone numbers, home and business addresses, event attendance, deta",
-      "excerpt": "A notorious hacking group has claimed responsibility for last year’s data breaches at Harvard University and the University of Pennsylvania (UPenn) and published the data that they claim to have stolen from the two schools.\n\nOn Wednesday, the group known asShinyHunterspublished what it claims are mo",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "As it preps Specs for the masses, Snap’s Q4 shows revenue growth but fewer daily users",
-      "link": "https://techcrunch.com/2026/02/04/as-it-preps-specs-for-the-masses-snaps-q4-shows-revenue-growth-but-fewer-daily-users/",
-      "author": "Lucas Ropek",
-      "date": "2026-02-04T16:07:59-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/09/IMG_1806.jpg?resize=1200,900",
-      "category": "Social",
-      "content": "Snap is on a mission to diversify its revenue sources — moving from a business model in which it largely chases ad revenue to one where it can also make money through subscriptions and, eventually,hardware. The company’s latest quarterly earnings report shows that, so far, the firm is having moderate success with that strategy.\n\nIn Q4, Snap’s revenuewas $1.7 billion, which is up 10% year-over-year. Its average revenue per user was also up, slightly (to $3.62 from $3.44). The company’s net income was $45 million, up from $9 million the previous year, its earnings report shows.\n\nThe company has also continued to generate a significant amount of revenue from Snap+, the paid subscription service that the platformlaunched back in 2022. The service’s subscribers grew 71% year-over-year, reaching 24 million.\n\nWhile those numbers might seem to suggest a company whose trajectory is headed in the right direction, the earnings report also shows the platform had slightly fewer daily active users last quarter — dropping from 477 million to 474 million. Those users fell away in North America and Europe, the report shows, while growing slightly throughout the rest of the world.\n\nReuters also reportsthat the company expects its revenue during the first quarter of this year to be below analysts’ previous estimates, as competition from Facebook, Instagram, and TikTok cuts into its advertising earnings.\n\nDuring Wednesday’s earnings call, CEO Evan Spiegel focused on the company’s newer offerings, including its recent effort tocharge users for Memoriesstorage — a feature that lets users save and store their Snaps — and its plans to launch Specs later this year. The company has not launched a public-facing version of the augmented-reality glasses since 2019. In anticipation of that event, Snap recentlyannounced the creationof a new subsidiary, Specs Inc., that is focused solely on further developing the glasses.\n\n“Our long-term vision for augmented reality extends beyond the smartphone t",
-      "excerpt": "Snap is on a mission to diversify its revenue sources — moving from a business model in which it largely chases ad revenue to one where it can also make money through subscriptions and, eventually,hardware. The company’s latest quarterly earnings report shows that, so far, the firm is having moderat",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Tinder looks to AI to help fight ‘swipe fatigue’ and dating app burnout",
-      "link": "https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/",
-      "author": "Sarah Perez",
-      "date": "2026-02-04T10:08:00-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197117084.jpg?resize=1200,843",
-      "category": "Apps",
-      "content": "Tinder is turning to a new AI-powered feature, Chemistry, to help it reduce so-called “swipe fatigue,” a growing problem among online dating users who are feeling burned out and are in search of better outcomes.\n\nIntroduced last quarter, the Match-owned dating app said that Chemistry leverages AI to get to know users through questions and, with permission, accesses their Camera Roll on their phone to learn more about their interests and personality.\n\nOn Match’s Q4 2026 earnings call, one analyst from Morgan Stanley asked for an update on the product’s success so far.\n\nMatch CEO Spencer Rascoff noted that Chemistry was still only being tested in Australia for the time being, but said that the feature offered users an “AI way to interact with Tinder.” He explained that users could choose to answer questions to then “get just a single drop or two, rather than swiping through many, many profiles.”\n\nIn addition to Chemistry’s Q&A and Camera Roll features, the company plans to use the AI feature in other ways going forward, the CEO also hinted.\n\nMost importantly, Rascoff said the feature is designed to combat swipe fatigue — a complaint from users who say they have to swipe through too many profiles to find a potential match.\n\nThe company’s turn toward AI comes as Tinder and other dating apps have been experiencing paying subscriber declines, user burnout, and declines in new sign-ups.\n\nIn the fourth quarter, new registrations on Tinder were still down 5% year-over-year, and its monthly active users were down 9%. These numbers show some slight improvements over prior quarters, which Match attributes to AI-driven recommendations that change the order of profiles shown to women, and other product experiments.\n\nMatch said that this year, it aims to address common Gen Z pain points, including better relevance, authenticity, and trust. To do so, the company said it is redesigning discovery to make it less repetitive and is using other features, likeFace Check— a facial recogni",
-      "excerpt": "Tinder is turning to a new AI-powered feature, Chemistry, to help it reduce so-called “swipe fatigue,” a growing problem among online dating users who are feeling burned out and are in search of better outcomes.\n\nIntroduced last quarter, the Match-owned dating app said that Chemistry leverages AI to",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "ElevenLabs raises $500M from Sequoia at an $11 billion valuation",
-      "link": "https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/",
-      "author": "Ivan Mehta",
-      "date": "2026-02-04T07:33:58-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
+      "title": "Secondary sales shift from founder windfalls to employee-retention tools",
+      "link": "https://techcrunch.com/2026/02/05/secondary-sales-shift-from-founder-windfalls-to-employee-retention-tools/",
+      "author": "Marina Temkin",
+      "date": "2026-02-05T09:30:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1481700067.jpg?resize=1200,821",
       "category": "Venture",
-      "content": "Voice AI company ElevenLabs said today it raised $500 million in a new funding round led by Sequoia Capital, which was an investor inthe startup’s last secondary round through a tender. Sequoia partner Andrew Reed is joining the company’s board.\n\nThe startup is now valued at $11 billion, more than three times its valuation inits last round in January 2025. Earlier in the year, theFinancial Timesreported that the startup was looking to raise at that valuation.\n\nThe company said that existing investor a16z quadrupled its investment amount, and Iconiq, which led the last round, tripled it. Some prior investors, like BroadLight, NFDG, Valor Capital, AMP Coalition, and Smash Capital, also joined the round. New investors for the funding included Lightspeed Venture Partners, Evantic Capital, and Bond.\n\nElevenLabs said that it will disclose some investors later in February, which might be strategic partners. The company has raised over $781 million to date. It said that it will use the funding for research and product development, along with expansion in international markets like India, Japan, Singapore, Brazil, and Mexico.\n\nThe company’s co-founder, Mati Staniszewski, indicated that ElevenLabs might work on agents beyond voice and incorporate video. In January, the company announceda partnership with LTX to produce audio-to-video content.\n\n“The intersection of models and products is critical – and our team has proven, time and again, how to translate research into real-world experiences. This funding helps us go beyond voice alone to transform how we interact with technology altogether. We plan to expand our Creative offering – helping creators combine our best-in-class audio with video and Agents – enabling businesses to build agents that can talk, type, and take action,” he said in a statement.\n\nThe company has seen good growth momentum as it closed the year at $330 million ARR. In an interview withBloombergearlier this year, Staniszewski said that it took ElevenLabs fi",
-      "excerpt": "Voice AI company ElevenLabs said today it raised $500 million in a new funding round led by Sequoia Capital, which was an investor inthe startup’s last secondary round through a tender. Sequoia partner Andrew Reed is joining the company’s board.\n\nThe startup is now valued at $11 billion, more than t",
+      "content": "In May, AI sales automation startup Clay said it was allowing most of its employees to sell some of their shares at a$1.5 billion valuation. Coming just months after its Series B, Clay’s offer of liquidity was a rarity in a market where tender offers, as these types of secondary transactions are known, were still uncommon for relatively young companies.\n\nSince then, several other newer, fast-growing startups have allowed their staff to convert some of their stock into cash. Linear, a six-year-old AI-powered Atlassian rival, completeda tender offerat the same valuation as the company’s $1.25 billion Series C. More recently, the three-year-old ElevenLabs authorized a $100 million secondary sale for staff, at a valuation of$6.6 billion,doubleits previous value.\n\nAnd just last week, Clay, which has tripled its annual recurring revenue (ARR) to $100 million in one year, decided it was again time for its employees to cash in on the company’s fast growth. The eight-year-old startup announced that its staff can sell stock at a valuation of$5 billion, a more than 60% increase from its$3.1 billionvaluation announced in August.\n\nThese secondary sales at increasingly higher valuations for young, perhaps still-unproven companies may initially appear to be a premature “cash out” reminiscent of the 2021 bubble. The most infamous example of that time was Hopin, whose founder, Johnny Boufarhat, reportedly sold $195 million worth of his company’s stock just two years before the company’s assets were sold for atiny fractionof its peak$7.7 billionvaluation.\n\nBut there is a critical distinction between the 2021 boom and today’s market.\n\nDuring the ZIRP era, a large portion of the secondary deals provided liquidity almost exclusively to founders of buzzy companies like Hopin. In contrast, the recent transactions from Clay, Linear, and ElevenLabs are structured as tender offers that also benefit employees.\n\nWhile investors these days largely frown upon the outsized founder payouts of the ",
+      "excerpt": "In May, AI sales automation startup Clay said it was allowing most of its employees to sell some of their shares at a$1.5 billion valuation. Coming just months after its Series B, Clay’s offer of liquidity was a rarity in a market where tender offers, as these types of secondary transactions are kno",
       "tags": [
         "Apple",
         "Amazon",
@@ -138,31 +155,14 @@
       ]
     },
     {
-      "title": "Trump’s critical mineral reserve is an admission that the future is electric",
-      "link": "https://techcrunch.com/2026/02/05/trumps-critical-mineral-reserve-is-an-admission-that-the-future-is-electric/",
-      "author": "Tim De Chant",
-      "date": "2026-02-05T07:48:44-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2157883094.jpeg?resize=1200,742",
-      "category": "Climate",
-      "content": "The Trump administration announced this week the U.S. government would work to build a $11.7 billion stockpile of critical minerals. That’s the headline; the subtext is more intriguing.\n\nThe stockpile initiative, branded as Project Vault, is the latest attempt by the administration to secure supplies of critical minerals for U.S. manufacturers and what President Donald Trump says will ensure “American businesses and workers are never harmed by any shortage.”\n\nIt follows recent investments from the administration into rare earth producers, including equity stakes in minersUSA Rare EarthandMP Materials.\n\nIndividually, they can be interpreted as an administration taking steps to calm a part of the market that has been roiled by its own trade wars. Collectively, they’re an admission, however tacit or subconscious, that the future relies on electric technologies, including electric vehicles and wind turbines.\n\nIn his announcement, Trump alluded to the world’s dependence on China for a slew of critical minerals. Over the last year-plus, China has wielded its dominance to counter tariff threats from the Trump administration, restricting exports of rare earth metals and lithium battery materials to the United States. Eventually, China relented, but the episode made clear who held the trump card.\n\nThe spat also revealed just how integral critical minerals are to modern economies. Trump likened the new stockpile to the Strategic Petroleum Reserve maintained by the Department of Energy, which was set up in the wake of the oil embargo in the early 1970s.\n\n“Just as we have long had a strategic petroleum reserve and a stockpile of critical minerals for national defense, we’re now creating this reserve for American industry, so we don’t have any problems,” Trump said.\n\nThe oil reserve isn’t going away, but it’s not as important as it once was, diminished by productive U.S. oil wells and the increasing share of the energy market taken by solar, wind, and batteries. (Solar and windc",
-      "excerpt": "The Trump administration announced this week the U.S. government would work to build a $11.7 billion stockpile of critical minerals. That’s the headline; the subtext is more intriguing.\n\nThe stockpile initiative, branded as Project Vault, is the latest attempt by the administration to secure supplie",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Data breach at govtech giant Conduent balloons, affecting millions more Americans",
-      "link": "https://techcrunch.com/2026/02/05/data-breach-at-govtech-giant-conduent-balloons-affecting-millions-more-americans/",
-      "author": "Zack Whittaker",
-      "date": "2026-02-05T07:25:38-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/12/data-breach-2024-roundup.jpg?resize=1200,675",
-      "category": "Security",
-      "content": "A data breach at government technology giant Conduent appears to affect far more people than first disclosed, with the number of victims potentially stretching to dozens of millions of people across the United States.\n\nThe January 2025 ransomware attack, whichknocked out Conduent’s operations for several days, is now known to affect at least 15.4 million people in Texas alone, accounting for about half of the state’s population. Conduent said in October that 4 million people across the state were affected.\n\nAnother 10.5 million people are affected across Oregon, per the state’s attorney general.\n\nConduent has also notified hundreds of thousands of people across Delaware, Massachusetts, New Hampshire, and other states, according to data breach notifications seen by TechCrunch.\n\nThe stolen data includes individuals’ names, Social Security numbers, medical data and health insurance information.\n\nOne of the largest government contractors today, Conduent handles and processes large amounts of personal and sensitive information on behalf of large corporations, government departments, andseveral U.S. states. The companysaysits technology and operational support services reach more than 100 million people in the United States across various government healthcare programs.\n\nWhen contacted with several questions about the data breach, Conduent spokesperson Sean Collins provided a boilerplate statement that did not address the questions, nor did they answer if Conduent knows how many individuals are affected by the cyberattack. The spokesperson would not say if the breach affects more than 100 million people.\n\nCollins said that the company has been working to “conduct a detailed analysis of the affected files to identify the personal information” taken in the breach, but would not say how many data breach notifications the company has sent out to date.\n\nLittle else is known about the breach, and the company has disclosed few details. Conduentdisclosed the cyberattack in April,",
-      "excerpt": "A data breach at government technology giant Conduent appears to affect far more people than first disclosed, with the number of victims potentially stretching to dozens of millions of people across the United States.\n\nThe January 2025 ransomware attack, whichknocked out Conduent’s operations for se",
+      "title": "Meta tests a standalone app for its AI-generated ‘Vibes’ videos",
+      "link": "https://techcrunch.com/2026/02/05/meta-tests-a-standalone-app-for-its-ai-generated-vibes-videos/",
+      "author": "Aisha Malik",
+      "date": "2026-02-05T09:19:01-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024",
+      "category": "Apps",
+      "content": "Meta is testing a standalone Vibes app, the company confirmed to TechCrunch on Thursday. Launched last September,Vibeslets you create and share short-form AI-generated videos and access a dedicated feed that displays AI videos from others.\n\nThink TikTok or Instagram Reels, but every single video you come across is AI-generated. Until now, the feed has lived in the Meta AI app. By making Vibes available outside of the Meta AI app, the company is positioning it as a more direct competitor toSora, OpenAI’s AI-generated video and social appthat launched shortly after Vibes.\n\n“Following the strong early traction of Vibes within Meta AI, we are testing a standalone app to build on that momentum,” Meta said in an emailed statement. “We’ve seen that users are increasingly leaning into the format to create, discover, and share AI-generated video with friends. This standalone app provides a dedicated home for that experience, offering people a more focused and immersive environment. We will look to expand the app further based on what we learn from the community.”\n\nThe news was first reported byPlatformer.\n\nMeta says it doesn’t share specific numbers, but claims Vibes has performed well, with Meta AI usage continuing to grow steadily since its launch, which it believes signals demand for a standalone app.\n\nThe tech giant also notes that while users engage with content in Meta AI, a standalone app allows for a more focused experience for creation and engagement.\n\nVibes lets users generate a video from scratch or remix a video that they see on their feed. Before publishing, you can add new visuals, layer in music, and adjust styles. You can then post the video directly to the Vibes feed, DM it to others, or cross-post to Instagram and Facebook Stories and Reels.\n\nMeta says collaboration and sharing are on the rise, with many Vibes videos being messaged to friends, which the company says mirrors how people use Reels.\n\nIt’s worth noting thatMeta told TechCrunchlast week that, in ",
+      "excerpt": "Meta is testing a standalone Vibes app, the company confirmed to TechCrunch on Thursday. Launched last September,Vibeslets you create and share short-form AI-generated videos and access a dedicated feed that displays AI videos from others.\n\nThink TikTok or Instagram Reels, but every single video you",
       "tags": [
         "Apple",
         "Amazon",
