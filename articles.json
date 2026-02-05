@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-02-05T17:51:01.451627+00:00",
+  "last_updated": "2026-02-05T18:54:21.114045+00:00",
   "articles": [
     {
-      "title": "ElevenLabs CEO: Voice is the next interface for AI",
-      "link": "https://techcrunch.com/2026/02/05/elevenlabs-ceo-voice-is-the-next-interface-for-ai/",
-      "author": "Rebecca Bellan",
-      "date": "2026-02-05T06:41:12-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Web-Summit-Doha-Staniszewski-Seth-Pierrepont.png?resize=1200,657",
+      "title": "OpenAI launches a way for enterprises to build and manage AI agents",
+      "link": "https://techcrunch.com/2026/02/05/openai-launches-a-way-for-enterprises-to-build-and-manage-ai-agents/",
+      "author": "Rebecca Szkutak",
+      "date": "2026-02-05T10:09:50-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800",
       "category": "AI",
-      "content": "ElevenLabs co-founder and CEO Mati Staniszewski says voice is becoming the next major interface for AI – the way people will increasingly interact with machines as models move beyond text and screens.\n\nSpeaking atWeb Summit in Doha, Staniszewski told TechCrunch voice models like those developed by ElevenLabs have recently moved beyond simply mimicking human speech — including emotion and intonation – to working in tandem with the reasoning capabilities of large language models. The result, he argued, is a shift in how people interact with technology.\n\nIn the years ahead, he said, “hopefully all our phones will go back in our pockets, and we can immerse ourselves in the real world around us, with voice as the mechanism that controls technology.”\n\nThat vision fueled ElevenLabs’s$500 million raisethis week at an $11 billion valuation, and it is increasingly shared across the AI industry.OpenAIandGooglehave both made voice a central focus of their next-generation models, while Apple appears to be quietly building voice-adjacent, always-on technologies throughacquisitions like Q.ai.As AI spreads into wearables, cars, and other new hardware, control is becoming less about tapping screens and more about speaking, making voice a key battleground for the next phase of AI development.\n\nIconiq Capital general partner Seth Pierrepont echoed that view onstage at Web Summit, arguing that while screens will continue to matter for gaming and entertainment, traditional input methods like keyboards are starting to feel “outdated.”\n\nAnd as AI systems become more agentic, Pierrepont said, the interaction itself will also change, with models gaining guardrails, integrations, and context needed to respond with less explicit prompting from users.\n\nStaniszewski pointed to that agentic shift as one of the biggest changes underway. Rather than spelling out every instruction, he said future voice systems will increasingly rely on persistent memory and context built up over time, making intera",
-      "excerpt": "ElevenLabs co-founder and CEO Mati Staniszewski says voice is becoming the next major interface for AI – the way people will increasingly interact with machines as models move beyond text and screens.\n\nSpeaking atWeb Summit in Doha, Staniszewski told TechCrunch voice models like those developed by E",
+      "content": "OpenAI has launched a new product to help enterprises navigate the world of AI agents, focusing on agent management as critical infrastructure for enterprise AI adoption.\n\nOn Thursday, AI giant OpenAI announced thelaunch of OpenAI Frontier, an end-to-end platform designed for enterprises to build and manage AI agents. It’s an open platform, which means users can manage agents built outside of OpenAI too.\n\nFrontier users can program AI agents to connect to external data and applications, which allows them to execute tasks far outside of the OpenAI platform. Users can also limit and manage what these agents have access to, and what they can do, of course.\n\nOpenAI said Frontier was designed to work the same way companies manage human employees. Frontier offers an onboarding process for agents and a feedback loop that is meant to help them improve over time the same way a review might help an employee.\n\nOpenAI touted enterprises, including HP, Oracle, State Farm, and Uber as customers, but Frontier is currently only available to a limited number of users with plans to roll out more generally in the coming months.\n\nThe company would not disclose pricing details in a press briefing earlier this week, according toreporting from The Verge. OpenAI declined to comment on pricing.\n\nAgent-management products  become table stakes since AI agents rose to prominence in 2024. Salesforce has arguably the best-known such product,Agentforce, which the company launched in the fall of 2024. Others have quickly followed.LangChainis a notable player in the space that was founded in 2022 and has raised more than $150 million in venture capital.CrewAIis a smaller upstart that has raised more than $20 million in venture capital.\n\nIn December, global research and advisory firm Gartnerreleased a reportabout this type of software and called agent management platforms both the “most valuable real estate in AI” and a necessary piece of infrastructure for enterprises to adopt AI.\n\nIt’s not surpris",
+      "excerpt": "OpenAI has launched a new product to help enterprises navigate the world of AI agents, focusing on agent management as critical infrastructure for enterprise AI adoption.\n\nOn Thursday, AI giant OpenAI announced thelaunch of OpenAI Frontier, an end-to-end platform designed for enterprises to build an",
       "tags": [
         "Apple",
         "Amazon",
@@ -19,14 +19,99 @@
       ]
     },
     {
-      "title": "Spotify ventures into physical book sales, adds new audiobook features",
-      "link": "https://techcrunch.com/2026/02/05/spotify-ventures-into-physical-book-sales-adds-new-audiobook-features/",
-      "author": "Lauren Forristal",
-      "date": "2026-02-05T04:00:00-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Spotify_Physical_Books.png?w=1200",
+      "title": "Anthropic releases Opus 4.6 with new ‘agent teams’",
+      "link": "https://techcrunch.com/2026/02/05/anthropic-releases-opus-4-6-with-new-agent-teams/",
+      "author": "Lucas Ropek",
+      "date": "2026-02-05T09:51:13-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/Claude2_Blog_V1-1.webp?resize=1200,675",
+      "category": "AI",
+      "content": "On Thursday, Anthropic released the latest version of Opus — its most advanced model and a particularly important model for Claude Code. Opus 4.5 was only releasedlast Novemberand, with 4.6, the company has sought to broaden its model’s capabilities and appeal, allowing for a greater variety of uses and customers.\n\nPerhaps the most notable addition to the newest version of Opus is the inclusion of what the company calls “agent teams”— teams of agents that can split larger tasks into segmented jobs.\n\n“Instead of one agent working through tasks sequentially, you can split the work across multiple agents—each owning its piece and coordinating directly with the others,” the company says. Scott White, Head of Product at Anthropic, compared the new feature to having talented team of humans working for you, noting that the segmenting of agent responsibilities allows them “to coordinate in parallel [and work] faster.” The agent teams are currently available in a research preview for API users and subscribers.\n\nOpus 4.6 also comes with a longer context window — meaning that the program has a capacity to recall a greater amount of information per user session. The new model offers 1 million tokens of context, which is comparable to what the company’s Sonnet (versions 4 and 4.5)currently offers. Those context windows allow for work involving larger code bases and can also allow for the processing of larger documents, the company says.\n\nThe new version of Opus also integrates Claude directly into PowerPoint as an accessible side panel. This is a step up from PowerPoint’s previous integration with the chatbot. Previously, a user could tell Claude to create a PowerPoint deck, but the file would then have to be transferred to PowerPoint to edit the presentation, White said. Now, the presentation can be crafted within PowerPoint, with direct help from Claude.\n\nWhite told TechCrunch that Opus has evolved from a model that was highly capable in one particular domain—that is, software",
+      "excerpt": "On Thursday, Anthropic released the latest version of Opus — its most advanced model and a particularly important model for Claude Code. Opus 4.5 was only releasedlast Novemberand, with 4.6, the company has sought to broaden its model’s capabilities and appeal, allowing for a greater variety of uses",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Pacific Fusion finds a cheaper way to make its fusion reactor work",
+      "link": "https://techcrunch.com/2026/02/05/pacific-fusion-finds-a-cheaper-way-to-make-its-fusion-reactor-work/",
+      "author": "Tim De Chant",
+      "date": "2026-02-05T09:00:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/pacific-fusion-reactor-illustration.jpeg?resize=1200,652",
+      "category": "Climate",
+      "content": "Fusion power’s biggest question remains unanswered: how do you ensure the cost to start the fusion reaction isn’t higher than the price at which you can sell the power?\n\nPlenty of people have ideas, but no one has cracked it yet. Commonwealth Fusion Systems, for example, is confident enough that it’s building a massive reactor that costs several hundred million dollars. But the device won’t be turned onuntil next year, leaving the question unanswered for now.\n\nOther companies that were founded more recently think they have a shot at building a fusion power plant for less, includingPacific Fusion, which today announced the results of a series of experiments it performed at Sandia National Laboratory that it says will eliminate some costly parts of its approach. The company exclusively shared the results with TechCrunch.\n\nFusion power promises to generate large amounts of electricity 24/7 and deliver it in a way that’s familiar to today’s grid operators. Most fusion startups are targeting the early to mid-2030s to switch on their first commercial fusion power plant.\n\nPacific Fusion ischasing an approachknown as pulser-driven inertial confinement fusion (ICF). At its core, it’s similar to theexperimentscarried out at the National Ignition Facility (NIF). The company compresses small fuel pellets in rapid succession, and that compression causes atoms inside the fuel to fuse and release energy.\n\nBut where NIF uses lasers to kick off the compression, Pacific Fusion wants to use massive pulses of electricity. Those pulses will create a magnetic field that encircles the fuel pellet — about the size of a pencil eraser — causing it to compress in less than 100 billionths of a second.\n\n“The faster you can implode it, the hotter it’ll get,” Keith LeChien, co-founder and CTO of Pacific Fusion, told TechCrunch.\n\nOne of the challenges with pulser-driven ICF is that the process has typically needed a bit of a kickstart to work properly. To create conditions in the fuel pellet hot e",
+      "excerpt": "Fusion power’s biggest question remains unanswered: how do you ensure the cost to start the fusion reaction isn’t higher than the price at which you can sell the power?\n\nPlenty of people have ideas, but no one has cracked it yet. Commonwealth Fusion Systems, for example, is confident enough that it’",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Elon Musk is getting serious about orbital data centers",
+      "link": "https://techcrunch.com/2026/02/05/elon-musk-is-getting-serious-about-orbital-data-centers/",
+      "author": "Russell Brandom",
+      "date": "2026-02-05T10:50:49-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screen-Shot-2026-02-05-at-10.07.05-AM.jpg?resize=1200,924",
+      "category": "AI",
+      "content": "On Friday, when SpaceX filed plans with the FCCfor a million-satellite data center network, you might have thought Elon Musk was having a bit of fun with us. But a week later, it is clear that he is dead serious.\n\nThe most obvious step, of course, is the formal merger between SpaceX and xAI thatwent forward on Monday, officially drawing together Musk’s space and AI ventures in a way that makes a lot more sense if there’s some kind of joint infrastructure project planned.\n\nBut even beyond the merger, we’re starting to see the idea of orbital AI data clusters — essentially, networks of computers operating in space — cohere into an actual plan. On Wednesday, the FCC accepted the filing and set a schedule seeking public comment. It’s a pro forma step normally, but FCC chairman Brendan Carr took the unusual step ofsharing the filing on X. Throughout his tenure as chairman, Carr has shown himselfeager to help Trump’s friends and punish his enemies— so as long as Musk stays on Trump’s good side, the proposal is likely to sail through without issue.\n\nAt the same time, Elon Musk has started to flesh out the argument for orbital data centers in public. On anew episodeof Stripe co-founder Patrick Collison’s podcast “Cheeky Pint,” which also featured guest Dwarkesh Patel, Musk laid out the basic case for moving most of our AI computing power into space. Essentially, solar panels produce more power in space, so you can cut down on one of the main operating expenses for data centers.\n\n“It’s harder to scale on the ground than it is to scale in space,” Musk said in the podcast. “Any given solar panel is going to give you about five times more power in space than on the ground, so it’s actually much cheaper to do in space.”\n\nClose listeners will note that there is a bit of a gap in the logic here! It’s true that solar panels produce more power in space, but since power isn’t the only cost in operating a data center and solar panels aren’t the only way to power a data center, it does",
+      "excerpt": "On Friday, when SpaceX filed plans with the FCCfor a million-satellite data center network, you might have thought Elon Musk was having a bit of fun with us. But a week later, it is clear that he is dead serious.\n\nThe most obvious step, of course, is the formal merger between SpaceX and xAI thatwent",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Meta tests a standalone app for its AI-generated ‘Vibes’ videos",
+      "link": "https://techcrunch.com/2026/02/05/meta-tests-a-standalone-app-for-its-ai-generated-vibes-videos/",
+      "author": "Aisha Malik",
+      "date": "2026-02-05T09:19:01-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024",
       "category": "Apps",
-      "content": "While Spotify users faceyet another price hike, book lovers have some exciting developments to look forward to that could help cushion the blow.\n\nSpotifyannouncedseveral updates for its audiobook business on Thursday, notably its expansion into physical books. Users in the U.S. and the UK will soon be able to purchase physical copies of their favorite audiobooks directly through the app, marking a significant pivot for the once digital-only platform.\n\nThe company also introduced two features designed to make the audiobook experience smoother and more flexible, including a new tool called “Page Match” that lets users scan a page from a physical book to instantly transition to that spot in the audiobook.\n\nAdditionally, “Audiobook Recaps”—a previously iOS-only feature—is coming to Android devices in the spring. This feature provides bite-sized recaps tailored to the last section users stopped listening to.\n\n​Spotify’s decision to sell physical books through its app positions it as a competitor to major booksellers, including Amazon and Barnes & Noble. The company also recognizes that many readers still value physical books, and by offering both print and digital formats, Spotify is trying to turn itself into a one-stop shop for book lovers.\n\nSpotify has partnered withBookshop.orgon the new offering, an online marketplace that supports local, independent bookstores. This partnership is great news for indie booksellers, as every purchase made via Spotify will directly benefit local book communities. Spotify then earns an affiliate fee on sales.\n\nThe ability to purchase physical books will roll out this spring and appear on audiobook pages in the app as a button labeled “Add to your bookshelf at home.” Clicking it takes users to Bookshop’s website, which handles the pricing, inventory, and shipping.\n\nTo bridge the gap between formats, Spotify is also launching a feature called Page Match, which is currently available to premium subscribers and will roll out to all audiobo",
-      "excerpt": "While Spotify users faceyet another price hike, book lovers have some exciting developments to look forward to that could help cushion the blow.\n\nSpotifyannouncedseveral updates for its audiobook business on Thursday, notably its expansion into physical books. Users in the U.S. and the UK will soon ",
+      "content": "Meta is testing a standalone Vibes app, the company confirmed to TechCrunch on Thursday. Launched last September,Vibeslets you create and share short-form AI-generated videos and access a dedicated feed that displays AI videos from others.\n\nThink TikTok or Instagram Reels, but every single video you come across is AI-generated. Until now, the feed has lived in the Meta AI app. By making Vibes available outside of the Meta AI app, the company is positioning it as a more direct competitor toSora, OpenAI’s AI-generated video and social appthat launched shortly after Vibes.\n\n“Following the strong early traction of Vibes within Meta AI, we are testing a standalone app to build on that momentum,” Meta said in an emailed statement. “We’ve seen that users are increasingly leaning into the format to create, discover, and share AI-generated video with friends. This standalone app provides a dedicated home for that experience, offering people a more focused and immersive environment. We will look to expand the app further based on what we learn from the community.”\n\nThe news was first reported byPlatformer.\n\nMeta says it doesn’t share specific numbers, but claims Vibes has performed well, with Meta AI usage continuing to grow steadily since its launch, which it believes signals demand for a standalone app.\n\nThe tech giant also notes that while users engage with content in Meta AI, a standalone app allows for a more focused experience for creation and engagement.\n\nVibes lets users generate a video from scratch or remix a video that they see on their feed. Before publishing, you can add new visuals, layer in music, and adjust styles. You can then post the video directly to the Vibes feed, DM it to others, or cross-post to Instagram and Facebook Stories and Reels.\n\nMeta says collaboration and sharing are on the rise, with many Vibes videos being messaged to friends, which the company says mirrors how people use Reels.\n\nIt’s worth noting thatMeta told TechCrunchlast week that, in ",
+      "excerpt": "Meta is testing a standalone Vibes app, the company confirmed to TechCrunch on Thursday. Launched last September,Vibeslets you create and share short-form AI-generated videos and access a dedicated feed that displays AI videos from others.\n\nThink TikTok or Instagram Reels, but every single video you",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "NASA astronauts can now bring their phones with them on their mission to the moon",
+      "link": "https://techcrunch.com/2026/02/05/nasa-astronauts-can-now-bring-their-phones-with-them-on-their-mission-to-the-moon/",
+      "author": "Amanda Silberling",
+      "date": "2026-02-05T10:29:48-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/nasa-spacex-crew-2-return.jpg?resize=1200,674",
+      "category": "Space",
+      "content": "Get ready for some selfies that are out of this world. NASA astronauts will be allowed to bring their smartphones to space for the first time, starting with the Crew-12 and Artemis II missions.\n\nCrew-12 is expected to head to the International Space Stationnext week, while the highly anticipated Artemis II mission — which willbring humans around the moonfor the first time since the 1960s — was delayed until March.\n\n“We are giving our crews the tools to capture special moments for their families and share inspiring images and video with the world,” NASA administrator Jared Isaacmanwroteon X.\n\nWith the newest iPhones and Android devices at hand, the crew will be able to be a bit more spontaneous with image and video gathering, meaning that for those of us back home, these upcoming trips to space could end up being some of NASA’s most well-documented journeys yet.\n\nImagine how cool (or cringe-worthy) it will be if astronauts turn themselves into TikTok stars in zero gravity, or if they take ultra-wide-angle selfies in the spacecraft. For those working in government bureaucracy, it’s equally exciting, apparently, that NASA approved this rule change pretty quickly.\n\n“Just as important, we challenged long-standing processes and qualified modern hardware for spaceflight on an expedited timeline,” Isaacman wrote. “That operational urgency will serve NASA well as we pursue the highest-value science and research in orbit and on the lunar surface.”\n\nIt makes sense that it would be hard to approve new technology to go into space — if one small thing goes astray, a spaceflight can go terribly wrong. Until now, the newest cameras that were supposed to go on these missions were decade-old Nikon DSLRs and GoPros, according toArs Technica. That’s by no means arcane, but there’s something more spontaneous and whimsical about using a smartphone.\n\nThis is not, however, the first time that smartphones havegone to space. SpaceX allowed smartphones for itsprivate astronaut missions.",
+      "excerpt": "Get ready for some selfies that are out of this world. NASA astronauts will be allowed to bring their smartphones to space for the first time, starting with the Crew-12 and Artemis II missions.\n\nCrew-12 is expected to head to the International Space Stationnext week, while the highly anticipated Art",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "ElevenLabs CEO: Voice is the next interface for AI",
+      "link": "https://techcrunch.com/2026/02/05/elevenlabs-ceo-voice-is-the-next-interface-for-ai/",
+      "author": "Rebecca Bellan",
+      "date": "2026-02-05T06:41:12-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Web-Summit-Doha-Staniszewski-Seth-Pierrepont.png?resize=1200,657",
+      "category": "AI",
+      "content": "ElevenLabs co-founder and CEO Mati Staniszewski says voice is becoming the next major interface for AI – the way people will increasingly interact with machines as models move beyond text and screens.\n\nSpeaking atWeb Summit in Doha, Staniszewski told TechCrunch voice models like those developed by ElevenLabs have recently moved beyond simply mimicking human speech — including emotion and intonation – to working in tandem with the reasoning capabilities of large language models. The result, he argued, is a shift in how people interact with technology.\n\nIn the years ahead, he said, “hopefully all our phones will go back in our pockets, and we can immerse ourselves in the real world around us, with voice as the mechanism that controls technology.”\n\nThat vision fueled ElevenLabs’s$500 million raisethis week at an $11 billion valuation, and it is increasingly shared across the AI industry.OpenAIandGooglehave both made voice a central focus of their next-generation models, while Apple appears to be quietly building voice-adjacent, always-on technologies throughacquisitions like Q.ai.As AI spreads into wearables, cars, and other new hardware, control is becoming less about tapping screens and more about speaking, making voice a key battleground for the next phase of AI development.\n\nIconiq Capital general partner Seth Pierrepont echoed that view onstage at Web Summit, arguing that while screens will continue to matter for gaming and entertainment, traditional input methods like keyboards are starting to feel “outdated.”\n\nAnd as AI systems become more agentic, Pierrepont said, the interaction itself will also change, with models gaining guardrails, integrations, and context needed to respond with less explicit prompting from users.\n\nStaniszewski pointed to that agentic shift as one of the biggest changes underway. Rather than spelling out every instruction, he said future voice systems will increasingly rely on persistent memory and context built up over time, making intera",
+      "excerpt": "ElevenLabs co-founder and CEO Mati Staniszewski says voice is becoming the next major interface for AI – the way people will increasingly interact with machines as models move beyond text and screens.\n\nSpeaking atWeb Summit in Doha, Staniszewski told TechCrunch voice models like those developed by E",
       "tags": [
         "Apple",
         "Amazon",
@@ -53,91 +138,6 @@
       ]
     },
     {
-      "title": "Fundamental raises $255 million Series A with a new take on big data analysis",
-      "link": "https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data-analysis/",
-      "author": "Russell Brandom",
-      "date": "2026-02-05T07:00:02-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/CEO_3.jpg?resize=1200,800",
-      "category": "AI",
-      "content": "An AI lab calledFundamentalemerged from stealth on Thursday, offering a new foundation model to solve an old problem: how to draw insights from the huge quantities of structured data produced by enterprises. By combining the old systems of predictive AI with more contemporary tools, the company believes it can reshape how large enterprises analyze their data.\n\n“While LLMs have been great at working with unstructured data, like text, audio, video, and code, they don’t work well with structured data like tables,” CEO Jeremy Fraenkel told TechCrunch. “With our model Nexus, we have built the best foundation model to handle that type of data.”\n\nThe idea has already drawn significant interest from investors. The company is emerging from stealth with $255 million in funding at a $1.2 billion valuation. The bulk of it comes from the recent $225 million Series A round led by Oak HC/FT, Valor Equity Partners, Battery Ventures, and Salesforce Ventures; Hetz Ventures also participated in the Series A, with angel funding from Perplexity CEO Aravind Srinivas, Brex co-founder Henrique Dubugras, and Datadog CEO Olivier Pomel.\n\nCalled a Large Tabular Model (LTM) rather than a Large Language Model (LLM), Fundamental’s Nexus breaks from contemporary AI practices in a number of significant ways. The model is deterministic — that is, it will give the same answer every time it is asked a given question — and doesn’t rely onthe transformer architecturethat defines models from most contemporary AI labs. Fundamental calls it a foundation model because it goes through the normal steps of pre-training and fine-tuning, but the result is something profoundly different from what a client would get when partnering with OpenAI or Anthropic.\n\nThose differences are important because Fundamental is chasing a use-case where contemporary AI models often falter. Because Transformer-based AI models can only process data that’s within their context window, they often have trouble reasoning over extremely ",
-      "excerpt": "An AI lab calledFundamentalemerged from stealth on Thursday, offering a new foundation model to solve an old problem: how to draw insights from the huge quantities of structured data produced by enterprises. By combining the old systems of predictive AI with more contemporary tools, the company beli",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Substack confirms data breach affects users’ email addresses and phone numbers",
-      "link": "https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/",
-      "author": "Ivan Mehta",
-      "date": "2026-02-05T06:55:02-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/05/substack-on-a-phone.jpg?resize=1200,800",
-      "category": "Security",
-      "content": "Newsletter platform Substack has confirmed a data breach in an email to users. The company said that in October, an “unauthorized third party” accessed user data, including email addresses, phone numbers, and other unspecified “internal metadata.”\n\nSubstack specified that more sensitive data, such as credit card numbers, passwords, and other financial information, was unaffected.\n\nIn an email sent to users, Substack chief executive Chris Best said that the company identified the issue in February that allowed someone to access its systems. Best said that the company has fixed the problem and started an investigation.\n\n“I’m reaching out to let you know about a security incident that resulted in the email address and phone number from your Substack account being shared without your permission,” said Best in the email to users. “I’m incredibly sorry this happened. We take our responsibility to protect your data and your privacy seriously, and we came up short here.”\n\nIt’s not clear what exactly the issue was with its systems, and the scope of the data that was accessed. It’s also not yet known why the company took five months to detect the breach, or if the company was contacted by hackers demanding a ransom. TechCrunch asked the company for more details, and we will update our story if we hear back.\n\nSubstack did not say how many users are affected. The company said that it doesn’t have any evidence that users’ data is being misused, but did not say what technical means, such as logs, it has to detect evidence of abuse. However, the company asked users to take caution with emails and texts without any particular indicators or direction.\n\nOn its website, Substack says that its site has more than 50 million active subscriptions, including 5 million paid subscriptions — a milestoneit reached last March. In July 2025, the company raised$100 million in Series C fundingled by BOND and The Chernin Group (TCG) with participation from a16z, Klutch Sports Group CEO Rich Paul, a",
-      "excerpt": "Newsletter platform Substack has confirmed a data breach in an email to users. The company said that in October, an “unauthorized third party” accessed user data, including email addresses, phone numbers, and other unspecified “internal metadata.”\n\nSubstack specified that more sensitive data, such a",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Alphabet won’t talk about the Google-Apple AI deal, even to investors",
-      "link": "https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/",
-      "author": "Sarah Perez",
-      "date": "2026-02-04T15:28:31-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/imgi_38_mp840x830mattef8f8f8t-pad1000x1000f8f8f8.jpg?w=1000",
-      "category": "AI",
-      "content": "Alphabet declined to answer one of its investors during questions about Google’s AI deal with Apple on Wednesday’s fourth-quarter earnings call. Instead of responding to an analyst’s question about how the tech giant is thinking about AI partnerships, such as the one with Apple to power AI for Siri, the question was completely ignored.\n\nThat decision tells us something, though — Alphabet isn’t ready to talk about how this partnership will impact its core business, which is increasingly focused on AI.\n\nOver the years, the Google-Apple relationship has been mutually beneficial. The two companies’ search partnership saw the search giant paying the iPhone maker$20 billionto be the default search engine on Apple devices,filingsfrom the Department of Justice’s lawsuit against the search giant revealed. In turn, Google gained access to Apple’s massive customer base — the iPhone maker last quarterannouncedit has 2.5 billion active devices worldwide, to give you an idea of scale.\n\nThe latest Apple AI deal isrumored to cost Apple roughly $1 billion per year, but the payoff beyond that for Google isn’t as immediately obvious as it is with search. In Google Search, consumers see links to advertisers’ websites at the top of their search results. Ads in AI Mode, which could one day represent the future of Google’s search business, are still an “experiment” for now.\n\nThe company firstannouncedlast May that it would bring ads to AI Mode, the chatbot-style interface for Google Search, but these tests see the ads’ placement below or integrated into the chatbot’s responses. Google is also trying outagentic shopping,including Shop with AI Mode, to guide consumers with product-related queries to a seamless checkout experience from the AI interface.\n\nMeanwhile, Google’s AI competitor Anthropic is taking aim at ad-supported AI withits forthcoming Super Bowl ad,which challenges the business model being adopted by ChatGPT maker OpenAI and Google.\n\nHow this will all play out longer-term is s",
-      "excerpt": "Alphabet declined to answer one of its investors during questions about Google’s AI deal with Apple on Wednesday’s fourth-quarter earnings call. Instead of responding to an analyst’s question about how the tech giant is thinking about AI partnerships, such as the one with Apple to power AI for Siri,",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Sam Altman got exceptionally testy over Claude Super Bowl ads",
-      "link": "https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/",
-      "author": "Julie Bort",
-      "date": "2026-02-04T16:45:11-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/10/Sam-Altman-OpenAI-DSC02881.jpg?resize=1200,800",
-      "category": "AI",
-      "content": "Anthropic’s Super Bowl commercial, one of four ads the AI lab droppedon Wednesday, begins with the word “BETRAYAL” splashed boldly across the screen. The camera pans to a man earnestly asking a chatbot (obviously intended to depict ChatGPT) for advice on how to talk to his mom.\n\nThe bot, portrayed by a blonde woman, offers some classic bits of advice. Start by listening. Try a nature walk! And then twists into an ad for a fictitious (we hope!) cougar-dating site called Golden Encounters. Anthropic finishes the spot by saying that while ads are coming to AI, they won’t be coming to its own chatbot, Claude.\n\nAnother commercialfeatures a slight young man looking for advice on building a six pack. After offering his height, age, and weight, the bot serves him an ad for height-boosting insoles.\n\nThe Anthropic commercials are cleverly aimed at OpenAI’s users, after that company’srecent announcementthat ads will be coming to ChatGPT’s free tier. And they caused an immediate stir, spawning headlines that Anthropic“mocks,”“skewers,”and“dunks on”OpenAI.\n\nThey are funny enough that even Sam Altmanadmitted on Xthat he laughed at them. But he clearly didn’t really find them funny. They inspired him to write a novella-sized rant that devolved into calling his rival “dishonest” and “authoritarian.”\n\nFirst, the good part of the Anthropic ads: they are funny, and I laughed.But I wonder why Anthropic would go for something so clearly dishonest. Our most important principle for ads says that we won’t do exactly this; we would obviously never run ads in the way Anthropic…\n\nIn that post, Altman explains that an ad-supported tier is intended to shoulder the burden of offering free ChatGPT to many of its millions of users. ChatGPTis still the most popular chatbot by a large margin.\n\nBut the OpenAI CEO insisted the ads were “dishonest” in implying that ChatGPT will twist a conversation to insert an ad (and possibly for an off-color product, to boot).”We would obviously never run ads in the",
-      "excerpt": "Anthropic’s Super Bowl commercial, one of four ads the AI lab droppedon Wednesday, begins with the word “BETRAYAL” splashed boldly across the screen. The camera pans to a man earnestly asking a chatbot (obviously intended to depict ChatGPT) for advice on how to talk to his mom.\n\nThe bot, portrayed b",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Meet Gizmo: A TikTok for interactive, vibe-coded mini apps",
-      "link": "https://techcrunch.com/2026/02/04/meet-gizmo-a-tiktok-for-interactive-vibe-coded-mini-apps/",
-      "author": "Sarah Perez",
-      "date": "2026-02-04T13:45:32-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/gizmo-app.jpg?resize=1200,764",
-      "category": "Apps",
-      "content": "Gizmo, a TikTok-like app for vibe-coded mini applications, is offering a new way to create interactive media. The relatively new mobile app from the startupAtma Scienceslets anyone create experiences using text, photos, sound, and touch, which are then displayed in a vertical feed, similar to TikTok or Reels. But unlike traditional short-form video apps, you don’t just watch and scroll in Gizmo — you play.\n\nDepending on the type of “Gizmo” you encounter, you might poke the screen, swipe, tap, draw, drag, and more to interact with the mini app. These Gizmos aren’t just games but are more like digital toys — things that could include interactive puzzles, memes, art, animation, or anything else a creator can dream up.\n\nThe result is an engaging, playful feed, where you can like and comment on the tiny creations and even remix existing Gizmos to create your own version, if you choose.\n\nWhat’s more, you don’t need to know how to code or even vibe code to get started. Instead, you can simply type out an AI prompt to explain your idea using natural language.\n\nThe app then leverages AI coding technology to turn your idea into an interactive experience by generating the code that makes it work. As part of this process, Gizmo will also render your idea visually to ensure that each app functions properly and runs smoothly. Apps are also vetted using AI and human moderation to ensure user safety, a companyFAQnotes.\n\nEvery post on gizmo is a mini app#brainrot#robloxmemes#lebronjamesedit\n\nGizmo hails from a New York-based startup calledAtma Sciences, co-founded by Rudd Fawcett and Brandon Francis, along with CEO Josh Siegel and CTO Daniel Amitay. The company last year raised a $5.49 million seed round from First Round Capital and others, according to data fromPitchBook. On the company’s website (which is also silly and interactive), the team explains their focus is on combining “powerful technology with simple, elegant foundations,” starting with their creativity app, Gizmo.\n\nNon",
-      "excerpt": "Gizmo, a TikTok-like app for vibe-coded mini applications, is offering a new way to create interactive media. The relatively new mobile app from the startupAtma Scienceslets anyone create experiences using text, photos, sound, and touch, which are then displayed in a vertical feed, similar to TikTok",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
       "title": "Secondary sales shift from founder windfalls to employee-retention tools",
       "link": "https://techcrunch.com/2026/02/05/secondary-sales-shift-from-founder-windfalls-to-employee-retention-tools/",
       "author": "Marina Temkin",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "Meta tests a standalone app for its AI-generated ‘Vibes’ videos",
-      "link": "https://techcrunch.com/2026/02/05/meta-tests-a-standalone-app-for-its-ai-generated-vibes-videos/",
-      "author": "Aisha Malik",
-      "date": "2026-02-05T09:19:01-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024",
-      "category": "Apps",
-      "content": "Meta is testing a standalone Vibes app, the company confirmed to TechCrunch on Thursday. Launched last September,Vibeslets you create and share short-form AI-generated videos and access a dedicated feed that displays AI videos from others.\n\nThink TikTok or Instagram Reels, but every single video you come across is AI-generated. Until now, the feed has lived in the Meta AI app. By making Vibes available outside of the Meta AI app, the company is positioning it as a more direct competitor toSora, OpenAI’s AI-generated video and social appthat launched shortly after Vibes.\n\n“Following the strong early traction of Vibes within Meta AI, we are testing a standalone app to build on that momentum,” Meta said in an emailed statement. “We’ve seen that users are increasingly leaning into the format to create, discover, and share AI-generated video with friends. This standalone app provides a dedicated home for that experience, offering people a more focused and immersive environment. We will look to expand the app further based on what we learn from the community.”\n\nThe news was first reported byPlatformer.\n\nMeta says it doesn’t share specific numbers, but claims Vibes has performed well, with Meta AI usage continuing to grow steadily since its launch, which it believes signals demand for a standalone app.\n\nThe tech giant also notes that while users engage with content in Meta AI, a standalone app allows for a more focused experience for creation and engagement.\n\nVibes lets users generate a video from scratch or remix a video that they see on their feed. Before publishing, you can add new visuals, layer in music, and adjust styles. You can then post the video directly to the Vibes feed, DM it to others, or cross-post to Instagram and Facebook Stories and Reels.\n\nMeta says collaboration and sharing are on the rise, with many Vibes videos being messaged to friends, which the company says mirrors how people use Reels.\n\nIt’s worth noting thatMeta told TechCrunchlast week that, in ",
-      "excerpt": "Meta is testing a standalone Vibes app, the company confirmed to TechCrunch on Thursday. Launched last September,Vibeslets you create and share short-form AI-generated videos and access a dedicated feed that displays AI videos from others.\n\nThink TikTok or Instagram Reels, but every single video you",
+      "title": "Trump’s critical mineral reserve is an admission that the future is electric",
+      "link": "https://techcrunch.com/2026/02/05/trumps-critical-mineral-reserve-is-an-admission-that-the-future-is-electric/",
+      "author": "Tim De Chant",
+      "date": "2026-02-05T07:48:44-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2157883094.jpeg?resize=1200,742",
+      "category": "Climate",
+      "content": "The Trump administration announced this week the U.S. government would work to build a $11.7 billion stockpile of critical minerals. That’s the headline; the subtext is more intriguing.\n\nThe stockpile initiative, branded as Project Vault, is the latest attempt by the administration to secure supplies of critical minerals for U.S. manufacturers and what President Donald Trump says will ensure “American businesses and workers are never harmed by any shortage.”\n\nIt follows recent investments from the administration into rare earth producers, including equity stakes in minersUSA Rare EarthandMP Materials.\n\nIndividually, they can be interpreted as an administration taking steps to calm a part of the market that has been roiled by its own trade wars. Collectively, they’re an admission, however tacit or subconscious, that the future relies on electric technologies, including electric vehicles and wind turbines.\n\nIn his announcement, Trump alluded to the world’s dependence on China for a slew of critical minerals. Over the last year-plus, China has wielded its dominance to counter tariff threats from the Trump administration, restricting exports of rare earth metals and lithium battery materials to the United States. Eventually, China relented, but the episode made clear who held the trump card.\n\nThe spat also revealed just how integral critical minerals are to modern economies. Trump likened the new stockpile to the Strategic Petroleum Reserve maintained by the Department of Energy, which was set up in the wake of the oil embargo in the early 1970s.\n\n“Just as we have long had a strategic petroleum reserve and a stockpile of critical minerals for national defense, we’re now creating this reserve for American industry, so we don’t have any problems,” Trump said.\n\nThe oil reserve isn’t going away, but it’s not as important as it once was, diminished by productive U.S. oil wells and the increasing share of the energy market taken by solar, wind, and batteries. (Solar and windc",
+      "excerpt": "The Trump administration announced this week the U.S. government would work to build a $11.7 billion stockpile of critical minerals. That’s the headline; the subtext is more intriguing.\n\nThe stockpile initiative, branded as Project Vault, is the latest attempt by the administration to secure supplie",
       "tags": [
         "Apple",
         "Amazon",
