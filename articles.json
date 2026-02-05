@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-02-04T23:31:22.210005+00:00",
+  "last_updated": "2026-02-05T02:24:59.401374+00:00",
   "articles": [
+    {
+      "title": "Alphabet won’t talk about the Google-Apple AI deal, even to investors",
+      "link": "https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/",
+      "author": "Sarah Perez",
+      "date": "2026-02-04T15:28:31-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/imgi_38_mp840x830mattef8f8f8t-pad1000x1000f8f8f8.jpg?w=1000",
+      "category": "AI",
+      "content": "Alphabet declined to answer one of its investors during questions about Google’s AI deal with Apple on Wednesday’s fourth-quarter earnings call. Instead of responding to an analyst’s question about how the tech giant is thinking about AI partnerships, such as the one with Apple to power AI for Siri, the question was completely ignored.\n\nThat decision tells us something, though — Alphabet isn’t ready to talk about how this partnership will impact its core business, which is increasingly focused on AI.\n\nOver the years, the Google-Apple relationship has been mutually beneficial. The two companies’ search partnership saw the search giant paying the iPhone maker$20 billionto be the default search engine on Apple devices,filingsfrom the Department of Justice’s lawsuit against the search giant revealed. In turn, Google gained access to Apple’s massive customer base — the iPhone maker last quarterannouncedit has 2.5 billion active devices worldwide, to give you an idea of scale.\n\nThe latest Apple AI deal isrumored to cost Apple roughly $1 billion per year, but the payoff beyond that for Google isn’t as immediately obvious as it is with search. In Google Search, consumers see links to advertisers’ websites at the top of their search results. Ads in AI Mode, which could one day represent the future of Google’s search business, are still an “experiment” for now.\n\nThe company firstannouncedlast May that it would bring ads to AI Mode, the chatbot-style interface for Google Search, but these tests see the ads’ placement below or integrated into the chatbot’s responses. Google is also trying outagentic shopping,including Shop with AI Mode, to guide consumers with product-related queries to a seamless checkout experience from the AI interface.\n\nMeanwhile, Google’s AI competitor Anthropic is taking aim at ad-supported AI withits forthcoming Super Bowl ad,which challenges the business model being adopted by ChatGPT maker OpenAI and Google.\n\nHow this will all play out longer-term is s",
+      "excerpt": "Alphabet declined to answer one of its investors during questions about Google’s AI deal with Apple on Wednesday’s fourth-quarter earnings call. Instead of responding to an analyst’s question about how the tech giant is thinking about AI partnerships, such as the one with Apple to power AI for Siri,",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Sam Altman got exceptionally testy over Claude Super Bowl ads",
+      "link": "https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/",
+      "author": "Julie Bort",
+      "date": "2026-02-04T16:45:11-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/10/Sam-Altman-OpenAI-DSC02881.jpg?resize=1200,800",
+      "category": "AI",
+      "content": "Anthropic’s Super Bowl commercial, one of four ads the AI lab droppedon Wednesday, begins with the word “BETRAYAL” splashed boldly across the screen. The camera pans to a man earnestly asking a chatbot (obviously intended to depict ChatGPT) for advice on how to talk to his mom.\n\nThe bot, portrayed by a blonde woman, offers some classic bits of advice. Start by listening. Try a nature walk! And then twists into an ad for a fictitious (we hope!) cougar-dating site called Golden Encounters. Anthropic finishes the spot by saying that while ads are coming to AI, they won’t be coming to its own chatbot, Claude.\n\nAnother commercialfeatures a slight young man looking for advice on building a six pack. After offering his height, age, and weight, the bot serves him an ad for height-boosting insoles.\n\nThe Anthropic commercials are cleverly aimed at OpenAI’s users, after that company’srecent announcementthat ads will be coming to ChatGPT’s free tier. And they caused an immediate stir, spawning headlines that Anthropic“mocks,”“skewers,”and“dunks on”OpenAI.\n\nThey are funny enough that even Sam Altmanadmitted on Xthat he laughed at them. But he clearly didn’t really find them funny. They inspired him to write a novella-sized rant that devolved into calling his rival “dishonest” and “authoritarian.”\n\nFirst, the good part of the Anthropic ads: they are funny, and I laughed.But I wonder why Anthropic would go for something so clearly dishonest. Our most important principle for ads says that we won’t do exactly this; we would obviously never run ads in the way Anthropic…\n\nIn that post, Altman explains that an ad-supported tier is intended to shoulder the burden of offering free ChatGPT to many of its millions of users. ChatGPTis still the most popular chatbot by a large margin.\n\nBut the OpenAI CEO insisted the ads were “dishonest” in implying that ChatGPT will twist a conversation to insert an ad (and possibly for an off-color product, to boot).”We would obviously never run ads in the",
+      "excerpt": "Anthropic’s Super Bowl commercial, one of four ads the AI lab droppedon Wednesday, begins with the word “BETRAYAL” splashed boldly across the screen. The camera pans to a man earnestly asking a chatbot (obviously intended to depict ChatGPT) for advice on how to talk to his mom.\n\nThe bot, portrayed b",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
     {
       "title": "Meet Gizmo: A TikTok for interactive, vibe-coded mini apps",
       "link": "https://techcrunch.com/2026/02/04/meet-gizmo-a-tiktok-for-interactive-vibe-coded-mini-apps/",
@@ -19,6 +53,23 @@
       ]
     },
     {
+      "title": "Elon Musk’s SpaceX company town is getting a police department",
+      "link": "https://techcrunch.com/2026/02/04/elon-musks-spacex-company-town-is-getting-a-police-department/",
+      "author": "Sean O'Kane",
+      "date": "2026-02-04T13:47:41-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2074390033.jpg?resize=1200,675",
+      "category": "Space",
+      "content": "Starbase, the company town that Elon Musk’s SpaceX created in South Texas, is forming its own police squad.\n\nThe city’s commission approved anordinanceduring a special meeting Tuesday that would create a municipal police department, subject to approval from the Texas Commission on Law Enforcement (TCOLE). The department will be run by a chief of police elected by the city’s commission, and is expected to hire eight officers, according to local news outletValley Central. It could be up and running in a few months.\n\n“There is a lot of assets here with the operations of SpaceX,” Starbase city administrator Kent Myers told the outlet. “Those assets need to be protected, and so the police department will play a critical part in protecting those assets.”\n\nIt’s not clear if Starbase has submitted its application to the TCOLE yet. The city and the TCOLE did not respond to requests for comment. Starbase reportedly hired security consulting firm Vision Quest Solutions to build out the department.\n\nStarbase is where SpaceX makes and tests its prototype Starship rocket. The city is small — it is currently home to just a few hundred residents, most of whom are SpaceX employees (or family of those workers). But it is geographically isolated. The closest neighboring town is Brownsville, which is about 10 miles away, though the drive can take 45 minutes or longer.\n\nA police department would be the latest addition to public services that have become available in Starbase since it was incorporatedas a city last year. In October, a handful of SpaceX employees who live at Starbasestarted a volunteer fire department. The city also created a fire marshal position and took on its own building inspections and permitting around that same time.\n\nStarbase initially tried to handle law enforcement within its city limits by contracting with the Cameron County sheriff’s office. The citystruck a $3.5 million, five-year contractwith the sheriff’s office that was supposed to see two deputies patrol",
+      "excerpt": "Starbase, the company town that Elon Musk’s SpaceX created in South Texas, is forming its own police squad.\n\nThe city’s commission approved anordinanceduring a special meeting Tuesday that would create a municipal police department, subject to approval from the Texas Commission on Law Enforcement (T",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
       "title": "Hackers publish personal information stolen during Harvard, UPenn data breaches",
       "link": "https://techcrunch.com/2026/02/04/hackers-publish-personal-information-stolen-during-harvard-upenn-data-breaches/",
       "author": "Lorenzo Franceschi-Bicchierai",
@@ -27,6 +78,23 @@
       "category": "Security",
       "content": "A notorious hacking group has claimed responsibility for last year’s data breaches at Harvard University and the University of Pennsylvania (UPenn) and published the data that they claim to have stolen from the two schools.\n\nOn Wednesday, the group known asShinyHunterspublished what it claims are more than 1 million records from each university on the group’s dedicated leak site, which the gang uses to extort its victims.\n\nIn November,UPenn confirmed a data breachof “a select group of information systems related to Penn’s development and alumni activities.” At the time, the hackers also sent alumni emails announcing the hack fromofficial university addresses.\n\nThe university blamed the breach onsocial engineering, an attack that often relies on hackers impersonating someone and tricking them into doing something they would not normally do. In itsofficial breach disclosure web page, which has since been taken offline, UPenn did not say exactly what type of data the hackers stole, simply saying the cybercriminals accessed “systems related to Penn’s development and alumni activities.”\n\nContact UsDo you have more information about these breaches, or similar attacks? From a non-work device, you can contact Lorenzo Franceschi-Bicchierai securely on Signal at +1 917 257 1382, or via Telegram, Keybase and Wire @lorenzofb, oremail.\n\nTechCrunch verified a portion of the dataset by confirming with alumni and public records, such as matching the data against student ID numbers.\n\nLater in November, Harvard University also confirmed a breach on its alumni systems, blaming it on a voicephishingattack, meaning an attack where hackers tricked the targets into clicking on a link or opening an attachment with a voice call.\n\nHarvardsaidthat the stolen data included email addresses, phone numbers, home and business addresses, event attendance, details of donations to the university, and other biographical information relating to the university’s fundraising and alumni engagement activit",
       "excerpt": "A notorious hacking group has claimed responsibility for last year’s data breaches at Harvard University and the University of Pennsylvania (UPenn) and published the data that they claim to have stolen from the two schools.\n\nOn Wednesday, the group known asShinyHunterspublished what it claims are mo",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "As it preps Specs for the masses, Snap’s Q4 shows revenue growth but fewer daily users",
+      "link": "https://techcrunch.com/2026/02/04/as-it-preps-specs-for-the-masses-snaps-q4-shows-revenue-growth-but-fewer-daily-users/",
+      "author": "Lucas Ropek",
+      "date": "2026-02-04T16:07:59-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/09/IMG_1806.jpg?resize=1200,900",
+      "category": "Social",
+      "content": "Snap is on a mission to diversify its revenue sources — moving from a business model in which it largely chases ad revenue to one where it can also make money through subscriptions and, eventually,hardware. The company’s latest quarterly earnings report shows that, so far, the firm is having moderate success with that strategy.\n\nIn Q4, Snap’s revenuewas $1.7 billion, which is up 10% year-over-year. Its average revenue per user was also up, slightly (to $3.62 from $3.44). The company’s net income was $45 million, up from $9 million the previous year, its earnings report shows.\n\nThe company has also continued to generate a significant amount of revenue from Snap+, the paid subscription service that the platformlaunched back in 2022. The service’s subscribers grew 71% year-over-year, reaching 24 million.\n\nWhile those numbers might seem to suggest a company whose trajectory is headed in the right direction, the earnings report also shows the platform had slightly fewer daily active users last quarter — dropping from 477 million to 474 million. Those users fell away in North America and Europe, the report shows, while growing slightly throughout the rest of the world.\n\nReuters also reportsthat the company expects its revenue during the first quarter of this year to be below analysts’ previous estimates, as competition from Facebook, Instagram, and TikTok cuts into its advertising earnings.\n\nDuring Wednesday’s earnings call, CEO Evan Spiegel focused on the company’s newer offerings, including its recent effort tocharge users for Memoriesstorage — a feature that lets users save and store their Snaps — and its plans to launch Specs later this year. The company has not launched a public-facing version of the augmented-reality glasses since 2019. In anticipation of that event, Snap recentlyannounced the creationof a new subsidiary, Specs Inc., that is focused solely on further developing the glasses.\n\n“Our long-term vision for augmented reality extends beyond the smartphone t",
+      "excerpt": "Snap is on a mission to diversify its revenue sources — moving from a business model in which it largely chases ad revenue to one where it can also make money through subscriptions and, eventually,hardware. The company’s latest quarterly earnings report shows that, so far, the firm is having moderat",
       "tags": [
         "Apple",
         "Amazon",
@@ -70,14 +138,14 @@
       ]
     },
     {
-      "title": "Uber appoints new CFO as its AV plans accelerate",
-      "link": "https://techcrunch.com/2026/02/04/uber-appoints-new-cfo-as-its-av-plans-accelerate/",
-      "author": "Ram Iyer",
-      "date": "2026-02-04T06:15:34-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2043993878-e1722276196662.jpg?resize=1200,676",
-      "category": "Transportation",
-      "content": "Uber is promoting Balaji Krishnamurthy, its VP of strategic finance and investor relations, to be its CFO, replacing its current finance chief Prashanth Mahendra-Rajah.\n\nKrishnamurthy has been at Uber for over six years, spending most of his tenure in the company in its investor relations division. He often posts about the company’s autonomous ride-hailing efforts, and has a board seat at AV company Waabi — so the appointment may be a signal of the company’s plans to expand its driverless investments and operations.\n\nIndeed, on the company’s fourth-quarter earnings call on Wednesday, Krishnamurthysaidthe company would invest capital in its AV software partners, work with AV makers by investing equity or via offtake agreements, and “support our AV infrastructure partners.”\n\n“With large and growing free cash flows, over the coming years we will invest with discipline across a multitude of opportunities, including positioning Uber to win in an AV future,” Krishnamurthy wrote in astatementdetailing the company’s Q4 results.\n\nUber’s CEO Dara Khosrowshahi said on the call that he was convinced autonomous vehicles would “unlock a multitrillion-dollar opportunity,” for the company, adding that autonomy “fundamentally amplifies” the strengths of the company’s platform.\n\n“By the end of 2026, we expect to be facilitating AV trips in as many as 15 cities globally, with a roughly even split of U.S. and international cities. And by 2029, we intend to be the largest facilitator of AV trips in the world,” Khosrowshahi said.\n\nOver the past two years, Uber has amassed partnerships with at least 20 autonomous vehicle companies across a variety of use cases, including sidewalk delivery robots, robotaxis, and trucking. Waymo is perhaps its highest profile partner with shared robotaxi operations in Atlanta and Austin. It has also struck deals withAvride, UK-based Wayve, Chinese companiesWeRide,Momenta, andVolkswagen, among others.\n\nIt has made direct investments in AV startups as well. W",
-      "excerpt": "Uber is promoting Balaji Krishnamurthy, its VP of strategic finance and investor relations, to be its CFO, replacing its current finance chief Prashanth Mahendra-Rajah.\n\nKrishnamurthy has been at Uber for over six years, spending most of his tenure in the company in its investor relations division. ",
+      "title": "Mundi Ventures closes on €750M for Kembara, its largest deep tech and climate fund",
+      "link": "https://techcrunch.com/2026/02/04/mundi-ventures-closes-on-e750m-for-kembara-its-largest-deep-tech-and-climate-fund/",
+      "author": "Anna Heim",
+      "date": "2026-02-04T16:01:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-582759168.jpg?resize=1200,800",
+      "category": "Venture",
+      "content": "Europe invests billions into early-stage climate startups, only to watch too many fail at Series B, according to arecent report. But new funds are being raised to fill this gap, and Spain-based Mundi Ventures’ latest fund, Kembara Fund I, is one of them.\n\nAfter securing a€350 million commitmentfrom the European Investment Fund under theEuropean Tech Champions Initiativein 2024, Mundi Ventures has just completed a €750 million first close forKembara, its fifth fund and largest to date.\n\nRegulatory filing from Spainreveals that the fund — focused on deep tech — could even stretch its final closing to €1.25 billion. But according to Kembara co-founder and general partner Yann de Vries, getting to €750 million in two years as a first fund in this environment “was not easy.”\n\nKembara is managed by a specialist team within Mundi Ventures, with offices in Madrid, London, Barcelona, and Paris. Mundi Ventures founder Javier Santiso is now also a co-founder and GP of the Kembara fund, which has now disclosed the full list of its senior partners.\n\nAlongside de Vries and Santiso, climate tech VC Robert Trezona and deep tech VC Pierre Festal have also joined as general partners, as well as former Atomico partner Siraj Khaliq as senior strategic advisor.\n\nTheir individual track records helped them raise funds from institutional backers waking up to the need for European growth capital that can turn itsmany university spinoutsinto sizable businesses with industrial synergies. But it also gave them a front-row seat into the broader growing pains of European climate and deep tech startups — especially de Vries.\n\nA seasoned venture capitalist who founded Redpoint eVentures Brazil and later became a partner at Atomico, de Vries had moved to the other side of the table tojoin German electric aircraft startup Lilium— only for the company tocease operationsin 2024 after raising more than $1 billion and going public via a SPAC.\n\nIn de Vries’ view, Lilium went bankrupt because it couldn’t ",
+      "excerpt": "Europe invests billions into early-stage climate startups, only to watch too many fail at Series B, according to arecent report. But new funds are being raised to fill this gap, and Spain-based Mundi Ventures’ latest fund, Kembara Fund I, is one of them.\n\nAfter securing a€350 million commitmentfrom ",
       "tags": [
         "Apple",
         "Amazon",
@@ -87,82 +155,14 @@
       ]
     },
     {
-      "title": "Lunar Energy raises $232M to deploy home batteries that prop up the grid",
-      "link": "https://techcrunch.com/2026/02/04/lunar-energy-raises-232m-to-deploy-home-batteries-that-prop-up-the-grid/",
-      "author": "Tim De Chant",
-      "date": "2026-02-04T09:56:40-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Lunar-System_KM-1.jpg?resize=1200,673",
-      "category": "Climate",
-      "content": "Forget EVs — stationary batteries aregetting all the buzz, and investment, in the U.S. these days.\n\nStartupLunar Energyis the latest example. The six-year-old company, which builds battery packs for homeowners in California, Georgia, and Washington, said Wednesday it has completed two large funding rounds. The startup shared it raised a previously unannounced $130 million Series C and a $102 million Series D. The Series C was led by Activate Capital, while the Series D was led by B Capital and Prelude Ventures.\n\nThe startup plans to use the funds to scale manufacturing to 20,000 units by the end of this year before ramping up to 100,000 by the end of 2028. In total, Lunar has raised more than $500 million from investors.\n\nStationary storage has become a bright spot for battery manufacturers that have been subject to policy whiplash after the Trump administration and GOP-controlled Congressgutted large parts of the Inflation Reduction Act, which had incentivized companies to build batteries in the U.S. to supply the automotive industry.\n\nAs the grid strains under the weight of an increasingly electrified economy — along with the boom in data center demand — grid-connected batteries have become one of the most versatile ways to boost its resiliency.\n\nLunar can call on its fleet of batteries, which come in 5 kilowatt-hour modules between 15 kilowatt-hours and 30 kilowatt-hours, to deliver juice to the grid when needed. Its virtual power plant (VPP) software can also control EV chargers and appliances, allowing it to both supply electrons while tamping down demand.\n\nSuch VPPs areexpectedto be able to replace costly and polluting peaking power plants in a matter of years.\n\nCompetition in the space has been heating up lately. In October,Base Power raised $1 billion, less than six months after raising a $200 million round for its residential battery-based VPP. Tesla operates its own Powerwall-based VPP, too.\n\nOutside of residential settings, Tesla’s storage business has be",
-      "excerpt": "Forget EVs — stationary batteries aregetting all the buzz, and investment, in the U.S. these days.\n\nStartupLunar Energyis the latest example. The six-year-old company, which builds battery packs for homeowners in California, Georgia, and Washington, said Wednesday it has completed two large funding ",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Exclusive: Positron raises $230M Series B to take on Nvidia’s AI chips",
-      "link": "https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-take-on-nvidias-ai-chips/",
-      "author": "Rebecca Bellan",
-      "date": "2026-02-04T00:18:51-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/positron.jpg?w=1200",
-      "category": "AI",
-      "content": "Semiconductor startupPositronhas secured $230 million in Series B funding, TechCrunch has exclusively learned. The outfit plans to use the capital to speed up deployment of its high-speed memory chips, a critical component for the chips used for AI workloads, sources familiar with the matter told TechCrunch.\n\nThe round, which brought Positron to a $1 billion valuation, was co-led by Arena Private Wealth, Jump Trading, and Unless, with strategic investment from Qatar Investment Authority (QIA), the country’s sovereign wealth fund, which has been increasingly focused on building out AI infrastructure, the sources said.\n\nThe Reno-based startup’s Series B comes as hyperscalers and AI firms push to reduce their reliance on longstanding leader Nvidia. These firms include OpenAI, which, despite being one of Nvidia’s largest and most important customers, isreportedlyunsatisfied with some of the firm’s latest AI chips and has been seeking alternatives since last year.\n\nMeanwhile, Qatar, through QIA, has been accelerating a broader push into so-called “sovereign” AI infrastructure — a priority repeatedly underscored at Web Summit Qatar in Doha this week. Several sources told TechCrunch the country views compute capacity as critical to staying competitive on the global economic stage, and is positioning itself as a leading AI services hub in the Middle East, fueling interest in startups like Positron.\n\nThe strategy is already taking shape through major commitments, including a $20 billion AI infrastructurejoint venture with Brookfield Asset Managementthat was announced in December.\n\nPositron’s fundraise brings the three-year-old startup’s total capital raised to just over $300 million. The startup previously raised $75 million last year from investors including Valor Equity Partners, Atreides Management, DFJ Growth, Flume Ventures, and Resilience Reserve.\n\nThe company claims its first-generation chip, Atlas, manufactured in Arizona, can match the performance of Nvidia’s H100 G",
-      "excerpt": "Semiconductor startupPositronhas secured $230 million in Series B funding, TechCrunch has exclusively learned. The outfit plans to use the capital to speed up deployment of its high-speed memory chips, a critical component for the chips used for AI workloads, sources familiar with the matter told Te",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "2026 plans: What’s next for Startup Battlefield 200",
-      "link": "https://techcrunch.com/2026/02/03/looking-ahead-to-2026-whats-next-for-startup-battlefield-200/",
-      "author": "Isabelle Johannessen",
-      "date": "2026-02-03T10:57:30-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/54889460445_20c033b45a_o-2.jpg?resize=1200,800",
-      "category": "Startups",
-      "content": "TechCrunch Startup Battlefield 200is the flagship early-stage startup competition held atTechCrunch Disruptin San Francisco, spotlighting the world’s most promising young companies. Each year, thousands of applicants from around the globe vie for one of 200 slots in the cohort, which provides unparalleled visibility, access to top-tier investors, and opportunities to grow.\n\nEarly-stage startups from around the world are joining theStartup Battlefield email listto be the first to know when applications open this month. Don’t miss a beat if you’re ready to join the action.\n\nStartup Battlefield 200is a highly selective startup launch program designed to prepare early-stage startups for visibility, investment, and scale. Each year, TechCrunch hand-selects 200 companies to gain unmatched exposure, credibility, and opportunities to scale faster than they ever imagined:\n\nStartup Battlefield’s track record is among the strongest in the industry — alumni represent1,700+ companiesthat have collectively raised over $32 billion and include well-known names such as:\n\nIn 2026,Startup Battlefield 200will once again bring together a global cohort of high-potential early-stage startups building across AI, climate, health, fintech, and beyond.\n\nApplications will open in the middle of this month and close in mid-June. Selected startups will be notified aroundSeptember 1, when the virtual preparation program begins — designed to help founders refine their story, sharpen their pitch, and get ready for the pitch of a lifetime on the TechCrunch Disrupt stage.\n\nFor founders and investors alike, Startup Battlefield 200 remains one of the most influential global early-stage startup stages — a place where breakout companies get seen, funded, and scaled.\n\nDon’t miss a moment of the action:Join the Startup Battlefield mailing listto be the first to know when applications open next month.",
-      "excerpt": "TechCrunch Startup Battlefield 200is the flagship early-stage startup competition held atTechCrunch Disruptin San Francisco, spotlighting the world’s most promising young companies. Each year, thousands of applicants from around the globe vie for one of 200 slots in the cohort, which provides unpara",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Alphabet won’t talk about the Google-Apple AI deal, even to investors",
-      "link": "https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/",
-      "author": "Sarah Perez",
-      "date": "2026-02-04T15:28:31-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/imgi_38_mp840x830mattef8f8f8t-pad1000x1000f8f8f8.jpg?w=1000",
-      "category": "AI",
-      "content": "Alphabet declined to answer one of its investors buring questions about Google’s AI deal with Apple on Wednesday’s fourth-quarter earnings call. Instead of responding to an analyst’s question about how the tech giant is thinking about AI partnerships, such as the one with Apple to power AI for Siri, the question was completely ignored.\n\nThat decision tells us something, though — Alphabet isn’t ready to talk about how this partnership will impact its core business, which is increasingly focused on AI.\n\nOver the years, the Google-Apple relationship has been mutually beneficial. The two companies’ search partnership saw the search giant paying the iPhone maker$20 billionto be the default search engine on Apple devices,filingsfrom the Department of Justice’s lawsuit against the search giant had revealed. In turn, Google gained access to Apple’s massive customer base — the iPhone maker last quarterannouncedit has 2.5 billion active devices worldwide to give you an idea of scale.\n\nThe latest Apple AI deal isrumored to cost Apple roughly $1 billion per year, but the payoff beyond that for Google isn’t as immediately obvious as it is with search. In Google Search, consumers see links to advertisers’ websites at the top of their search results. Ads in AI Mode, which could one day represent the future of Google’s search business, are still an “experiment” for now.\n\nThe company firstannouncedlast May that it would bring ads to AI Mode, the chatbot-style interface for Google Search, but these tests see the ads’ placement below or integrated into the chatbot’s responses. Google is also trying outagentic shopping,including Shop with AI Mode, to guide consumers with product-related queries to a seamless checkout experience from the AI interface.\n\nMeanwhile, Google’s AI competitor Anthropic is taking aim at ad-supported AI withits forthcoming Super Bowl ad,which challenges the business model being adopted by ChatGPT maker OpenAI and Google.\n\nHow this will all play out longer-term i",
-      "excerpt": "Alphabet declined to answer one of its investors buring questions about Google’s AI deal with Apple on Wednesday’s fourth-quarter earnings call. Instead of responding to an analyst’s question about how the tech giant is thinking about AI partnerships, such as the one with Apple to power AI for Siri,",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Google’s Gemini app has surpassed 750M monthly active users",
-      "link": "https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/",
-      "author": "Lauren Forristal",
-      "date": "2026-02-04T14:53:46-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
-      "category": "AI",
-      "content": "Google’s AI chatbot Gemini has surpassed 750 million monthly active users (MAUs), according to the company’sfourth-quarter 2025 earnings. This figure illustrates the rapid consumer adoption of Gemini, which has quickly become a prominent player in the AI space.\n\nLast quarter, Google reported 650 million monthly active users for Gemini, indicating substantial growth in a short period. In comparison, Meta AI hasreportednearly 500 million monthly users. However, while Gemini is gaining traction, it still trails behind its biggest rival, ChatGPT, which is estimated to have around810 million MAUsin late 2025.\n\nThe recently revealed number comes on the heels of the launch of Gemini 3, which showcases the company’s most advanced model yet, providing responses that the company claims exhibit an unprecedented level of depth and nuance.\n\nCEO Sundar Pichai highlighted that the introduction of Gemini 3 in AI mode was a “positive driver” for the company’s growth and emphasized that continued investment and iteration will maintain this momentum.\n\nGoogle recently rolled out a more affordable plan,the Google AI Plus, priced at $7.99 per month. The plan is expected to drive further growth by appealing to budget-conscious consumers, although it was made available too recently to have any influence on the quarterly figures.\n\n“We are focused on a free tier and subscriptions and seeing great growth,” Philipp Schindler, Google’s chief business officer, said during the call to investors.\n\nGemini’s growth is particularly notable given Alphabet’s overall financial performance. The company has surpassed $400 billion in annual revenue for the first time this quarter. Google attributes the achievement to the expansion of its AI division, which has seen increased demand. Recently, Google introduced the latest generation of its TPU AI accelerator chip, calledIronwood, to compete with Nvidia.\n\n“The launch of Gemini 3 was a major milestone, and we have great momentum. Our first party models, like ",
-      "excerpt": "Google’s AI chatbot Gemini has surpassed 750 million monthly active users (MAUs), according to the company’sfourth-quarter 2025 earnings. This figure illustrates the rapid consumer adoption of Gemini, which has quickly become a prominent player in the AI space.\n\nLast quarter, Google reported 650 mil",
+      "title": "Stripe alumni raise €30M Series A for Duna, backed by Stripe and Adyen execs",
+      "link": "https://techcrunch.com/2026/02/04/stripe-alumni-raise-e30m-series-a-for-duna-backed-by-stripe-and-adyen-execs/",
+      "author": "Anna Heim",
+      "date": "2026-02-04T15:49:18-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Duna-founders-David-Schreiber-and-Duco-Van-Lanschot.jpg?resize=1200,857",
+      "category": "Fintech",
+      "content": "Anthropic and OpenAI may berivals, but their presidents Daniela Amodei and Gregory Brockman have one thing in common: they are both Stripe alumni. With former employees who went on to create dozens of startups, the fintech company has become one of the most prolific “founder factories” — and the money is following. The latest example: business identity verification startup Duna, which just raised a €30 million Series A to become the best-funded European member of the so-called “Stripe mafia.” The funding round was led by Alphabet’s growth fundCapitalG, which has also backed Stripe sinceco-leading its Series Din 2016.\n\nBased in Germany and the Netherlands, Duna was co-founded by Stripe alumni Duco van Lanschot and David Schreiber. With customers includingPlaid, the startup helps fintech companies onboard business customers more efficiently, reducing the typical churn associated with corporate ID checks and other fraud prevention measures.\n\nStripe is not a customer of Duna, van Lanschot said, but its executives were well placed to understand the opportunity that the startup is seizing, which is reflected in its cap table. The company’s angel investors include current Stripe COO Michael Coogan and former executives David Singleton (CTO) and Claire Hughes Johnson (COO). Even Stripe rival Adyen got involved, with CRCO Mariëtte Swart and CFO Ethan Tandowsky joining as angels.\n\nTheir endorsements also validate van Lanschot’s hunch that these companies won’t compete with Duna, even though they could. “It requires such fine-grained controls that change on a company-by-company basis, that an Adyen or a Stripe isn’t going to spin out their business onboarding as a separate product where another enterprise customer can change all of the configurations,” he told TechCrunch.\n\nIf it’s still worth the effort for Duna, it’s because the startup is going after the long tail of enterprise clients that don’t have huge resources to dedicate to business onboarding. But it’s also because i",
+      "excerpt": "Anthropic and OpenAI may berivals, but their presidents Daniela Amodei and Gregory Brockman have one thing in common: they are both Stripe alumni. With former employees who went on to create dozens of startups, the fintech company has become one of the most prolific “founder factories” — and the mon",
       "tags": [
         "Apple",
         "Amazon",
