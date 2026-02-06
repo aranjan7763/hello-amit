@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T21:34:32.679649+00:00",
+  "last_updated": "2026-02-06T22:28:38.552387+00:00",
   "articles": [
     {
       "title": "The backlash over OpenAI’s decision to retire GPT-4o shows how dangerous AI companions can be",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "Prince Andrew advisor pitched Jeffrey Epstein on investing in EV startups like Lucid Motors",
-      "link": "https://techcrunch.com/2026/02/06/prince-andrew-advisor-pitched-jeffrey-epstein-on-investing-in-ev-startups-like-lucid-motors/",
-      "author": "Sean O'Kane",
-      "date": "2026-02-06T13:23:50-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Prince-andrew-Getty.jpg?resize=1200,800",
-      "category": "Transportation",
-      "content": "Electric vehicle startup Lucid Motors was scrambling to raise a Series D funding round in 2017. It had courted Ford as a potential investor, but Jia Yueting, the founder of rival EV startup Faraday Future, had quietly amassed around a 30% stake and was essentially blocking new investors.\n\nDavid Stern, a mysterious businessman and close advisor to former Prince Andrew, saw an opportunity to break the logjam: bring in Jeffrey Epstein.\n\n“Ford will likely be lead in $400m Series D in Lucid. Big strategic move,” Sternwroteto Epstein in emails released last week as part of the Department of Justice’s latest disclosure of 3 million documents related to Epstein. Jia “has massive cash issues” at Faraday, he wrote, and needs to “sell now to make payroll for his other business.”\n\nIt wasn’t the first EV startup Stern pitched Epstein, and it wouldn’t be the last, according to hundreds of documents reviewed by TechCrunch.\n\nAt the time, legacy automakers and newly minted startups, fueled by the breakthrough success of Tesla and progress by Google’s self-driving project, were jumping into electric and autonomous vehicles. And Stern was apparently hungry to take advantage of the resulting deal flow. The documents show he also pitched investments in Faraday Future itself, and in another EV startup, Canoo.\n\nIt’s unlikely Epstein invested in any of them. Lucid didn’t close its Series D until late 2018, when it raised more than $1 billion from Saudi Arabia’s sovereign wealth fund. Faraday ultimately received a major investment from Chinese real estate conglomerate Evergrande in late 2017. Epstein said in a 2018 message included in the Justice Department’s files that he had no “direct” or “indirect” interest in Canoo.\n\nThese discussions instead provide greater insight into themany connectionsEpstein, a convicted sex offender, had to Silicon Valley startups up until his arrest and death in 2019. They also provide a snapshot of a relationship that has not been explored in previous reportin",
-      "excerpt": "Electric vehicle startup Lucid Motors was scrambling to raise a Series D funding round in 2017. It had courted Ford as a potential investor, but Jia Yueting, the founder of rival EV startup Faraday Future, had quietly amassed around a 30% stake and was essentially blocking new investors.\n\nDavid Ster",
+      "title": "It just got easier for Claude to check in on your WordPress site",
+      "link": "https://techcrunch.com/2026/02/06/it-just-got-easier-for-claude-to-check-in-on-your-wordpress-site/",
+      "author": "Lucas Ropek",
+      "date": "2026-02-06T14:04:59-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/unnamed-7.png?w=1200",
+      "category": "",
+      "content": "On Thursday, WordPress launched a new Claude connector, enabling site owners to share back-end data with Anthropic’s chatbot system. Users can control what specific data they want to share, and access can also be revoked if and when the user chooses.\n\nNotably, Claude is given read-only access, meaning it won’t be able to alter anything within a user’s CMS. However, last year WPclaimed thatit would eventually deliver “write” access to the MCP integration, presumably allowing users to conduct editorial tasks directly from a connected chatbot of their choosing.\n\nAt any rate, after Claude is linked to an account, users can ask the chatbot all sorts of questions about the site data that it’s been given access to—from summarizing the site’s monthly web traffic to conducting analysis of which posts have low user engagement.\n\nWordPress has also provideda list of template promptsfor the chatbot—stuff like “Show me pending comments on my blog” or “Which of my sites gets the most traffic?” or “Show me which posts are generating the most discussion.” Others functions include comment management (“Show me pending comments on my blog”) and plugin management (“What plugins are installed on my main site?”).",
+      "excerpt": "On Thursday, WordPress launched a new Claude connector, enabling site owners to share back-end data with Anthropic’s chatbot system. Users can control what specific data they want to share, and access can also be revoked if and when the user chooses.\n\nNotably, Claude is given read-only access, meani",
       "tags": [
         "Apple",
         "Amazon",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "Google- and Microsoft-backed Terradot acquires carbon-removal competitor",
-      "link": "https://techcrunch.com/2026/02/06/google-and-microsoft-backed-terradot-acquires-carbon-removal-competitor/",
-      "author": "Tim De Chant",
-      "date": "2026-02-06T12:26:29-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-687009578.jpg?resize=1200,798",
-      "category": "",
-      "content": "Carbon-removal startupTerradotis acquiring competitorEion, the two companies announced today. The sale was driven largely by big investors like sovereign wealth funds, which want to work with companies that can handle large contracts. Eion was simply too small, Eion CEO Anastasia Pavlovic HanstoldThe Wall Street Journal.\n\nBoth companies spread pulverized rocks on farm fields to absorb carbon dioxide from the atmosphere. Known as enhanced rock weathering (EWR), it speeds up a natural process and has the potential to be alow-cost way to remove carbon, but it requires large and distributed operations. The spread between what EWR companies would like to charge and what buyers would like to payremains wide, according to a survey by CDR.fyi.\n\nCalifornia-based Terradot’s operations are centered on Brazil, where the company works with basalt as its mineral of choice, while Eionworks in the U.S. and uses olivine. Terradot’s investor list includes Gigascale Capital, Google, Kleiner Perkins, and Microsoft, while Eion’s investors include AgFunder, Mercator Partners, and Overture.",
-      "excerpt": "Carbon-removal startupTerradotis acquiring competitorEion, the two companies announced today. The sale was driven largely by big investors like sovereign wealth funds, which want to work with companies that can handle large contracts. Eion was simply too small, Eion CEO Anastasia Pavlovic HanstoldTh",
+      "title": "Prince Andrew advisor pitched Jeffrey Epstein on investing in EV startups like Lucid Motors",
+      "link": "https://techcrunch.com/2026/02/06/prince-andrew-advisor-pitched-jeffrey-epstein-on-investing-in-ev-startups-like-lucid-motors/",
+      "author": "Sean O'Kane",
+      "date": "2026-02-06T13:23:50-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Prince-andrew-Getty.jpg?resize=1200,800",
+      "category": "Transportation",
+      "content": "Electric vehicle startup Lucid Motors was scrambling to raise a Series D funding round in 2017. It had courted Ford as a potential investor, but Jia Yueting, the founder of rival EV startup Faraday Future, had quietly amassed around a 30% stake and was essentially blocking new investors.\n\nDavid Stern, a mysterious businessman and close advisor to former Prince Andrew, saw an opportunity to break the logjam: bring in Jeffrey Epstein.\n\n“Ford will likely be lead in $400m Series D in Lucid. Big strategic move,” Sternwroteto Epstein in emails released last week as part of the Department of Justice’s latest disclosure of 3 million documents related to Epstein. Jia “has massive cash issues” at Faraday, he wrote, and needs to “sell now to make payroll for his other business.”\n\nIt wasn’t the first EV startup Stern pitched Epstein, and it wouldn’t be the last, according to hundreds of documents reviewed by TechCrunch.\n\nAt the time, legacy automakers and newly minted startups, fueled by the breakthrough success of Tesla and progress by Google’s self-driving project, were jumping into electric and autonomous vehicles. And Stern was apparently hungry to take advantage of the resulting deal flow. The documents show he also pitched investments in Faraday Future itself, and in another EV startup, Canoo.\n\nIt’s unlikely Epstein invested in any of them. Lucid didn’t close its Series D until late 2018, when it raised more than $1 billion from Saudi Arabia’s sovereign wealth fund. Faraday ultimately received a major investment from Chinese real estate conglomerate Evergrande in late 2017. Epstein said in a 2018 message included in the Justice Department’s files that he had no “direct” or “indirect” interest in Canoo.\n\nThese discussions instead provide greater insight into themany connectionsEpstein, a convicted sex offender, had to Silicon Valley startups up until his arrest and death in 2019. They also provide a snapshot of a relationship that has not been explored in previous reportin",
+      "excerpt": "Electric vehicle startup Lucid Motors was scrambling to raise a Series D funding round in 2017. It had courted Ford as a potential investor, but Jia Yueting, the founder of rival EV startup Faraday Future, had quietly amassed around a 30% stake and was essentially blocking new investors.\n\nDavid Ster",
       "tags": [
         "Apple",
         "Amazon",
