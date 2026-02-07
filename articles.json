@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-02-07T05:44:43.455903+00:00",
+  "last_updated": "2026-02-07T06:48:01.480574+00:00",
   "articles": [
+    {
+      "title": "Benchmark raises $225M in special funds to double down on Cerebras",
+      "link": "https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/",
+      "author": "Marina Temkin",
+      "date": "2026-02-06T21:23:04-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1251294592.jpg?w=1024",
+      "category": "Venture",
+      "content": "This week, AI chipmaker Cerebras Systems announced that it raised $1 billion in fresh capital at a valuation of$23 billion— a nearly threefold increase from the$8.1 billionvaluation the Nvidia rival had reached just six months earlier.\n\nWhile the round was led by Tiger Global, a huge part of the new capital came from one of the company’s earliest backers: Benchmark Capital. The prominent Silicon Valley firm invested at least $225 million in Cerebras’ latest round, according to a person familiar with the deal.\n\nBenchmark first bet on 10-year-old Cerebras when it led the startup’s $27 million Series A in 2016.Since Benchmark deliberately keeps its funds under $450 million, the firm raised two separate vehicles, both called ‘Benchmark Infrastructure,’ according to regulatory filings. According to the person familiar with the deal, these vehicles were created specifically to fund the Cerebras investment.\n\nBenchmark declined to comment.\n\nWhat sets Cerebras apart is the sheer physical scale of its processors. The company’s Wafer Scale Engine, its flagship chip announced in 2024, measures approximately 8.5 inches on each side and packs 4 trillion transistors into a single piece of silicon. To put that in perspective, the chip is manufactured from nearly an entire 300-millimeter silicon wafer, the circular discs that serve as the foundation for all semiconductor production. Traditional chips are thumbnail-sized fragments cut from these wafers; Cerebras instead uses almost the whole circle.\n\nThis architecture delivers 900,000 specialized cores working in parallel, allowing the system to process AI calculations without shuffling data between multiple separate chips (a major bottleneck in conventional GPU clusters). The company says the design enables AI inference tasks to run more than 20 times faster than competing systems.\n\nThe funding comes as Cerebras, based in Sunnyvale, Calif., gains momentum in the AI infrastructure race. Last month, Cerebras signed a multi-year agreem",
+      "excerpt": "This week, AI chipmaker Cerebras Systems announced that it raised $1 billion in fresh capital at a valuation of$23 billion— a nearly threefold increase from the$8.1 billionvaluation the Nvidia rival had reached just six months earlier.\n\nWhile the round was led by Tiger Global, a huge part of the new",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
     {
       "title": "An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax",
       "link": "https://techcrunch.com/2026/02/06/an-ai-startup-founder-says-hes-planning-a-march-for-billionaires-in-protest-of-californias-wealth-tax/",
@@ -87,23 +104,6 @@
       ]
     },
     {
-      "title": "How AI is helping solve the labor issue in treating rare diseases",
-      "link": "https://techcrunch.com/2026/02/06/how-ai-is-helping-with-the-labor-issue-in-treating-rare-diseases/",
-      "author": "Rebecca Bellan",
-      "date": "2026-02-06T06:29:15-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/55077920584_2991f8c4d1_k.jpg?resize=1200,752",
-      "category": "Biotech & Health",
-      "content": "Modern biotech has the tools to edit genes and design drugs, yet thousands of rare diseases remain untreated. According to executives from Insilico Medicine and GenEditBio, the missing ingredient for years has been finding enough smart people to continue the work. AI, they say, is becoming the force multiplier that lets scientists take on problems the industry has long left untouched.\n\nSpeaking this week at Web Summit Qatar, Insilico’s president, Alex Aliper, laid out his company’s aim to develop “pharmaceutical superintelligence.” Insilico recently launched its“MMAI Gym” that aims to train generalist large language models, like ChatGPT and Gemini, to perform as well as specialist models.\n\nThe goal is to build a multimodal, multitask model that, Aliper says, can solve many different drug discovery tasks simultaneously with superhuman accuracy.\n\n“We really need this technology to increase the productivity of our pharmaceutical industry and tackle the shortage of labor and talent in that space, because there are still thousands of diseases without a cure, without any treatment options, and there are thousands of rare disorders which are neglected,” Aliper said in an interview with TechCrunch. “So we need more intelligent systems to tackle that problem.”\n\nInsilico’s platform ingests biological, chemical, and clinical data to generate hypotheses about disease targets and candidate molecules. By automating steps that once required legions of chemists and biologists, Insilico says it can sift through vast design spaces, nominate high-quality therapeutic candidates, and even repurpose existing drugs — all at dramatically reduced cost and time.\n\nFor example, the company recently used its AI models to identify whether existing drugs could be repurposed to treat ALS, a rare neurological disorder.\n\nBut the labor bottleneck doesn’t end at drug discovery. Even when AI can identify promising targets or therapies, many diseases require interventions at a more fundamental biologica",
-      "excerpt": "Modern biotech has the tools to edit genes and design drugs, yet thousands of rare diseases remain untreated. According to executives from Insilico Medicine and GenEditBio, the missing ingredient for years has been finding enough smart people to continue the work. AI, they say, is becoming the force",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
       "title": "The Kindle Scribe Colorsoft is a pricey but pretty e-ink color tablet with AI features",
       "link": "https://techcrunch.com/2026/02/06/kindle-scribe-colorsoft-review-e-ink-color-tablet/",
       "author": "Sarah Perez",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "Benchmark raises $225M in special funds to double down on Cerebras",
-      "link": "https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/",
-      "author": "Marina Temkin",
-      "date": "2026-02-06T21:23:04-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1251294592.jpg?w=1024",
-      "category": "Venture",
-      "content": "This week, AI chipmaker Cerebras Systems announced that it raised $1 billion in fresh capital at a valuation of$23 billion— a nearly threefold increase from the$8.1 billionvaluation the Nvidia rival had reached just six months earlier.\n\nWhile the round was led by Tiger Global, a huge part of the new capital came from one of the company’s earliest backers: Benchmark Capital. The prominent Silicon Valley firm invested at least $225 million in Cerebras’ latest round, according to a person familiar with the deal.\n\nBenchmark first bet on 10-year-old Cerebras when it led the startup’s $27 million Series A in 2016.Since Benchmark deliberately keeps its funds under $450 million, the firm raised two separate vehicles, both called ‘Benchmark Infrastructure,’ according to regulatory filings. According to the person familiar with the deal, these vehicles were created specifically to fund the Cerebras investment.\n\nBenchmark declined to comment.\n\nWhat sets Cerebras apart is the sheer physical scale of its processors. The company’s Wafer Scale Engine, its flagship chip announced in 2024, measures approximately 8.5 inches on each side and packs 4 trillion transistors into a single piece of silicon. To put that in perspective, the chip is manufactured from nearly an entire 300-millimeter silicon wafer, the circular discs that serve as the foundation for all semiconductor production. Traditional chips are thumbnail-sized fragments cut from these wafers; Cerebras instead uses almost the whole circle.\n\nThis architecture delivers 900,000 specialized cores working in parallel, allowing the system to process AI calculations without shuffling data between multiple separate chips (a major bottleneck in conventional GPU clusters). The company says the design enables AI inference tasks to run more than 20 times faster than competing systems.\n\nThe funding comes as Cerebras, based in Sunnyvale, Calif., gains momentum in the AI infrastructure race. Last month, Cerebras signed a multi-year agreem",
-      "excerpt": "This week, AI chipmaker Cerebras Systems announced that it raised $1 billion in fresh capital at a valuation of$23 billion— a nearly threefold increase from the$8.1 billionvaluation the Nvidia rival had reached just six months earlier.\n\nWhile the round was led by Tiger Global, a huge part of the new",
+      "title": "‘Industry’ season 4 captures tech fraud better than any show on TV right now",
+      "link": "https://techcrunch.com/2026/02/06/industry-season-4-captures-tech-fraud-better-than-any-show-on-tv-right-now/",
+      "author": "Dominic-Madori Davis",
+      "date": "2026-02-06T16:06:23-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/max-minghella-myha-la.jpg?resize=1200,800",
+      "category": "Media & Entertainment",
+      "content": "HBO’s hit financial thriller “Industry” has delivered one of its most compelling storylines yet this season: a hunt to expose a fraudulent fintech company called Tender.\n\nThe show follows Harper Stern, who’s leading her newly launched investment firm and looking for a company to short — essentially, betting that its stock will crash. After a journalist tips her off that something’s wrong with Tender, she sends her associates, Sweetpea and Kwabena, to Ghana to investigate.\n\nWhat they discover is damning. “Fake users drive fake revenue drives fake cash,” Sweetpea tells Harper. The entire company appears to be built on fabricated numbers. “The thing is nothing.”\n\nWhat’s fascinating about this season of “Industry” is how well it speaks to this moment. Tender starts as a payment processing platform for adult content. The show references the very real (and still controversial)Online Safety Billthat the UK introduced, which has led to age verification and other enhanced rules for consuming adult content online. Because of its affiliation with adult content, Tender finds itself at odds with the new government’s regulation and must pivot or die, as the saying goes.\n\nIts CFO-turned-leader, Whitney, wants the company to pivot into a bank and has a plan to make that happen, including making Tender’s CEO, Henry, the face of that transformation. Whitney is the embodiment of every tech baron cliche. Move fast, break things. Win at all costs. He’s lobbying politicians for a banking license and hunting for merger opportunities.\n\nHarper, meanwhile, is leading her newly launched firm after feeling undermined at her previous firm and being called a DEI plant by the man who hired her (a nod to the decline of DEI in the past few years). She has teamed up with new friends and old frenemies and is looking for blood — meaning a company on the precipice of crashing. To her, Tender is that company.\n\nThis puts her at odds with her friend Yasmin, who is married to Henry and is crafting communic",
+      "excerpt": "HBO’s hit financial thriller “Industry” has delivered one of its most compelling storylines yet this season: a hunt to expose a fraudulent fintech company called Tender.\n\nThe show follows Harper Stern, who’s leading her newly launched investment firm and looking for a company to short — essentially,",
       "tags": [
         "Apple",
         "Amazon",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "‘Industry’ season 4 captures tech fraud better than any show on TV right now",
-      "link": "https://techcrunch.com/2026/02/06/industry-season-4-captures-tech-fraud-better-than-any-show-on-tv-right-now/",
-      "author": "Dominic-Madori Davis",
-      "date": "2026-02-06T16:06:23-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/max-minghella-myha-la.jpg?resize=1200,800",
-      "category": "Media & Entertainment",
-      "content": "HBO’s hit financial thriller “Industry” has delivered one of its most compelling storylines yet this season: a hunt to expose a fraudulent fintech company called Tender.\n\nThe show follows Harper Stern, who’s leading her newly launched investment firm and looking for a company to short — essentially, betting that its stock will crash. After a journalist tips her off that something’s wrong with Tender, she sends her associates, Sweetpea and Kwabena, to Ghana to investigate.\n\nWhat they discover is damning. “Fake users drive fake revenue drives fake cash,” Sweetpea tells Harper. The entire company appears to be built on fabricated numbers. “The thing is nothing.”\n\nWhat’s fascinating about this season of “Industry” is how well it speaks to this moment. Tender starts as a payment processing platform for adult content. The show references the very real (and still controversial)Online Safety Billthat the UK introduced, which has led to age verification and other enhanced rules for consuming adult content online. Because of its affiliation with adult content, Tender finds itself at odds with the new government’s regulation and must pivot or die, as the saying goes.\n\nIts CFO-turned-leader, Whitney, wants the company to pivot into a bank and has a plan to make that happen, including making Tender’s CEO, Henry, the face of that transformation. Whitney is the embodiment of every tech baron cliche. Move fast, break things. Win at all costs. He’s lobbying politicians for a banking license and hunting for merger opportunities.\n\nHarper, meanwhile, is leading her newly launched firm after feeling undermined at her previous firm and being called a DEI plant by the man who hired her (a nod to the decline of DEI in the past few years). She has teamed up with new friends and old frenemies and is looking for blood — meaning a company on the precipice of crashing. To her, Tender is that company.\n\nThis puts her at odds with her friend Yasmin, who is married to Henry and is crafting communic",
-      "excerpt": "HBO’s hit financial thriller “Industry” has delivered one of its most compelling storylines yet this season: a hunt to expose a fraudulent fintech company called Tender.\n\nThe show follows Harper Stern, who’s leading her newly launched investment firm and looking for a company to short — essentially,",
+      "title": "Apple is working to make CarPlay compatible with AI chatbots like ChatGPT",
+      "link": "https://techcrunch.com/2026/02/06/apple-is-working-to-make-carplay-compatible-with-ai-chatbots-like-chatgpt/",
+      "author": "Kirsten Korosec",
+      "date": "2026-02-06T15:53:43-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/apple-wwdc-2022-2022-06-06-at-1.41.57-PM.jpg?resize=1200,669",
+      "category": "",
+      "content": "Apple CarPlay users may soon be able to talk to their favorite AI chatbot.\n\nApple is reportedly working on how to support AI chatbot apps within CarPlay,according to Bloomberg, which cites anonymous sources.\n\nApple CarPlay is an app that runs on an iPhone and wirelessly communicates with a vehicle’s infotainment system. It projects some of the apps found on a user’s phone onto the vehicle’s infotainment display. Drivers are able to interact with these apps, including Apple Music, messaging, and navigation, through its voice assistant Siri.\n\nApple’s next-generation CarPlay Ultra goes a step further, including the central touchscreen display and digital dashboard located right in front of the driver, and gives users control of certain vehicle settings.\n\nThis latest move would theoretically bring Google’s Gemini, Anthropic’s Claude, and OpenAI’s ChatGPT into the car, and at the risk of putting its own Siri assistant in the back seat.",
+      "excerpt": "Apple CarPlay users may soon be able to talk to their favorite AI chatbot.\n\nApple is reportedly working on how to support AI chatbot apps within CarPlay,according to Bloomberg, which cites anonymous sources.\n\nApple CarPlay is an app that runs on an iPhone and wirelessly communicates with a vehicle’s",
       "tags": [
         "Apple",
         "Amazon",
