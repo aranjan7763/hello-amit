@@ -69,6 +69,7 @@
                     userEmailEl.style.cursor = 'pointer';
                     userEmailEl.onclick = () => openProfileModal();
                 }
+                updateSidebarAvatar(profile);
             }
         });
 
@@ -270,10 +271,34 @@
         .user-section {
             display: flex;
             align-items: center;
-            justify-content: space-between;
+            gap: 8px;
             margin-top: 15px;
             padding-top: 15px;
             border-top: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .user-avatar {
+            width: 28px;
+            height: 28px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, #00d4ff 0%, #7b2cbf 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.75rem;
+            font-weight: bold;
+            color: #fff;
+            text-transform: uppercase;
+            cursor: pointer;
+            flex-shrink: 0;
+            overflow: hidden;
+        }
+
+        .user-avatar img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: 50%;
         }
 
         .user-email {
@@ -282,7 +307,8 @@
             overflow: hidden;
             text-overflow: ellipsis;
             white-space: nowrap;
-            max-width: 150px;
+            flex: 1;
+            min-width: 0;
         }
 
         .logout-btn {
@@ -1532,6 +1558,7 @@
                     </button>
                 </div>
                 <div class="user-section">
+                    <div class="user-avatar" id="user-avatar" onclick="openProfileModal()" title="Profile">?</div>
                     <span class="user-email" id="user-email"></span>
                     <button class="profile-btn" onclick="openProfileModal()" title="Profile Settings">&#9881;</button>
                     <button class="logout-btn" onclick="logout()">Logout</button>
@@ -1995,6 +2022,17 @@
             }
         }
 
+        // Update sidebar avatar
+        function updateSidebarAvatar(profile) {
+            const el = document.getElementById('user-avatar');
+            if (!el) return;
+            if (profile && profile.photoURL) {
+                el.innerHTML = '<img src="' + profile.photoURL + '" alt="">';
+            } else {
+                el.textContent = profile && profile.name ? profile.name.charAt(0) : '?';
+            }
+        }
+
         // Profile modal functions
         function openProfileModal() {
             renderProfileView();
@@ -2162,6 +2200,7 @@
                 if (userEmailEl) {
                     userEmailEl.textContent = data.name || window.currentEmail;
                 }
+                updateSidebarAvatar(window.currentProfile);
 
                 switchToViewMode();
             } catch (err) {
