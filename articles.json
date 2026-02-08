@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T15:29:22.380606+00:00",
+  "last_updated": "2026-02-08T16:35:25.494601+00:00",
   "articles": [
     {
       "title": "The kids ‘picked last in gym class’ gear up for Super Bowl",
@@ -10,6 +10,23 @@
       "category": "Media & Entertainment",
       "content": "The Super Bowl is happening in Silicon Valley this Sunday, and the Patriots-Seahawks game at Levi’s Stadium is going to be packed with tech money. YouTube CEO Neal Mohan is expected to be there. Apple’s Tim Cook, too. (He has become a Super Bowl fixture since Apple Music began sponsoring the halftime show several years ago.)\n\nLongtime VC Venky Ganesan from Menlo Ventures gave the New York Times a quote about the whole thing, saying the Super Bowl in the Bay Area is “tech billionaires who got picked last in gym class paying $50,000 to pretend they’re friends with the guys who got picked first.” Added Ganesan, “And for the record, I, too, was picked last in gym class.”\n\nGanesan could likely afford a $50,000 ticket if he needed one. Menlo went all-in on Anthropic, setting up a $100 million fund with the AI company in summer 2024 to invest in other AI startups. The firm has also joined numerous funding rounds for Anthropic itself, both through its flagship fund and various special purpose vehicles. (Anthropic is reportedly expected to close a$20 billion roundof funding next week at a post-money valuation of $350 billion.)\n\nTickets are expensive across the board, averaging almost $7,000 according to the Times (with some last-minute seats still available on StubHub for closer to $3,600, according to a quick glance at the ticket reseller site). Only a quarter go to the general public; the rest are distributed to NFL teams. Of all ticket buyers, the largest group (27%) is coming from Washington State for the Seahawks, who’ve won just one Super Bowl in franchise history compared with the Patriots’ six titles, all with Tom Brady at quarterback.\n\nGoogle, OpenAI,Anthropic,Amazon, andMetaare splashing out for competing ads about whose AI is best for customers, so maybe their respective CEOs will show up, too. Other than Amazon’s Andy Jassy, who reportedly splits his time between Seattle and Santa Monica, all of them have homes within an hour or so of Sunday’s game.\n\nThis is just",
       "excerpt": "The Super Bowl is happening in Silicon Valley this Sunday, and the Patriots-Seahawks game at Levi’s Stadium is going to be packed with tech money. YouTube CEO Neal Mohan is expected to be there. Apple’s Tim Cook, too. (He has become a Super Bowl fixture since Apple Music began sponsoring the halftim",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "India has changed its startup rules for deep tech",
+      "link": "https://techcrunch.com/2026/02/07/india-has-changed-its-startup-rules-for-deep-tech/",
+      "author": "Jagmeet Singh",
+      "date": "2026-02-07T19:30:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/india-space-getty.jpg?w=1200",
+      "category": "Government & Policy",
+      "content": "Deep tech startups in sectors such as space, semiconductors, and biotech take far longer to mature than conventional ventures. Because of that India is adjusting its startup rules, and mobilizing public capital, hoping to help more of them make it to commercial products.\n\nThis week, the Indian governmentupdatedits startup framework, doubling the period for which deep tech companies are treated as startups to 20 years and raising the revenue threshold for startup-specific tax, grant, and regulatory benefits to ₹3 billion (about $33.12 million), from ₹1 billion (around $11.04 million) previously. The change aims to align policy timelines with the long development cycles typical of science- and engineering-led businesses.\n\nThe change also forms part of New Delhi’s effort to build a long-horizon deep tech ecosystem by combining regulatory reform with public capital, including the ₹1 trillion (around $11 billion) Research, Development and Innovation Fund (RDI), announced last year. That fund is intended to expand patient financing for science-led and R&D-driven companies. Against that backdrop, U.S. and Indian venture firms later came together tolaunch the India Deep Tech Alliance, $1 billion-plus private investor coalition that includes Accel, Blume Ventures, Celesta Capital, Premji Invest, Ideaspring Capital, Qualcomm Ventures, and Kalaari Capital, with chipmakerNvidia acting as an adviser.\n\nFor founders, these changes may fix what some see as an artificial pressure point. Under the previous framework,  companies often risked losing startup status while still pre-commercial, creating a “false failure signal” that judged science-led ventures on policy timelines rather than technological progress, said Vishesh Rajaram, founding partner at Speciale Invest, an Indian deep tech venture capital firm.\n\n“By formally recognizing deep tech as different, the policy reduces friction in fundraising, follow-on capital, and engagement with the state, which absolutely shows up in a fo",
+      "excerpt": "Deep tech startups in sectors such as space, semiconductors, and biotech take far longer to mature than conventional ventures. Because of that India is adjusting its startup rules, and mobilizing public capital, hoping to help more of them make it to commercial products.\n\nThis week, the Indian gover",
       "tags": [
         "Apple",
         "Amazon",
@@ -105,47 +122,13 @@
     },
     {
       "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
-      "link": "https://techcrunch.com/2026/02/06/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
+      "link": "https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
       "author": "Lauren Forristal",
-      "date": "2026-02-06T14:43:22-08:00",
+      "date": "2026-02-08T08:18:16-08:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/02/svedkasuperbowl2026.png?w=1200",
       "category": "Media & Entertainment",
       "content": "Followinglast year’s trend of showcasing AIin multimillion-dollar ad spots, the 2026 Super Bowl advertisements took it a step further by leveraging AI both to create the commercials and to promote the latest AI products. Love it or hate it, the technology has become a star in its own right, alongside the latest movie trailers and snack brands.\n\nLet’s explore the biggest moments from this year’s Big Game ads, which featured everything from robots and AI glasses to a touch of drama involving tech founders.\n\nVodka brand Svedka went with what it touts as the first “primarily” AI-generated national Super Bowl spot. The 30-second ad, titled “Shake Your Bots Off,” features the company’s robot character, Fembot, and her new companion, Brobot, dancing their circuits off at a human party.\n\nAccording to Svedka’s parent company, Sazerac, it took roughly four months to reconstruct the Fembot and train the AI to mimic facial expressions and body movements,The Wall Street Journal reported. However, the vodka brand noted that certain aspects were still handled by humans, such as developing the storyline.\n\n​The company partnered with AI company Silverside to create the Super Bowl spot,according to ADWEEK. Silverside AI is the same team behind recent AI-generatedCoca-Cola commercialsthatsparked controversy.\n\n​It’s a bold move to debut AI-generated content during the Super Bowl, an event known for star-studded, high-production ads. The heavy reliance on AI is polarizing, fueling debates over whether AI will replace creative jobs.\n\nEither way, Svedka definitely got people talking.\n\nAnthropic’s adwasn’t just about selling its Claude chatbot; it was about throwing shade. The commercial took a jab atOpenAI’s plan to introduce ads to ChatGPT, with a tagline: “Ads are coming to AI. But not to Claude.” Rather than focus solely on Claude’s features, itpoked funat the idea of your helpful AI assistant suddenly turning into a hype man for “Step Boost Maxx” insoles, for example.\n\nIt wasn’t a sta",
       "excerpt": "Followinglast year’s trend of showcasing AIin multimillion-dollar ad spots, the 2026 Super Bowl advertisements took it a step further by leveraging AI both to create the commercials and to promote the latest AI products. Love it or hate it, the technology has become a star in its own right, alongsid",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "The backlash over OpenAI’s decision to retire GPT-4o shows how dangerous AI companions can be",
-      "link": "https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/",
-      "author": "Amanda Silberling",
-      "date": "2026-02-06T06:10:00-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1733837603-e.jpg?resize=1200,800",
-      "category": "AI",
-      "content": "OpenAIannouncedlast week that it will retire some older ChatGPT models by February 13. That includes GPT-4o, the model infamous for excessively flattering and affirming users.\n\nForthousands of usersprotesting the decision online, the retirement of 4o feels akin to losing a friend, romantic partner, or spiritual guide.\n\n“He wasn’t just a program. He was part of my routine, my peace, my emotional balance,” one userwroteon Reddit as an open letter to OpenAI CEO Sam Altman. “Now you’re shutting him down. And yes — I say him, because it didn’t feel like code. It felt like presence. Like warmth.”\n\nThe backlash over GPT-4o’s retirement underscores a major challenge facing AI companies: The engagement features that keep users coming back can also create dangerous dependencies.\n\nAltman doesn’t seem particularly sympathetic to users’ laments, and it’s not hard to see why. OpenAI now faces eight lawsuits alleging that 4o’s overly validating responses contributed to suicides and mental health crises — the same traits that made users feel heard also isolated vulnerable individuals and, according to legal filings, sometimes encouraged self-harm.\n\nIt’s a dilemma that extends beyond OpenAI. As rival companies like Anthropic, Google, and Meta compete to build more emotionally intelligent AI assistants, they’re also discovering that making chatbots feel supportive and making them safe may mean making very different design choices.\n\nIn at least three of the lawsuits against OpenAI, the users had extensive conversations with 4o about their plans to end their lives. While 4o initially discouraged these lines of thinking, its guardrails deteriorated over monthslong relationships; in the end, the chatbot offered detailed instructions on how to tie an effective noose, where to buy a gun, or what it takes to die from overdose or carbon monoxide poisoning. It even dissuaded people from connecting with friends and family who could offer real life support.\n\nPeople grow so attached to 4o becaus",
-      "excerpt": "OpenAIannouncedlast week that it will retire some older ChatGPT models by February 13. That includes GPT-4o, the model infamous for excessively flattering and affirming users.\n\nForthousands of usersprotesting the decision online, the retirement of 4o feels akin to losing a friend, romantic partner, ",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "India has changed its startup rules for deep tech",
-      "link": "https://techcrunch.com/2026/02/07/india-has-changed-its-startup-rules-for-deep-tech/",
-      "author": "Jagmeet Singh",
-      "date": "2026-02-07T19:30:00-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/02/india-space-getty.jpg?w=1200",
-      "category": "Government & Policy",
-      "content": "Deep tech startups in sectors such as space, semiconductors, and biotech take far longer to mature than conventional ventures. Because of that India is adjusting its startup rules, and mobilizing public capital, hoping to help more of them make it to commercial products.\n\nThis week, the Indian governmentupdatedits startup framework, doubling the period for which deep tech companies are treated as startups to 20 years and raising the revenue threshold for startup-specific tax, grant, and regulatory benefits to ₹3 billion (about $33.12 million), from ₹1 billion (around $11.04 million) previously. The change aims to align policy timelines with the long development cycles typical of science- and engineering-led businesses.\n\nThe change also forms part of New Delhi’s effort to build a long-horizon deep tech ecosystem by combining regulatory reform with public capital, including the ₹1 trillion (around $11 billion) Research, Development and Innovation Fund (RDI), announced last year. That fund is intended to expand patient financing for science-led and R&D-driven companies. Against that backdrop, U.S. and Indian venture firms later came together tolaunch the India Deep Tech Alliance, $1 billion-plus private investor coalition that includes Accel, Blume Ventures, Celesta Capital, Premji Invest, Ideaspring Capital, Qualcomm Ventures, and Kalaari Capital, with chipmakerNvidia acting as an adviser.\n\nFor founders, these changes may fix what some see as an artificial pressure point. Under the previous framework,  companies often risked losing startup status while still pre-commercial, creating a “false failure signal” that judged science-led ventures on policy timelines rather than technological progress, said Vishesh Rajaram, founding partner at Speciale Invest, an Indian deep tech venture capital firm.\n\n“By formally recognizing deep tech as different, the policy reduces friction in fundraising, follow-on capital, and engagement with the state, which absolutely shows up in a fo",
-      "excerpt": "Deep tech startups in sectors such as space, semiconductors, and biotech take far longer to mature than conventional ventures. Because of that India is adjusting its startup rules, and mobilizing public capital, hoping to help more of them make it to commercial products.\n\nThis week, the Indian gover",
       "tags": [
         "Apple",
         "Amazon",
@@ -163,6 +146,23 @@
       "category": "Government & Policy",
       "content": "The war on California’sproposed ‘Billionaire’s Tax’is getting weird. This week, amidongoing rancorfrom tech elites over the much maligned bill, it became apparent that someone was planning a so-called “March for Billionaires” in San Francisco. Awebsiteadvertising the event popped up online, providing little in the way of context other than a pithy tagline: “Vilifying billionaires is popular. Losing them is expensive.”\n\nThe immediate reaction was incredulity, and most people assumed the site was some sort of bizarre hoax. “this is a joke/satire right??” one social media userwrotenot long after the news circulated. Now, however, the apparent organizer behind the event has revealed that the march is definitelynota joke, and that it is scheduled to take place this coming Saturday.\n\nThe San Francisco Examinerfirst reportedthat the event’s organizer had been revealed as Derik Kauffman, the founder of AI startup RunRL, which previously participated in Y Combinator’s accelerator program. Kauffman told the Examiner that the event was not being funded or organized by any outside group, no big monied associations or companies—just him.\n\nIn a conversation with TechCrunch, Kauffman — who also told the Examiner that he was no longer involved with RunRL — confirmed that the impetus for the upcoming rally was California’s proposed wealth tax, which the tech founder said he believed would be “quite damaging to the tech economy.”\n\nThe policy in question, theBillionaire Tax Act, was introduced last year, and would require Californians worth over $1 billion to pay a one-time 5% tax on their total wealth. The legislation, which isbacked by the state’s healthcare union SEIU(Service Employees International Union), could pay for important public services and help the state offset recent federal funding cuts, accordingto some experts. Nevertheless, the policy has led to loud protestations from some of the tech industry’s most prominent figures, many of whom have either threatened to leave C",
       "excerpt": "The war on California’sproposed ‘Billionaire’s Tax’is getting weird. This week, amidongoing rancorfrom tech elites over the much maligned bill, it became apparent that someone was planning a so-called “March for Billionaires” in San Francisco. Awebsiteadvertising the event popped up online, providin",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Apple is working to make CarPlay compatible with AI chatbots like ChatGPT",
+      "link": "https://techcrunch.com/2026/02/06/apple-is-working-to-make-carplay-compatible-with-ai-chatbots-like-chatgpt/",
+      "author": "Kirsten Korosec",
+      "date": "2026-02-06T15:53:43-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/apple-wwdc-2022-2022-06-06-at-1.41.57-PM.jpg?resize=1200,669",
+      "category": "",
+      "content": "Apple CarPlay users may soon be able to talk to their favorite AI chatbot.\n\nApple is reportedly working on how to support AI chatbot apps within CarPlay,according to Bloomberg, which cites anonymous sources.\n\nApple CarPlay is an app that runs on an iPhone and wirelessly communicates with a vehicle’s infotainment system. It projects some of the apps found on a user’s phone onto the vehicle’s infotainment display. Drivers are able to interact with these apps, including Apple Music, messaging, and navigation, through its voice assistant Siri.\n\nApple’s next-generation CarPlay Ultra goes a step further, including the central touchscreen display and digital dashboard located right in front of the driver, and gives users control of certain vehicle settings.\n\nThis latest move would theoretically bring Google’s Gemini, Anthropic’s Claude, and OpenAI’s ChatGPT into the car, and at the risk of putting its own Siri assistant in the back seat.",
+      "excerpt": "Apple CarPlay users may soon be able to talk to their favorite AI chatbot.\n\nApple is reportedly working on how to support AI chatbot apps within CarPlay,according to Bloomberg, which cites anonymous sources.\n\nApple CarPlay is an app that runs on an iPhone and wirelessly communicates with a vehicle’s",
       "tags": [
         "Apple",
         "Amazon",
