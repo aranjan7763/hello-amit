@@ -1,6 +1,57 @@
 {
-  "last_updated": "2026-02-10T21:44:24.954911+00:00",
+  "last_updated": "2026-02-10T22:42:56.661078+00:00",
   "articles": [
+    {
+      "title": "Google sent personal and financial information of student journalist to ICE",
+      "link": "https://techcrunch.com/2026/02/10/google-sent-personal-and-financial-information-of-student-journalist-to-ice/",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "date": "2026-02-10T12:41:21-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
+      "category": "Security",
+      "content": "Google handed over a trove of personal data about a student and journalist to U.S. Immigration and Customs Enforcement in response to a subpoena that had not been approved by a judge,according to a report by The Intercept.\n\nThe search and advertising tech giant provided ICE with the usernames, physical addresses, and an itemized list of services associated with the Google account of Amandla Thomas-Johnson, a British student and journalist who briefly attended a pro-Palestinian protest in 2024 while attending Cornell University in New York.\n\nGoogle also turned over Thomas-Johnson’s IP addresses, phone numbers, subscriber numbers and identities, and credit card and bank account numbers linked to his account.\n\nThe subpoena, which reportedly included a gag order, did not include a specific justification for why ICE was requesting Thomas-Johnson’s personal data, but the studentpreviously saidthat the demand for his data came within two hours of Cornell informing him that the U.S. government had revoked his student visa.\n\nThis is the latest example of how the U.S. government is using a controversial type of legal request, called an administrative subpoena, to demand that tech companiesturn over the private data of individualswho have been critical of the Trump administration. This has included anonymous Instagram accounts that share information about ICE presence and raids, as well as people who criticize or protest Trump and his policies.\n\nICE and Google did not immediately respond to a request for comment.\n\nAdministrative subpoenas are issued directly by federal agencies without the intervention of a judge. These legal demands cannot compel companies to turn over the contents of a person’s email accounts, online searches, or location data, but can request metadata and other identifiable information, such as email addresses, in an attempt to de-anonymize the owner of a certain online account.\n\nUnlike a court order, tech companies are under no obligation to provide someon",
+      "excerpt": "Google handed over a trove of personal data about a student and journalist to U.S. Immigration and Customs Enforcement in response to a subpoena that had not been approved by a judge,according to a report by The Intercept.\n\nThe search and advertising tech giant provided ICE with the usernames, physi",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "VC Masha Bucher, Epstein associate and Day One founder, explains herself",
+      "link": "https://techcrunch.com/2026/02/10/vc-masha-bucher-epstein-associate-and-day-one-founder-explains-herself/",
+      "author": "Julie Bort",
+      "date": "2026-02-10T13:07:44-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-11-26-at-12.51.48.jpeg?resize=909,1200",
+      "category": "Venture",
+      "content": "Masha Bucher, a Silicon Valley VC and founder of Day One Ventures,took to Xthis week to address news reports documenting her close business and personal relationship with convicted sex offender Jeffrey Epstein. Bucher’s name — primarily under her maiden name, Masha Drokova — appeared in the latest dump of Epstein files over 1,600 times,The San Francisco Standard reported.\n\n“He made me feel I could be safe from the regime, someone with power and connections who could shield me” from threats she associated with her home country Russia, which she said she feared after she obtained her U.S. green card, she wrote in the post.\n\n“I was naive; I didn’t dig deep enough early on,” she wrote about why she agreed to work with Epstein. “I believed his story that his earlier conviction was about sleeping with a girl who lied about her age and trusted validations from multiple investors and scientists.” She also apologized to her founders, team, and investors, saying that this situation has “caused pain I never intended.”\n\nThe files paint a picture of how Bucher — whose Silicon Valley career began in social media and public relations — agreed to become Epstein’s publicist in 2017, helping rehabilitate his reputation after his 2008 sex-trafficking conviction and setting up meetings between him and various journalists,as Forbes reported.\n\nThe documents show that Epstein supported and encouraged her in the early days of Day One Ventures. The firm has since grown substantially — as Buchertold TechCrunch, it closed its most recent fund, a $150 million third vehicle, in 2024, bringing its assets under management to $450 million.\n\nSome of the most salacious details from the emails involve Epstein giving her money and a Prada bag, and on one occasion, asking her for nude photos — though there’s no indication whether she complied — according toSFGate. Bucher is certainly a well-known VC in the Valley, having backed breakout companies like Superhuman, Remote, Worldcoin, and Truebill (whiche",
+      "excerpt": "Masha Bucher, a Silicon Valley VC and founder of Day One Ventures,took to Xthis week to address news reports documenting her close business and personal relationship with convicted sex offender Jeffrey Epstein. Bucher’s name — primarily under her maiden name, Masha Drokova — appeared in the latest d",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Nearly half of xAI’s founding team has now left the company",
+      "link": "https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/",
+      "author": "Russell Brandom",
+      "date": "2026-02-10T12:31:51-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2223576505.jpg?resize=1200,800",
+      "category": "AI",
+      "content": "Monday night, xAI co-founder Yuhuai (Tony) Wu announced he was leaving the company. “It’s time for my next chapter,” Wu wrotein a late-night poston X. “It is an era with full possibilities: a small team armed with AIs can move mountains and redefine what’s possible.”\n\nOn its own, it’s a pretty standard tech departure announcement — but it’s part of a troubling pattern for the lab. Five members ofthe company’s 12-person founding teamhave now left the company, with four of the departures coming in just the last year. Infrastructure lead Kyle Kosic left for OpenAI in mid-2024, followed by Google veteran Christian Szegedy in February 2025. This past August, Igor Babuschkinleft to found a venture firm, and Microsoft alum Greg Yang departed just last month,citing health issues.\n\nBy all accounts, the splits have all been amicable, and there are lots of reasons why, nearly three years in, some founders might decide to move on. Elon Musk is a notoriously demanding boss, and with the SpaceX’s acquisition of xAI complete and an IPO pending in the coming months, everyone involved has a pretty big windfall coming. It’s a great time to be fundraising for an AI startup, so it’s only natural for high-level researchers to want to strike out on their own.\n\nThere are also less amicable reasons that might factor in. The company’s flagship product, the Grok chatbot, has struggled withbizarre behaviorandapparent internal tampering— the kind of thing that might easily create friction on the technical team. Then there were the recent changes to xAI’s image-generation tools thatflooded the platform with deepfake pornography, sparking slow-moving but reallegal consequences.\n\nWhatever the cause, the cumulative impact is alarming. There is a lot of work left to do at xAI, and an IPO will bring more scrutiny than the lab has ever faced before. With Musk alreadyspinning up plans for orbital data centers, the pressure to make good on those plans will be intense. The pace of model development isn’",
+      "excerpt": "Monday night, xAI co-founder Yuhuai (Tony) Wu announced he was leaving the company. “It’s time for my next chapter,” Wu wrotein a late-night poston X. “It is an era with full possibilities: a small team armed with AIs can move mountains and redefine what’s possible.”\n\nOn its own, it’s a pretty stand",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
     {
       "title": "Vega raises $120M Series B to rethink how enterprises detect cyber threats",
       "link": "https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/",
@@ -87,48 +138,14 @@
       ]
     },
     {
-      "title": "The first signs of burnout are coming from the people who embrace AI the most",
-      "link": "https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/",
-      "author": "Connie Loizos",
-      "date": "2026-02-09T22:46:55-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1158287360-e1665956231123.jpg?resize=1200,676",
+      "title": "An ice dance duo skated to AI music at the Olympics",
+      "link": "https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music/",
+      "author": "Amanda Silberling",
+      "date": "2026-02-10T14:31:13-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2260763822.jpg?resize=1200,800",
       "category": "AI",
-      "content": "The most seductive narrative in American work culture right now isn’t that AI will take your job. It’s that AI will save you from it.\n\nThat’s the version the industry has spent the last three years selling to millions of nervous people who are eager to buy it. Yes, some white-collar jobs will disappear. But for most other roles, the argument goes, AI is a force multiplier. You become a more capable, more indispensable lawyer, consultant, writer, coder, financial analyst — and so on. The tools work for you, you work less hard, everybody wins.\n\nBut anew studypublished in Harvard Business Review follows that premise to its actual conclusion, and what it finds there isn’t a productivity revolution. It finds companies are at risk of becoming burnout machines.\n\nAs part of what they describe as “in-progress research,” UC Berkeley researchers spent eight months inside a 200-person tech company watching what happened when workers genuinely embraced AI. What they found across more than 40 “in-depth” interviews was that nobody was pressured at this company. Nobody was told to hit new targets. People just started doing more because the tools made more feel doable. But because they could do these things, work began bleeding into lunch breaks and late evenings. The employees’ to-do lists expanded to fill every hour that AI freed up, and then kept going.\n\nAs one engineer told them, “You had thought that maybe, oh, because you could be more productive with AI, then you save some time, you can work less. But then really, you don’t work less. You just work the same amount or even more.”\n\nOver on the tech industry forum Hacker News, one commenter had thesame reaction, writing, “I feel this. Since my team has jumped into an AI everything working style, expectations have tripled, stress has tripled and actual productivity has only gone up by maybe 10%. It feels like leadership is putting immense pressure on everyone to prove their investment in AI is worth it and we all feel the pressur",
-      "excerpt": "The most seductive narrative in American work culture right now isn’t that AI will take your job. It’s that AI will save you from it.\n\nThat’s the version the industry has spent the last three years selling to millions of nervous people who are eager to buy it. Yes, some white-collar jobs will disapp",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "India orders social media platforms to take down deepfakes faster",
-      "link": "https://techcrunch.com/2026/02/10/india-orders-social-media-platforms-to-take-down-deepfakes-faster/",
-      "author": "Jagmeet Singh",
-      "date": "2026-02-10T06:51:13-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/12/india-parliament-getty.jpg?w=1200",
-      "category": "Government & Policy",
-      "content": "India has ordered social media platforms to step up policing of deepfakes and other AI-generated impersonations, while sharply shortening the time they have to comply with takedown orders. It’s a move that could reshape how global tech firms moderate content in one of the world’s largest and fastest growing markets for internet services.\n\nThe changes,published(PDF) on Tuesday as amendments toIndia’s 2021 IT Rules, bring deepfakes under a formal regulatory framework, mandating the labeling and traceability of synthetic audio and visual content, while also slashing compliance timelines for platforms, including a three-hour deadline for official takedown orders and a two-hour window for certain urgent user complaints.\n\nIndia’s importance as a digital market amplifies the impact of the new rules. With over a billion internet users and a predominantly young population, the South Asian nation is a critical market for platforms like Meta and YouTube, making it likely that compliance measures adopted in India will influence global product and moderation practices.\n\nUnder the amended rules, social media platforms that allow users to upload or share audio-visual content must require disclosures on whether material is synthetically generated, deploy tools to verify those claims, and ensure that deepfakes are clearly labeled and embedded with traceable provenance data.\n\nCertain categories of synthetic content — including deceptive impersonations, non-consensual intimate imagery, and material linked to serious crimes — are barred outright in the rules. Non-compliance, particularly in cases flagged by authorities or users, can expose companies to greater legal liability by jeopardizing their safe-harbor protections under Indian law.\n\nThe rules lean heavily on automated systems to meet those obligations. Platforms are expected to deploy technical tools to verify user disclosures, identify, and label deepfakes, and prevent the creation or sharing of prohibited synthetic content in ",
-      "excerpt": "India has ordered social media platforms to step up policing of deepfakes and other AI-generated impersonations, while sharply shortening the time they have to comply with takedown orders. It’s a move that could reshape how global tech firms moderate content in one of the world’s largest and fastest",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Trump EPA reportedly seeks to revoke landmark air pollution rule",
-      "link": "https://techcrunch.com/2026/02/10/trump-epa-reportedly-seeks-to-revoke-landmark-air-pollution-rule/",
-      "author": "Tim De Chant",
-      "date": "2026-02-10T07:47:13-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2201520437.jpeg?resize=1200,800",
-      "category": "Climate",
-      "content": "The Trump administration’s EPA administrator, Lee Zeldin, is looking to repeal the 2009 “endangerment finding” that found greenhouse gases pose a threat to human health and welfare, possibly as early as this week, The Wall Street Journalreports.\n\nThe EPA finding had set the legal basis for federal regulation of six greenhouse gases, including carbon dioxide and methane, and it has been unsuccessfully challenged since it was first instituted.\n\nThe move is almost certain to attract a number of lawsuits, and it could be years before the matter is settled. The EPA’s move will only affect tailpipe emissions for cars and trucks, though it’s expected that the Trump administration will use it to unwind regulations in other sectors like power plants and industrial facilities.\n\nLegacy automakers, whichpushed Trump to weaken fuel efficiency rules, notably did not push for the EPA to repeal the endangerment finding. Tesla went further,asking the EPA to maintain the finding, saying it was “based on a robust factual and scientific record.”\n\nIf the Trump administration is successful, the U.S. will be increasingly out of step with regulations in other advanced economies. Companies that do business across borders will need to develop different approaches for each market, increasing costs.\n\nAutomakers, in particular, are facing a future in which they’ll be forced to serve bifurcated markets, at least in the near term. Regulatory whiplash in the U.S. coupled with increasing competition from China has cost automakerstens of billions of dollars.\n\nAmerican automakers’ reliance on fossil fuel-powered trucks, in particular, has painted the domestic industry into a corner, providing addictive profits that distract from future-proofing their fleets in advance ofseemingly inevitablecompetition from Chinese marques.\n\nThe Trump administration told the WSJ it expects the policy change to save more than $1 trillion, though it didn’t provide any evidence to support that figure.\n\nClimate change is ",
-      "excerpt": "The Trump administration’s EPA administrator, Lee Zeldin, is looking to repeal the 2009 “endangerment finding” that found greenhouse gases pose a threat to human health and welfare, possibly as early as this week, The Wall Street Journalreports.\n\nThe EPA finding had set the legal basis for federal r",
+      "content": "Czech ice dancers Kateřina Mrázková and Daniel Mrázek made their Olympic debut on Monday, an unfathomable feat that takes a lifetime of dedication and practice. But the sibling duo used AI music in their rhythm dance program, which doesn’t break any official rules, but serves as a depressing symbol of how absolutely cooked we are.\n\nAs Mrázek spun his sister in a crazy cartwheel lift sort of move that made them look superhuman, one of the NBC commentators mentioned in passing, “This is AI generated, this first part,” referring to the music. Somehow, that admission is even more baffling than the gravity-defying tricks that the siblings showed off on the pressure of Olympic ice.\n\nThe Olympic ice dance competition is split into two events: the rhythm dance, where pairs must perform a routine that meets a specific theme, and the free dance. This season’s theme is “The Music, Dance Styles, and Feeling of the 1990s.” British ice dancing duo Lilah Fear and Lewis Gibson paid tribute to the Spice Girls, while United States favorites Madison Chock and Evan Bates skated to a Lenny Kravitz medley.\n\nBut, for whatever reason — licensing issues? — Mrázková and Mrázek danced to a routine with music that’s half AC/DC and half AI. It’s weird. What’s even weirder is that this isn’t the duo’s first use of AI, nor is it the first time that this choice backfired.\n\nPer the International Skating Union, the governing body that oversees competitive ice skating, theduo’s music choicefor the rhythm dance this season has been “One Two by AI (of 90s style Bon Jovi)” and “Thunderstruck by AC/DC.” The official Olympics websiteconfirmsthat the duo is using the AI-generated song for the rhythm dance portion.\n\nok I know this is an art account but I have been seething about this ever since Shana Bartel caught it and wrote about it in her blog (which you should be reading it’s very good – link below) and I just NEEDED to get it out of me.  https://www.patreon.com/posts/142706982?utm_campaign=postshare_f",
+      "excerpt": "Czech ice dancers Kateřina Mrázková and Daniel Mrázek made their Olympic debut on Monday, an unfathomable feat that takes a lifetime of dedication and practice. But the sibling duo used AI music in their rhythm dance program, which doesn’t break any official rules, but serves as a depressing symbol ",
       "tags": [
         "Apple",
         "Amazon",
@@ -144,25 +161,8 @@
       "date": "2026-02-10T13:20:10-08:00",
       "image": "https://techcrunch.com/wp-content/uploads/2022/06/boston-dynamics-spot-equipped-with-velodyne-lidar.jpeg?resize=1200,800",
       "category": "",
-      "content": "Boston Dynamics, the Massachusetts robotics company known for its four-legged robots and humanoids, is going through a leadership change.\n\nRobert Playter announced in an internal memo on Tuesday that he would be stepping down as the company’s chief executive,as first reported by A3. Amanda McMaster, the company’s chief financial officer, will stand in for the top job while the company looks for a replacement.\n\nTechCrunch reached out to Boston Dynamics for more information.\n\nPlayter took the helm at Boston Dynamics in 2020, taking over from founder Marc Raibert. Playter worked at Boston Dynamics for 30 years where he held other roles, including vice president of engineering, and chief operating officer.\n\nBoston Dynamics was founded in 1992 by Raibert as a spinoff from Massachusetts Institute of Technology, where he was a professor. Google’s parent company Alphabet bought Boston Dynamics in 2013, before the company was sold to Japanese investing conglomerate SoftBank in 2017.\n\nHyundai, its current owner, acquired the company in 2021.\n\nThe robotics producer is best known for its quadruped robot, Spot, which the company commercialized in 2020 shortly after Playter took the helm. The company most recently announced Atlas, a humanoid robot.",
-      "excerpt": "Boston Dynamics, the Massachusetts robotics company known for its four-legged robots and humanoids, is going through a leadership change.\n\nRobert Playter announced in an internal memo on Tuesday that he would be stepping down as the company’s chief executive,as first reported by A3. Amanda McMaster,",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "VC Masha Bucher, Epstein associate and Day One founder, explains herself",
-      "link": "https://techcrunch.com/2026/02/10/vc-masha-bucher-epstein-associate-and-day-one-founder-explains-herself/",
-      "author": "Julie Bort",
-      "date": "2026-02-10T13:07:44-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-11-26-at-12.51.48.jpeg?resize=909,1200",
-      "category": "Venture",
-      "content": "Masha Bucher, a Silicon Valley VC and founder of Day One Ventures,took to Xthis week to address news reports documenting her close business and personal relationship with convicted sex offender Jeffrey Epstein. Bucher’s name — primarily under her maiden name, Masha Drokova — appeared in the latest dump of Epstein files over 1,600 times,The San Francisco Standard reported.\n\n“He made me feel I could be safe from the regime, someone with power and connections who could shield me” from threats she associated with her home country Russia, which she said she feared after she obtained her U.S. green card, she wrote in the post.\n\n“I was naive; I didn’t dig deep enough early on,” she wrote about why she agreed to work with Epstein. “I believed his story that his earlier conviction was about sleeping with a girl who lied about her age and trusted validations from multiple investors and scientists.” She also apologized to her founders, team and investors, saying that this situation has “caused pain I never intended.”\n\nThe files paint a picture of how Bucher — whose Silicon Valley career began in social media and public relations — agreed to become Epstein’s publicist in 2017, helping rehabilitate his reputation after his 2008 sex trafficking conviction and setting up meetings between him and various journalists,as Forbes reported.\n\nThe documents show that Epstein supported and encouraged her in the early days of Day One Ventures. The firm has since grown substantially — as Buchertold TechCrunch, it closed its most recent fund, a $150 million third vehicle, in 2024, bringing its assets under management to $450 million\n\nSome of the most salacious details from the emails involve Epstein giving her money and a Prada bag, and on one occasion, asking her for nude photos — though there’s no indication whether she complied — according toSFGate. Bucher is certainly a well-known VC in the Valley, having backed breakout companies like Superhuman, Remote, Worldcoin, and Truebill (whichexi",
-      "excerpt": "Masha Bucher, a Silicon Valley VC and founder of Day One Ventures,took to Xthis week to address news reports documenting her close business and personal relationship with convicted sex offender Jeffrey Epstein. Bucher’s name — primarily under her maiden name, Masha Drokova — appeared in the latest d",
+      "content": "Boston Dynamics, the Massachusetts-based robotics company known for its four-legged robots and humanoids, is going through a leadership change.\n\nRobert Playter announced in an internal memo on Tuesday that he would be stepping down as the company’s chief executive,as first reported by A3. Amanda McMaster, the company’s chief financial officer, will stand in for the top job while the company looks for a replacement.\n\nTechCrunch reached out to Boston Dynamics for more information.\n\nPlayter took the helm at Boston Dynamics in 2020, taking over from founder Marc Raibert. Playter worked at Boston Dynamics for 30 years, where he held other roles, including vice president of engineering and chief operating officer.\n\nBoston Dynamics was founded in 1992 by Raibert as a spinoff from Massachusetts Institute of Technology, where he was a professor. Google’s parent company Alphabet bought Boston Dynamics in 2013, before the company was sold to Japanese investing conglomerate SoftBank in 2017.\n\nHyundai, its current owner, acquired the company in 2021.\n\nThe robotics producer is best known for its quadruped robot, Spot, which the company commercialized in 2020 shortly after Playter took the helm. The company most recently announced Atlas, a humanoid robot.",
+      "excerpt": "Boston Dynamics, the Massachusetts-based robotics company known for its four-legged robots and humanoids, is going through a leadership change.\n\nRobert Playter announced in an internal memo on Tuesday that he would be stepping down as the company’s chief executive,as first reported by A3. Amanda McM",
       "tags": [
         "Apple",
         "Amazon",
