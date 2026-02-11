@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-02-11T21:36:04.267845+00:00",
+  "last_updated": "2026-02-11T22:32:58.992888+00:00",
   "articles": [
+    {
+      "title": "Microsoft says hackers are exploiting critical zero-day bugs to target Windows and Office users",
+      "link": "https://techcrunch.com/2026/02/11/microsoft-says-hackers-are-exploiting-critical-zero-day-bugs-to-target-windows-and-office-users/",
+      "author": "Zack Whittaker",
+      "date": "2026-02-11T12:46:40-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/microsoft-logo-1865237814.jpg?resize=1200,863",
+      "category": "Security",
+      "content": "Microsoft has rolled out fixes for security vulnerabilities in Windows and Office, which the company says are being actively abused by hackers to break into people’s computers.\n\nThe exploits areone-click attacks, meaning that a hacker can plant malware or gain access to a victim’s computer with minimal user interaction. At least two flaws can be exploited by tricking someone into clicking a malicious link on their Windows computer. Another can result in a compromise on opening a malicious Office file.\n\nThe vulnerabilities are known aszero-days, because the hackers were exploiting the bugs before Microsoft had time to fix them.\n\nDetails of how to exploit the bugs have been published, Microsoft said, potentially increasing the chance of hacks. Microsoft did not say where they had been published, and a Microsoft spokesperson did not immediately comment when reached by TechCrunch. In its bug reports, Microsoft acknowledged the input of security researchers in Google’s Threat Intelligence Group in their discovery of the vulnerabilities.\n\nMicrosoft said one of the bugs, officially tracked asCVE-2026-21510, was found in the Windows shell, which powers the operating system’s user interface. The bug affects all supported versions of Windows, the company said. When a victim clicks on a malicious link from their computer, the bug allows hackers to bypass Microsoft’s SmartScreen feature that would typically screen malicious links and files for malware.\n\nAccording tosecurity expert Dustin Childs, this bug can be abused toremotely plant malwareon the victim’s computer.\n\n“There is user interaction here, as the client needs to click a link or a shortcut file,” Childs wrote in his blog post. “Still, a one-click bug to gain code execution is a rarity.”\n\nA Google spokesperson confirmed that the Windows shell bug was under “widespread, active exploitation,” and said successful hacks allowed the silent execution of malware with high privileges, “posing a high risk of subsequent system c",
+      "excerpt": "Microsoft has rolled out fixes for security vulnerabilities in Windows and Office, which the company says are being actively abused by hackers to break into people’s computers.\n\nThe exploits areone-click attacks, meaning that a hacker can plant malware or gain access to a victim’s computer with mini",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Elon Musk suggests spate of xAI exits have been push, not pull",
+      "link": "https://techcrunch.com/2026/02/11/senior-engineers-including-co-founders-exit-xai-amid-controversy/",
+      "author": "Rebecca Bellan",
+      "date": "2026-02-11T12:47:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2199701496.jpg?resize=1200,800",
+      "category": "AI",
+      "content": "Elon Musk is addressing a wave of departures from xAI, including two more co-founders who left this week, bringing the total to six out of the original 12.\n\nAt an all-hands meeting yesterday, Musk suggested the exits were about fit, not performance. “Because we’ve reached a certain scale, we’re organizing the company to be more effective at this scale,” he said,according to The New York Times. “And actually, when this happens, there’s some people who are better suited for the early stages of a company and less suited for the later stages.”\n\nOn X Wednesday afternoon, he went further, making clear these departuresweren’t voluntary. “xAI was reorganized a few days ago to improve speed of execution,” Musk wrote. “As a company grows, especially as quickly as xAI, the structure must evolve just like any living organism. This unfortunately required parting ways with some people.”\n\nHe added that the company is “hiring aggressively” and closed with a quintessentially Musk pitch: “Join xAI if the idea of mass drivers on the Moon appeals to you.”\n\nLosing half your co-founders in a relatively short period raises questions, and Musk’s comments seem designed to control the narrative, reframing the exits as necessary rather than a problem for the outfit.\n\nIn total, at least nine engineers, including thetwo co-founders, have publicly announced their departure from xAI in the past week — though two of those exits appear to have occurred a few weeks ago.\n\nThree of the departing staff members have said they will be starting something new alongside other former xAI engineers, although no details are available about the new venture. Others have hinted at a desire for more autonomy and smaller teams to build frontier tech more rapidly, pointing to the anticipated surge in AI productivity.\n\nYuhuai (Tony) Wu, an xAI co-founder and reasoning lead,said in a postannouncing his resignation: “It’s time for my next chapter. It is an era with full possibilities: a small team armed with AIs can mo",
+      "excerpt": "Elon Musk is addressing a wave of departures from xAI, including two more co-founders who left this week, bringing the total to six out of the original 12.\n\nAt an all-hands meeting yesterday, Musk suggested the exits were about fit, not performance. “Because we’ve reached a certain scale, we’re orga",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
     {
       "title": "Why the economics of orbital AI are so brutal",
       "link": "https://techcrunch.com/2026/02/11/why-the-economics-of-orbital-ai-are-so-brutal/",
@@ -10,6 +44,23 @@
       "category": "AI",
       "content": "In a sense, this whole thing was inevitable. Elon Musk and his coterie have been talking about AI in space for years — mainly in the context of Iain Banks’ science-fiction series about a far-future universe where sentient spaceships roam and control the galaxy.\n\nNow Musk sees an opportunity to realize a version of this vision. His company SpaceX has requested regulatory permission to build solar-powered orbital data centers, distributed across as many as a million satellites, that could shift as much as 100 GW of compute power off the planet. He hasreportedlysuggested some of his AI satellites will be built on the moon.\n\n“By far the cheapest place to put AI will be space in 36 months or less,” Musk said last week on a podcast hosted by Stripe co-founder John Collison.\n\nHe’s not alone. xAI’s head of compute has reportedly bet his counterpart at Anthropic that 1% of global compute will be in orbit by 2028. Google (which has a significant ownership stake in SpaceX) has announced a space AI effort called Project Suncatcher, which will launch prototype vehicles in 2027. Starcloud, a startup that has raised $34 million backed by Google and Andreessen Horowitz, filed its own plans for an 80,000 satellite constellation last week. Even Jeff Bezos has said this is the future.\n\nBut behind the hype, what will it actually take to get data centers into space?\n\nIn a first analysis, today’s terrestrial data centers remain cheaper than those in orbit. Andrew McCalip, a space engineer, has built ahelpful calculatorcomparing the two models. His baseline results show that a 1 GW orbital data center might cost $42.4 billion — almost 3x its ground-bound equivalent, thanks to the up-front costs of building the satellites and launching them to orbit.\n\nChanging that equation, experts say, will require technology development across several fields, massive capital expenditure, and a lot of work on the supply chain for space-grade components. It also depends on costs on the ground rising as re",
       "excerpt": "In a sense, this whole thing was inevitable. Elon Musk and his coterie have been talking about AI in space for years — mainly in the context of Iain Banks’ science-fiction series about a far-future universe where sentient spaceships roam and control the galaxy.\n\nNow Musk sees an opportunity to reali",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "How to get into a16z’s super-competitive Speedrun startup accelerator program",
+      "link": "https://techcrunch.com/2026/02/11/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program/",
+      "author": "Dominic-Madori Davis",
+      "date": "2026-02-11T11:58:01-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/speedrun.webp?resize=1200,800",
+      "category": "Venture",
+      "content": "Without a doubt, one of the hottest new startup accelerators in tech right now is Andreessen Horowitz’s Speedrun program. Launched in 2023, the accelerator has an acceptance rate of less than 1%. In aJanuary blog post,the program said that over 19,000 startups pitched and fewer than 0.4% were accepted into the latest cohort.\n\nThe program used to focus on gaming startups, then expanded into entertainment and media, and is now a “horizontal program,” Joshua Lu, the program’s general manager and a partner at a16z, told TechCrunch. Today, founders of any type of startup can apply, and the program runs for about 12 weeks in San Francisco. It once had a program in Los Angeles, but Lu said the focus will be on SF from now on.\n\nThere are two cohorts a year, and around 50 to 70 startups are accepted into each. The programinvests up to $1 millioninto each company, though the downside is that it’s a bit pricey. It typically invests $500,000 up front in exchange for 10% of the startup’s company via a SAFE note, and another $500,000 if the next round is raised within 18 months, at whatever terms agreed to by the other investors. In comparison, Y Combinator typically takes 7% of the company for $500,000.\n\nSpeedrun said its program is more “equity expensive” because of what it offers founders. It provides them with access to a16z’s advisory and business networks that assist with tasks like go-to-market, brand development, media strategy, and talent sourcing. Plus it offers the startups perks like $5 million in credits to vendors such as AWS, OpenAI, Nvidia, and Deel.\n\nGiven the high interest, and low acceptance rate, TechCrunch spoke to Lu for some tips on how startups can best stand out. The latest cohort began in January and will end in April with a Demo Day. Applications forthe next cohort open in April,though it looks at off-season applications year-round, Lu said.\n\nSpeedrun focuses on early-stage startups. Because of this, they really examine who is on the founding team and w",
+      "excerpt": "Without a doubt, one of the hottest new startup accelerators in tech right now is Andreessen Horowitz’s Speedrun program. Launched in 2023, the accelerator has an acceptance rate of less than 1%. In aJanuary blog post,the program said that over 19,000 startups pitched and fewer than 0.4% were accept",
       "tags": [
         "Apple",
         "Amazon",
@@ -70,65 +121,14 @@
       ]
     },
     {
-      "title": "Integrate raises $17M to move defense project management into the 21st century",
-      "link": "https://techcrunch.com/2026/02/11/integrate-raises-17m-to-move-defense-project-management-into-the-21st-century/",
-      "author": "Marina Temkin",
-      "date": "2026-02-11T06:21:28-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2015/12/8465603992_a033bf55f5_o.jpg?resize=1200,853",
-      "category": "Startups",
-      "content": "John Conafay, a veteran of the U.S. Air Force, has spent most of his career leading business development at public and private aerospace companies, including Spire, Astranis, and ABL Space Systems.\n\nAt each company, Conafay ran into the same software hurdle: Collaborating on government contracts was a logistical mess that forced his teams and their federal counterparts to rely on a tedious back-and-forth of PDFs and Excel files. The bottleneck was always the same — most project management tools like Atlassian’s Jira and Asana simply weren’t secure enough to meet the government’s strict security standards.\n\nSo, in early 2022, Conafay launchedIntegrate, a collaboration platform designed specifically to allow private companies, the U.S. Department of Defense, and other government agencies to work jointly on classified, multi-entity projects. Last year, the Seattle-based startup won a$25 million, five-year contract from the U.S. Space Force.\n\nThat validation from a major agency was one of the reasons Wesley Chan, co-founder and managing partner at FPV Ventures, just led Integrate’s $17 million Series A. Chan, known forearly betson Canva, Robinhood, Plaid, and more than 20 other unicorns, told TechCrunch he invested because Integrate solves a big problem for the government and the private companies that serve it.\n\nUntil recently, the tech sector shunned selling to the U.S. Department of Defense, feeling that it was immoral to create products for the military. But that sentiment changed after Russia invaded Ukraine and China began to be viewed as an adversary.\n\nThis shift also means other project management companies may now want to sell their products to the government, but Conafay claims it will be technically difficult for them to catch up to Integrate.\n\n“If you don’t build something from the ground up with government requirements, you can’t really go back and re-architect software that exists for government purposes,” he told TechCrunch.\n\nAccording to Conafay, what se",
-      "excerpt": "John Conafay, a veteran of the U.S. Air Force, has spent most of his career leading business development at public and private aerospace companies, including Spire, Astranis, and ABL Space Systems.\n\nAt each company, Conafay ran into the same software hurdle: Collaborating on government contracts was",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Upside Robotics is reducing fertilizer use and waste in corn crops",
-      "link": "https://techcrunch.com/2026/02/11/upside-robotics-is-reducing-fertilizer-use-and-waste-in-corn-crops/",
-      "author": "Rebecca Szkutak",
-      "date": "2026-02-11T08:00:00-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Upside-Robotics.jpg?resize=1200,675",
-      "category": "Robotics",
-      "content": "The founders ofUpside Roboticsmet in 2023 because they were both looking to build an impact-driven company that touched climate and agriculture. Less than a year later, they were sleeping in a camper on the side of a Canadian corn field building their robotics startup.\n\nWaterloo, Ontario-based Upside Robotics builds lightweight solar-powered autonomous robots that deliver right-sized amounts of fertilizer and nutrients to crops when they need it. The company’s software runs on proprietary algorithms to decipher when and how much fertilizer the plants need using weather and soil data.\n\nUpside’s robots currently work on corn plants — one of the most fertilizer-intensive crops — which was chosen by Upside for that exact reason, Jana Tian, co-founder and CEO, told TechCrunch.\n\nAfter Tian and Sam Dugan, co-founder and chief technology officer, met at the Entrepreneurs First accelerator, they decided to focus on reducing fertilizer waste using robots because it fit squarely into the center of the Venn diagram of their interests. It also leaned well toward their backgrounds.\n\nDugan had been building robots since he was 10 years old and Tian had years of experience as a chemical engineer in the food division at Unilever.\n\nCustomer discovery with farmers further confirmed this was an area farmers were willing to pay for a better way.\n\n“Traditionally, the way the fertilizer has been applied, only 30% of the total fertilizer gets taken by the crop, so a majority of it gets wasted,” Tian said. “Farmers usually do one application per season, so they have to front-load a lot of the fertilizer. But the crops need the fertilizer during the season as well. We knew there was that problem that a lot of our growers really wanted different solutions to.”\n\nThe pair formally founded Upside Robotics in 2024 and then hit the fields — literally.\n\n“We actually bought a camper trailer, and we moved around field to field,” Dugan said. “We stayed on the side of the field every night, and we woul",
-      "excerpt": "The founders ofUpside Roboticsmet in 2023 because they were both looking to build an impact-driven company that touched climate and agriculture. Less than a year later, they were sleeping in a camper on the side of a Canadian corn field building their robotics startup.\n\nWaterloo, Ontario-based Upsid",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Meridian raises $17 million to remake the agentic spreadsheet",
-      "link": "https://techcrunch.com/2026/02/11/meridian-ai-raises-17-million-to-remake-the-agentic-spreadsheet/",
-      "author": "Russell Brandom",
-      "date": "2026-02-11T06:00:00-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/260122_MeridianAi_Group_0047.jpg?resize=1200,900",
+      "title": "OpenAI disbands mission alignment team, which focused on ‘safe’ and ‘trustworthy’ AI development",
+      "link": "https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/",
+      "author": "Lucas Ropek",
+      "date": "2026-02-11T13:57:18-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198379368.jpg?resize=1200,800",
       "category": "AI",
-      "content": "The fight to tame spreadsheets with AI isn’t over yet. A new company calledMeridianhas emerged from stealth with a more comprehensive IDE-based approach to agentic financial modeling — and plenty of funding to build it. On Wednesday, the company announced $17 million in seed funding at a $100 million post-money valuation.\n\n“Our goal is to make financial modeling and spreadsheets way more predictable and auditable,” CEO and co-founder John Ling told TechCrunch. “How can you take a process that traditionally might have taken several hours and condense it down into like 10 minutes?”\n\nThe round was led by Andreessen Horowitz and The General Partnership, with participation from QED Investors, FPV Ventures, and Litquidity Ventures. The company says it is currently working with teams at Decagon and OffDeal, and signed $5 million of contracts in December alone.\n\nExcel agents have beena popular target for AI startups, due in part to the high cost of human-led financial analysis. But where previous Excel agentslike Shortcut AIbuilt agents into Excel, Meridian operates as a stand-alone workspace, more akin to Cursor. This allows the app to operate like an IDE, integrating data sources and other outside references that might otherwise create friction.\n\nBased in New York, the Meridian team includes both alumni of AI firms like Scale AI and Anthropic as well as financial veterans from firms like Goldman Sachs.\n\nAs Ling describes it, Meridian’s biggest challenge is the strict requirements of financial clients, which often clash with the non-deterministic nature of AI models.\n\n“If you go to 10 different software engineers at Google, and you want to add some new feature into an app, you’ll probably get like 10 completely different implementations. And that’s totally fine,” Ling says. “But if you go to 10 banking analysts at Goldman Sachs and you ask for 10 valuation models for a company, you would probably get 10 almost identical workbooks.”\n\nAs a result, the Meridian team has done ",
-      "excerpt": "The fight to tame spreadsheets with AI isn’t over yet. A new company calledMeridianhas emerged from stealth with a more comprehensive IDE-based approach to agentic financial modeling — and plenty of funding to build it. On Wednesday, the company announced $17 million in seed funding at a $100 millio",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "With co-founders leaving and an IPO looming, Elon Musk turns talk to the moon",
-      "link": "https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/",
-      "author": "Connie Loizos",
-      "date": "2026-02-10T21:23:26-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2256968212.jpg?w=1024",
-      "category": "AI",
-      "content": "On Tuesday night, Elon Musk gathered the employees of xAI for an all-hands meeting. Evidently, he wanted to talk about the future of his AI company and, specifically, how it relates to the moon.\n\nAccording to The New York Times, which reports that itheard the meeting, Musk told employees that xAI needs a lunar manufacturing facility, a factory on the moon that will build AI satellites and fling them into space via a giant catapult.\n\n“You have to go to the moon,” he said, per the Times. The move, he explained, will help xAI harness more computing power than any rival. “It’s difficult to imagine what an intelligence of that scale would think about,” he added, “but it’s going to be incredibly exciting to see it happen.”\n\nWhat Musk didn’t appear to address was how any of this would be built, or how he plans to reorganize the newly mergedxAI-SpaceXentity that is simultaneously careening toward a potentially historic IPO. He did acknowledge, proudly, that the company is in flux.\n\n“If you’re moving faster than anyone else in any given technology arena, you will be the leader,” he told employees, per the Times, “and xAI is moving faster than any other company — no one’s even close.” He added that “when this happens, there’s some people who are better suited for the early stages of a company and less suited for the later stages.”\n\nIt isn’t clear what prompted the all-hands, but the timing, whatever its cause, is at least curious. On Monday night, xAI co-founder Tony Wu announced he was leaving. Less than a day later, another xAI co-founder, Jimmy Ba, who reported directly to Musk, said he was bouncing, too.\n\nThat brings the total tosix of xAI’s 12 founding members who have now left the young company. The splits have all been described as copacetic, and with aSpaceX IPOreportedly targeting a $1.5 trillion valuation coming as soon as this summer, everyone involved stands to do very well financially on their way out the door.\n\nThe moon itself is a more recent preoccupation. For",
-      "excerpt": "On Tuesday night, Elon Musk gathered the employees of xAI for an all-hands meeting. Evidently, he wanted to talk about the future of his AI company and, specifically, how it relates to the moon.\n\nAccording to The New York Times, which reports that itheard the meeting, Musk told employees that xAI ne",
+      "content": "OpenAI has disbanded a team that focused on — as the company itselfdescribed— ensuring that its AI systems are “safe, trustworthy, and consistently aligned with human values.” At the same time, the team’s former leader has been given a new role as the company’s “chief futurist.”\n\nOpenAI confirmed to TechCrunch that the team’s members have now been assigned to other roles. The news wasfirst reportedby Platformer.\n\nThe disbanded team in question, which appears to have beenformed in September of 2024, was the startup’s internal unit dedicated to working on alignment. That’sa broad field of interestwithin the industry that seeks to ensure that AI acts in accordance with human interests.\n\n“We want these systems to consistently follow human intent in complex, real-world scenarios and adversarial conditions, avoid catastrophic behavior, and remain controllable, auditable, and aligned with human values,” apostfrom OpenAI’s Alignment Research blog declares.\n\nAn OpenAIjob postingfor the Alignment team describes it as being dedicated to AI research that focuses on “developing methodologies that enable AI to robustly follow human intent across a wide range of scenarios, including those that are adversarial or high-stakes.”\n\nIna blog postpublished Wednesday, Josh Achiam, the former head of OpenAI’s Alignment team, explained his new role as the company’s chief futurist. “My goal is to support OpenAI’s mission — to ensure that artificial general intelligence benefits all of humanity — by studying how the world will change in response to AI, AGI, and beyond,” Achiam wrote.\n\nAchiam noted that, in his new role, he would be collaborating with Jason Pruet, a physicist from OpenAI’s technical staff.\n\nA spokesperson for OpenAI said the rest of the Alignment team — a group of six or seven people — had subsequently been reassigned to different parts of the company. The spokesperson couldn’t say where exactly the team members had been assigned, but said that they were engaged in similar wor",
+      "excerpt": "OpenAI has disbanded a team that focused on — as the company itselfdescribed— ensuring that its AI systems are “safe, trustworthy, and consistently aligned with human values.” At the same time, the team’s former leader has been given a new role as the company’s “chief futurist.”\n\nOpenAI confirmed to",
       "tags": [
         "Apple",
         "Amazon",
