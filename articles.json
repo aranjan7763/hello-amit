@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T19:43:51.014378+00:00",
+  "last_updated": "2026-02-13T20:42:24.015065+00:00",
   "articles": [
     {
       "title": "The SEC closed its investigation into Fisker",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "OpenAI removes access to sycophancy-prone GPT-4o model",
-      "link": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/",
-      "author": "Amanda Silberling",
-      "date": "2026-02-13T10:10:00-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-      "category": "",
-      "content": "Starting Friday, OpenAI willcease providing accessto five legacy ChatGPT models, including the popular but controversial GPT-4o model.\n\nThe 4o model has been at the center of a number oflawsuitsconcerning user self-harm, delusional behavior, and AIpsychosis. It remains OpenAI’shighest scoring model for sycophancy.\n\nIn addition to GPT-4o, the GPT-5, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini models have also been deprecated.\n\nOpenAI intended to retire GPT-4o in August, when it unveiled theGPT-5 model. But at the time, there was enough backlash for OpenAI to keep the legacy model available for paid subscribers, who could manually choose to interact with that model. In a recent blog post, OpenAI noted that only 0.1% of customers have been using GPT-4o, but for a company with800 million weekly active users, that small percentage still amounts to 800,000 people.\n\nThousands of users haverallied against the retirement of 4o, citing their close relationships with the model.",
-      "excerpt": "Starting Friday, OpenAI willcease providing accessto five legacy ChatGPT models, including the popular but controversial GPT-4o model.\n\nThe 4o model has been at the center of a number oflawsuitsconcerning user self-harm, delusional behavior, and AIpsychosis. It remains OpenAI’shighest scoring model ",
+      "title": "Sex toys maker Tenga says hacker stole customer information",
+      "link": "https://techcrunch.com/2026/02/13/sex-toys-maker-tenga-says-hacker-stole-customer-information/",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "date": "2026-02-13T12:19:05-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/eggplant-blue-background.jpg?resize=1200,800",
+      "category": "Security",
+      "content": "Sex toy maker Tenga notified customers of a data breach on Friday, according to an email obtained by TechCrunch.\n\nIn the message, the Japanese company said that “an unauthorized party gained access to the professional email account of one of our employees,” which gave the hacker access to the contents of the employee’s inbox. This access potentially allowed the hacker to see and steal customer names, email addresses, and historical email correspondence, “which may include order details or customer service inquiries.”\n\nThe hacker also sent spam emails to the hacked employee’s contacts, including customers, according to the email sent to customers.\n\nTenga did not respond to a request for comment and to provide more information, such as the total number of customers affected. The company says on its website that it has shipped over 162 million products worldwide.\n\nOrder details and customer service inquiries are likely to include intimate information that many customers probably wouldn’t want to disclose, given the nature of the products in question.\n\nThe company recommended customers to change their passwords, even though it did not say that customers’ passwords were compromised, and to be vigilant of suspicious emails, especially coming from a specific employee, who appears to be the one whose account was breached.\n\nTenga said it took several measures after the breach, including resetting the hacked employee’s credentials and enabling “across our systems,” a basic security feature calledmulti-factor authentication, which prevents access to accounts with stolen passwords. The company did not respond when it was asked if there was no multi-factor on the email account prior to this breach.\n\nTenga was founded in 2005 in Japan, and is headquartered in Tokyo. Tenga sells a variety of sex toys, mostly for men. It’s unclear if the breach affected customers outside of the United States, given that the email came explicitly from Tenga Store USA.\n\nTenga is the latest in a long ",
+      "excerpt": "Sex toy maker Tenga notified customers of a data breach on Friday, according to an email obtained by TechCrunch.\n\nIn the message, the Japanese company said that “an unauthorized party gained access to the professional email account of one of our employees,” which gave the hacker access to the conten",
       "tags": [
         "Apple",
         "Amazon",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "Roku to launch streaming bundles as part of its efforts to continue growing its profitability",
-      "link": "https://techcrunch.com/2026/02/13/roku-to-launch-streaming-bundles-as-part-of-its-efforts-to-continue-growing-its-profitability/",
-      "author": "Lauren Forristal",
-      "date": "2026-02-13T08:39:27-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/04/roku-logo.jpg?resize=1200,800",
-      "category": "Media & Entertainment",
-      "content": "Roku shared itsfourth-quarter earningsfor 2025 this week, as well as some exciting plans in the pipeline. The company is rolling out new streaming bundles, expanding its $3 subscription service, Howdy, to more platforms, and partnering with more premium streaming services following the successful addition of HBO Max.\n\nLaunching bundles in 2026 is a smart move, as it could attract more viewers looking for enticing deals amid rising subscription prices. Many streaming platforms have been increasing their rates recently, and Roku aims to appeal to cost-conscious consumers. The positive impact of HBO Max on Roku’s premium subscriptions has encouraged the company to continue this strategy by adding more top-tier partners, which is likely to drive growth going forward.\n\nAdditionally, Rokulaunchedits ad-free subscription streaming service, Howdy, last year and plans to expand its availability beyond the Roku platform. While specific details remain undisclosed, Roku CEO Anthony Woodstated at CES last monththat the goal is to distribute Howdy widely, saying, “We want to distribute it everywhere.”\n\nOther highlights include Roku users streaming 145.6 billion hours of video in 2025, marking a 15% increase from 2024. The company is also nearing the milestone of 100 million streaming households, though it has decided to report this figure less frequently.\n\nFinancially, Roku delivered an impressive quarter, posting net income of $80.5 million, a rebound from a $35.5 million loss in the same period last year. Total revenue for Q4 2025 reached $1.4 billion, representing a 16% year-over-year increase.\n\nLooking ahead, Roku is optimistic, projecting total net revenue of $5.5 billion and gross profit of $2.4 billion.\n\n“In 2023, our priority was to rightsize our cost structure and reach adjusted EBITDA breakeven in 2024, and we achieved that goal a full year ahead of schedule,” Wood told investors during the call yesterday afternoon. “Looking ahead to 2026 and beyond, we are confident in",
-      "excerpt": "Roku shared itsfourth-quarter earningsfor 2025 this week, as well as some exciting plans in the pipeline. The company is rolling out new streaming bundles, expanding its $3 subscription service, Howdy, to more platforms, and partnering with more premium streaming services following the successful ad",
+      "title": "OpenAI removes access to sycophancy-prone GPT-4o model",
+      "link": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/",
+      "author": "Amanda Silberling",
+      "date": "2026-02-13T10:10:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+      "category": "",
+      "content": "Starting Friday, OpenAI willcease providing accessto five legacy ChatGPT models, including the popular but controversial GPT-4o model.\n\nThe 4o model has been at the center of a number oflawsuitsconcerning user self-harm, delusional behavior, and AIpsychosis. It remains OpenAI’shighest scoring model for sycophancy.\n\nIn addition to GPT-4o, the GPT-5, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini models have also been deprecated.\n\nOpenAI intended to retire GPT-4o in August, when it unveiled theGPT-5 model. But at the time, there was enough backlash for OpenAI to keep the legacy model available for paid subscribers, who could manually choose to interact with that model. In a recent blog post, OpenAI noted that only 0.1% of customers have been using GPT-4o, but for a company with800 million weekly active users, that small percentage still amounts to 800,000 people.\n\nThousands of users haverallied against the retirement of 4o, citing their close relationships with the model.",
+      "excerpt": "Starting Friday, OpenAI willcease providing accessto five legacy ChatGPT models, including the popular but controversial GPT-4o model.\n\nThe 4o model has been at the center of a number oflawsuitsconcerning user self-harm, delusional behavior, and AIpsychosis. It remains OpenAI’shighest scoring model ",
       "tags": [
         "Apple",
         "Amazon",
