@@ -1,6 +1,74 @@
 {
-  "last_updated": "2026-02-13T15:45:45.967446+00:00",
+  "last_updated": "2026-02-13T16:53:00.474898+00:00",
   "articles": [
+    {
+      "title": "A Stanford grad student created an algorithm to help his classmates find love; now, Date Drop is the basis of his new startup",
+      "link": "https://techcrunch.com/2026/02/13/a-stanford-grad-student-created-an-algorithm-to-help-his-classmates-find-love-now-date-drop-is-the-basis-of-his-new-startup/",
+      "author": "Amanda Silberling",
+      "date": "2026-02-13T08:24:53-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/headshot.jpg?resize=898,1200",
+      "category": "Apps",
+      "content": "As Valentine’s Day approaches at Stanford, some students may be gearing up for first dates — not with people they met on Tinder or Hinge, but with matches from a service calledDate Drop, designed by Stanford graduate student Henry Weng. Date Drop pairs students with potential dates once per week based on their responses to a questionnaire.\n\nA Stanford whiz kid is trying to disrupt an established industry from his Palo Alto dorm?Stop meifyou’ve heard thisonebefore! But young adults are deeplydisillusionedwith the frustrating, demoralizingstate of online dating. Why not try something different?\n\nOver 5,000 students at Stanford have given Date Drop a try since its launch in the fall. It has also rolled out at 10 more schools, including MIT, Princeton, and the University of Pennsylvania, and Weng says he wants to roll out Date Drop more broadly in some cities this summer.\n\n“Our matches convert to actual dates at about 10x the rate of Tinder,” Weng told TechCrunch. “Instead of swiping, we get to know each person deeply and send them one compatible match per week.”\n\nAt first, Weng didn’t intend to turn Date Drop into the foundation of a startup. Then, a close friend of his met their partner via Date Drop. “That was when I got the sense that this was less of a project,” he said.\n\nNow, Weng thinks of Date Drop as just the first service from his startup, theRelationship Company, which is a public benefit corporation — — a type of company legally required to consider social impact alongside profits.\n\n“This started as something I just wanted to exist on campus, and it became a company because people kept on asking for it in their schools and I needed resources to do that,” he said.\n\nAlready, Weng has raised “a few million” from some angel investors, including Zynga founder and early Facebook backer Mark Pincus, who has taught business courses at Stanford (including to Weng). Andy Chen, a former partner at Coatue, and Elad Gil, an early backer of Airbnb, Stripe, and Pinterest, ",
+      "excerpt": "As Valentine’s Day approaches at Stanford, some students may be gearing up for first dates — not with people they met on Tinder or Hinge, but with matches from a service calledDate Drop, designed by Stanford graduate student Henry Weng. Date Drop pairs students with potential dates once per week bas",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Fusion startup Helion hits blistering temps as it races toward 2028 deadline",
+      "link": "https://techcrunch.com/2026/02/13/fusion-startup-helion-hits-blistering-temps-as-it-races-toward-2028-deadline/",
+      "author": "Tim De Chant",
+      "date": "2026-02-13T02:00:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Helion-Polaris-D-T.jpeg?resize=1200,800",
+      "category": "Climate",
+      "content": "The Everett, Washington-based fusion energy startup Helion announced Friday that it has hit a key milestone in its quest for fusion power. Plasmas inside the company’s Polaris prototype reactor have reached 150 million degrees Celsius, three-quarters of the way toward what the company thinks it will need to operate a commercial fusion power plant.\n\n“We’re obviously really excited to be able to get to this place,” David Kirtley, Helion’s co-founder and CEO, told TechCrunch.\n\nPolaris is also operating using deuterium-tritium fuel — a mixture of two hydrogen isotopes — which Kirtley said makes Helion the first fusion company to do so. “We were able to see the fusion power output increase dramatically as expected in the form of heat,” he said.\n\nThe startup is locked in a race with several other companies that are seeking to commercialize fusion power, a potentially unlimited source of clean energy.\n\nThat potential has investors rushing to bet on the technology. This week, Inertia Enterprises announced a$450 million Series Around that included Bessemer and GV. In January, Type One Energy told TechCrunch it was in themidst of raising $250 million, while last summer Commonwealth Fusion Systems raised$863 millionfrom investors including Google and Nvidia. Helion itself raised$425 millionlast year from a group that included Sam Altman, Mithril, Lightspeed, and SoftBank.\n\nWhile most other fusion startups are targeting the early 2030s to put electricity on the grid, Helion has a contract with Microsoft to sell it electricity starting in 2028, though that power would come from a larger commercial reactor called Orion that the company is currently building, not Polaris.\n\nEvery fusion startup has its own milestones based on the design of its reactor. Commonwealth Fusion Systems, for example, needs to heat its plasmas to more than 100 million degrees C inside of its tokamak, a doughnut-shaped device that uses powerful magnets to contain the plasma.\n\nHelion’s reactor is different, ",
+      "excerpt": "The Everett, Washington-based fusion energy startup Helion announced Friday that it has hit a key milestone in its quest for fusion power. Plasmas inside the company’s Polaris prototype reactor have reached 150 million degrees Celsius, three-quarters of the way toward what the company thinks it will",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Dutch phone giant Odido says millions of customers affected by data breach",
+      "link": "https://techcrunch.com/2026/02/13/dutch-phone-giant-odido-says-millions-of-customers-affected-by-data-breach/",
+      "author": "Zack Whittaker",
+      "date": "2026-02-13T07:54:13-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/odido.jpg?resize=1200,810",
+      "category": "Security",
+      "content": "Dutch phone company Odido has confirmed a data breach affected millions of its customers.\n\nThe company said in astatementThursday that unidentified hackers gained access to its customer contact system and covertly downloaded reams of customer information. A spokesperson for Odido toldlocal Dutch mediathat the breach affects more than 6.2 million customers, or about a third of the country’s population.\n\nThe stolen data includes customer names, phone numbers, postal and email addresses, dates of birth, bank account numbers (IBAN), and details of customers’ government-issued IDs, such as passport or driver’s license numbers and dates of validity.\n\nThe company said former customers who had service within the past two years may also be affected.\n\nOdido said the data did not include customer call records, location data, billing information, or image scans of government IDs. The data does not affect business customers, the company said.\n\nThe breach affects customers of both Odido and itssubsidiary Ben NL. Both companies said that their phone, internet, and television operations were unaffected by the breach.\n\nThis is the latest in a series of data thefts targeting phone and telecommunication giants in recent years, as governments and financially motivated hackers continue to seek highly confidential information that telcos have on their customers.\n\nEarlier this week, the Singaporean governmentconfirmedthat a China-related hacking group had previously broken into four of the country’s top phone giants as part of a surveillance operation, but did not access customers’ personal information.\n\nAll the while, hackers associated with the China-backed threat group known as Salt Typhoon have hacked hundreds of phone companies around the world, including inCanada,Norway, theUnited Kingdom, and theUnited States, as part of an ongoing espionage campaign aimed at spying on senior government officials and diplomats.",
+      "excerpt": "Dutch phone company Odido has confirmed a data breach affected millions of its customers.\n\nThe company said in astatementThursday that unidentified hackers gained access to its customer contact system and covertly downloaded reams of customer information. A spokesperson for Odido toldlocal Dutch med",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Waymo is asking DoorDash drivers to shut the doors of its self-driving cars",
+      "link": "https://techcrunch.com/2026/02/12/waymo-is-asking-doordash-drivers-to-shut-the-doors-of-its-self-driving-cars/",
+      "author": "Amanda Silberling",
+      "date": "2026-02-12T20:41:41-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?resize=1200,800",
+      "category": "Transportation",
+      "content": "It still feels like a technological marvel: Waymo’s autonomous cars are now transporting passengers across six cities. Alas, this driverless future comes with its own set of problems. These vehicles can be rendered inert if a passenger accidentally leaves the door open.\n\nAccording toa Reddit post, one DoorDash driver discovered this issue when an odd request appeared in their queue. Instead of making a delivery, the driver was offered $6.25 to drive less than one mile to a Waymo vehicle and close its door. After “verified completion,” they would get an extra $5.\n\n“You actually ‘door’ dashed,” one commenter noted.\n\nIt seems too ironic to be real. Waymo vehicles represent technological breakthroughs that once seemed unfathomable. The Alphabet-owned company just raised$16 billionto take its driverless cars international!\n\nBut Waymo and DoorDash confirmed to TechCrunch that this Reddit post is legitimate. This is, in fact, a real problem.\n\n“Waymo is currently running a pilot program in Atlanta to enhance its AV fleet efficiency. In the rare event a vehicle door is left ajar, preventing the car from departing, nearby Dashers are notified, allowing Waymo to get its vehicles back on the road quickly,” Waymo and DoorDash said in a joint response. (The door-closing partnership, which beganearlier this year, is just one facet of Waymo and DoorDash’s broader relationship. In October, the companies launched an autonomous delivery service in Phoenix, where Waymo vehicles deliver food and groceries to DoorDash customers.)\n\nIf a Waymo door is left open, it’s worth it to the company to pay someone to close it — the car cannot complete any more rides if it’s left immobile. Not to mention, an unmoving car could block the flow of traffic.\n\nThis isn’t the first time Waymo has enlisted help with its door troubles. In Los Angeles, Waymo works withHonk, an app that’s like Uber for towing services. According to reports, Honk users in L.A. have been offeredup to $24to close a Waymo door — m",
+      "excerpt": "It still feels like a technological marvel: Waymo’s autonomous cars are now transporting passengers across six cities. Alas, this driverless future comes with its own set of problems. These vehicles can be rendered inert if a passenger accidentally leaves the door open.\n\nAccording toa Reddit post, o",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
     {
       "title": "Musk needed a new vision for SpaceX and xAI. He landed on Moonbase Alpha.",
       "link": "https://techcrunch.com/2026/02/12/musk-needed-a-new-vision-for-spacex-and-xai-he-landed-on-moonbase-alpha/",
@@ -70,14 +138,14 @@
       ]
     },
     {
-      "title": "Automattic planned to target 10 competitors with royalty fees, WP Engine claims in new filing",
-      "link": "https://techcrunch.com/2026/02/12/automattic-planned-to-target-10-competitors-with-royalty-fees-wp-engine-claims-in-new-filing/",
-      "author": "Sarah Perez",
-      "date": "2026-02-12T11:02:07-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/11/wordpress-automattic-v1.jpg?resize=1200,800",
-      "category": "Commerce",
-      "content": "Web hosting company WP Engine has filed an amended complaint with brow-raising new allegations in itsongoing legal battlewith WordPress co-founder Matt Mullenweg and his company Automattic (WordPress.com’s parent company). The company now claims that Mullenweg intended to target 10 different hosting companies with royalty payments for their use of the WordPress trademark and tried to get payment processor Stripe to cancel its contract with WP Engine.\n\nAt the heart of the dispute, Mullenweg believes WP Engine isprofitingfrom the open source WordPress project without contributing back to the community, and demanded the hosting company pay 8% of its monthly gross revenues as a royalty fee for using the WordPress brand.\n\nThe suit,originally filedby WP Engine inOctober 2024, accused Automattic and Mullenweg ofdefamation and abuse of power. Automattic filed itscounterclaimslast year, alleging that the hosting company has been abusing the WordPress trademark and engaging in deceptive marketing practices.\n\nIn this latest filing, WP Engine has amended its complaint for the third time after gaining access to information that was uncovered during the discovery process. The information, now unredacted, had been previously sealed at Automattic’s request.\n\nNotably, one of the new claims accuses Automattic of allegedly planning to target 10 other competitors with royalty claims similar to those aimed at WP Engine.\n\nThe complaint also states that Newfold, a company whose portfolio includes hosting providers like Bluehost and HostGator, among others, is already paying Automattic for use of its trademarks and that Automattic is in conversations with others. (Names of the other hosts were redacted in the complaint, which referenced email conversations between those companies and Mullenweg.)\n\nWP Engine is also alleging that Mullenweg reached out to a Stripe executive via email to pressure the company to cancel WP Engine’s contract. This occurred after WP Engine had filed its lawsuit ag",
-      "excerpt": "Web hosting company WP Engine has filed an amended complaint with brow-raising new allegations in itsongoing legal battlewith WordPress co-founder Matt Mullenweg and his company Automattic (WordPress.com’s parent company). The company now claims that Mullenweg intended to target 10 different hosting",
+      "title": "Roku to launch streaming bundles as part of its efforts to continue growing its profitability",
+      "link": "https://techcrunch.com/2026/02/13/roku-to-launch-streaming-bundles-as-part-of-its-efforts-to-continue-growing-its-profitability/",
+      "author": "Lauren Forristal",
+      "date": "2026-02-13T08:39:27-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/04/roku-logo.jpg?resize=1200,800",
+      "category": "Media & Entertainment",
+      "content": "Roku shared itsfourth-quarter earningsfor 2025 this week, as well as some exciting plans in the pipeline. The company is rolling out new streaming bundles, expanding its $3 subscription service, Howdy, to more platforms, and partnering with more premium streaming services following the successful addition of HBO Max.\n\nLaunching bundles in 2026 is a smart move, as it could attract more viewers looking for enticing deals amid rising subscription prices. Many streaming platforms have been increasing their rates recently, and Roku aims to appeal to cost-conscious consumers. The positive impact of HBO Max on Roku’s premium subscriptions has encouraged the company to continue this strategy by adding more top-tier partners, which is likely to drive growth going forward.\n\nAdditionally, Rokulaunchedits ad-free subscription streaming service, Howdy, last year and plans to expand its availability beyond the Roku platform. While specific details remain undisclosed, Roku CEO Anthony Woodstated at CES last monththat the goal is to distribute Howdy widely, saying, “We want to distribute it everywhere.”\n\nOther highlights include Roku users streaming 145.6 billion hours of video in 2025, marking a 15% increase from 2024. The company is also nearing the milestone of 100 million streaming households, though it has decided to report this figure less frequently.\n\nFinancially, Roku delivered an impressive quarter, posting net income of $80.5 million, a rebound from a $35.5 million loss in the same period last year. Total revenue for Q4 2025 reached $1.4 billion, representing a 16% year-over-year increase.\n\nLooking ahead, Roku is optimistic, projecting total net revenue of $5.5 billion and gross profit of $2.4 billion.\n\n“In 2023, our priority was to rightsize our cost structure and reach adjusted EBITDA breakeven in 2024, and we achieved that goal a full year ahead of schedule,” Wood told investors during the call yesterday afternoon. “Looking ahead to 2026 and beyond, we are confident in",
+      "excerpt": "Roku shared itsfourth-quarter earningsfor 2025 this week, as well as some exciting plans in the pipeline. The company is rolling out new streaming bundles, expanding its $3 subscription service, Howdy, to more platforms, and partnering with more premium streaming services following the successful ad",
       "tags": [
         "Apple",
         "Amazon",
@@ -87,82 +155,14 @@
       ]
     },
     {
-      "title": "Aurora’s driverless trucks can now travel farther distances faster than human drivers",
-      "link": "https://techcrunch.com/2026/02/12/auroras-driverless-trucks-can-now-travel-farther-distances-faster-than-human-drivers/",
-      "author": "Kirsten Korosec",
-      "date": "2026-02-12T09:58:30-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/05/Aurora-Launch-6-e1746107306339.jpg?resize=1200,886",
-      "category": "Transportation",
-      "content": "Aurora’s self-driving trucks can now travel nonstop on a 1,000-mile route between Fort Worth and Phoenix — exceeding what a human driver can legally accomplish.\n\nThe distance, and the time it takes to travel it, offers up positive financial implications for Aurora — and any other company hoping to commercialize self-driving semitrucks.\n\nIt takes Aurora about 15 hours to carry freight in its driverless trucks on the 1,000-mile journey, according to the company. Human truck drivers take much longer to complete the same distance due to federal regulations that limit how long they can be behind the wheel. For instance, truck drivers must stop for a 30-minute break after eight hours and can operate a semitruck for a maximum of 11 hours at a time, according to federal regulations. Once drivers hit that threshold, they cannot get behind the wheel for another 10 hours.\n\n“This represents more than a technological achievement,” Aurora co-founder and CEO Chris Urmson said during the company’s earnings call Wednesday afternoon. “It is the dawn of a superhuman future for freight.”\n\nIt also offers compelling economics to its customers, which includes Uber Freight, Werner, FedEx, and Schneider. The company said that eventually it can cut transit times nearly in half, a stat that has won over companies like Hirschbach, an early customer on the Fort Worth-to-Phoenix route.\n\nAurora said in aletter to shareholdersthat it is poised to expand across the Sun Belt of the United States. Today, the company operates driverless trucks — some with a human observer still in the cab — on routes between Dallas and Houston, Fort Worth and El Paso, El Paso and Phoenix, Fort Worth and Phoenix, and Laredo and Dallas.\n\nThe expansion has helped Aurora transition from a developer of autonomous trucks to a commercial operator who is earning money on its driverless routes.\n\nAurora has brought in revenue since April 2025 when it firstdeployed driverless, heavy-duty trucks for commercial useon public roads.",
-      "excerpt": "Aurora’s self-driving trucks can now travel nonstop on a 1,000-mile route between Fort Worth and Phoenix — exceeding what a human driver can legally accomplish.\n\nThe distance, and the time it takes to travel it, offers up positive financial implications for Aurora — and any other company hoping to c",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Hacker linked to Epstein removed from Black Hat cyber conference website",
-      "link": "https://techcrunch.com/2026/02/12/hacker-linked-to-epstein-removed-from-black-hat-cyber-conference-website/",
-      "author": "Lorenzo Franceschi-Bicchierai",
-      "date": "2026-02-12T11:15:04-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/jeffrey-epstein_8ef3e8.jpg?resize=1200,800",
-      "category": "Security",
-      "content": "Vincenzo Iozzo, a renowned hacker linked to convicted sex offender Jeffrey Epstein, is no longer listed on the website of Black Hat, one of the largest cybersecurity conferences in the world, nor on the Japanese security conference Code Blue.\n\nAs of Thursday, Iozzo does not appear on the official review board pages ofBlack HatorCode Blue. He was still listed on both pages as of last week. Iozzo had been on the Black Hat review board since 2011, according to his LinkedIn profile.\n\nIn a statement shared with TechCrunch through a spokesperson, Iozzo said he told Black Hat that he “will not willingly resign” and welcomed “a full investigation.”\n\nSpokespeople for Black Hat did not respond to requests for comment.\n\nIozzo, currently the founder and chief executive of cybersecurity startup SlashID, has had a long career in the industry. Iozzo authored one of the first manuals for hackers researching Apple’s mobile software, and in 2015, founded cybersecurity startup IperLane, which was later bought by CrowdStrike, leading him to serve as a senior director at the company for almost four years.\n\nIozzo’s name appears in more than 2,300 documents, some of which containseveral emails, released on January 30 as part of the Department of Justice’s legally required effort to publish materials from its investigation into the late financier and sex trafficker.\n\nIozzo’s interactions with Epstein span from October 2014 until December 2018. In late 2018, the Miami Heraldpublished news storiesdetailing allegationsthat Epsteinabused more than 60 women, some of them teenage girls.\n\nAfter these stories were published, newly releasedemails showIozzo was trying to meet with Epstein at his New York town house.\n\nContact UsDo you have more information about Epstein’s connections in the cybersecurity world?? From a non-work device, you can contact Lorenzo Franceschi-Bicchierai securely on Signal at +1 917 257 1382, or via Telegram, Keybase and Wire @lorenzofb, orby email.\n\nAmong the new material ",
-      "excerpt": "Vincenzo Iozzo, a renowned hacker linked to convicted sex offender Jeffrey Epstein, is no longer listed on the website of Black Hat, one of the largest cybersecurity conferences in the world, nor on the Japanese security conference Code Blue.\n\nAs of Thursday, Iozzo does not appear on the official re",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "US FTC airs concerns over allegations that Apple News suppresses right-wing content",
-      "link": "https://techcrunch.com/2026/02/12/us-ftc-airs-concerns-over-allegations-that-apple-suppresses-right-wing-content-on-apple-news/",
-      "author": "Ram Iyer",
-      "date": "2026-02-12T06:40:03-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2193735641.jpg?w=1024",
-      "category": "Government & Policy",
-      "content": "The U.S. Federal Trade Commission (FTC) has raised concerns over allegations that Apple is censoring conservative content on the Apple News app.\n\nIn aletterto Apple CEO Tim Cook, FTC chair Andrew Ferguson citedreportsfrom Media Research Center, a right-leaning think tank, which accused Apple of excluding right-leaning outlets from the top 20 articles in the Apple News feed.\n\n“These reports raise serious questions about whether Apple News is acting in accordance with its terms of service and its representations to consumers […] I abhor and condemn any attempt to censor content for ideological reasons,” Ferguson’s letter reads.\n\nFerguson, a Big Tech critic who Trump appointed to lead the competition regulator, noted the FTC doesn’t have any powers to require Apple to take ideological or political positions when curating news, but he said that if the company’s practices are “inconsistent” its terms of service or “reasonable expectations of consumers,” they may be in violation of the FTC Act.\n\nBrendan Carr, the chairman of the Federal Communications Commission (another Trump appointee critical of Big Tech),supportedFerguson’s stance, writing, “Apple has no right to suppress conservative viewpoints in violation of the FTC Act.”\n\nFerguson has urged Apple to conduct a “comprehensive review” of its terms of service and ensure that the content curated on Apple News is consistent with its policies, and “take corrective action swiftly” if the curation isn’t in line.\n\nThe letter comes a day after President Donald Trumpsharedthe report by Media Research Center on his social media platform, Truth Social. Trump has repeatedly accused Big Tech companies of censoring right-leaning content, though many major platforms have rolled back several measures to curb fake news and disinformation they had imposed in the years prior to his second stint at the White House.\n\nApple’s relationship with the Trump administration has oscillated between warm and cold over the past year. Trump has crit",
-      "excerpt": "The U.S. Federal Trade Commission (FTC) has raised concerns over allegations that Apple is censoring conservative content on the Apple News app.\n\nIn aletterto Apple CEO Tim Cook, FTC chair Andrew Ferguson citedreportsfrom Media Research Center, a right-leaning think tank, which accused Apple of excl",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Amazon’s Ring cancels partnership with Flock, a network of AI cameras used by ICE, feds, and police",
-      "link": "https://techcrunch.com/2026/02/13/amazons-ring-cancels-partnership-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/",
-      "author": "Amanda Silberling",
-      "date": "2026-02-13T07:40:15-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/flock-camera-sf-surveillance-2157492329.jpg?resize=1200,794",
-      "category": "Security",
-      "content": "Ring, the Amazon-owned home security company,announcedon Thursday that it will no longer partner withFlock Safety, a maker of AI-powered surveillance cameras that share footage with law enforcement.\n\nThe two companies announceda dealin October, which would have allowed Ring doorbell users to share footage with Flock and its network of public safety agencies to assist with “evidence collection and investigative work.” As reported by404 Media, Flock’s footage has been used by Immigration and Customs Enforcement (ICE), the Secret Service, and the Navy, which all have had access to Flock’s tens of thousands of AI-enabled cameras. (Flock maintains that itdoes not explicitlywork with ICE.)\n\nRing wrote in a blog post that it made a joint decision with Flock to cancel the partnership because the integration would “require significantly more time and resources than anticipated.”\n\nThis news comes less than a week afterRing’s Super Bowl adaired, which showed how its AI-powered Search Party feature could use a network of neighborhood cameras to find lost dogs. The adstoked controversyfrom viewers who worried that this technology could be leveraged against humans.\n\nA Ring spokesperson hasstatedthat this technology is “not capable of processing human biometrics.”\n\nBut this technology is not dissimilar from that of Flock. Using footage from Flock cameras, Flock’s government and police partners can make natural language searches of their video footage to find people who match specific descriptions. When this AI-powered technology is used by law enforcement, it has been shown toexacerbateracial biases.\n\nRing even rolled outa facial recognitionfeature in December called “Familiar Faces,” which allows users to catalog the faces of people who often visit their homes — that way, they might get a notification that says “Mom at Front Door,” rather than “a person is at your door.”\n\nThis technology is being marketed to consumersduring a time in the United Stateswhen people are especially co",
-      "excerpt": "Ring, the Amazon-owned home security company,announcedon Thursday that it will no longer partner withFlock Safety, a maker of AI-powered surveillance cameras that share footage with law enforcement.\n\nThe two companies announceda dealin October, which would have allowed Ring doorbell users to share f",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Cohere’s $240M year sets stage for IPO",
-      "link": "https://techcrunch.com/2026/02/13/coheres-240m-year-sets-stage-for-ipo/",
+      "title": "Elon Musk suggests spate of xAI exits have been push, not pull",
+      "link": "https://techcrunch.com/2026/02/13/senior-engineers-including-co-founders-exit-xai-amid-controversy/",
       "author": "Rebecca Bellan",
-      "date": "2026-02-13T07:03:10-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1251294520.jpg?w=1024",
-      "category": "",
-      "content": "As the top AI labs likeGoogle,Anthropic, andOpenAIchase enterprise adoption, Canadian AI startup Cohere has been quietly cleaning up.\n\nThe startup told investors in a memo that it surpassed its $200 million annual recurring revenue target in 2025, hitting $240 million with quarter-over-quarter growth of more than 50% throughout the year,per CNBC.\n\nCohere was founded in 2019 and has thebacking of enterprise tech investorslike Nvidia, AMD, and Salesforce. The startup’s core tech is its Command family of generative AI models, which Cohere says are efficient enough to be deployed on limited GPUs — an attractive promise for enterprises looking to get a handle on cost and resource management.\n\nLast summer,Cohere launched North, a higher-level enterprise platform and AI workspace for secure, custom AI agents and workflows built on Cohere’s models.\n\nCohere’s CEO Aidan Gomez said last October that the startup may IPO “soon.” If “soon” means in 2026, Cohere may be contending against OpenAI, Anthropic, and SpaceX/xAI, which are all reportedly weighing their own public debuts.\n\nTechCrunch has reached out to Cohere for comment.",
-      "excerpt": "As the top AI labs likeGoogle,Anthropic, andOpenAIchase enterprise adoption, Canadian AI startup Cohere has been quietly cleaning up.\n\nThe startup told investors in a memo that it surpassed its $200 million annual recurring revenue target in 2025, hitting $240 million with quarter-over-quarter growt",
+      "date": "2026-02-13T08:11:01-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2199701496.jpg?resize=1200,800",
+      "category": "AI",
+      "content": "Elon Musk is addressing a wave of departures from xAI, including two more co-founders who left this week, bringing the total to six out of the original 12.\n\nAt an all-hands meeting Tuesday night, Musk suggested the exits were about fit, not performance. “Because we’ve reached a certain scale, we’re organizing the company to be more effective at this scale,” he said,according to The New York Times. “And actually, when this happens, there’s some people who are better suited for the early stages of a company and less suited for the later stages.”\n\nWednesday afternoon on X, he went further, making clear these departuresweren’t voluntary. “xAI was reorganized a few days ago to improve speed of execution,” Musk wrote. “As a company grows, especially as quickly as xAI, the structure must evolve just like any living organism. This unfortunately required parting ways with some people.”\n\nHe added that the company is “hiring aggressively” and closed with a quintessentially Musk pitch: “Join xAI if the idea of mass drivers on the Moon appeals to you.”\n\nLosing half your co-founders in a relatively short period raises questions, and Musk’s comments seem designed to control the narrative, reframing the exits as necessary rather than a problem for the outfit.\n\nIn total, at least 11 engineers, including thetwo co-founders, have publicly announced their departure from xAI in the past week — though two of those exits appear to have occurred a few weeks ago.\n\nThree of the departing staff members have said they will be starting something new alongside other former xAI engineers, although no details are available about the new venture. Others have hinted at a desire for more autonomy and smaller teams to build frontier tech more rapidly, pointing to the anticipated surge in AI productivity.\n\nYuhuai (Tony) Wu, an xAI co-founder and reasoning lead,said in a postannouncing his resignation: “It’s time for my next chapter. It is an era with full possibilities: a small team armed with AIs can ",
+      "excerpt": "Elon Musk is addressing a wave of departures from xAI, including two more co-founders who left this week, bringing the total to six out of the original 12.\n\nAt an all-hands meeting Tuesday night, Musk suggested the exits were about fit, not performance. “Because we’ve reached a certain scale, we’re ",
       "tags": [
         "Apple",
         "Amazon",
