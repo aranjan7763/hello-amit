@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T17:41:06.211504+00:00",
+  "last_updated": "2026-02-13T18:55:16.787946+00:00",
   "articles": [
     {
       "title": "A Stanford grad student created an algorithm to help his classmates find love; now, Date Drop is the basis of his new startup",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "India partners with Alibaba.com for export push despite past China tech bans",
-      "link": "https://techcrunch.com/2026/02/13/india-partners-with-alibaba-com-for-export-push-despite-past-china-tech-bans/",
-      "author": "Jagmeet Singh",
-      "date": "2026-02-13T09:32:59-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/alibaba-com-jagmeet-singh-techcrunch.jpg?resize=1200,800",
-      "category": "Government & Policy",
-      "content": "India’s government has partnered with China’s Alibaba.com on an export-focused program aimed at helping startups and small businesses reach overseas buyers. The move highlights New Delhi’s selective engagement with Chinese-linked tech platforms years after itimposed sweeping banson consumer apps and games.\n\nThis week, the Indian government’s Startup India initiativeannouncedthe collaboration with Alibaba.com to identify and support Indian startups that can help onboard and scale Indian exporters on the group’s global B2B platform. The program offers commissions and technical support to those startups to assist small manufacturers and traders in reaching overseas markets.\n\nThe new partnership arrives after years of strained India–China relations. New Delhibanned dozens of Chinese-linked appsin 2020 following a deadly border clash, including major platforms such as TikTok, PUBG Mobile, and AliExpress, an e-commerce app operated by Alibaba Group. Those restrictions remain in place, making the Indian government’s public collaboration with Alibaba’s export-focused platform a carefully circumscribed form of engagement rather than a broader policy reset.\n\nIndia’s export ambitions are closely tied to its small businesses and the platforms they use to reach overseas markets. Micro, small, and medium enterprises account fornearly half of the country’s exportsand about 31% of GDP, according to the Indian government’s latest Economic Survey, underlining why New Delhi has focused on expanding digital market access for smaller firms through global B2B channels, including Alibaba.com.\n\nAlibaba.com’s B2B platform connects more than 50 million active buyers across over 200 countries and regions, said Rocky Lu, head of India business at the company.\n\n“Alibaba.com has been active in India for over two decades, and we remain dedicated to our core mission of empowering MSMEs to scale their businesses globally,” Lu told TechCrunch. “Our focus continues to be on leveraging our digital inf",
-      "excerpt": "India’s government has partnered with China’s Alibaba.com on an export-focused program aimed at helping startups and small businesses reach overseas buyers. The move highlights New Delhi’s selective engagement with Chinese-linked tech platforms years after itimposed sweeping banson consumer apps and",
+      "title": "OpenAI removes access to sycophancy-prone GPT-4o model",
+      "link": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/",
+      "author": "Amanda Silberling",
+      "date": "2026-02-13T10:10:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+      "category": "",
+      "content": "Starting Friday, OpenAI willcease providing accessto five legacy ChatGPT models, including the popular but controversial GPT-4o model.\n\nThe 4o model has been at the center of a number oflawsuitsconcerning user self-harm, delusional behavior, and AIpsychosis. It remains OpenAI’shighest scoring model for sycophancy.\n\nIn addition to GPT-4o, the GPT-5, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini models have also been deprecated.\n\nOpenAI intended to retire GPT-4o in August, when it unveiled theGPT-5 model. But at the time, there was enough backlash for OpenAI to keep the legacy model available for paid subscribers, who could manually choose to interact with that model. In a recent blog post, OpenAI noted that only 0.1% of customers have been using GPT-4o, but for a company with800 million weekly active users, that small percentage still amounts to 800,000 people.\n\nThousands of users haverallied against the retirement of 4o, citing their close relationships with the model.",
+      "excerpt": "Starting Friday, OpenAI willcease providing accessto five legacy ChatGPT models, including the popular but controversial GPT-4o model.\n\nThe 4o model has been at the center of a number oflawsuitsconcerning user self-harm, delusional behavior, and AIpsychosis. It remains OpenAI’shighest scoring model ",
       "tags": [
         "Apple",
         "Amazon",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10",
-      "link": "https://techcrunch.com/2026/02/13/anthropics-super-bowl-ads-mocking-ai-with-ads-helped-push-claudes-app-into-the-top-10/",
-      "author": "Sarah Perez",
-      "date": "2026-02-13T09:16:27-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Claude-app-gettyImages-2216579136.jpg?w=1024",
-      "category": "Apps",
-      "content": "Anthropic’sSuper Bowl ads— which feature darkly comedic scenarios of people seeking advice from chatbots, only to be steered to “cougar” dating sites and height-boosting insoles — have been paying off. In the days since, Anthropic’s AI chatbot Claude has climbed from No. 41 on the U.S. App Store to become a top 10 app. As of Friday, Claude sits at No. 7 — its highest rank to date — suggesting its “no ads” pitch resonates strongly with users.\n\nAccording to new data from market intelligence providerAppfigures, Claude’s U.S. downloads across both iOS and Android totaled an estimated 148,000 from Sunday through Tuesday — the most recent data available. That’s a 32% increase from the preceding three days, Thursday through Saturday, where downloads totaled approximately 112,000.\n\nClaude’s daily average number of downloads from Sunday through Tuesday was 49,200, up 32% from the usual Sunday through Tuesday average of 37,400 per day.\n\nThe numbers suggest that Anthropic’s Super Bowl commercials, combined with Anthropic’s recentrelease of its new Opus 4.6 model, worked to drive attention to Claude’s app and its key differentiator from ChatGPT. The latterrolled out ads to free usersthis week, just as Anthropic’s ads had warned.\n\nAs a result, Claude’s app is gaining more attention than it did when it first debuted on mobile.\n\nThe consumer-focused AI apparrived on iOS in May 2024to a fairly tepid reception. ChatGPT had beaten it to market on mobile devices and had grown tonearly half a million installsin its first five days. By comparison, Claude had only pulled in 157,000 total global downloads within its first week and didn’t reach a rank higher than No. 55 on the U.S. App Store.\n\nGlobally, Claude saw some gains this past week, too. Overall worldwide downloads of Claude across both the App Store and Google Play grew 15% from Sunday to Tuesday versus last Thursday to Saturday. However, this was less than half the gains seen in the U.S., Appfigures noted.",
-      "excerpt": "Anthropic’sSuper Bowl ads— which feature darkly comedic scenarios of people seeking advice from chatbots, only to be steered to “cougar” dating sites and height-boosting insoles — have been paying off. In the days since, Anthropic’s AI chatbot Claude has climbed from No. 41 on the U.S. App Store to ",
+      "title": "The SEC closed its investigation into Fisker",
+      "link": "https://techcrunch.com/2026/02/13/the-sec-closed-its-investigation-into-fisker/",
+      "author": "Sean O'Kane",
+      "date": "2026-02-13T09:48:43-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/07/fisker-ocean-black.jpg?resize=1200,763",
+      "category": "Transportation",
+      "content": "The Securities and Exchange Commission closed its investigation into bankrupt electric vehicle startup Fisker  last September, roughlyone year after the probe was opened.\n\nTechCrunch learned the investigation was closed when the financial regulator responded to a Freedom of Information Act (FOIA) request in January. The SEC’s FOIA department said it had identified “approximately 21.7 gigabytes of electronically maintained records” related to the investigation. The agency doesn’t typically make records available if investigations are still open, and it explained in a follow-up email that it “was closed in September 2025.”\n\nIt’s not clear how far the investigation progressed. The SECrevealed the existence of the probein an October 2024 filing in Fisker’s bankruptcy case. The agency wrote at the time that it had sent subpoenas to the company and that it may need to “request or subpoena additional documents in the future relating to its ongoing investigation.”\n\nA spokesperson for the agency declined to comment. Founder and former CEO Henrik Fisker did not respond to a message seeking comment.\n\nThe closure of the Fisker investigation comes amid a significant drop in enforcement actions and settlements during President Trump’s second term. The SEC initiated 313 enforcement actions in 2025 — the lowest in a decade and down 27% from the the final year of President Biden’s term, according toan analysis by law firm Paul, Weiss. Only four of those enforcement actions were against public companies. Total monetary settlements fell 45% from 2024.\n\nFisker was one of the last remaining electric vehicle startups under investigation by the SEC. Over the last few years, the agency settled fraud or other charges brought againstNikola,Lordstown Motors,Canoo,Hyzon Motors, and others. In 2023, itclosed an investigationinto Lucid Motors without a lawsuit.\n\nThe only known active investigation remaining into an electric vehicle startup is the one related to Faraday Future, which is now nearl",
+      "excerpt": "The Securities and Exchange Commission closed its investigation into bankrupt electric vehicle startup Fisker  last September, roughlyone year after the probe was opened.\n\nTechCrunch learned the investigation was closed when the financial regulator responded to a Freedom of Information Act (FOIA) re",
       "tags": [
         "Apple",
         "Amazon",
