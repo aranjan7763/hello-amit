@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T21:39:33.617273+00:00",
+  "last_updated": "2026-02-13T22:36:46.503350+00:00",
   "articles": [
     {
       "title": "The SEC closed its investigation into Fisker",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "Fintech lending giant Figure confirms data breach",
-      "link": "https://techcrunch.com/2026/02/13/fintech-lending-giant-figure-confirms-data-breach/",
-      "author": "Lorenzo Franceschi-Bicchierai",
-      "date": "2026-02-13T13:02:46-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/figure-technology-logo-times-squware.jpg?resize=1200,800",
-      "category": "",
-      "content": "Figure Technology, a blockchain-based lending company, confirmed it experienced a data breach.\n\nOn Friday,Figurespokesperson Alethea Jadick told TechCrunch in a statement that the breach originated when an employee was tricked with a social engineering attack that allowed the hackers to steal “a limited number of files.”\n\nThe statement said the company is “with partners and those impacted,” and offering free credit monitoring “to all individuals who receive a notice.”\n\nFigure’s spokesperson did not respond to a series of specific questions about the breach.\n\nThe hacking groupShinyHunterstook responsibility for the hack on its official dark web leak website, saying the company refused to pay a ransom, and published 2.5 gigabytes of allegedly stolen data.\n\nTechCrunch saw a portion of the data, which included customers’ full names, home addresses, dates of birth, and phone numbers.\n\nA member of ShinyHunters told TechCrunch that Figure was among the victims ofa hacking campaignthat targeted customers who rely on the single sign-on provider Okta. Other victims of the campaign includeHarvard University and the University of Pennsylvania (UPenn).",
-      "excerpt": "Figure Technology, a blockchain-based lending company, confirmed it experienced a data breach.\n\nOn Friday,Figurespokesperson Alethea Jadick told TechCrunch in a statement that the breach originated when an employee was tricked with a social engineering attack that allowed the hackers to steal “a lim",
+      "title": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
+      "link": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/",
+      "author": "Sarah Perez",
+      "date": "2026-02-13T14:12:26-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/Airbnb-Summer-feat.jpg?resize=1200,675",
+      "category": "AI",
+      "content": "Airbnb says itscustom-built AI agentis now handling roughly a third of its customer support issues in North America, and it’s preparing to roll out the feature globally. If successful, the company believes that in a year’s time, more than 30% of its total customer support tickets will be handled by AI voice and chat in all the languages where it also employs a human customer service agent.\n\n“We think this is going to be massive because not only does this reduce the cost base of Airbnb customer service, but the quality of service is going to be a huge step change,” CEO Brian Chesky said during the company’sfourth-quarter earningscall this week. This seems to suggest he believes the AI would do a better job than its human counterparts in resolving some issues.\n\nThe company also touted its recent hire of CTO Ahmad Al-Dahle,poached from Metafor his AI expertise, and its plans to create an AI-native experience.\n\nWith his guidance, Chesky said that Airbnb was poised to introduce an app that doesn’t just search for you, but one that “knows you.”\n\n“It will help guests plan their entire trip, help hosts better run their businesses, and help the company operate more efficiently at scale,” Chesky explained, adding that’s why Airbnb brought Al-Dahle on board.\n\n“Ahmad is one of the world’s leading AI experts. He spent 16 years at Apple, and most recently led the generative AI team at Meta that built the Llama models. He’s an expert at pairing massive technical scale with world-class design, which is exactly how we’re going to transform the Airbnb experience,” Chesky noted.\n\nLike other businesses poised for disruption by AI, Airbnb’s leadership is pushing the idea that it has a unique database and product that other AI chatbots can’t replicate.\n\n“A chatbot doesn’t have our 200 million verified identities or our 500 million proprietary reviews, and it can’t message the hosts, which 90% of our guests do,” Chesky told analysts during the earnings call. Instead, he pitched the idea o",
+      "excerpt": "Airbnb says itscustom-built AI agentis now handling roughly a third of its customer support issues in North America, and it’s preparing to roll out the feature globally. If successful, the company believes that in a year’s time, more than 30% of its total customer support tickets will be handled by ",
       "tags": [
         "Apple",
         "Amazon",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "Sex toys maker Tenga says hacker stole customer information",
-      "link": "https://techcrunch.com/2026/02/13/sex-toys-maker-tenga-says-hacker-stole-customer-information/",
+      "title": "Fintech lending giant Figure confirms data breach",
+      "link": "https://techcrunch.com/2026/02/13/fintech-lending-giant-figure-confirms-data-breach/",
       "author": "Lorenzo Franceschi-Bicchierai",
-      "date": "2026-02-13T12:19:05-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/eggplant-blue-background.jpg?resize=1200,800",
-      "category": "Security",
-      "content": "Sex toy maker Tenga notified customers of a data breach on Friday, according to an email obtained by TechCrunch.\n\nIn the message, the Japanese company said that “an unauthorized party gained access to the professional email account of one of our employees,” which gave the hacker access to the contents of the employee’s inbox. This access potentially allowed the hacker to see and steal customer names, email addresses, and historical email correspondence, “which may include order details or customer service inquiries.”\n\nThe hacker also sent spam emails to the hacked employee’s contacts, including customers, according to the email sent to customers.\n\nTenga did not respond to a request for comment and to provide more information, such as the total number of customers affected. The company says on its website that it has shipped over 162 million products worldwide.\n\nOrder details and customer service inquiries are likely to include intimate information that many customers probably wouldn’t want to disclose, given the nature of the products in question.\n\nThe company recommended customers to change their passwords, even though it did not say that customers’ passwords were compromised, and to be vigilant of suspicious emails, especially coming from a specific employee, who appears to be the one whose account was breached.\n\nTenga said it took several measures after the breach, including resetting the hacked employee’s credentials and enabling “across our systems,” a basic security feature calledmulti-factor authentication, which prevents access to accounts with stolen passwords. The company did not respond when it was asked if there was no multi-factor on the email account prior to this breach.\n\nTenga was founded in 2005 in Japan, and is headquartered in Tokyo. Tenga sells a variety of sex toys, mostly for men. It’s unclear if the breach affected customers outside of the United States, given that the email came explicitly from Tenga Store USA.\n\nTenga is the latest in a long ",
-      "excerpt": "Sex toy maker Tenga notified customers of a data breach on Friday, according to an email obtained by TechCrunch.\n\nIn the message, the Japanese company said that “an unauthorized party gained access to the professional email account of one of our employees,” which gave the hacker access to the conten",
+      "date": "2026-02-13T13:02:46-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/figure-technology-logo-times-squware.jpg?resize=1200,800",
+      "category": "",
+      "content": "Figure Technology, a blockchain-based lending company, confirmed it experienced a data breach.\n\nOn Friday,Figurespokesperson Alethea Jadick told TechCrunch in a statement that the breach originated when an employee was tricked with a social engineering attack that allowed the hackers to steal “a limited number of files.”\n\nThe statement said the company is communicating “with partners and those impacted,” and offering free credit monitoring “to all individuals who receive a notice.”\n\nFigure’s spokesperson did not respond to a series of specific questions about the breach.\n\nThe hacking groupShinyHunterstook responsibility for the hack on its official dark web leak website, saying the company refused to pay a ransom, and published 2.5 gigabytes of allegedly stolen data.\n\nTechCrunch saw a portion of the data, which included customers’ full names, home addresses, dates of birth, and phone numbers.\n\nA member of ShinyHunters told TechCrunch that Figure was among the victims ofa hacking campaignthat targeted customers who rely on the single sign-on provider Okta. Other victims of the campaign includeHarvard University and the University of Pennsylvania (UPenn).",
+      "excerpt": "Figure Technology, a blockchain-based lending company, confirmed it experienced a data breach.\n\nOn Friday,Figurespokesperson Alethea Jadick told TechCrunch in a statement that the breach originated when an employee was tricked with a social engineering attack that allowed the hackers to steal “a lim",
       "tags": [
         "Apple",
         "Amazon",
