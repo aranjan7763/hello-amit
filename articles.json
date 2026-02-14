@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-02-14T22:27:33.176076+00:00",
+  "last_updated": "2026-02-14T23:28:16.308196+00:00",
   "articles": [
+    {
+      "title": "In a changed VC landscape, this exec is doubling down on overlooked founders",
+      "link": "https://techcrunch.com/2026/02/14/stacy-brown-philpot-cherryrock-capital-vc/",
+      "author": "Connie Loizos",
+      "date": "2026-02-14T12:37:42-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-12-at-8.42.46-AM.png?resize=1200,1008",
+      "category": "Venture",
+      "content": "Much of Silicon Valley has spent years chasing mega-rounds and buzzy AI deals. Meanwhile, Stacy Brown-Philpot is running Cherryrock Capital like a throwback to venture capital’s earlier days, writing smaller Series A and B checks to founders that larger firms routinely overlook.\n\nThe former TaskRabbit CEO and decade-long Google veteran launched Cherryrock a year ago after seeing what she calls a persistent gap: access to capital for “underinvested entrepreneurs” building software companies at the crucial growth stage.\n\n“When I left TaskRabbit, I took some time off to figure out what was next and saw this gap in the market, which was access to capital, particularly for underinvested entrepreneurs,” Brown-Philpot told TechCrunch. She’d originally come to the Bay Area 25 years ago, planning to become a VC and even writing her Stanford Business School essay about it. After spending a decade at Google and leading TaskRabbit to a successful exit to IKEA, she’s finally back to that original plan.\n\nShe circled back to it for a reason. Before launching Cherryrock, Brown-Philpot was a member of the investment committee for the SoftBank Opportunity Fund, a $100 million vehicle started in 2020 to back underserved entrepreneurs. That experience proved there was no shortage of overlooked founders.\n\nSoftBank itself sold the Opportunity Fund to its leadership team in late 2023, divesting from the diversity-focused initiative. Brown-Philpot, meanwhile, doubled down, and launched her own fund. By the time she closed Cherryrock’s debut fund in February 2025, she already had more than 2,000 companies in her pipeline.\n\nCherryrock is targeting 12 to 15 investments from its first fund — a concentrated approach and stark contrast to the seed funds that make dozens of bets, or massive funds that write nine-figure checks. Brown-Philpot’s also taking her time; a year after announcing the fund, she and her team, including cofounder Saydeah Howard, who spent nine years at the venture firm IVP, ",
+      "excerpt": "Much of Silicon Valley has spent years chasing mega-rounds and buzzy AI deals. Meanwhile, Stacy Brown-Philpot is running Cherryrock Capital like a throwback to venture capital’s earlier days, writing smaller Series A and B checks to founders that larger firms routinely overlook.\n\nThe former TaskRabb",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
     {
       "title": "Designer Kate Barton teams up with IBM and Fiducia AI for a NYFW presentation",
       "link": "https://techcrunch.com/2026/02/14/designer-kate-barton-teams-up-with-ibm-and-fiducia-ai-for-a-nyfw-presentation/",
@@ -121,14 +138,14 @@
       ]
     },
     {
-      "title": "India partners with Alibaba.com for export push despite past China tech bans",
-      "link": "https://techcrunch.com/2026/02/13/india-partners-with-alibaba-com-for-export-push-despite-past-china-tech-bans/",
-      "author": "Jagmeet Singh",
-      "date": "2026-02-13T09:32:59-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/alibaba-com-jagmeet-singh-techcrunch.jpg?resize=1200,800",
-      "category": "Government & Policy",
-      "content": "India’s government has partnered with China’s Alibaba.com on an export-focused program aimed at helping startups and small businesses reach overseas buyers. The move highlights New Delhi’s selective engagement with Chinese-linked tech platforms years after itimposed sweeping banson consumer apps and games.\n\nThis week, the Indian government’s Startup India initiativeannouncedthe collaboration with Alibaba.com to identify and support Indian startups that can help onboard and scale Indian exporters on the group’s global B2B platform. The program offers commissions and technical support to those startups to assist small manufacturers and traders in reaching overseas markets.\n\nThe new partnership arrives after years of strained India–China relations. New Delhibanned dozens of Chinese-linked appsin 2020 following a deadly border clash, including major platforms such as TikTok, PUBG Mobile, and AliExpress, an e-commerce app operated by Alibaba Group. Those restrictions remain in place, making the Indian government’s public collaboration with Alibaba’s export-focused platform a carefully circumscribed form of engagement rather than a broader policy reset.\n\nIndia’s export ambitions are closely tied to its small businesses and the platforms they use to reach overseas markets. Micro, small, and medium enterprises account fornearly half of the country’s exportsand about 31% of GDP, according to the Indian government’s latest Economic Survey, underlining why New Delhi has focused on expanding digital market access for smaller firms through global B2B channels, including Alibaba.com.\n\nAlibaba.com’s B2B platform connects more than 50 million active buyers across over 200 countries and regions, said Rocky Lu, head of India business at the company.\n\n“Alibaba.com has been active in India for over two decades, and we remain dedicated to our core mission of empowering MSMEs to scale their businesses globally,” Lu told TechCrunch. “Our focus continues to be on leveraging our digital inf",
-      "excerpt": "India’s government has partnered with China’s Alibaba.com on an export-focused program aimed at helping startups and small businesses reach overseas buyers. The move highlights New Delhi’s selective engagement with Chinese-linked tech platforms years after itimposed sweeping banson consumer apps and",
+      "title": "Homeland Security reportedly sent hundreds of subpoenas seeking to unmask anti-ICE accounts",
+      "link": "https://techcrunch.com/2026/02/14/homeland-security-reportedly-sent-hundreds-of-subpoenas-seeking-to-unmask-anti-ice-accounts/",
+      "author": "Anthony Ha",
+      "date": "2026-02-14T14:30:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2258756561.jpg?w=1024",
+      "category": "",
+      "content": "The Department of Homeland Security has been increasing pressure on tech companies to identify the owners of social media accounts that criticize Immigration and Customs Enforcement (ICE),according to The New York Times.\n\nThis echoes other recent reporting, withBloomberg pointing to five casesin which Homeland Securitysought to identify the owners of anonymous Instagram accounts, with the department withdrawing its subpoenas after the owners sued. And aWashington Post storydescribed Homeland Security’s growing use of administrative subpoenas — which do not require the approval of a judge — to target Americans.\n\nNow the NYT says a practice that was previously used sparingly has become increasingly common in recent months, with the department sending hundreds of these subpoenas to Google, Reddit, Discord, and Meta. The subpoenas reportedly focused on accounts that did not have a real name attached and either criticized ICE or described the location of ICE agents.\n\nGoogle, Meta, and Reddit have reportedly complied in at least some cases. Echoing past comments, Google said that it informs users of these subpoenas when it can, and that it pushes back when the subpoenas are “overbroad.”",
+      "excerpt": "The Department of Homeland Security has been increasing pressure on tech companies to identify the owners of social media accounts that criticize Immigration and Customs Enforcement (ICE),according to The New York Times.\n\nThis echoes other recent reporting, withBloomberg pointing to five casesin whi",
       "tags": [
         "Apple",
         "Amazon",
@@ -146,23 +163,6 @@
       "category": "",
       "content": "Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinged,” according to a former employee whospoke to The Vergeabout recent departures from Musk’s AI company.\n\nThis week, following the announcement thatMusk’s SpaceX is acquiring xAI(which previously acquired his social media company X), at least 11 engineers andtwo co-founderssaid they’re leaving the company. Some said they’re departing to start something new, andMusk himself suggestedthis is part of an effort to organize xAI more effectively.\n\nBut two sources who left the company (at least one of them before the current wave) reportedly told The Verge that employees have become increasingly disillusioned by the company’s disregard for safety, resulting in global scrutiny after Grok was used tocreate more than 1 million sexualized images, including deepfakes of real women and minors.\n\nOne source said, “Safety is a dead org at xAI,” while the other said that Musk is “actively is trying to make the model more unhinged because safety means censorship, in a sense, to him.”\n\nThey also reportedly complained about a lack of direction, with one saying they felt xAI was “stuck in the catch-up phase” compared to competitors.",
       "excerpt": "Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinged,” according to a former employee whospoke to The Vergeabout recent departures from Musk’s AI company.\n\nThis week, following the announcement thatMusk’s SpaceX is acquiring xAI(which previously acquired his social media company",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "In a changed VC landscape, this exec is doubling down on overlooked founders",
-      "link": "https://techcrunch.com/2026/02/14/stacy-brown-philpot-cherryrock-capital-vc/",
-      "author": "Connie Loizos",
-      "date": "2026-02-14T12:37:42-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-12-at-8.42.46-AM.png?resize=1200,1008",
-      "category": "Venture",
-      "content": "Much of Silicon Valley has spent years chasing mega-rounds and buzzy AI deals. Meanwhile, Stacy Brown-Philpot is running Cherryrock Capital like a throwback to venture capital’s earlier days, writing smaller Series A and B checks to founders that larger firms routinely overlook.\n\nThe former TaskRabbit CEO and decade-long Google veteran launched Cherryrock a year ago after seeing what she calls a persistent gap: access to capital for “underinvested entrepreneurs” building software companies at the crucial growth stage.\n\n“When I left TaskRabbit, I took some time off to figure out what was next and saw this gap in the market, which was access to capital, particularly for underinvested entrepreneurs,” Brown-Philpot told TechCrunch. She’d originally come to the Bay Area 25 years ago, planning to become a VC and even writing her Stanford Business School essay about it. After spending a decade at Google and leading TaskRabbit to a successful exit to IKEA, she’s finally back to that original plan.\n\nShe circled back to it for a reason. Before launching Cherryrock, Brown-Philpot was a member of the investment committee for the SoftBank Opportunity Fund, a $100 million vehicle started in 2020 to back underserved entrepreneurs. That experience proved there was no shortage of overlooked founders.\n\nSoftBank itself sold the Opportunity Fund to its leadership team in late 2023, divesting from the diversity-focused initiative. Brown-Philpot, meanwhile, doubled down, and launched her own fund. By the time she closed Cherryrock’s debut fund in February 2025, she already had more than 2,000 companies in her pipeline.\n\nCherryrock is targeting 12 to 15 investments from its first fund — a concentrated approach and stark contrast to the seed funds that make dozens of bets, or massive funds that write nine-figure checks. Brown-Philpot’s also taking her time; a year after announcing the fund, she and her team, including cofounder Saydeah Howard, who spent nine years at the venture firm IVP, ",
-      "excerpt": "Much of Silicon Valley has spent years chasing mega-rounds and buzzy AI deals. Meanwhile, Stacy Brown-Philpot is running Cherryrock Capital like a throwback to venture capital’s earlier days, writing smaller Series A and B checks to founders that larger firms routinely overlook.\n\nThe former TaskRabb",
       "tags": [
         "Apple",
         "Amazon",
