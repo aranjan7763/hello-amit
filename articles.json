@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-02-15T08:37:16.519390+00:00",
+  "last_updated": "2026-02-15T09:35:34.819893+00:00",
   "articles": [
+    {
+      "title": "The great computer science exodus (and where students are going instead)",
+      "link": "https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/",
+      "author": "Connie Loizos",
+      "date": "2026-02-15T00:40:27-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-827810708.jpg?resize=1200,801",
+      "category": "AI",
+      "content": "Something strange happened at University of California campuses this fall. For the first time since the dot-com crash, computer science enrollment dropped. System-wide, it fell6% this yearafter declining 3% in 2024, according to reporting this past week by the San Francisco Chronicle. Even as overall college enrollmentclimbed 2% nationally— according to January data from the National Student Clearinghouse Research Center — students are bailing on traditional CS degrees.\n\nThe one exception is UC San Diego  — the only UC campus that added adedicated AI major this fall.\n\nThis all might look like a temporary blip tied to news about fewer CS gradsfinding work out of college. But it’s more likely an indicator of the future, one that China is much more enthusiastically embracing. As MIT Technology Reviewreported last July, Chinese universities have leaned hard into AI literacy, treating AI not as a threat but instead as essential infrastructure. Nearly 60% of Chinese students and faculty now use AI tools multiple times daily, and schools like Zhejiang University have made AI coursework mandatory, while top institutions like Tsinghua have created entirely new interdisciplinary AI colleges. In China, fluency with AI isn’t optional anymore; it’s table stakes.\n\nU.S. universities are scrambling to catch up. Over the last two years, dozens have launched AI-specific programs. MIT’s “AI and decision-making” major is now thesecond-largest majoron campus, says the school. As reported by the New York Times in December, the University of South Florida enrolled more than3,000 studentsin anew AI and cybersecurity collegeduring its fall semester. The University at Buffalolast summerlaunched a new “AI and Society” department that offers seven new, specialized undergraduate degree programs, and it receivedmore than 200 applicantsbefore it swung open its doors.\n\nThe transition hasn’t been smooth everywhere. When I spoke withUNC Chapel Hill Chancellor Lee Robertsin October, he described a sp",
+      "excerpt": "Something strange happened at University of California campuses this fall. For the first time since the dot-com crash, computer science enrollment dropped. System-wide, it fell6% this yearafter declining 3% in 2024, according to reporting this past week by the San Francisco Chronicle. Even as overal",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
     {
       "title": "In a changed VC landscape, this exec is doubling down on overlooked founders",
       "link": "https://techcrunch.com/2026/02/14/stacy-brown-philpot-cherryrock-capital-vc/",
@@ -112,23 +129,6 @@
       "category": "Security",
       "content": "A security lapse by one of India’s largest pharmacy chains allowed outsiders to gain full administrative control of its platform, exposing customer order data and sensitive drug-control functions, TechCrunch has exclusively learned.\n\nThe issue affected DavaIndia Pharmacy, the pharmacy arm of Zota Healthcare, which operates a large network of retail outlets across India. Security researcher Eaton Zveare told TechCrunch that he discovered the flaw after identifying insecure “super admin” application programming interfaces on DavaIndia’s website and privately shared details with Indian cybersecurity authorities.\n\nThe bug is now fixed, and Zvearedisclosed his findings.\n\nThe exposure comes as Zota Healthcare rapidly scales DavaIndia Pharmacy’s retail business. The Gujarat-headquartered company operates more than 2,300 DavaIndia stores across India, including276 new outletsannounced in January, and plans toadd another 1,200 to 1,500over the next two years.\n\nZveare told TechCrunch that the flaw stemmed from insecure admin interfaces, which allowed unauthenticated users to create “super admin” accounts with high privileges.\n\nWith that level of access, an attacker could view thousands of online orders containing customer information, modify product listings and prices, create discount coupons, and change settings governing whether certain medicines required a prescription, the researcher said.\n\nBased on system timestamps, Zveare said the vulnerable administrative interfaces appeared to have been live since late 2024. The access exposed nearly 17,000 online orders and administrative controls spanning 883 stores, he said, allowing changes to product pricing, prescription requirements, and promotional discounts. Zveare said the access allowed edits to website content that could have been used for defacement or disruption.\n\nPharmacy order data can be particularly sensitive, as it may reveal information about a person’s health conditions, medications or other private purchases. E",
       "excerpt": "A security lapse by one of India’s largest pharmacy chains allowed outsiders to gain full administrative control of its platform, exposing customer order data and sensitive drug-control functions, TechCrunch has exclusively learned.\n\nThe issue affected DavaIndia Pharmacy, the pharmacy arm of Zota He",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "The SEC closed its investigation into Fisker",
-      "link": "https://techcrunch.com/2026/02/13/the-sec-closed-its-investigation-into-fisker/",
-      "author": "Sean O'Kane",
-      "date": "2026-02-13T09:48:43-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/07/fisker-ocean-black.jpg?resize=1200,763",
-      "category": "Transportation",
-      "content": "The Securities and Exchange Commission closed its investigation into bankrupt electric vehicle startup Fisker  last September, roughlyone year after the probe was opened.\n\nTechCrunch learned the investigation was closed when the financial regulator responded to a Freedom of Information Act (FOIA) request in January. The SEC’s FOIA department said it had identified “approximately 21.7 gigabytes of electronically maintained records” related to the investigation. The agency doesn’t typically make records available if investigations are still open, and it explained in a follow-up email that it “was closed in September 2025.”\n\nIt’s not clear how far the investigation progressed. The SECrevealed the existence of the probein an October 2024 filing in Fisker’s bankruptcy case. The agency wrote at the time that it had sent subpoenas to the company and that it may need to “request or subpoena additional documents in the future relating to its ongoing investigation.”\n\nA spokesperson for the agency declined to comment. Founder and former CEO Henrik Fisker did not respond to a message seeking comment.\n\nThe closure of the Fisker investigation comes amid a significant drop in enforcement actions and settlements during President Trump’s second term. The SEC initiated 313 enforcement actions in 2025 — the lowest in a decade and down 27% from the the final year of President Biden’s term, according toan analysis by law firm Paul, Weiss. Only four of those enforcement actions were against public companies. Total monetary settlements fell 45% from 2024.\n\nFisker was one of the last remaining electric vehicle startups under investigation by the SEC. Over the last few years, the agency settled fraud or other charges brought againstNikola,Lordstown Motors,Canoo,Hyzon Motors, and others. In 2023, itclosed an investigationinto Lucid Motors without a lawsuit.\n\nThe only known active investigation remaining into an electric vehicle startup is the one related to Faraday Future, which is now nearl",
-      "excerpt": "The Securities and Exchange Commission closed its investigation into bankrupt electric vehicle startup Fisker  last September, roughlyone year after the probe was opened.\n\nTechCrunch learned the investigation was closed when the financial regulator responded to a Freedom of Information Act (FOIA) re",
       "tags": [
         "Apple",
         "Amazon",
