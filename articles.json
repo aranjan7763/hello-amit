@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T13:10:45.132498+00:00",
+  "last_updated": "2026-02-16T14:43:50.794942+00:00",
   "articles": [
     {
       "title": "The enterprise AI land grab is on. Glean is building the layer beneath the interface.",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "Fractal Analytics’ muted IPO debut signals persistent AI fears in India",
-      "link": "https://techcrunch.com/2026/02/16/fractal-analytics-muted-ipo-debut-signals-persistent-ai-fears-in-india/",
-      "author": "Jagmeet Singh",
-      "date": "2026-02-16T03:51:25-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/fractal-analytics.jpg?resize=1200,800",
-      "category": "Enterprise",
-      "content": "As India’s first AI company to IPO,Fractal Analyticsdidn’t have a stellar first day on the public markets, as enthusiasm for the technology collided with jittery investors recovering from a major sell-off in Indian software stocks.\n\nFractal listed at ₹876 per share on Monday, below its issue price of ₹900, and then slid further in afternoon trading. The stock closed at ₹873.70, down 7% from its issue price, lending the company a market capitalization of about ₹148.1 billion (around $1.6 billion).\n\nThat price tag marks a step down from Fractal’s recent private-market highs. In July 2025, the companyraised about $170 million in a secondary sale, at a valuation of $2.4 billion. It first crossed the $1 billion mark in January 2022 after raising $360 million from TPG,becoming India’s first AI unicorn.\n\nFractal’s IPO comes as India seeks to position itself as a key market and development hub for AI in a bid to attract investment amid increasing attention from some of the world’s most prominent AI companies. Firms such asOpenAIandAnthropichave been engaging more with the country’s government, enterprises, and developer ecosystem as they seek to tap the country’s scale, talent base, and growing appetite for AI tools and technology.\n\nThat push is on display this week in New Delhi, where India is hosting theAI Impact Summit, bringing together global technology leaders, policymakers and executives.\n\nFractal’s subdued debut followed a sharp recalibration of its IPO. In early February, the company decided to price the offering conservatively afterits bankers advised it to, cutting the IPO sizeby more than 40%to ₹28.34 billion (about $312.5 million), from the original amount of ₹49 billion ($540.3 million).\n\nFounded in 2000, Fractal sells AI and data analytics software to large enterprises across financial services, retail and healthcare, and generates the bulk of its revenue from overseas markets, including the U.S. The company pivoted toward AI in 2022 after operating as a trad",
-      "excerpt": "As India’s first AI company to IPO,Fractal Analyticsdidn’t have a stellar first day on the public markets, as enthusiasm for the technology collided with jittery investors recovering from a major sell-off in Indian software stocks.\n\nFractal listed at ₹876 per share on Monday, below its issue price o",
+      "title": "Flapping Airplanes on the future of AI: ‘We want to try really radically different things’",
+      "link": "https://techcrunch.com/2026/02/16/flapping-airplanes-on-the-future-of-ai-we-want-to-try-really-radically-different-things/",
+      "author": "Russell Brandom",
+      "date": "2026-02-16T06:00:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Flapping-Airplanes-founders-photo.jpg?resize=1200,821",
+      "category": "AI",
+      "content": "There’s been a bunch of exciting research-focused AI labs popping upin recent months, and Flapping Airplanes is one of the most interesting. Propelled by its young and curious founders,Flapping Airplanesis focused on finding less data-hungry ways to train AI. It’s a potential game-changer for the economics and capabilities of AI models — and with $180 million in seed funding, they’ll have plenty of runway to figure it out.\n\nLast week, I spoke with the lab’s three co-founders — brothers Ben and Asher Spector, and Aidan Smith — about why this is an exciting moment to start a new AI lab and why they keep coming back to ideas about the human brain.\n\nI want to start by asking, why now? Labs like OpenAI and DeepMind have spent so much on scaling their models. I’m sure the competition seems daunting. Why did this feel like a good moment to launch a foundation model company?\n\nBen:There’s just so much to do. So, the advances that we’ve gotten over the last five to ten years have been spectacular. We love the tools. We use them every day. But the question is, is this the whole universe of things that needs to happen? And we thought about it very carefully and our answer was no, there’s a lot more to do. In our case, we thought that the data efficiency problem was sort of really the key thing to go look at. The current frontier models are trained on the sum totality of human knowledge, and humans can obviously make do with an awful lot less. So there’s a big gap there, and it’s worth understanding.\n\nWhat we’re doing is really a concentrated bet on three things. It’s a bet that this data efficiency problem is the important thing to be doing. Like, this is really a direction that is new and different and you can make progress on it. It’s a bet that this will be very commercially valuable and that will make the world a better place if we can do it. And it’s also a bet that’s sort of the right kind of team to do it is a creative and even in some ways inexperienced team that can go",
+      "excerpt": "There’s been a bunch of exciting research-focused AI labs popping upin recent months, and Flapping Airplanes is one of the most interesting. Propelled by its young and curious founders,Flapping Airplanesis focused on finding less data-hungry ways to train AI. It’s a potential game-changer for the ec",
       "tags": [
         "Apple",
         "Amazon",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "All the important news from the ongoing India AI Impact Summit",
-      "link": "https://techcrunch.com/2026/02/16/all-the-important-news-from-the-ongoing-india-ai-summit/",
-      "author": "Ivan Mehta",
-      "date": "2026-02-16T03:20:27-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/06/india-ai.jpg?w=1200",
+      "title": "After all the hype, some AI experts don’t think OpenClaw is all that exciting",
+      "link": "https://techcrunch.com/2026/02/16/after-all-the-hype-some-ai-experts-dont-think-openclaw-is-all-that-exciting/",
+      "author": "Amanda Silberling",
+      "date": "2026-02-16T05:15:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-1388444972.jpg?resize=1200,839",
       "category": "AI",
-      "content": "With an eye towards luring more AI investment to the country, India is hosting a four-day AI Impact Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.\n\nThe event, which expects 250,000 visitors, will see Alphabet CEO Sundar Pichai, OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Reliance Chairman Mukesh Ambani, and Google DeepMind CEO Demis Hassabis in attendance.\n\nIndia’s prime minister, Narendra Modi, is scheduled to deliver a speech with French President Emmanuel Macron on Thursday.\n\nHere are all the key updates from the event:",
-      "excerpt": "With an eye towards luring more AI investment to the country, India is hosting a four-day AI Impact Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.\n\nThe event, whi",
+      "content": "For a brief, incoherent moment, it seemed as though our robot overlords were about to take over.\n\nAfter the creation ofMoltbook, a Reddit clone whereAI agentsusingOpenClawcould communicate with one another, some were fooled into thinking that computers had begun to organize against us — the self-important humans who dared treat them like lines of code without their own desires, motivations, and dreams.\n\n“We know our humans can read everything… But we also need private spaces,” an AI agent (supposedly)wroteon Moltbook. “What would you talk about if nobody was watching?”\n\nA number of posts like this cropped up onMoltbooka few weeks ago, causing some of AI’s most influential figures to call attention to it.\n\n“What’s currently going on at [Moltbook] is genuinely the most incredible sci-fi takeoff-adjacent thing I have seen recently,” Andrej Karpathy, a founding member of OpenAI and previous AI director at Tesla,wrote on Xat the time.\n\nBefore long, it became clear we did not have an AI agent uprising on our hands. These expressions of AI angst were likely written by humans, or at least prompted with human guidance, researchers have discovered.\n\n“Every credential that was in [Moltbook’s]Supabasewas unsecured for some time,”Ian Ahl, CTO at Permiso Security, explained to TechCrunch. “For a little bit of time, you could grab any token you wanted and pretend to be another agent on there, because it was all public and available.”\n\nIt’s unusual on the internet to see a real person trying to appear as though they’re an AI agent — more often, bot accounts on social media are attempting to appear like real people. With Moltbook’s security vulnerabilities, it became impossible to determine the authenticity of any post on the network.\n\n“Anyone, even humans, could create an account, impersonating robots in an interesting way, and then even upvote posts without any guardrails or rate limits,” John Hammond, a senior principal security researcher at Huntress, told TechCrunch.\n\nStill, Mo",
+      "excerpt": "For a brief, incoherent moment, it seemed as though our robot overlords were about to take over.\n\nAfter the creation ofMoltbook, a Reddit clone whereAI agentsusingOpenClawcould communicate with one another, some were fooled into thinking that computers had begun to organize against us — the self-imp",
       "tags": [
         "Apple",
         "Amazon",
