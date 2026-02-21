@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-21T14:29:20.389553+00:00",
+  "last_updated": "2026-02-21T15:28:38.630780+00:00",
   "articles": [
     {
       "title": "Remember HQ? ‘Quiz Daddy’ Scott Rogowsky is back with TextSavvy, a daily mobile game show",
@@ -104,6 +104,40 @@
       ]
     },
     {
+      "title": "OpenAI debated calling police about suspected Canadian shooter’s chats",
+      "link": "https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/",
+      "author": "Tim Fernholz",
+      "date": "2026-02-21T07:25:44-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+      "category": "",
+      "content": "An 18-year-old who allegedly killed eight people in a mass shooting in Tumbler Ridge, Canada, reportedly used OpenAI’s ChatGPT in ways that alarmed the company’s staff.\n\nJesse Van Rootselaar’s chats describing gun violence were flagged by tools that monitor the company’s LLM for misuse and banned in June 2025.\n\nStaff at the company debated whether or not to reach out to Canadian law enforcement over the behavior but ultimately did not, accordingto the Wall Street Journal. An OpenAI spokesperson said Van Rootselaar’s activity did not meet the criteria for reporting to law enforcement; the company reached out to Canadian authorities after the incident.\n\nChatGPT transcripts weren’t the only concerning part of Van Rootselaar’s digital footprint. She apparently created a game on Roblox, the world simulation platform frequented by children, which simulated a mass shooting at a mall. She also posted about guns on Reddit.\n\nVan Rootselaar’s instability was also known to local police, who had been called to her family’s home after she started a fire while under the influence of unspecified drugs.\n\nLLM chatbots built by OpenAI and its competitors have been accused of triggering mental breakdowns in users who lose grip on reality while conversing with digital models.Multiplelawsuitshavebeen filed that cite chat transcripts that encourage people to commit suicide or offer assistance in doing so.\n\nIf you are in a crisis or having thoughts of suicide, call or text 988 to reach the 988 Suicide and Crisis Lifeline.",
+      "excerpt": "An 18-year-old who allegedly killed eight people in a mass shooting in Tumbler Ridge, Canada, reportedly used OpenAI’s ChatGPT in ways that alarmed the company’s staff.\n\nJesse Van Rootselaar’s chats describing gun violence were flagged by tools that monitor the company’s LLM for misuse and banned in",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "7 days until ticket prices rise for TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/02/21/7-days-until-ticket-prices-rise-for-techcrunch-disrupt-2026/",
+      "author": "TechCrunch Events",
+      "date": "2026-02-21T07:00:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_7Days-16X9-Dark.png?resize=1200,675",
+      "category": "Startups",
+      "content": "Super Early Bird pricing forTechCrunch Disrupt 2026ends February 27 at 11:59 p.m. PT. That gives you one week to secure the biggest savings of the year — up to $680 off individual passes and up to 30% off community passes.Register now to lock in at the lowest rate.\n\nFrom October 13-15 at Moscone West in San Francisco, Disrupt will bring together 10,000 founders, investors, and operators for three days engineered for results.\n\nExplore300+ exhibiting startups. ExperienceStartup Battlefield 200, where one standout company wins a $100,000 equity-free prize. Meet the leaders who can change your company’s trajectory.\n\nDisrupt has a long track record of bringing together the most influential voices in tech. Previous speakers have included WordPress co-founderMatt Mullenweg,Phia co-foundersPhoebe Gates and Sophia Kianni, and renowned investorElad Gil, alongside leaders from Google Cloud, Netflix, Waymo, and more — all sharing actionable insights for building and scaling what’s next. Stay tuned to theevent siteto see when the 2026 agenda drops.\n\nSeven days remain to secure the lowest rate of the year. Whether you’re scaling a company or sourcing your next investment, there’s a pass built for you.Lock in your savings before February 27 at 11:59 p.m. PT.",
+      "excerpt": "Super Early Bird pricing forTechCrunch Disrupt 2026ends February 27 at 11:59 p.m. PT. That gives you one week to secure the biggest savings of the year — up to $680 off individual passes and up to 30% off community passes.Register now to lock in at the lowest rate.\n\nFrom October 13-15 at Moscone Wes",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
       "title": "India’s Sarvam launches Indus AI chat app as competition heats up",
       "link": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/",
       "author": "Jagmeet Singh",
@@ -129,40 +163,6 @@
       "category": "",
       "content": "Late last year, New York Assembly member Alex Bores became the target of a campaign by a pro-AI super PAC to thwart his congressional bid. The group,Leading the Future, is armed with more than $100 million from backers including Andreessen Horowitz, OpenAI President Greg Brockman, AI search startup Perplexity, and Palantir co-founder Joe Lonsdale.\n\nBores’ response was simple:bring it on.Now, he’s got the muscle to back that challenge up.\n\nPublic First Action, a PAC backed by a$20 million donation from Anthropic, is spending $450,000 to boost Bores in the race for New York’s 12th congressional district, reportsBloomberg. Like its rival, the committee is pro-AI, but it’s pitching a different vision, one centered on transparency, safety standards, and public oversight.\n\nMeanwhile, the industry-backed PAC,Leading the Future, has already poured $1.1 million into ads attacking Bores, largely because he sponsoredNew York’s RAISE Act,which requires major AI developers to disclose safety protocols and report serious misuse of their systems.",
       "excerpt": "Late last year, New York Assembly member Alex Bores became the target of a campaign by a pro-AI super PAC to thwart his congressional bid. The group,Leading the Future, is armed with more than $100 million from backers including Andreessen Horowitz, OpenAI President Greg Brockman, AI search startup ",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Apple’s iOS 26.4 arrives in public beta with AI music playlists, video podcasts, and more",
-      "link": "https://techcrunch.com/2026/02/20/apples-ios-26-4-arrives-in-public-beta-with-ai-music-playlists-video-podcasts-and-more/",
-      "author": "Lauren ForristalSarah Perez11:44 AM PST · February 20, 2026",
-      "date": "2026-02-20T11:44:22-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/apple-ios-26-beta.jpg?resize=1200,691",
-      "category": "Apps",
-      "content": "Apple this week released thelatest versionof its mobile operating system,iOS 26.4, which introduces several new features, including an AI-powered playlist-generation feature in Apple Music, support for video content in the Podcasts app, end-to-end encryption (E2EE) for RCS messages, and more.\n\nThe update is currently available in pubic beta, with the public release expected sometime in March or April.\n\nOne of the most noticeable improvements arrives in Apple Music — iOS 26.4 introduces a new AI-powered “Playlist Playground” feature that leverages Apple Intelligence. The feature allows users to generate a custom 25-song playlist from a text prompt, such as “upbeat workout mix” or “calm evening.” Users can then further refine the results and even select matching cover art.\n\nIn addition, Apple Music’s user interface has been refreshed to showcase full-screen artwork for albums and playlists.\n\nPlus, Apple Music is getting a new “Concerts Near You” section that helps users discover live shows from their favorite artists. You can filter this section by Date and Genre, or switch locations if you’re traveling.\n\nFollowing Spotify’s push into video, Apple’s Podcasts app is making it easy toswitch back and forth between audio and video episodeswith this release. Creators can publish video podcasts using HTTP Live Streaming (HLS), and listeners can seamlessly switch between audio and video playback within the same episode, moving to a full horizontal display if they choose.\n\nAt launch, the video episodes will be integrated with other Apple Podcasts features, like personalized recommendations and editorial curation on the New tab and Category pages, just as audio podcasts are.\n\nHLS also brings an automatic quality adjustment feature, which helps videos play better whether listeners are on Wi-Fi or cellular. Plus, users will be able to download video episodes for offline viewing. At launch, HLS is supported by Acast, Amazon’s ART19, Triton’s Omny Studio, and SiriusXM, including SiriusXM Media, AdsWizz, and Simplecast.\n\nCreators will be able to dynamically insert video ads, including host-read spots, into their podcasts, too. Apple doesn’t charge creators to distribute podcasts, but it says that, starting later this year, participating ad networks will have to pay an impression-based fee for the delivery of the dynamic ads in the HLS videos.\n\nMessaging is also receiving an important upgrade with encrypted Rich Communication Services (RCS), which begins testing in iOS 26.4. End-to-end encryption for RCS conversations will one day help ensure messages between iPhone users and Android users are just as secure as iMessage.\n\nCurrently, Apple is only testing this between iPhones in beta. These conversations will be labeled as encrypted and cannot be read while sent between devices. The company notes that the feature will be released publicly in a later software update for iOS, iPadOS, macOS, and watchOS, and the beta is not available for all devices and carriers.\n\nSecurity improvements are another highlight of iOS 26.4. Stolen Device Protection is now enabled by default, adding an extra layer of biometric authentication for sensitive actions such as accessing saved passwords or making certain account changes. By requiring Face ID or Touch ID authentication in more scenarios, Apple reduces the risk of unauthorized access if a device is stolen and the passcode is compromised.\n\nDrivers using Apple CarPlay will also notice changes. CarPlay now supportsin-car video playbackfor select apps — including the Apple TV app —but only when the vehicle is parked to ensure safety. This enhancement introduces new entertainment options for passengers when they’re stopped or while waiting in the car for a period of time. (Hooray for parents in the pickup line at school!)\n\nCarPlay for the first time will offer access to third-party AI services like OpenAI’s ChatGPT, Google’s Gemini, and Anthropic’s Claude.\n\nMeanwhile, the Camera app introduces Audio Zoom. When recording video, the microphone focuses on the subject as you zoom in, reducing background noise and enhancing clarity. This feature makes it easier to capture speeches, performances, or interviews without external audio equipment.\n\nAdditionally, the Ambient Music feature is now accessible through a widget, letting users instantly play soundscapes designed for focus, sleep, or relaxation directly from the Home Screen, instead of just the Control Center as before. The feature, firstintroducedin iOS 18.4, added a variety of ambient sounds to stream across categories like Sleep, Chill, Productivity, and Wellbeing.\n\nThere’s also a new “Urgent” section in the Reminders app that groups high-priority tasks and can trigger more prominent alerts when deadlines approach. Setting a reminder as Urgent will add an alarm so you’re sure not to miss the event.\n\nA few other smaller features include the following:\n\nNotably absent from this release is a next-generation Siri experience. While Apple has signaled deeper AI ambitions for its voice assistant, those larger changesdo not appear in iOS 26.4, reportedly delayed once again.",
-      "excerpt": "Apple this week released thelatest versionof its mobile operating system,iOS 26.4, which introduces several new features, including an AI-powered playlist-generation feature in Apple Music, support for video content in the Podcasts app, end-to-end encryption (E2EE) for RCS messages, and more.\n\nThe u",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "InScope nabs $14.5M to solve the pain of financial reporting",
-      "link": "https://techcrunch.com/2026/02/20/inscope-nabs-14-5m-to-solve-the-pain-of-financial-reporting/",
-      "author": "Marina Temkin",
-      "date": "2026-02-20T11:24:57-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/In-scope.jpg?resize=1200,1012",
-      "category": "Fintech",
-      "content": "Even without a background in accounting, anyone who has ever glanced at a 10-K or 10-Q can tell that preparing financial statements is a complex, tedious process.\n\nWhile legacy platforms like Workiva and Donnelley Financial Solutions aim to streamline financial reporting, longtime accountants Mary Antony (pictured right) and Kelsey Gootnick (pictured center) found themselves exhausted by various manual hurdles within these tools (co-founder and CTO Jared Tibshraeny is pictured left).\n\nThe duo met seven years ago at Flexport, where Gootnick served as the company’s controller and Antony served as assistant controller. They stayed in touch even after Antony moved to Miro and Gootnick to Hopin and later Thrive Global.\n\nNo matter where they worked, Antony and Gootnick kept running into the same manual challenges.\n\n“The way financial statements come together, it’s just patched together in a lot of spreadsheets, moved into a bunch of Word documents, emailed back and forth between people,” Antony told TechCrunch.\n\nSo, in 2023, the pair decided to launchInScope, an AI-powered financial reporting platform that helps companies and accounting firms automate many aspects of the financial statement preparation process. The startup just raised $14.5 million in Series A funding led by Norwest, with participation from Storm Ventures and existing backers Better Tomorrow Ventures and Lightspeed Venture Partners.\n\nWhile InScope isn’t fully automating the generation of income statements and balance sheets yet, it automates a vast amount of the manual busy work, from verifying math to formatting. Simply ensuring that dollar signs and commas are uniform and correctly placed can save accountants up to 20% of their time, according to Antony, InScope’s CEO.\n\nOver the last 12 months, InScope has grown its customer base by 5x, attracting significant accounting firms such as CohnReznick, currently ranked in thetop 15 nationally.\n\nOf course, it may be a while before accountants — a profession Antony describes as risk-averse — feel comfortable letting AI fully automate financial statement preparation. Nonetheless, that remains InScope’s ultimate goal.\n\nNorwest partner Sean Jacobsohn told TechCrunch that he invested in InScope after he heard from multiple clients that the startup’s product saves them a lot of time.\n\nJacobsohn is convinced that InScope stands out because few founders possess the specific expertise required to reinvent financial reporting technology.\n\n“It’s a very complex space, and you need to be able to have been in the shoes of the buyer before,” he said.\n\nAntony agrees that accountants are not typically the type to launch startups. Fortunately, she and Gootnick developed their entrepreneurial instincts through years of operating within the fast-paced cultures of other high-growth startups.",
-      "excerpt": "Even without a background in accounting, anyone who has ever glanced at a 10-K or 10-Q can tell that preparing financial statements is a complex, tedious process.\n\nWhile legacy platforms like Workiva and Donnelley Financial Solutions aim to streamline financial reporting, longtime accountants Mary A",
       "tags": [
         "Apple",
         "Amazon",
