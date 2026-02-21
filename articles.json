@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-21T15:28:38.630780+00:00",
+  "last_updated": "2026-02-21T16:33:15.820086+00:00",
   "articles": [
     {
       "title": "Remember HQ? ‘Quiz Daddy’ Scott Rogowsky is back with TextSavvy, a daily mobile game show",
@@ -104,6 +104,23 @@
       ]
     },
     {
+      "title": "Google VP warns that two types of AI startups may not survive",
+      "link": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
+      "author": "Rebecca Bellan",
+      "date": "2026-02-21T08:00:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Darren-Mowry-headshot.png?resize=1200,960",
+      "category": "AI",
+      "content": "Loading the player…\n\nThe generative AI boom minted a startup a minute. But as the dust starts to settle, two once-hot business models are looking more like cautionary tales: LLM wrappers and AI aggregators.\n\nDarren Mowry, who leads Google’s global startup organization across Cloud, DeepMind, and Alphabet, says startups with these hooks have their “check engine light” on.\n\nLLM wrappers are essentially startups that wrap existing large language models, like Claude, GPT, or Gemini, with a product or UX layer to solve a specific problem. An example would be a startup thatuses AI to helps students study.\n\n“If you’re really just counting on the back end model to do all the work and you’re almost white-labeling that model, the industry doesn’t have a lot of patience for that anymore,” Mowry said on thisweek’s episode of Equity.\n\nWrapping “very thin intellectual property wrapped around Gemini or GPT-5” signals you’re not differentiating yourself, Mowry says.\n\n“You’ve got to have deep, wide moats that are either horizontally differentiated or something really specific to a vertical market” for a startup to “progress and grow,” he said. Examples of the deep moat LLM wrapper type include Cursor, a GPT-powered coding assistant, or Harvey AI, a legal AI assistant.\n\nIn other words, startups can no longer expect to slap a UI on top of a GPT and get traction on their product, like they could, perhaps, in mid-2024 when OpenAIlaunched its ChatGPT store. The challenge now is to build sustainable product value.\n\nAI aggregators are a subset of wrappers — they’re startups that aggregate multiple LLMs into one interface or API layer to route queries across models and give users access to multiple models. These companies typically provide an orchestration layer that includes monitoring, governance, or eval tooling. Think: AI search startup Perplexity or developer platform OpenRouter, which provides access to multiple AI models via a single API.\n\nWhile many of these platforms have gained ground, Mowry’s words are clear to incoming startups: “Stay out of the aggregator business.”\n\nGenerally speaking, aggregators aren’t seeing much growth or progression these days because, he says, users want “some intellectual property built in” to ensure they’re routed to the right model at the right time based on their needs — not because of behind-the-scenes compute or access constraints.\n\nMowry has been in the cloud game for decades, cutting his teeth at AWS and Microsoft before setting up shop at Google Cloud, and he’s seen how this plays out. He said the situation today mirrors the early days of cloud computing in the late 2000s/early 2010s as Amazon’s cloud business started taking off.\n\nAt that time, a crop of startups sprang up to resell AWS infrastructure, marketing themselves as easier entry points that provided tooling, billing consolidation, and support. But when Amazon built its own enterprise tools and customers learned to manage cloud services directly, most of those startups were squeezed out. The only survivors were the ones who added real services, like security, migration, or DevOps consulting.\n\nAI aggregators today face similar margin pressure as model providers expand into enterprise features themselves, potentially sidelining middlemen.\n\nFor his part, Mowry is bullish on vibe coding and developer platforms, which had a record-breaking year in 2025 with startups like Replit, Lovable, and Cursor (all Google Cloud customers, per Mowry) attracting major investment and customer traction.\n\nMowry also expects strong growth in direct-to-consumer tech, in companies that put some of these powerful AI tools into the hands of customers. He pointed to the opportunity for film and TV students to use Google’s AI video generator Veo to bring stories to life.\n\nBeyond AI, Mowry also thinks biotech and climate tech are having a moment — both in terms of venture investment going into the two industries and the “incredible amounts of data” startups can access to create real value “in ways we would never have been able to before.”",
+      "excerpt": "Loading the player…\n\nThe generative AI boom minted a startup a minute. But as the dust starts to settle, two once-hot business models are looking more like cautionary tales: LLM wrappers and AI aggregators.\n\nDarren Mowry, who leads Google’s global startup organization across Cloud, DeepMind, and Alp",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
       "title": "OpenAI debated calling police about suspected Canadian shooter’s chats",
       "link": "https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/",
       "author": "Tim Fernholz",
@@ -146,23 +163,6 @@
       "category": "AI",
       "content": "Sarvam, an Indian AI startup focused on building models for local languages and users, on Friday launched its Indus chat app for web and mobile users, entering a fast-growing market dominated by global players including OpenAI, Anthropic, and Google.\n\nThe launch comes as India has become a key battleground for generative AI adoption. Recently, OpenAI CEO Sam Altman saidChatGPT has more than 100 million weekly active usersin India, while Anthropic saidIndia accounts for 5.8% of total Claude usage, second only to the U.S.\n\nIndus serves as a chat interface for its newly announced Sarvam 105B model, the company’s 105-billion-parameter large language model. The app’s launch comes two days after Bengaluru-based Sarvamunveiledits 105B and 30B models at theIndia AI Impact Summitin New Delhi earlier this week. At the summit, the startup also outlined enterprise initiatives and hardware plans and announced partnerships with companiesincluding HMD to bring AI to Nokia feature phonesand Bosch for AI-enabled automotive applications.\n\nCurrently available in beta oniOS,Android, and theweb, the Indus app allows users to type or speak queries and receive responses in text and audio. Users can sign in using their phone number, Google or Microsoft account, or Apple ID, though the service appears to be limited to India for now.\n\nThe app currently comes with some limitations. Users cannot delete their chat history without deleting their account, and there is no option to turn off the app’s reasoning feature, which can sometimes slow response times. Sarvam has also warned that access may be restricted as it gradually expands its compute capacity.\n\n“We’re gradually rolling out Indus on a limited compute capacity, so you may hit a waitlist at first. We will expand access over time,” Sarvam co-founder Pratyush Kumarwroteon X, adding that the company is seeking feedback from users.\n\nFounded in 2023, Sarvam hasraised $41 millionto date from investors, including Lightspeed Venture Partners, Peak XV Partners, and Khosla Ventures as it builds large language models tailored for India.\n\nSarvam is one of a small but growing group of Indian startups attempting to build domestic alternatives to global artificial intelligence platforms as India seeks greater control over its AI infrastructure.",
       "excerpt": "Sarvam, an Indian AI startup focused on building models for local languages and users, on Friday launched its Indus chat app for web and mobile users, entering a fast-growing market dominated by global players including OpenAI, Anthropic, and Google.\n\nThe launch comes as India has become a key battl",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Anthropic-funded group backs candidate attacked by rival AI super PAC",
-      "link": "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/",
-      "author": "Rebecca Bellan",
-      "date": "2026-02-20T12:52:48-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259873774.jpg?w=1024",
-      "category": "",
-      "content": "Late last year, New York Assembly member Alex Bores became the target of a campaign by a pro-AI super PAC to thwart his congressional bid. The group,Leading the Future, is armed with more than $100 million from backers including Andreessen Horowitz, OpenAI President Greg Brockman, AI search startup Perplexity, and Palantir co-founder Joe Lonsdale.\n\nBores’ response was simple:bring it on.Now, he’s got the muscle to back that challenge up.\n\nPublic First Action, a PAC backed by a$20 million donation from Anthropic, is spending $450,000 to boost Bores in the race for New York’s 12th congressional district, reportsBloomberg. Like its rival, the committee is pro-AI, but it’s pitching a different vision, one centered on transparency, safety standards, and public oversight.\n\nMeanwhile, the industry-backed PAC,Leading the Future, has already poured $1.1 million into ads attacking Bores, largely because he sponsoredNew York’s RAISE Act,which requires major AI developers to disclose safety protocols and report serious misuse of their systems.",
-      "excerpt": "Late last year, New York Assembly member Alex Bores became the target of a campaign by a pro-AI super PAC to thwart his congressional bid. The group,Leading the Future, is armed with more than $100 million from backers including Andreessen Horowitz, OpenAI President Greg Brockman, AI search startup ",
       "tags": [
         "Apple",
         "Amazon",
