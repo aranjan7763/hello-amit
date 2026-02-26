@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26T22:37:14.344928+00:00",
+  "last_updated": "2026-02-26T23:33:28.871449+00:00",
   "articles": [
     {
       "title": "So, we’re getting Prada Meta AI glasses, right?",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "PayPal might not be looking to sell itself, report",
-      "link": "https://techcrunch.com/2026/02/26/paypal-might-not-be-looking-to-sell-itself-report/",
-      "author": "Dominic-Madori Davis",
-      "date": "2026-02-26T14:23:42-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-1231192043.jpg?resize=1200,800",
-      "category": "",
-      "content": "PayPal may not be pursuing an acquisition,Semafor reported, citing people familiar with the matter.\n\nEarlier this week, Bloomberg reported that Stripeexpressed interestin buying some or all of PayPal Holdings, which includes the flagship product PayPal and its services, as well as other companies like Venmo. Stripe declined to comment on the news.\n\nBut unnamed sources tell Semafor that the company has been working with bankers in preparation for a possible activist investor campaign or a hostile takeover. The bankers were working withAlex Chriss, PayPal’snow-ousted CEO, the outlet reported. The company’s new CEO starts next week,PayPal has said.\n\nPayPal did not respond to TechCrunch’s request for comment.",
-      "excerpt": "PayPal may not be pursuing an acquisition,Semafor reported, citing people familiar with the matter.\n\nEarlier this week, Bloomberg reported that Stripeexpressed interestin buying some or all of PayPal Holdings, which includes the flagship product PayPal and its services, as well as other companies li",
+      "title": "Anthropic CEO stands firm as Pentagon deadline looms",
+      "link": "https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/",
+      "author": "Rebecca Bellan",
+      "date": "2026-02-26T15:19:06-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
+      "category": "Government & Policy",
+      "content": "Anthropic CEO Dario Amodeisaid Thursdaythat he “cannot in good conscience accede to [the Pentagon’s] request” to give the military unrestricted access to its AI systems.\n\n“Anthropic understands that the Department of War, not private companies, makes military decisions,” Amodei wrote in a statement. “However, in a narrow set of cases, we believe AI can undermine, rather than defend, democratic values. Some uses are also simply outside the bounds of what today’s technology can safely and reliably do.”\n\nThe two cases are: mass surveillance of Americans and fully autonomous weapons with no human in the loop. The Pentagonbelievesit should be able to use Anthropic’s model for all lawful purposes, and that its uses shouldn’t be dictated by a private company.\n\nAmodei’s statement comes less than 24 hours ahead of the Friday at 5:01 PMdeadlineDefense Secretary Pete Hegseth has given Anthropic to either acquiesce to his demands, or face the consequences. The Department of Defense hasattempted to force Amodei’s handby either labeling Anthropic a supply chain risk — a designation reserved for foreign adversaries — or invoke the Defense Production Act and effectively force the firm to do its bidding. The DPA gives the president the authority to force companies to prioritize or expand production for national defense.\n\nAmodei pointed out the contradiction in those two threats. “One labels us a security risk; the other labels Claude as essential to national security.”\n\nHe added that it’s the Department’s right to choose contractors most aligned with its vision, “but given the substantial value that Anthropic’s technology provides to our armed forces, we hope they reconsider.”\n\nAnthropic is currently the only frontier AI lab that has classified-ready systems for the military, though the DOD is reportedly getting xAI ready for the job.\n\n“Our strong preference is to continue to serve the Department and our warfighters—with our two requested safeguards in place,” Amodei said. “Should the Department choose to offboard Anthropic, we will work to enable a smooth transition to another provider, avoiding any disruption to ongoing military planning, operations, or other critical missions.”\n\nTLDR, he’s saying: ‘We can just part ways. There’s no need to be nasty about it.’",
+      "excerpt": "Anthropic CEO Dario Amodeisaid Thursdaythat he “cannot in good conscience accede to [the Pentagon’s] request” to give the military unrestricted access to its AI systems.\n\n“Anthropic understands that the Department of War, not private companies, makes military decisions,” Amodei wrote in a statement.",
       "tags": [
         "Apple",
         "Amazon",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "Google paid startup Form Energy $1B for its massive 100-hour battery",
-      "link": "https://techcrunch.com/2026/02/26/google-paid-startup-form-energy-1b-for-its-massive-100-hour-battery/",
-      "author": "Tim De Chant",
-      "date": "2026-02-26T13:04:23-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/FF1-container-1.jpg?resize=1200,783",
+      "title": "PayPal might not be looking to sell itself: Report",
+      "link": "https://techcrunch.com/2026/02/26/paypal-might-not-be-looking-to-sell-itself-report/",
+      "author": "Dominic-Madori Davis",
+      "date": "2026-02-26T14:23:42-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-1231192043.jpg?resize=1200,800",
       "category": "",
-      "content": "Google announced earlier this week that it wasbuilding a new data center in Minnesotathat would be powered by a mix of wind, solar, and a very unique battery built by startupForm Energythat’s capable of discharging for days on end.\n\nNow we know the price tag for that feat of electrochemical engineering: about $1 billion,accordingto The Information.\n\nForm Energy’s massive iron-air battery is capable of delivering a continuous 300 megawatts of electricity over 100 hours. It works by breathing, in a sense — oxygen pumped into the cells rusts iron, which releases electrons. The battery will work to smooth the flow of electrons from 1.4 gigawatts of wind power and 200 megawatts of solar power.\n\nThe startup has been chipping away at the technology for years, and it has built a factory in West Virginia to produce the batteries. But it hadn’t landed a major customer until this recent deal with Google.\n\nWith a big order on the books, Form Energy CEO Mateo Jaramillo said that his company is in the process of raising a $500 million round. Form has raised $1.4 billion to date, according to PitchBook. The company plans to go public next year.",
-      "excerpt": "Google announced earlier this week that it wasbuilding a new data center in Minnesotathat would be powered by a mix of wind, solar, and a very unique battery built by startupForm Energythat’s capable of discharging for days on end.\n\nNow we know the price tag for that feat of electrochemical engineer",
+      "content": "PayPal may not be pursuing an acquisition,Semafor reported, citing people familiar with the matter.\n\nEarlier this week, Bloomberg reported that Stripeexpressed interestin buying some or all of PayPal Holdings, which includes the flagship product PayPal and its services, as well as other companies like Venmo. Stripe declined to comment on the news.\n\nBut unnamed sources tell Semafor that the company has been working with bankers in preparation for a possible activist investor campaign or a hostile takeover. The bankers were working withAlexChriss, PayPal’snow-ousted CEO, the outlet reported. The company’s new CEO starts next week, PayPal has said.\n\nPayPal did not respond to TechCrunch’s request for comment.",
+      "excerpt": "PayPal may not be pursuing an acquisition,Semafor reported, citing people familiar with the matter.\n\nEarlier this week, Bloomberg reported that Stripeexpressed interestin buying some or all of PayPal Holdings, which includes the flagship product PayPal and its services, as well as other companies li",
       "tags": [
         "Apple",
         "Amazon",
