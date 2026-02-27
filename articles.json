@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T22:27:17.792061+00:00",
+  "last_updated": "2026-02-27T23:28:11.873035+00:00",
   "articles": [
     {
       "title": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "President Trump orders federal agencies to stop using Anthropic after Pentagon dispute",
-      "link": "https://techcrunch.com/2026/02/27/president-trump-orders-federal-agencies-to-stop-using-anthropic-after-pentagon-dispute/",
-      "author": "Russell Brandom",
-      "date": "2026-02-27T13:53:14-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2225249178.jpg?w=1024",
+      "title": "OpenAI fires employee for using confidential info on prediction markets",
+      "link": "https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/",
+      "author": "Julie Bort",
+      "date": "2026-02-27T15:00:54-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/06/OpenAI-logo-symmetry.jpg?resize=1200,675",
       "category": "",
-      "content": "In a post on Truth Social, President Trump directed federal agencies to cease use of all Anthropic products after the company’spublic dispute with the Department of Defense. The president allowed for a six-month phase-out period for departments using the products, but emphasized that Anthropic was no longer welcome as a federal contractor.\n\n“We don’t need it, we don’t want it, and will not do business with them again,” the president wrote in the post.\n\nNotably, the post does not mention any plans to invoke the Defense Production Act or designate Anthropic as a supply chain risk. Instead, the president urged the company to be helpful during the six-month phase-out period, threatening “major civil and criminal consequences” if it did not.\n\npic.twitter.com/B51SWfn81N\n\nThe dispute centered on Anthropic’s refusal to allow its AI models to be used to power either mass domestic surveillance or fully autonomous weapons, which Secretary of Defense Pete Hegseth found unduly restrictive.\n\nCEO Dario Amodei reiterated his stancein a public post on Thursday, refusing to compromise on the two points.\n\n“Our strong preference is to continue to serve the Department and our warfighters — with our two requested safeguards in place,” Amodei wrote at the time. “Should the Department choose to offboard Anthropic, we will work to enable a smooth transition to another provider, avoiding any disruption to ongoing military planning, operations, or other critical missions.”",
-      "excerpt": "In a post on Truth Social, President Trump directed federal agencies to cease use of all Anthropic products after the company’spublic dispute with the Department of Defense. The president allowed for a six-month phase-out period for departments using the products, but emphasized that Anthropic was n",
+      "content": "OpenAI has fired an employee over the employee’s activity on prediction markets, including Polymarket, the companyconfirmed to Wired.The employee used confidential OpenAI information in connection with the trades made, the company alleges.\n\nOpenAI didn’t release the name of the employee. However, a spokesperson said that such actions violated a company policy that bans workers from using inside information for personal gain, including on prediction markets.\n\nPrediction markets like Polymarket and Kalshi allow people to make wagers on the outcomes of real-world events. For instance, on Polymarket, there are wagers being made around the kind of products OpenAI will announce in 2026 and when the company will go public. They can cover any event, and some eye-popping money can be made. As we recently reported,an accountant won a $470,300 jackpot on Kalshiby betting against DOGE believers.\n\nPrediction markets insist they are not gambling sites, preferring to label themselves as financial platforms. Kalshi is a regulated exchange and, in fact, itfined and banned a MrBeast editor for similar alleged insider tradingearlier this week. OpenAI did not immediately respond to a request for additional comment.",
+      "excerpt": "OpenAI has fired an employee over the employee’s activity on prediction markets, including Polymarket, the companyconfirmed to Wired.The employee used confidential OpenAI information in connection with the trades made, the company alleges.\n\nOpenAI didn’t release the name of the employee. However, a ",
       "tags": [
         "Apple",
         "Amazon",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "ChatGPT reaches 900M weekly active users",
-      "link": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
-      "author": "Aisha Malik",
-      "date": "2026-02-27T10:25:51-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+      "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
+      "link": "https://techcrunch.com/2026/02/27/president-trump-orders-federal-agencies-to-stop-using-anthropic-after-pentagon-dispute/",
+      "author": "Russell Brandom",
+      "date": "2026-02-27T13:53:14-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2225249178.jpg?w=1024",
       "category": "",
-      "content": "ChatGPT has reached 900 million weekly active users, OpenAIannouncedFriday, putting the AI chatbot within striking distance of 1 billion. OpenAI also shared that it now has 50 million paying subscribers.\n\n“Subscriber momentum accelerated meaningfully to start the year, with January and February on track to be the largest months for new subscribers in our history,” the company wrote in a blog post. “People use ChatGPT to learn, write, plan, and build. As usage scales, the product improves in ways people feel immediately: faster responses, higher reliability, stronger safety, and more consistent performance.”\n\nThe new weekly active user figure marks a jump of 100 million users from the800 millionthat OpenAI reported in October 2025.\n\nOpenAI shared the new numbers as part of its announcement that it hasraised $110 billionin private funding, marking one of the largest private funding rounds in history. The new funding includes a $50 billion investment from Amazon, along with $30 billion each from Nvidia and SoftBank, at a $730 billion pre-money valuation. The round remains open, and the company expects more investors to join.",
-      "excerpt": "ChatGPT has reached 900 million weekly active users, OpenAIannouncedFriday, putting the AI chatbot within striking distance of 1 billion. OpenAI also shared that it now has 50 million paying subscribers.\n\n“Subscriber momentum accelerated meaningfully to start the year, with January and February on t",
+      "content": "In a post on Truth Social, President Trump directed federal agencies to cease use of all Anthropic products after the company’spublic dispute with the Department of Defense. The president allowed for a six-month phase-out period for departments using the products, but emphasized that Anthropic was no longer welcome as a federal contractor.\n\n“We don’t need it, we don’t want it, and will not do business with them again,” the president wrote in the post.\n\npic.twitter.com/B51SWfn81N\n\nNotably, the President’s post does not mention any plans to designate Anthropic as a supply chain risk, as had been previously mentioned as a consequence. However,a subsequent tweetfrom Secretary of Defense Pete Hegseth made good on the threat.\n\n“In conjunction with the President’s directive for the Federal Government to cease all use of Anthropic’s technology, I am directing the Department of War to designate Anthropic a Supply-Chain Risk to National Security,” Secretary Hegseth wrote. “Effective immediately, no contractor, supplier, or partner that does business with the United States military may conduct any commercial activity with Anthropic.”\n\nThe Pentagon dispute centered on Anthropic’s refusal to allow its AI models to be used to power either mass domestic surveillance or fully autonomous weapons, which Secretary Hegseth found unduly restrictive.\n\nCEO Dario Amodei reiterated his stancein a public post on Thursday, refusing to compromise on the two points.\n\n“Our strong preference is to continue to serve the Department and our warfighters — with our two requested safeguards in place,” Amodei wrote at the time. “Should the Department choose to offboard Anthropic, we will work to enable a smooth transition to another provider, avoiding any disruption to ongoing military planning, operations, or other critical missions.”",
+      "excerpt": "In a post on Truth Social, President Trump directed federal agencies to cease use of all Anthropic products after the company’spublic dispute with the Department of Defense. The president allowed for a six-month phase-out period for departments using the products, but emphasized that Anthropic was n",
       "tags": [
         "Apple",
         "Amazon",
