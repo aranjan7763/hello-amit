@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T21:37:48.664304+00:00",
+  "last_updated": "2026-03-04T22:35:24.505757+00:00",
   "articles": [
     {
       "title": "Google settles with Epic Games, drops its Play Store commissions to 20%",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "US and EU police shut down LeakBase, a site accused of sharing stolen passwords and hacking tools",
-      "link": "https://techcrunch.com/2026/03/04/u-s-and-eu-police-shut-down-leakbase-a-site-accused-of-sharing-stolen-passwords-and-hacking-tools/",
-      "author": "Zack Whittaker",
-      "date": "2026-03-04T11:01:55-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/operation-leak-seize-site.jpg?resize=1200,677",
+      "title": "Apple Music to add Transparency Tags to distinguish AI music, says report",
+      "link": "https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report/",
+      "author": "Amanda Silberling",
+      "date": "2026-03-04T13:43:58-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2020/09/apple-music-icon-ios-2020.jpg?resize=1200,675",
       "category": "",
-      "content": "U.S. and European law enforcement have seized the database from LeakBase, which prosecutors have touted as “one of the world’s largest online forums for cybercriminals” for sharing stolen passwords and hacking tools.\n\nU.S. and European police seized the site earlier this week, and say its database has over 142,000 members and more than 215,000 messages sent between members.\n\nLeakBase has been operating since 2021, the authorities said, and had a continuously maintained archive of hacked databases, including hundreds of millions of account credentials, credit card numbers, and banking account and routing information.\n\nThis is the latest takedown targeting sites that trade in stolen credentials, which are increasingly used to break into people’s accounts and steal data and cryptocurrency.\n\nEuropolsaid in a statementthat around 100 enforcement actions were taken worldwide, including measures taken against the top 37 active users on the forum. Earlier on Wednesday, the FBI redirected the site’s domain to nameservers controlled by the agency, effectively shutting the site down.\n\nLeakbasenow displaysa seizure notice, saying that the forum’s contents, private messages, and IP address logs have been preserved. According toThe Record, which interviewed FBI’s cyber official Brett Leatherman, the investigation resulted in over 13 arrests, searches, and interviews with 33 suspects, and capturing the forum’s entire database.",
-      "excerpt": "U.S. and European law enforcement have seized the database from LeakBase, which prosecutors have touted as “one of the world’s largest online forums for cybercriminals” for sharing stolen passwords and hacking tools.\n\nU.S. and European police seized the site earlier this week, and say its database h",
+      "content": "Apple Music is changing the way that record labels and distributors can flag AI-generated or AI-assisted content when they upload it to the platform.\n\nAccording toMusic Business Worldwide, Apple sent a newsletter to industry partners on Wednesday to explain how it will roll out a new set of metadata to promote transparency around how and when AI is used in music.\n\nMetadata typically refers to fields like the song title, album title, genre, artist name, and other information that helps keep files organized. Now Apple Music will add the option to include metadata tags that distributors can use to flag when AI-generated content is involved in certain aspects of a song. These tags allow distributors to distinguish between a song’s artwork, track (music), composition (lyrics), or music video.\n\nThis seems like something that Apple Music users are interested in — a Reddit user posteda mock-up of a similar feature conceptjust days ago. But the problem with this sort of opt-in tagging is that it’s on the label or distributor to manually choose to flag their use of AI.Spotify is taking a similar path.\n\nOther music-streaming platforms likeDeezerare trying to flag content with in-house AI-detection tools, but it remains challenging to create these sorts of systems that are maximally accurate.\n\nTechCrunch has reached out to Apple for more information.",
+      "excerpt": "Apple Music is changing the way that record labels and distributors can flag AI-generated or AI-assisted content when they upload it to the platform.\n\nAccording toMusic Business Worldwide, Apple sent a newsletter to industry partners on Wednesday to explain how it will roll out a new set of metadata",
       "tags": [
         "Apple",
         "Amazon",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "Google Search rolls out Gemini’s Canvas in AI Mode to all US users",
-      "link": "https://techcrunch.com/2026/03/04/https-techcrunch-com-2026-03-04-google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users/",
-      "author": "Sarah Perez",
-      "date": "2026-03-04T10:50:58-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2206888090.jpg?resize=1200,800",
-      "category": "AI",
-      "content": "Google has expanded access to Canvas in AI Mode to all users in the U.S. in English, afterfirst launchingthe feature as part of its Google Labs experiments last year.\n\nCanvas in AI Mode is designed to help users organize and plan projects or delve into deeper research. The feature now supports the ability to draft documents or create custom tools within Google Search, the company saidin a blog post.\n\nGoogle previously suggested using Canvas for tasks like building a study guide by uploading class notes and other sources; the feature can also complete other tasks such as turning a research report into a web page, quiz, or audio overview, which has some overlap with Google’s research tool Notebook LM.\n\nUsers can describe an idea to Canvas and watch as it generates the code to transform that idea into a shareable app or game. The feature can also be used to help refine creative writing drafts and get feedback on projects.\n\nCanvas is already available in Gemini, where Google AI Pro and Google AI Ultra subscribers have access to the latest model, Gemini 3, and a larger 1 million-token context window for more complex projects.\n\nMore people will be exposed to Canvas now that it’s available to all users in the U.S. through Google’s AI search feature known as AI Mode, including those who haven’t yet dabbled with Gemini’s capabilities. That’s one of Google’s advantages in the AI race — the reach of Google Search gives it the power to place its products in front of billions of users.\n\nTo use Canvas, users select the new Canvas option from the tool menu (+) while in AI Mode, then describe what they want to create. This opens up a Canvas side panel where users can pull together information from the web and Google’s Knowledge Graph. If building a prototype or app, users can test the functionality, toggle to see the underlying code, and refine how the app works by chatting with Gemini.\n\nCanvas competes with similar tools from rivals like OpenAI and Anthropic. However,ChatGPT’s Canvas feature is triggered automaticallybased on the query, while Google and Anthropic’s Claude require more direct interaction. Both also allow users to get help with writing or turn ideas into projects.",
-      "excerpt": "Google has expanded access to Canvas in AI Mode to all users in the U.S. in English, afterfirst launchingthe feature as part of its Google Labs experiments last year.\n\nCanvas in AI Mode is designed to help users organize and plan projects or delve into deeper research. The feature now supports the a",
+      "title": "US and EU police shut down LeakBase, a site accused of sharing stolen passwords and hacking tools",
+      "link": "https://techcrunch.com/2026/03/04/u-s-and-eu-police-shut-down-leakbase-a-site-accused-of-sharing-stolen-passwords-and-hacking-tools/",
+      "author": "Zack Whittaker",
+      "date": "2026-03-04T11:01:55-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/operation-leak-seize-site.jpg?resize=1200,677",
+      "category": "",
+      "content": "U.S. and European law enforcement have seized the database from LeakBase, which prosecutors have touted as “one of the world’s largest online forums for cybercriminals” for sharing stolen passwords and hacking tools.\n\nU.S. and European police seized the site earlier this week, and say its database has over 142,000 members and more than 215,000 messages sent between members.\n\nLeakBase has been operating since 2021, the authorities said, and had a continuously maintained archive of hacked databases, including hundreds of millions of account credentials, credit card numbers, and banking account and routing information.\n\nThis is the latest takedown targeting sites that trade in stolen credentials, which are increasingly used to break into people’s accounts and steal data and cryptocurrency.\n\nEuropolsaid in a statementthat around 100 enforcement actions were taken worldwide, including measures taken against the top 37 active users on the forum. Earlier on Wednesday, the FBI redirected the site’s domain to nameservers controlled by the agency, effectively shutting the site down.\n\nLeakbasenow displaysa seizure notice, saying that the forum’s contents, private messages, and IP address logs have been preserved. According toThe Record, which interviewed FBI’s cyber official Brett Leatherman, the investigation resulted in over 13 arrests, searches, and interviews with 33 suspects, and capturing the forum’s entire database.",
+      "excerpt": "U.S. and European law enforcement have seized the database from LeakBase, which prosecutors have touted as “one of the world’s largest online forums for cybercriminals” for sharing stolen passwords and hacking tools.\n\nU.S. and European police seized the site earlier this week, and say its database h",
       "tags": [
         "Apple",
         "Amazon",
