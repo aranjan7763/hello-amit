@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T22:32:05.386255+00:00",
+  "last_updated": "2026-03-06T23:30:07.655479+00:00",
   "articles": [
     {
       "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "Life EV officially owns Rad Power Bikes now",
-      "link": "https://techcrunch.com/2026/03/06/life-ev-officially-owns-rad-power-bikes-now/",
-      "author": "Kirsten Korosec",
-      "date": "2026-03-06T13:56:35-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/rad-power-bikes-getty.jpg?resize=1200,800",
-      "category": "",
-      "content": "Life Electric Vehicles Holdings, also known asLife EV, officially owns the intellectual property, inventory, and certain operating assets of Rad Power Bikes. Life EV acquired Rad Power for$13.2 million.\n\nRad Power Bikes, a buzzy electric bike company that raised nearly $330 million in venture capital,filed for Chapter 11 bankruptcy protectionin December. The company had struggled for months prior to its bankruptcy filing, and hadwarned employeesit might have to shut down without new capital.\n\nLife EV intends to keep the company intact and said it will continue retail operations under the Rad Power Bikes brand in the United States. It also plans to expand the retail footprint in select key markets.  Life EV also pledged to support existing customers who might be wondering what would become of their bike warranties or even gift cards.\n\nThe Florida-based Life EV has built its business by acquiring, developing, and scaling electric bicycle and micro-mobility brands. While Rad Power is perhaps its highest profile purchase, the company also holds an equity interest in LEV Manufacturing, Inc., which acquired the Serial 1 premium electric bicycle brand originally developed and spun off from Harley-Davidson.\n\nIn a statement, Life EV said the acquisition fits into its broader strategy of expansion across North America.",
-      "excerpt": "Life Electric Vehicles Holdings, also known asLife EV, officially owns the intellectual property, inventory, and certain operating assets of Rad Power Bikes. Life EV acquired Rad Power for$13.2 million.\n\nRad Power Bikes, a buzzy electric bike company that raised nearly $330 million in venture capita",
+      "title": "X is testing a new ad format that connects posts with products",
+      "link": "https://techcrunch.com/2026/03/06/x-is-testing-a-new-ad-format-that-connects-posts-with-products/",
+      "author": "Sarah Perez",
+      "date": "2026-03-06T14:41:26-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-1.jpg?resize=1200,675",
+      "category": "Social",
+      "content": "X is testing a new ad format that inserts a recommendation directly underneath a post that references the company or its products. The initial test,spottedby an X user in Europe, displayed a suggestion to “Get Starlink” beneath a post from a user that said Starlink’s satellite service works great in Portugal. The link, when clicked, directed users to Starlink’s website.\n\nX head of product Nikita Bier confirmed the test,responding, “Trying to make an ad product that isn’t an ad.”\n\nThe Starlink ad is not visible to all users at this time, but the placeholder where the ad sits is.\n\nIf you visitX user @levelsio’s postfrom March 6 (screenshotted below in case of deletion), you’ll see an outlined box beneath the text of his post. This box currently showcases a random X post, unless you’re in the market where the ad test is live.\n\nIn places where the ad displays,several commenters noticed the new addition, with oneasking, “lmao, did you add this Starlink button?”\n\nIn the thread, Bier also responded to a suggestion that X should allow affiliate links in this ad slot by saying, “No, then people will lie. I want to trust recommendations on here.”\n\nX could not be immediately reached for comment. TechCrunch will update the article if the company responds.\n\nThe test follows news earlier this week that the company isrolling out “Paid Partnership” labelsfor creators. The labels can be applied to posts to comply with regulations around social media advertising, instead of requiring creators to use a hashtag like “ad” or “paid partnership.”\n\nIf creators’ sponsored posts were to be combined with an embedded link to an advertiser like the one being tested, X could potentially attract more marketers to the platform. That could boost creators’ use of the app, allowing it to better compete against larger social networks favored by creators, like Instagram, YouTube, and TikTok.\n\nX has been chasing creator content for some time —even beforeit was called “X” and before it was owned by Elon Musk. Yet the app has never quite found its footing in this space. So far, the company has rolled out a number of creator products, includingpayoutsfor viral content,ad-revenue sharing,creator subscriptions, and more.\n\nThe company this week alsorevamped its Creator Subscriptionsoffering with a number of new features, including the ability to monetize individual threads.\n\nIn addition,X announced Fridaythat the integrated chatbot Grok is now capable of reading X’s long-form content, known as Articles. This feature, too, is underutilized, as creators who publish lengthy written text tend to prefer doing so through their own websites or newsletters.",
+      "excerpt": "X is testing a new ad format that inserts a recommendation directly underneath a post that references the company or its products. The initial test,spottedby an X user in Europe, displayed a suggestion to “Get Starlink” beneath a post from a user that said Starlink’s satellite service works great in",
       "tags": [
         "Apple",
         "Amazon",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
-      "link": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
-      "author": "Russell Brandom",
-      "date": "2026-03-06T11:00:22-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200",
+      "title": "Nintendo sues the US government for a refund on tariffs",
+      "link": "https://techcrunch.com/2026/03/06/nintendo-sues-the-u-s-government-for-a-refund-on-tariffs/",
+      "author": "Amanda Silberling",
+      "date": "2026-03-06T14:35:35-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2263890630.jpg?resize=1200,800",
       "category": "",
-      "content": "In a recent security partnership with Mozilla, Anthropic found22 separate vulnerabilitiesin Firefox — 14 of them classified as “high-severity.” Most of the bugs have been fixed inFirefox 148(the version released this February), although a few fixes will have to wait for the next release.\n\nAnthropic’s team used Claude Opus 4.6 over the span of two weeks, starting in the JavaScript engine and then expanding to other portions of the codebase. According to the post, the team focused on Firefox because “it’s both a complex codebase and one of the most well-tested and secure open-source projects in the world.”\n\nNotably, Claude Opus was much better at finding vulnerabilities than writing software to exploit them. The team ended up spending $4,000 in API credits trying to concoct proof-of-concept exploits, but only succeeded in two cases.\n\nStill, it’s a reminder of how powerful AI tools can be for open source projects — even if they bringa flood of bad merge requestsalongside the useful ones.",
-      "excerpt": "In a recent security partnership with Mozilla, Anthropic found22 separate vulnerabilitiesin Firefox — 14 of them classified as “high-severity.” Most of the bugs have been fixed inFirefox 148(the version released this February), although a few fixes will have to wait for the next release.\n\nAnthropic’",
+      "content": "Nintendo filed alawsuitagainst the U.S. government on Friday over its extraction of tariffs from global businesses. The gaming giant is seeking a refund for any duties it paid due to President Donald Trump’s executive orders that invoke the International Emergency Economic Powers Act (IEEPA).\n\nThis lawsuit, filed in the U.S. Court of International Trade, comes after a Supreme Court decision struck down the tariffs that the president imposed under IEEPA, arguing that he exceeded his authority. More thana thousandother companies have already sued for refunds on the tariffs that they pay; according to Nintendo’s complaint, viewed by TechCrunch, these tariffs have resulted in the collection of over $200 billion on imports in total.\n\n“We can confirm that we have filed a request,” Nintendo told TechCrunch in a statement. “We have nothing else to share on the topic.”\n\nIn response to the Supreme Court’s decision — which he called “extraordinarily anti-American” — President Trumpraised tariffsfrom 10% to 15%. Now, 24 states have sued to argue that the president has once again overstepped the limits of his power by making this change.",
+      "excerpt": "Nintendo filed alawsuitagainst the U.S. government on Friday over its extraction of tariffs from global businesses. The gaming giant is seeking a refund for any duties it paid due to President Donald Trump’s executive orders that invoke the International Emergency Economic Powers Act (IEEPA).\n\nThis ",
       "tags": [
         "Apple",
         "Amazon",
