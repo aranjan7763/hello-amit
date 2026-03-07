@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-03-07T02:09:55.061872+00:00",
+  "last_updated": "2026-03-07T04:23:05.753799+00:00",
   "articles": [
+    {
+      "title": "Robinhood’s startup fund stumbles in NYSE debut",
+      "link": "https://techcrunch.com/2026/03/06/robinhoods-startup-fund-stumbles-in-nyse-debut/",
+      "author": "Marina Temkin",
+      "date": "2026-03-06T18:04:43-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2018/03/39667676405_fbb3b9feff_k.jpg?resize=1200,800",
+      "category": "Venture",
+      "content": "Retail investors are famously locked out of the startup world. Robinhood is attempting to change that by allowing the general public to invest in a portfolio of what it calls “some of the most exciting private companies operating today.”\n\nTo do this, the company that pioneered the commission-free brokerage model has secured access to eight startups—including Databricks, Stripe, Mercor, and Oura—grouping them into a vehicle called Robinhood Ventures Fund I. The fund, which also includes Ramp, Airwallex, Revolut, and Boom, set out last month with an ambitious $1 billion target, but demand for this novel way of investing in private companies was lower than expected.\n\nOn Thursday, Robinhood announced the fund had raised$658.4 million — which could reach $705.7 million if underwriters exercise their full allotment. The shares, priced at $25 in the offering, began trading on Friday and closed the day at $21, a 16% decline.\n\nRVI’s reception on Wall Street stands in stark contrast to another attempt to give individual investors exposure to buzzy startups. When Destiny Tech100 — a publicly traded, closed-end fund holding stakes in 100 venture-backed companies including SpaceX, OpenAI, and Discord — direct-listed on the NYSE in March 2024, itsshares surgedfrom a reference price of $4.84 to an opening trade of $8.25, eventually closing its first day at $9.00.\n\nDestiny Tech100 has kept climbing since its public debut. The fund closed trading on Friday at $26.61, a 33% premium to its net asset value of$19.97, meaning its shares trade well above the actual value of its underlying holdings.\n\nSo what explains why retail investors aren’t nearly as excited about Robinhood’s fund as they are about Destiny Tech 100? The most likely explanation is RVI’s lack of exposure to the companies widely expected to go public at enormous valuations: OpenAI, Anthropic, and SpaceX.\n\nRobinhood is looking to address this. RVI intends to add more startups to the fund, eventually aiming to hold what Robinhood Ventures President Sarah Pinto described to TechCrunch as “15 to 20 of the best late-stage growth companies out there.”  The company’s CFO, Shiv Verma,told Axios Proon Friday thatRobinhood is eyeing exposure to OpenAI.\n\nBut securing access to these high-profile companies is far from straightforward. Robinhood is aiming to get directly onto their cap tables directly through primary capital raises or secondary share sales — and that’s difficult even for a firm with deep roots in Silicon Valley.\n\nA cap table — the official record of who owns equity in a company — is closely guarded at most high-profile startups, and winning a spot on one requires either being invited by the company or purchasing shares from existing investors with the company’s blessing.\n\n“It’s very difficult to get into any of these companies, and the investment rounds are very expensive,” acknowledged Pinto.\n\nThat is just one of the reasons democratizing private markets is easier said than done, and why the companies most retail investors actually want to own remain, for now, out of reach.",
+      "excerpt": "Retail investors are famously locked out of the startup world. Robinhood is attempting to change that by allowing the general public to invest in a portfolio of what it calls “some of the most exciting private companies operating today.”\n\nTo do this, the company that pioneered the commission-free br",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
     {
       "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
       "link": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
@@ -121,40 +138,6 @@
       ]
     },
     {
-      "title": "Cluely CEO Roy Lee admits to publicly lying about revenue numbers last year",
-      "link": "https://techcrunch.com/2026/03/05/cluely-ceo-roy-lee-admits-to-publicly-lying-about-revenue-numbers-last-year/",
-      "author": "Julie Bort",
-      "date": "2026-03-05T14:38:26-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Cluely-Roy-Lee.jpg?resize=1200,800",
-      "category": "Startups",
-      "content": "The$7 million in annual recurring revenuethat Cluely co-founder and CEO Roy Lee shared with TechCrunch last summer was a lie, Leeadmittedon Thursday on X. Wrote Lee, this “is the only blatantly dishonest thing i’ve said publicly online, so this is my formal retraction.”\n\nYet his post on X also misrepresents the backstory of how and why he told TechCrunch his ARR in the first place.\n\nLee says in that same post that he “got a random cold call from some woman asking about numbers and told her some bs, did not expect an article about it.”\n\nBut that call occurred because Cluely’s public relations representative emailed TechCrunch and offered to make Lee available for a story. On Friday, Jun 27, 2025 at 8:38 a.m., Cluely’s PR person sent an email to TechCrunch reporter Marina Temkin that said, “I’d love to arrange an interview with Roy. Whether for a deeper dive into Cluely’s next phase or a fresh angle on his vision, we’d be happy to make it happen.”\n\nTemkin agreed. The PR representative shared Lee’s number and confirmed that he was expecting the call. After a few attempts to reach him, Lee answered the call and gave the interview, as had been arranged.\n\neh kinda, here's our stripes from june 2025got a random cold call from some woman asking about numbers and told her some bs, did not expect an article about ithere's what we were doing at the time:> consumer arr 2.7m, run rate 3.8m> enterprise arr 2.5m, run rate 2.5m>…https://t.co/CzAoPRru2Rpic.twitter.com/C5bXuz8HqW\n\nTechCrunch was interested in talking to Cluely because in the summer of 2025, Cluely was the “cheat-on-everything” phenomenon — a viral startup that let users secretly look up answers during video calls without being detected. The company was founded after Leepublisheda viral post on X saying he had been suspended by Columbia University after he and his co-founder developed a tool to cheat on job interviews for software engineers.\n\nThe co-founders raised $5.3 million in seed funding from Abstract Ventures and Susa Ventures for Cluely, intending to commercialize the tool that got them suspended. It was positioned as allowing online interviewees (or anyone) to secretly look up answers to questions without detection. For a while, it seemed like Cluely would become so successful that it would spawna counter-industry of detection toolsdesigned to catch people using it.\n\nIn June, Cluely raised a $15 million Series A from Andreessen Horowitz. By then, the company had mastered the art of creating provocative content designed to go viral using stunts to keep Cluely in the headlines and attract new users. The strategy was the talk of the town. Lee even discussed how successful rage-bait marketing tactics were for gaining early customers atTechCrunch’s 2025 Disruptevent in October.\n\nHe declined to share updated revenue numbers at that time, but he did indicate that marketing alone, when a product is still in flux, isn’t enough to build a sustainable business. “What I’ve learned is you should never share revenue numbers,” he told the Disrupt audience.\n\nCluely has since rebranded itself as an AI-powered meeting note-taker. But in admitting the lie on Thursday and posting numbers from his Stripe account, Lee appears to have forgotten his own advice.",
-      "excerpt": "The$7 million in annual recurring revenuethat Cluely co-founder and CEO Roy Lee shared with TechCrunch last summer was a lie, Leeadmittedon Thursday on X. Wrote Lee, this “is the only blatantly dishonest thing i’ve said publicly online, so this is my formal retraction.”\n\nYet his post on X also misre",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Robinhood’s startup fund stumbles in NYSE debut",
-      "link": "https://techcrunch.com/2026/03/06/robinhoods-startup-fund-stumbles-in-nyse-debut/",
-      "author": "Marina Temkin",
-      "date": "2026-03-06T18:04:43-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/03/39667676405_fbb3b9feff_k.jpg?resize=1200,800",
-      "category": "Venture",
-      "content": "Retail investors are famously locked out of the startup world. Robinhood is attempting to change that by allowing the general public to invest in a portfolio of what it calls “some of the most exciting private companies operating today.”\n\nTo do this, the company that pioneered the commission-free brokerage model has secured access to eight startups—including Databricks, Stripe, Mercor, and Oura—grouping them into a vehicle called Robinhood Ventures Fund I. The fund, which also includes Ramp, Airwallex, Revolut, and Boom, set out last month with an ambitious $1 billion target, but demand for this novel way of investing in private companies was lower than expected.\n\nOn Thursday, Robinhood announced the fund had raised$658.4 million — which could reach $705.7 million if underwriters exercise their full allotment. The shares, priced at $25 in the offering, began trading on Friday and closed the day at $21, a 16% decline.\n\nRVI’s reception on Wall Street stands in stark contrast to another attempt to give individual investors exposure to buzzy startups. When Destiny Tech100 — a publicly traded, closed-end fund holding stakes in 100 venture-backed companies including SpaceX, OpenAI, and Discord — direct-listed on the NYSE in March 2024, itsshares surgedfrom a reference price of $4.84 to an opening trade of $8.25, eventually closing its first day at $9.00.\n\nDestiny Tech100 has kept climbing since its public debut. The fund closed trading on Friday at $26.61, a 33% premium to its net asset value of$19.97, meaning its shares trade well above the actual value of its underlying holdings.\n\nSo what explains why retail investors aren’t nearly as excited about Robinhood’s fund as they are about Destiny Tech 100? The most likely explanation is RVI’s lack of exposure to the companies widely expected to go public at enormous valuations: OpenAI, Anthropic, and SpaceX.\n\nRobinhood is looking to address this. RVI intends to add more startups to the fund, eventually aiming to hold what Robinhood Ventures President Sarah Pinto described to TechCrunch as “15 to 20 of the best late-stage growth companies out there.”  The company’s CFO, Shiv Verma,told Axios Proon Friday thatRobinhood is eyeing exposure to OpenAI.\n\nBut securing access to these high-profile companies is far from straightforward. Robinhood is aiming to get directly onto their cap tables directly through primary capital raises or secondary share sales — and that’s difficult even for a firm with deep roots in Silicon Valley.\n\nA cap table — the official record of who owns equity in a company — is closely guarded at most high-profile startups, and winning a spot on one requires either being invited by the company or purchasing shares from existing investors with the company’s blessing.\n\n“It’s very difficult to get into any of these companies, and the investment rounds are very expensive,” acknowledged Pinto.\n\nThat is just one of the reasons democratizing private markets is easier said than done, and why the companies most retail investors actually want to own remain, for now, out of reach.",
-      "excerpt": "Retail investors are famously locked out of the startup world. Robinhood is attempting to change that by allowing the general public to invest in a portfolio of what it calls “some of the most exciting private companies operating today.”\n\nTo do this, the company that pioneered the commission-free br",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
       "title": "X is testing a new ad format that connects posts with products",
       "link": "https://techcrunch.com/2026/03/06/x-is-testing-a-new-ad-format-that-connects-posts-with-products/",
       "author": "Sarah Perez",
@@ -163,6 +146,23 @@
       "category": "Social",
       "content": "X is testing a new ad format that inserts a recommendation directly underneath a post that references the company or its products. The initial test,spottedby an X user in Europe, displayed a suggestion to “Get Starlink” beneath a post from a user that said Starlink’s satellite service works great in Portugal. The link, when clicked, directed users to Starlink’s website.\n\nX head of product Nikita Bier confirmed the test,responding, “Trying to make an ad product that isn’t an ad.”\n\nThe Starlink ad is not visible to all users at this time, but the placeholder where the ad sits is.\n\nIf you visitX user @levelsio’s postfrom March 6 (screenshotted below in case of deletion), you’ll see an outlined box beneath the text of his post. This box currently showcases a random X post, unless you’re in the market where the ad test is live.\n\nIn places where the ad displays,several commenters noticed the new addition, with oneasking, “lmao, did you add this Starlink button?”\n\nIn the thread, Bier also responded to a suggestion that X should allow affiliate links in this ad slot by saying, “No, then people will lie. I want to trust recommendations on here.”\n\nX could not be immediately reached for comment. TechCrunch will update the article if the company responds.\n\nThe test follows news earlier this week that the company isrolling out “Paid Partnership” labelsfor creators. The labels can be applied to posts to comply with regulations around social media advertising, instead of requiring creators to use a hashtag like “ad” or “paid partnership.”\n\nIf creators’ sponsored posts were to be combined with an embedded link to an advertiser like the one being tested, X could potentially attract more marketers to the platform. That could boost creators’ use of the app, allowing it to better compete against larger social networks favored by creators, like Instagram, YouTube, and TikTok.\n\nX has been chasing creator content for some time —even beforeit was called “X” and before it was owned by Elon Musk. Yet the app has never quite found its footing in this space. So far, the company has rolled out a number of creator products, includingpayoutsfor viral content,ad-revenue sharing,creator subscriptions, and more.\n\nThe company this week alsorevamped its Creator Subscriptionsoffering with a number of new features, including the ability to monetize individual threads.\n\nIn addition,X announced Fridaythat the integrated chatbot Grok is now capable of reading X’s long-form content, known as Articles. This feature, too, is underutilized, as creators who publish lengthy written text tend to prefer doing so through their own websites or newsletters.",
       "excerpt": "X is testing a new ad format that inserts a recommendation directly underneath a post that references the company or its products. The initial test,spottedby an X user in Europe, displayed a suggestion to “Get Starlink” beneath a post from a user that said Starlink’s satellite service works great in",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Nintendo sues the US government for a refund on tariffs",
+      "link": "https://techcrunch.com/2026/03/06/nintendo-sues-the-u-s-government-for-a-refund-on-tariffs/",
+      "author": "Amanda Silberling",
+      "date": "2026-03-06T14:35:35-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2263890630.jpg?resize=1200,800",
+      "category": "",
+      "content": "Nintendo filed alawsuitagainst the U.S. government on Friday over its extraction of tariffs from global businesses. The gaming giant is seeking a refund for any duties it paid due to President Donald Trump’s executive orders that invoke the International Emergency Economic Powers Act (IEEPA).\n\nThis lawsuit, filed in the U.S. Court of International Trade, comes after a Supreme Court decision struck down the tariffs that the president imposed under IEEPA, arguing that he exceeded his authority. More thana thousandother companies have already sued for refunds on the tariffs that they pay; according to Nintendo’s complaint, viewed by TechCrunch, these tariffs have resulted in the collection of over $200 billion on imports in total.\n\n“We can confirm that we have filed a request,” Nintendo told TechCrunch in a statement. “We have nothing else to share on the topic.”\n\nIn response to the Supreme Court’s decision — which he called “extraordinarily anti-American” — President Trumpraised tariffsfrom 10% to 15%. Now, 24 states have sued to argue that the president has once again overstepped the limits of his power by making this change.",
+      "excerpt": "Nintendo filed alawsuitagainst the U.S. government on Friday over its extraction of tariffs from global businesses. The gaming giant is seeking a refund for any duties it paid due to President Donald Trump’s executive orders that invoke the International Emergency Economic Powers Act (IEEPA).\n\nThis ",
       "tags": [
         "Apple",
         "Amazon",
