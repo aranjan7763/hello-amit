@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T23:26:02.279200+00:00",
+  "last_updated": "2026-03-08T02:27:38.995015+00:00",
   "articles": [
     {
       "title": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal",
@@ -27,6 +27,23 @@
       "category": "Media & Entertainment",
       "content": "David Barnett has learned a lot since first launching PopSockets more than a decade ago.\n\nAs the tale goes, the former philosophy professor was looking for an easy way to hold his headphones and went on to create one of the most viral phone accessories of all time: A device that grips to the back of the phone and can be used as a kickstand or a handle — better known as the PopSockets.\n\nBarnett sat down with Equity this week to talk about his journey building this company from his garage, why he decided to never take on traditional venture capital funding, and some of the lessons he’s learned while scaling the business.\n\n“I was a philosophy professor, so I had no experience with manufacturing,” he recalled, adding that he also lacked experience in business, tax, accounting, and finance. “I burned through a lot of money with no revenue,” he continued, adding that he had “wave after wave of manufacturing defects” during the early days.\n\nStill, he managed along and was able to land in a local toy store where he would often stop by to watch how customers interacted with his brand. “The sales were quite slow,” he said. He adjusted the Popsocket a bit, and that’s when everything started to take off. “That was the point where I thought, ‘Okay, this could work in retail.”\n\nFrom there, he spoke about the hits and misses of entering retail (including a dispute he had with Amazon that briefly caused him to pull his product from the website). He spoke about adapting the product even more, protecting intellectual property, and when he knew it was time to step down as CEO and let someone else take the reins.\n\n“The greatest lesson I’ve learned is that it’s all about the people,” he said, adding that he was looking for this trait in his successor. “I think that’s the most important skill one can have as a leader.”",
       "excerpt": "David Barnett has learned a lot since first launching PopSockets more than a decade ago.\n\nAs the tale goes, the former philosophy professor was looking for an easy way to hold his headphones and went on to create one of the most viral phone accessories of all time: A device that grips to the back of",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Grammarly’s ‘expert review’ is just missing the actual experts",
+      "link": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
+      "author": "Anthony Ha",
+      "date": "2026-03-07T14:56:31-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/08/brain-brain.jpg?resize=1200,675",
+      "category": "AI",
+      "content": "A recently-added feature inGrammarlypurports to improve users’ writing with help from the world’s great writers and thinkers — and some tech journalists, too.\n\nLaunched in August 2025as part ofa broader set of AI-powered features, Expert Review appears in the sidebar of Grammarly’s main writing assistant, allowing users to bring up revision suggestions “from the perspective” of subject matter experts.\n\nWired notedthat this Grammarly frames this feedback as if it was coming from well-known authors, whether they’re living or dead. In some cases,according to The Verge, it can even appear to come from tech journalists at The Verge, Wired, Bloomberg, The New York Times, and other publications.\n\nOf course, I couldn’t help but wonder: What about TechCrunch? I copy-pasted an early draft of this post into Grammarly in the hopes that that I might see some tips from my TC colleagues, but I was instead told to add ethical context like Casey Newton, “leverage the anecdote for reader alignment” like Kara Swisher, and “pose the bigger accountability question” like Timnit Gebru.\n\nWhich was all rather disappointing: Yes, the feature seems ill-conceived, butifall those other pubs are going to get mentioned, then what are we doing wrong?\n\nAnyway, to state the obvious, none of these figures appear to be involved in Expert Reviews or to have given Grammarly permission to use their names. Alex Gay, vice president of product and corporate marketing at Grammarly’s parent company Superhuman, told The Verge that these experts are mentioned “because their published works are publicly available and widely cited.”\n\nAnd in itsuser guide to the feature, Grammarly says, “References to experts in Expert Review are for informational purposes only and do not indicate any affiliation with Grammarly or endorsement by those individuals or entities.”\n\nWhich is reasonably clear, I guess. But it raises the question: In what sense is Grammarly actually providing an “expert review”? Perhaps none at all, as historian C.E. Aubin told Wired: “These are not expert reviews, because there are no ‘experts’ involved in producing them.”",
+      "excerpt": "A recently-added feature inGrammarlypurports to improve users’ writing with help from the world’s great writers and thinkers — and some tech journalists, too.\n\nLaunched in August 2025as part ofa broader set of AI-powered features, Expert Review appears in the sidebar of Grammarly’s main writing assi",
       "tags": [
         "Apple",
         "Amazon",
@@ -87,23 +104,6 @@
       ]
     },
     {
-      "title": "Claude’s consumer growth surge continues after Pentagon deal debacle",
-      "link": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
-      "author": "Sarah Perez",
-      "date": "2026-03-06T09:56:07-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
-      "category": "Apps",
-      "content": "Claude’s daily active users are on the rise on mobile devices, as are its new app installs, following the company’sfallout with the Pentagon. After Anthropic CEO Dario Amodeirefusedto allow the government to use its AI systems for mass surveillance of Americans or to power fully autonomous weapons, the AI model provider behind Claude was marked as asupply-chain risk.\n\nHowever, Anthropic’s stance led many consumers to favor the model, data suggests.\n\nApp intelligence providerAppfiguresreports that the U.S. downloads of Claude’s mobile app continue to surpass those of ChatGPT. The most recent figures from March 2 show Claude with 149,000 daily downloads, compared with 124,000 for ChatGPT, the company’s estimates indicate.\n\nWhile download figures offer a window into how many new users are installing the app for the first time, active users offer insight into how many people are actually using it.\n\nOn that front, another market intelligence provider,Similarweb, found that Claude’s app on iOS and Android devices saw 11.3 million daily active users on March 2, up 183% from the start of the year when usage was around 4 million, and up from 5 million daily active users at the beginning of February.\n\nClaude’s growth put it ahead of other AI apps by daily active users, like Perplexity and Microsoft Copilot, but not other top rivals like ChatGPT. This is partially due to the fact that Claude’s jump in usage began later in the month, timed aroundthe news ofAnthropic’s tense negotiations with the Pentagon. If these trends continue throughout March, it could rank higher.\n\nOf course, ChatGPT still dominates the market by a significant factor, as its daily active users on March 2 were 250.5 million across iOS and Android.\n\nSimilarweb also reports that Claude’s web traffic has been growing.\n\nWhile it’s still far behind other top AI providers in terms of web traffic, Claude’s web traffic was up 43% month-over-month in February, and up 297.7% year-over-year. At least some of this growth could be at the expense of ChatGPT, whose web traffic dropped 6.5% month-over-month during the same time period. Gemini also saw a slight bump of 2.1%, which is slower growth than in previous months.\n\nAnthropic itself has been touting Claude’s progress, noting that its AI chatbot isnow seeingmore than 1 million sign-ups per day after becoming theNo. 1 app on the U.S. App Storeover the past weekend — a position it still holds. The app is also No. 1 in 15 other countries, including Austria, Belgium, Canada, Finland, France, Germany, Ireland, Italy, New Zealand, Norway, Portugal, Singapore, Switzerland, the U.K.\n\nThe company noted, too, that Claude has broken its own signup record every day since early last week in every country where Claude is available.\n\nChatGPT’s app uninstalls, meanwhile, have been growing, an earlier report found.\n\nAnthropic said it doesn’t comment on third-party data, but a spokesperson noted that daily active users have more than tripled since the beginning of 2026, and paid subscribers have doubled.\n\nUpdated with Anthropic’s comment after publication.",
-      "excerpt": "Claude’s daily active users are on the rise on mobile devices, as are its new app installs, following the company’sfallout with the Pentagon. After Anthropic CEO Dario Amodeirefusedto allow the government to use its AI systems for mass surveillance of Americans or to power fully autonomous weapons, ",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
       "title": "These are the countries moving to ban social media for children",
       "link": "https://techcrunch.com/2026/03/06/social-media-ban-children-countries-list/",
       "author": "Aisha Malik",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "Grammarly’s ‘expert review’ is just missing the actual experts",
-      "link": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
-      "author": "Anthony Ha",
-      "date": "2026-03-07T14:56:31-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/08/brain-brain.jpg?resize=1200,675",
-      "category": "AI",
-      "content": "A recently-added feature inGrammarlypurports to improve users’ writing with help from the world’s great writers and thinkers — and some tech journalists, too.\n\nLaunched in August 2025as part ofa broader set of AI-powered features, Expert Review appears in the sidebar of Grammarly’s main writing assistant, allowing users to bring up revision suggestions “from the perspective” of subject matter experts.\n\nWired notedthat this Grammarly frames this feedback as if it was coming from well-known authors, whether they’re living or dead. In some cases,according to The Verge, it can even appear to come from tech journalists at The Verge, Wired, Bloomberg, The New York Times, and other publications.\n\nOf course, I couldn’t help but wonder: What about TechCrunch? I copy-pasted an early draft of this post into Grammarly in the hopes that that I might see some tips from my TC colleagues, but I was instead told to add ethical context like Casey Newton, “leverage the anecdote for reader alignment” like Kara Swisher, and “pose the bigger accountability question” like Timnit Gebru.\n\nWhich was all rather disappointing: Yes, the feature seems a bit thoughtless and ill-advised, butifall those other pubs are going to get mentioned, then what are we doing wrong?\n\nAnyway, to state the obvious, none of these figures appear to be involved in Expert Reviews or to have given Grammarly permission to use their names. Alex Gay, vice president of product and corporate marketing at Grammarly’s parent company Superhuman, told The Verge that these experts are mentioned “because their published works are publicly available and widely cited.”\n\nAnd in itsuser guide to the feature, Grammarly says, “References to experts in Expert Review are for informational purposes only and do not indicate any affiliation with Grammarly or endorsement by those individuals or entities.”\n\nWhich is reasonably clear, I guess. But it raises the question: In what sense is Grammarly actually providing an “expert review”? Perhaps none at all, as historian C.E. Aubin told Wired: “These are not expert reviews, because there are no ‘experts’ involved in producing them.”",
-      "excerpt": "A recently-added feature inGrammarlypurports to improve users’ writing with help from the world’s great writers and thinkers — and some tech journalists, too.\n\nLaunched in August 2025as part ofa broader set of AI-powered features, Expert Review appears in the sidebar of Grammarly’s main writing assi",
+      "title": "Google just gave Sundar Pichai a $692M pay package",
+      "link": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
+      "author": "Connie Loizos",
+      "date": "2026-03-07T16:20:10-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
+      "category": "",
+      "content": "Sundar Pichai’s new pay package could be worth $692 million. Per afilingfirstspied by the FT, Alphabet has structured a three-year deal for its Google CEO that could make him one of the highest-paid executives on the planet — but most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.\n\nWhat’s striking is how little public fascination Pichai attracts compared to Google’s founders. Larry Page and Sergey Brin — the second- and fourth richest people in the world — have lately captured headlines for a different reason entirely; both have been snapping up lavish Miami properties, widely seen as a response to California’s proposedBillionaire Tax Act— a ballot initiative targeting the state’s roughly 200 billionaires with a one-time 5% levy on net worth exceeding $1 billion. Page reportedly spent over $173 million on two mansions in Coconut Grove, Florida, recently, while Brin was just linked to a $51 million megamansion14 miles away, atop two earlier purchases totaling $92 million.\n\nPichai, by contrast, remains quietly rooted in Los Altos, California, as far as the public knows. He’s a billionaire, too — the nearly sevenfold growth in Google’s market cap since he took the helm in 2015 has made the stock he’s accumulated along the way hugely valuable. He and his wife currently hold shares worth nearly$500 million, with another estimated$650 millionsold as of last summer, per Bloomberg’s calculations.",
+      "excerpt": "Sundar Pichai’s new pay package could be worth $692 million. Per afilingfirstspied by the FT, Alphabet has structured a three-year deal for its Google CEO that could make him one of the highest-paid executives on the planet — but most of it is tied to performance, including new stock incentives link",
       "tags": [
         "Apple",
         "Amazon",
