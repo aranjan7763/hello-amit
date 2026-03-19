@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T22:32:04.768911+00:00",
+  "last_updated": "2026-03-19T23:32:59.462310+00:00",
   "articles": [
     {
       "title": "Bluesky announces $100M Series B after CEO transition",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
-      "link": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
-      "author": "Lucas Ropek",
-      "date": "2026-03-19T15:09:24-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-184123956.jpg?resize=1200,800",
+      "title": "Amazon acquires Rivr, maker of a stair-climbing delivery robot",
+      "link": "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/",
+      "author": "Kirsten Korosec",
+      "date": "2026-03-19T16:28:37-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/Hero-Image.jpg?resize=1200,675",
       "category": "",
-      "content": "Jeff Bezos is reportedly seeking $100 billion for a new fund, the likes of which will be used to buy up companies in major industrial sectors and, ultimately, modernize and automate them with AI, according to sourcescitedby Wall Street Journal.\n\nThe effort is related to Bezos’ AI startup, Project Prometheus. Bezos, whose involvement with the company wasoriginally reportedin November, is serving as co-founder and co-CEO, alongside former Google executive Vik Bajaj.\n\nPrometheus, which launched with $6.2 billion in funding, is focused on creating high-level AI models to improve manufacturing and engineering in aerospace, automotive, and other sectors. The new manufacturing fund will support that mission by buying up companies that will ultimately use Prometheus’ models.\n\nAccording to the WSJ, Bezos recently traveled to Singapore and the Middle East in his mission to raise funds for the effort. The plan is to acquire companies in areas like aerospace, chipmaking, and defense.\n\nTechCrunch reached out to Bezos via Amazon for more information.",
-      "excerpt": "Jeff Bezos is reportedly seeking $100 billion for a new fund, the likes of which will be used to buy up companies in major industrial sectors and, ultimately, modernize and automate them with AI, according to sourcescitedby Wall Street Journal.\n\nThe effort is related to Bezos’ AI startup, Project Pr",
+      "content": "Rivr, a Zurich-based autonomous robotics startup known for its stair-climbing delivery robot, has been acquired by Amazon in a deal that signals the e-commerce giant’s interest in doorstep delivery. Terms of the deal weren’t disclosed.\n\nRivr co-founder and CEO Marko Bjelonic, who once described the four-legged wheeled robot to TechCrunch as a“dog on roller skates,” shared the acquisition newson LinkedIn. The Information was first toreport the deal.\n\nBjelonic said in his LinkedIn post that the acquisition will “accelerate our vision of building General Physical AI through doorstep delivery, bringing robotics and AI closer to real-world deployment at scale.”\n\nLast year, Rivr launched a pilot program in Austin with Veho, package delivery company. Bjelonic said, at the time, he hoped to learn from the partnership with Veho and eventually scale to 100 bots by 2026. It’s unclear if the company was ever able to reach that milestone.\n\nTechCrunch has reached out to Rivr for comment.\n\nRivr got the attention of Amazon long before its pilot program. The Amazon Industrial Innovation Fund and Bezos Expeditions invested in Rivr as part of a $22.2 million seed round that closed in 2024, according to Pitchbook. The startup, which had raised a total of $25 million, was last valued at $100 million.",
+      "excerpt": "Rivr, a Zurich-based autonomous robotics startup known for its stair-climbing delivery robot, has been acquired by Amazon in a deal that signals the e-commerce giant’s interest in doorstep delivery. Terms of the deal weren’t disclosed.\n\nRivr co-founder and CEO Marko Bjelonic, who once described the ",
       "tags": [
         "Apple",
         "Amazon",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "Employees had to restrain a dancing humanoid robot after it went wild at a California restaurant",
-      "link": "https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/",
-      "author": "Amanda Silberling",
-      "date": "2026-03-19T14:13:50-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2253900044.jpg?resize=1200,798",
-      "category": "Robotics",
-      "content": "When we think about the existential threats of new technology, we’re usually thinking about something like the recentnegotiationsbetween Anthropic and the Pentagon over how AI can be used in the military. It’s terrifying to think about — how long will it be before a nuclear weapon can be detonated without any human intervention?\n\nWe’ve been spending so much time thinking about these potential catastrophes that we haven’t braced ourselves for the more immediate danger in our midst: dancing robots.\n\nA dancing robot at the hot pot restaurant Haidilao in Cupertino, California, boogied a little too hard, got too close to a table, and started smashing plates and sending dishware and chopsticks everywhere, prompting the restaurant’s staff to intervene, accordingto a videoposted on the Chinese social network Xiaohongshu by user Meooow.\n\nA dancing humanoid robot got a little too funky during a performance in Cupertino, California and had to be restrained by staff after knocking items off a table.pic.twitter.com/nZQsGoFHn6\n\nFrom what we can see fromthe video, at least three employees struggled to restrain the robot as it flung its arms around. One Haidilao employee seems to be looking at her phone, perhaps in an attempt to toggle something on an app controlling the robot. It’s possible the robot — whichappears to be an AgiBot X2 robot, which wasfeaturedat the CES conference in January — has a kill switch, but the staff might not have known how to operate it.\n\nIf you’re not familiar with hot pot, you should know that, as its name suggests, it involves very hot pots of soup. No one likes spilled food, but if the robot were to knock piping bowls of bone broth over, it wouldn’t just be a culinary disaster, it might seriously burn someone. Not to mention any potential blunt-force damage from the now-moshing automaton.\n\nWhen The Killers sang “Are we human or are we dancer,” we did not realize they were asking us to take a stand in the future robot wars.\n\nHaidilao confirmed the mechanical contretemps in astatement to NBC News, but denied the robot was “malfunctioning or out of control.”\n\n“In this case, the robot was brought closer to a dining table at a guest’s request, which is not its typical operating setting,” the Chinese chain of hot pot restaurants told NBC News in a statement. “The limited space affected its movement during the performance.”\n\nAgiBot did not immediately respond to TechCrunch’s request for comment.\n\nHaidilao has experimented with a “smart restaurant” in Beijing, which used robotic servers and broth mixing machines. It seems that this Haidilao restaurant was just using this robot forentertainment purposes, but things got out of hand when it danced a little too close to customers.\n\nMany startups are working on bringing robots to the food service industry, likeShin Starr,which is working on making fully autonomous kitchens. Pudu Robotics’BellaBot, a cutesy, cat-like robot, can direct customers to their seats and bring out their food when it’s done.\n\nMaybe that’s safer than humanoid robots, for now at least — the BellaBot does not have any limbs.",
-      "excerpt": "When we think about the existential threats of new technology, we’re usually thinking about something like the recentnegotiationsbetween Anthropic and the Pentagon over how AI can be used in the military. It’s terrifying to think about — how long will it be before a nuclear weapon can be detonated w",
+      "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+      "link": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+      "author": "Lucas Ropek",
+      "date": "2026-03-19T15:09:24-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-184123956.jpg?resize=1200,800",
+      "category": "",
+      "content": "Jeff Bezos is reportedly seeking $100 billion for a new fund, the likes of which will be used to buy up companies in major industrial sectors and, ultimately, modernize and automate them with AI, according to sourcescitedby The Wall Street Journal.\n\nThe effort is related to Bezos’ AI startup, Project Prometheus. Bezos, whose involvement with the company wasoriginally reportedin November, is serving as co-founder and co-CEO, alongside former Google executive Vik Bajaj.\n\nPrometheus, which launched with $6.2 billion in funding, is focused on creating high-level AI models to improve manufacturing and engineering in aerospace, automotive, and other sectors. The new manufacturing fund will support that mission by buying up companies that will ultimately use Prometheus’ models.\n\nAccording to the WSJ, Bezos recently traveled to Singapore and the Middle East in his mission to raise funds for the effort. The plan is to acquire companies in areas like aerospace, chipmaking, and defense.\n\nTechCrunch reached out to Bezos via Amazon for more information.",
+      "excerpt": "Jeff Bezos is reportedly seeking $100 billion for a new fund, the likes of which will be used to buy up companies in major industrial sectors and, ultimately, modernize and automate them with AI, according to sourcescitedby The Wall Street Journal.\n\nThe effort is related to Bezos’ AI startup, Projec",
       "tags": [
         "Apple",
         "Amazon",
