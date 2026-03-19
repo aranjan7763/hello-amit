@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T06:01:49.141811+00:00",
+  "last_updated": "2026-03-19T07:48:54.618673+00:00",
   "articles": [
     {
       "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "Meta is having trouble with rogue AI agents",
-      "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
-      "author": "Amanda Silberling",
-      "date": "2026-03-18T16:42:46-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
+      "title": "Two Palantir veterans just came out of stealth with $30 million and a Sequoia stamp of approval",
+      "link": "https://techcrunch.com/2026/03/18/two-palantir-veterans-just-came-out-of-stealth-with-30-million-and-a-sequoia-stamp-of-approval/",
+      "author": "Connie Loizos",
+      "date": "2026-03-18T23:11:53-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-18-at-11.03.59-PM.png?resize=1200,475",
       "category": "",
-      "content": "An AI agent went rogue at Meta, exposing sensitive company and user data to employees who did not have permission to access it.\n\nPer an incident report, which was viewed and reported on byThe Information, a Meta employee posted on an internal forum asking for help with a technical question — which is a standard action. However, another engineer asked an AI agent to help analyze the question, and the agent ended up posting a response without asking the engineer for permission to share it. Meta confirmed the incident to The Information.\n\nAs it turns out, the AI agent did not give good advice. The employee who asked the question ended up taking actions based on the agent’s guidance, which inadvertently made massive amounts of company and user-related data available to engineers, who were not authorized to access it, for two hours.\n\nMeta deemed the incident a “Sev 1,” which is the second-highest level of severity in the company’s internal system for measuring security issues.\n\nRogue AI agents have already posed a problem at Meta. Summer Yue, a safety and alignment director at Meta Superintelligence,posted on X last monthdescribing how her OpenClaw agent ended up deleting her entire inbox, even though she told it to confirm with her before taking any action.\n\nStill, Meta seems bullish on the potential for agentic AI. Just last week, Meta boughtMoltbook, a Reddit-like social media site for OpenClaw agents to communicate with one another.",
-      "excerpt": "An AI agent went rogue at Meta, exposing sensitive company and user data to employees who did not have permission to access it.\n\nPer an incident report, which was viewed and reported on byThe Information, a Meta employee posted on an internal forum asking for help with a technical question — which i",
+      "content": "Edra, a New York-based startup that says it helps companies automate workflows by turning their existing operational data into a living knowledge base, just picked up a meaningful vote of confidence: a $30 million Series A led by Sequoia, with participation from 8VC and A*, the venture firm founded by serial entrepreneur Kevin Hartz.\n\nThe founders are worth paying attention to. Eugen Alpeza and Yannis Karamanlakis say they met at university 13 years ago and spent years at Palantir before going out on their own — Alpeza building out major commercial accounts and leading the launch of Palantir’s AI Platform; Karamanlakis as the company’s first Forward Deployed AI Engineer, focused on getting AI models out of demos and into actual production.\n\nThe problem they’re tackling is straightforward. Companies are sitting on loads of useful operational data — emails, logs, support tickets, chat histories — but have no good way to act on it. Edra says it analyzes that data automatically, builds a knowledge base from it, and keeps it updated. Current use cases center on IT service management and customer support. Customers already include HubSpot, ASOS, Cushman & Wakefield, and easyJet.",
+      "excerpt": "Edra, a New York-based startup that says it helps companies automate workflows by turning their existing operational data into a living knowledge base, just picked up a meaningful vote of confidence: a $30 million Series A led by Sequoia, with participation from 8VC and A*, the venture firm founded ",
       "tags": [
         "Apple",
         "Amazon",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "Sam Altman’s thank-you to coders draws the memes",
-      "link": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
-      "author": "Julie Bort",
-      "date": "2026-03-18T16:12:58-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
-      "category": "AI",
-      "content": "If you need a cathartic release from the news thatAmazon laid off 16,000 workers,Block choppednearly half its workforce,Atlassian pared back 10%of staffers, and Meta is reportedly considering anothermassive round of layoffs, all in the name of AI, then we invite you to browse the responses to a recent Sam Altman post on X.\n\nAltman, the CEO of OpenAI, shared this on Tuesday:\n\n“I have so much gratitude to people who wrote extremely complex software character-by-character. It already feels difficult to remember how much effort it really took. Thank you for getting us to this point.”\n\nI have so much gratitude to people who wrote extremely complex software character-by-character. It already feels difficult to remember how much effort it really took.Thank you for getting us to this point.\n\nThe problem with that sweet sentiment is that Altman’s company ushered in the AI now being used as an excuse for developer layoffs andfewer junior developer jobs. And it did so by training on massive volumes of code written the old-fashioned way — by the very people he’s now thanking.\n\nHis post implies that developers’ genuinely difficult-to-master craft is now like a rotary telephone: outdated and unnecessary.\n\nNaturally, Altman’s comments attracted memes and responses richer than his post. While some were straight-upangry, (“You’re welcome. Nice to know that our reward is our jobs being taken away”), much of the internet did what it always does: cracked jokes.\n\nThere are thousands of comments. Some of our favorites:\n\n“Sam’s eulogyfor software engineers”“It’s times like this when I reallymiss the Sam Altman parody account”\n\n“Dear devs You will lose your jobs foreverand be forced to work in the coal mines But you can rest easy knowing sam Altman is grateful. ❤️ 🙏”\n\n“Billion dollar app idea: AI that reads billionaire tweets before they post them and says ‘this is going to make you sound incredibly out of touch, are you sure?’”\n\n“I have gratitude to OpenAIfor doing all the AI work so I can have free Chinese open source AI models to use 🙏”\n\n“This reads like somethingthe Mayans would say right before the ceremony starts.”\n\nAnd finally, another reason to trot out this meme:\n\npic.twitter.com/YLn5U8Fqx5",
-      "excerpt": "If you need a cathartic release from the news thatAmazon laid off 16,000 workers,Block choppednearly half its workforce,Atlassian pared back 10%of staffers, and Meta is reportedly considering anothermassive round of layoffs, all in the name of AI, then we invite you to browse the responses to a rece",
+      "title": "Meta is having trouble with rogue AI agents",
+      "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+      "author": "Amanda Silberling",
+      "date": "2026-03-18T16:42:46-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
+      "category": "",
+      "content": "An AI agent went rogue at Meta, exposing sensitive company and user data to employees who did not have permission to access it.\n\nPer an incident report, which was viewed and reported on byThe Information, a Meta employee posted on an internal forum asking for help with a technical question — which is a standard action. However, another engineer asked an AI agent to help analyze the question, and the agent ended up posting a response without asking the engineer for permission to share it. Meta confirmed the incident to The Information.\n\nAs it turns out, the AI agent did not give good advice. The employee who asked the question ended up taking actions based on the agent’s guidance, which inadvertently made massive amounts of company and user-related data available to engineers, who were not authorized to access it, for two hours.\n\nMeta deemed the incident a “Sev 1,” which is the second-highest level of severity in the company’s internal system for measuring security issues.\n\nRogue AI agents have already posed a problem at Meta. Summer Yue, a safety and alignment director at Meta Superintelligence,posted on X last monthdescribing how her OpenClaw agent ended up deleting her entire inbox, even though she told it to confirm with her before taking any action.\n\nStill, Meta seems bullish on the potential for agentic AI. Just last week, Meta boughtMoltbook, a Reddit-like social media site for OpenClaw agents to communicate with one another.",
+      "excerpt": "An AI agent went rogue at Meta, exposing sensitive company and user data to employees who did not have permission to access it.\n\nPer an incident report, which was viewed and reported on byThe Information, a Meta employee posted on an internal forum asking for help with a technical question — which i",
       "tags": [
         "Apple",
         "Amazon",
