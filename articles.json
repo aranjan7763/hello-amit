@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T19:39:48.252803+00:00",
+  "last_updated": "2026-04-03T20:39:49.211327+00:00",
   "articles": [
     {
       "title": "The final days of the Tesla Model X and S are here. All bets are on the Cybercab.",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "People would rather have an Amazon warehouse in their backyard than a data center",
-      "link": "https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/",
-      "author": "Tim De Chant",
-      "date": "2026-04-03T12:20:36-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2159544073.jpeg?resize=1200,800",
-      "category": "",
-      "content": "As data centers have grown and proliferated, so too has the backlash.\n\nA new Harvard/MIT poll found 40% of people supported the building of a data center in their area, with 32% opposed when asked about the building of different industrial facilities in their neighborhoods.\n\nOne fun tidbit from the survey,per Axios: More people would rather have an e-commerce warehouse.\n\nTwo-thirds of respondents in the 1,000-person poll conducted in November were worried that a new data center in their region wouldnudge electricity prices higher. Interest in jobs and economic growth helped the case for data centers, according to Axios — though that sentiment may fade as most data center projectsdon’t employ many peopleonce they’re up and running.\n\nAnother survey, conducted last month andpublished earlier this weekby Quinnipiac University, found much more opposition to data center construction. That poll found 65% of Americans oppose building an AI data center in their community. Only 24% of the 1,397 U.S. adults surveyed supported one being built.\n\nThe new polls suggest that the debate over data centers is far from settled, and continued discontent from such a large swathe of the electorate is likely to continuespilling over into politics. Data centers once worked quietly in the background, more or less. Not anymore.",
-      "excerpt": "As data centers have grown and proliferated, so too has the backlash.\n\nA new Harvard/MIT poll found 40% of people supported the building of a data center in their area, with 32% opposed when asked about the building of different industrial facilities in their neighborhoods.\n\nOne fun tidbit from the ",
+      "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
+      "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+      "author": "Amanda Silberling",
+      "date": "2026-04-03T13:35:34-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/brad-lightcap-GettyImages-2147824375-1.jpg?w=1024",
+      "category": "AI",
+      "content": "A handful of OpenAI executives are transitioning into new roles, according to a report fromBloomberg. An OpenAI spokesperson confirmed the personnel changes to TechCrunch.\n\nCEO of AGI development Fidji Simo announced in a memo that Brad Lightcap, OpenAI’s COO, has a new job leading “special projects,” which will involve “complex deals and investments across the company.” He will report directly to CEO Sam Altman.\n\nDenise Dresser, the former Slack CEO whorecently joinedOpenAI as Chief Revenue Officer, will take over some of Lightcap’s COO duties in the interim.\n\nNEW: OpenAI’s Fidji Simo announced exec changes to staff today: she is taking medical leave for several weeks, COO Brad Lightcap is transitioning to a new role, and CMO Kate Rouch is stepping down to focus on her cancer recovery.More here:https://t.co/EfAqZI7jN3pic.twitter.com/KmWoXUG0Iu\n\nSimo also had news of her own to share: She will be taking medical leave for the next several weeks to navigate a neuroimmune condition.\n\n“I have done everything possible to avoid it, but sadly my body isn’t cooperating,” Simo wrote in the memo obtained by Bloomberg.\n\n“The timing is maddening because we have such an exciting roadmap ahead that the team is executing on, and I hate to miss even a minute of it,” she said.\n\nThile she is on leave, OpenAI co-founder and president Greg Brockman will manage product.\n\nKate Rouch, OpenAI’s marketing head, will also be stepping down from her role to focus on cancer recovery, but will return to a “different, more narrowly scoped role when her health allows,” the memo said. The company plans to search for a new CMO.\n\n“We have a strong leadership team focused on our biggest priorities: advancing frontier research, growing our global user base of nearly 1 billion users, and powering enterprise use cases,” OpenAI told TechCrunch in a statement. “We’re well-positioned to keep executing with continuity and momentum.”",
+      "excerpt": "A handful of OpenAI executives are transitioning into new roles, according to a report fromBloomberg. An OpenAI spokesperson confirmed the personnel changes to TechCrunch.\n\nCEO of AGI development Fidji Simo announced in a memo that Brad Lightcap, OpenAI’s COO, has a new job leading “special projects",
       "tags": [
         "Apple",
         "Amazon",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "Telehealth giant Hims & Hers says its customer support system was hacked",
-      "link": "https://techcrunch.com/2026/04/02/telehealth-giant-hims-hers-says-its-customer-support-system-was-hacked/",
-      "author": "Zack Whittaker",
-      "date": "2026-04-02T14:26:48-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/05/IMG_3413.jpg?resize=1200,630",
-      "category": "Security",
-      "content": "Hims & Hers, the telehealth company that sells weight-loss drugs and sexual health prescriptions, has confirmed a data breach affecting its third-party customer service platform.\n\nThe healthcare company said in adata breach noticefiled with the California attorney general’s office on Thursday that the hackers stole data about user requests sent to the company’s customer support team. The company said hackers broke into its third-party ticketing system between February 4 and February 7 and stole reams of support tickets, which contained personal information submitted by customers.\n\nThe data breach notice said the hackers took customer names and contact information, as well as other unspecified personal data that Hims & Hers left redacted in the letter.\n\nAlthough the company says customer medical records were not affected by the breach, the nature of customer support systems means that the data may contain sensitive information about a person’s account, personal information, and healthcare.\n\nIt’s not yet known how many individuals had personal information compromised in the hack. Under California law, companies are required to disclose data breaches involving 500 or more state residents.\n\nJake Martin, a spokesperson for Hims & Hers, told TechCrunch in a statement the company was hit by a social engineering attack, in which hackers trick employees into granting access to their systems. The spokesperson said the stolen data “primarily included customer names and email addresses.” The company did not say what specific types of data were taken, when asked by TechCrunch.\n\nThe company would not say if it has received any communication from the hackers, such as a demand for money.\n\nIn recent months, customer support and ticketing systems have become rich targets for financially motivated hackers, who have raided databases containing customer information and extorted companies into paying a ransom.\n\nLast year, Discord hada data breachthat affected its customer support ticketing system and exposed the government-issued IDs of around 70,000 people who had submitted their driver’s licenses and passports to the company to verify their age.",
-      "excerpt": "Hims & Hers, the telehealth company that sells weight-loss drugs and sexual health prescriptions, has confirmed a data breach affecting its third-party customer service platform.\n\nThe healthcare company said in adata breach noticefiled with the California attorney general’s office on Thursday that t",
+      "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: reports",
+      "link": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+      "author": "Dominic-Madori Davis",
+      "date": "2026-04-03T13:28:40-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256664479.jpg?resize=1200,800",
+      "category": "",
+      "content": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according toThe InformationandEric Newcomer. Sources close to the deal confirmed to TechCrunch that it closed, though declined to comment on the amount.\n\nThe deal comes as Anthropic continues its push into healthcare and life sciences, following itsOctober announcement ofClaude for Life Sciences, a tool that aims to help scientific researchers make discoveries.\n\nCoefficient Bio’s founders, Samuel Stanton and Nathan C. Frey, launched the startup eight months ago, having both worked in computational drug discovery at Genentech’s Prescient Design. Coefficient Bio was using AI to help make drug discovery and other forms of biological research more efficient.\n\nThe team, consisting of around 10 people, is expected to join Anthropic’s health and life science team.",
+      "excerpt": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according toThe InformationandEric Newcomer. Sources close to the deal confirmed to TechCrunch that it closed, though declined to comment on the amount.\n\nThe deal comes as Anthropic continues its pus",
       "tags": [
         "Apple",
         "Amazon",
