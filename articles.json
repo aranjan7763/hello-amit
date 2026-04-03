@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T18:52:32.377545+00:00",
+  "last_updated": "2026-04-03T19:39:48.252803+00:00",
   "articles": [
     {
       "title": "The final days of the Tesla Model X and S are here. All bets are on the Cybercab.",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "Telehealth giant Hims & Hers says its customer support system was hacked",
-      "link": "https://techcrunch.com/2026/04/02/telehealth-giant-hims-hers-says-its-customer-support-system-was-hacked/",
-      "author": "Zack Whittaker",
-      "date": "2026-04-02T14:26:48-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/05/IMG_3413.jpg?resize=1200,630",
-      "category": "Security",
-      "content": "Hims & Hers, the telehealth company that sells weight-loss drugs and sexual health prescriptions, has confirmed a data breach affecting its third-party customer service platform.\n\nThe healthcare company said in adata breach noticefiled with the California attorney general’s office on Thursday that the hackers stole data about user requests sent to the company’s customer support team. The company said hackers broke into its third-party ticketing system between February 4 and February 7 and stole reams of support tickets, which contained personal information submitted by customers.\n\nThe data breach notice said the hackers took customer names and contact information, as well as other unspecified personal data that Hims & Hers left redacted in the letter.\n\nAlthough the company says customer medical records were not affected by the breach, the nature of customer support systems means that the data may contain sensitive information about a person’s account, personal information, and healthcare.\n\nIt’s not yet known how many individuals had personal information compromised in the hack. Under California law, companies are required to disclose data breaches involving 500 or more state residents.\n\nJake Martin, a spokesperson for Hims & Hers, told TechCrunch in a statement the company was hit by a social engineering attack, in which hackers trick employees into granting access to their systems. The spokesperson said the stolen data “primarily included customer names and email addresses.” The company did not say what specific types of data were taken, when asked by TechCrunch.\n\nThe company would not say if it has received any communication from the hackers, such as a demand for money.\n\nIn recent months, customer support and ticketing systems have become rich targets for financially motivated hackers, who have raided databases containing customer information and extorted companies into paying a ransom.\n\nLast year, Discord hada data breachthat affected its customer support ticketing system and exposed the government-issued IDs of around 70,000 people who had submitted their driver’s licenses and passports to the company to verify their age.",
-      "excerpt": "Hims & Hers, the telehealth company that sells weight-loss drugs and sexual health prescriptions, has confirmed a data breach affecting its third-party customer service platform.\n\nThe healthcare company said in adata breach noticefiled with the California attorney general’s office on Thursday that t",
+      "title": "People would rather have an Amazon warehouse in their backyard than a data center",
+      "link": "https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/",
+      "author": "Tim De Chant",
+      "date": "2026-04-03T12:20:36-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2159544073.jpeg?resize=1200,800",
+      "category": "",
+      "content": "As data centers have grown and proliferated, so too has the backlash.\n\nA new Harvard/MIT poll found 40% of people supported the building of a data center in their area, with 32% opposed when asked about the building of different industrial facilities in their neighborhoods.\n\nOne fun tidbit from the survey,per Axios: More people would rather have an e-commerce warehouse.\n\nTwo-thirds of respondents in the 1,000-person poll conducted in November were worried that a new data center in their region wouldnudge electricity prices higher. Interest in jobs and economic growth helped the case for data centers, according to Axios — though that sentiment may fade as most data center projectsdon’t employ many peopleonce they’re up and running.\n\nAnother survey, conducted last month andpublished earlier this weekby Quinnipiac University, found much more opposition to data center construction. That poll found 65% of Americans oppose building an AI data center in their community. Only 24% of the 1,397 U.S. adults surveyed supported one being built.\n\nThe new polls suggest that the debate over data centers is far from settled, and continued discontent from such a large swathe of the electorate is likely to continuespilling over into politics. Data centers once worked quietly in the background, more or less. Not anymore.",
+      "excerpt": "As data centers have grown and proliferated, so too has the backlash.\n\nA new Harvard/MIT poll found 40% of people supported the building of a data center in their area, with 32% opposed when asked about the building of different industrial facilities in their neighborhoods.\n\nOne fun tidbit from the ",
       "tags": [
         "Apple",
         "Amazon",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "Gateway Capital announces first close of $25M Fund II",
-      "link": "https://techcrunch.com/2026/04/02/gateway-capital-dana-guthrie-milwaukee-first-close-fund-ii/",
-      "author": "Dominic-Madori Davis",
-      "date": "2026-04-02T12:45:19-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dana-Guthrie.jpg?resize=1200,900",
-      "category": "",
-      "content": "Gateway Capital Partners, the venture firm founded by Dana Guthrie, announced the first close for its $25 million target Fund II earlier this week, the Milwaukee-based firm told TechCrunch. Gateway Capital declined to share the exact amount of the first close.\n\nThe first close means Fund II can begin its investment operations.\n\nGuthrie said the firm began raising its Fund II in the middle of last year. Fund II’s average check size will be between $500,000 and $600,000.\n\nIt will be industry-agnostic, she said, though it will have “a bias toward Midwest industries that are ripe for disruption,” such as supply chain and logistics, and manufacturing AI. Guthrie said she hopes to back at least 20 companies from this fund.\n\nGateway Capital, launched in 2020, last raised a $13 million Fund I in 2020.",
-      "excerpt": "Gateway Capital Partners, the venture firm founded by Dana Guthrie, announced the first close for its $25 million target Fund II earlier this week, the Milwaukee-based firm told TechCrunch. Gateway Capital declined to share the exact amount of the first close.\n\nThe first close means Fund II can begi",
+      "title": "Telehealth giant Hims & Hers says its customer support system was hacked",
+      "link": "https://techcrunch.com/2026/04/02/telehealth-giant-hims-hers-says-its-customer-support-system-was-hacked/",
+      "author": "Zack Whittaker",
+      "date": "2026-04-02T14:26:48-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/IMG_3413.jpg?resize=1200,630",
+      "category": "Security",
+      "content": "Hims & Hers, the telehealth company that sells weight-loss drugs and sexual health prescriptions, has confirmed a data breach affecting its third-party customer service platform.\n\nThe healthcare company said in adata breach noticefiled with the California attorney general’s office on Thursday that the hackers stole data about user requests sent to the company’s customer support team. The company said hackers broke into its third-party ticketing system between February 4 and February 7 and stole reams of support tickets, which contained personal information submitted by customers.\n\nThe data breach notice said the hackers took customer names and contact information, as well as other unspecified personal data that Hims & Hers left redacted in the letter.\n\nAlthough the company says customer medical records were not affected by the breach, the nature of customer support systems means that the data may contain sensitive information about a person’s account, personal information, and healthcare.\n\nIt’s not yet known how many individuals had personal information compromised in the hack. Under California law, companies are required to disclose data breaches involving 500 or more state residents.\n\nJake Martin, a spokesperson for Hims & Hers, told TechCrunch in a statement the company was hit by a social engineering attack, in which hackers trick employees into granting access to their systems. The spokesperson said the stolen data “primarily included customer names and email addresses.” The company did not say what specific types of data were taken, when asked by TechCrunch.\n\nThe company would not say if it has received any communication from the hackers, such as a demand for money.\n\nIn recent months, customer support and ticketing systems have become rich targets for financially motivated hackers, who have raided databases containing customer information and extorted companies into paying a ransom.\n\nLast year, Discord hada data breachthat affected its customer support ticketing system and exposed the government-issued IDs of around 70,000 people who had submitted their driver’s licenses and passports to the company to verify their age.",
+      "excerpt": "Hims & Hers, the telehealth company that sells weight-loss drugs and sexual health prescriptions, has confirmed a data breach affecting its third-party customer service platform.\n\nThe healthcare company said in adata breach noticefiled with the California attorney general’s office on Thursday that t",
       "tags": [
         "Apple",
         "Amazon",
