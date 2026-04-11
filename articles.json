@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T20:37:36.106400+00:00",
+  "last_updated": "2026-04-11T21:36:20.222047+00:00",
   "articles": [
     {
       "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok",
-      "link": "https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/",
+      "title": "Kalshi wins temporary pause in Arizona criminal case",
+      "link": "https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/",
       "author": "Anthony Ha",
-      "date": "2026-04-11T13:32:23-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/audacity.jpeg?resize=1200,800",
+      "date": "2026-04-11T14:20:24-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2237779170.jpg?resize=1200,800",
       "category": "",
-      "content": "While it’s not unusual for networks to promote new shows by releasing full episodes on YouTube, AMC is doing something a bit different for its Silicon Valley-focused comedy “The Audacity.”\n\nThe show’s premiere will be available on TikTok, starting on Sunday morning. It will be split into 21 segments, each lasting about three minutes,according to Deadline. The segments will be numbered, allowing users to watch the premiere in its entirety if they choose.\n\nThis could be a smart way to build buzz among younger viewers for a show that AMC’s chief marketing officerdescribed as the network biggest launch of the year. Or it might just be an odd attempt torecreate Quibi.\n\nCreated by Jonathan Glatzer and starring Billy Magnussen and Sarah Goldberg, “The Audacity” doesn’t depict real companies or executives, but it aims toprovide a darkly comedic look at many issues created by today’s technology.\n\nAnd if you don’t want to watch in three-minute segments, you can catch the full premiere on AMC and its streaming service AMC+. It will also stream simultaneously on Samsung’s free service Samsung TV Plus.",
-      "excerpt": "While it’s not unusual for networks to promote new shows by releasing full episodes on YouTube, AMC is doing something a bit different for its Silicon Valley-focused comedy “The Audacity.”\n\nThe show’s premiere will be available on TikTok, starting on Sunday morning. It will be split into 21 segments",
+      "content": "Arizona Attorney General Kris Mayes’ case against prediction market Kalshi appears to have hit a snag.\n\nThe Commodity Futures Trading Commissionannounced Fridaythat it has won a temporary restraining order preventing the state from pursuing its criminal case against Kalshi (whose CEO Tarek Mansour is pictured above).\n\n“Arizona’s decision to weaponize state criminal law against companies that comply with federal law sets a dangerous precedent, and the court’s order today sends a clear message that intimidation is not an acceptable tactic to circumvent federal law,” said CFTC Chairman Michael S. Selig in a statement.\n\nWhile the CFTC normally has five commissioners, Selig is currently the only one on the commission, followinghis confirmation in Decemberand the departure of previous acting chairman Caroline Pham (who left to join crypto company MoonPay).\n\nArizona hasfiled charges against Kalshiaccusing the company of operating an illegal gambling business in the state without a license. The announcement of the restraining order comes just a couple days after a federal judge allowed Arizona’s case to move forward,according to Bloomberg.\n\nThe CFTC also filed suits seeking to stop similar cases from moving forward in Connecticut and Illinois.",
+      "excerpt": "Arizona Attorney General Kris Mayes’ case against prediction market Kalshi appears to have hit a snag.\n\nThe Commodity Futures Trading Commissionannounced Fridaythat it has won a temporary restraining order preventing the state from pursuing its criminal case against Kalshi (whose CEO Tarek Mansour i",
       "tags": [
         "Apple",
         "Amazon",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips",
-      "link": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/",
-      "author": "Julie Bort",
-      "date": "2026-04-11T07:03:00-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/jensen-ces-2026-getty.jpg?resize=1200,800",
-      "category": "Venture",
-      "content": "SiFive, a company founded in 2015 by the UC Berkeley engineers who created an open source chip design, has landeda $400 million oversubscribedround that values the company at $3.65 billion.\n\nThis deal is interesting for a bunch of reasons. For one, SiFive’s RISC-V open chip design is based on the RISC processor, not Intel’s x86 or ARM, the two major types of CPUs that currently feed Nvidia’s GPU computer system AI empire.\n\nAlso, Nvidia was investor in this round, alongside a long list of VCs, private equity, and hedge funds. The round was led by Atreides Management, founded by former Fidelity investor bigwig Gavin Baker. (Atreides was also an investor inCerebras Systems $1 billion round). Other investors in the round include Apollo Global Management, D1 Capital Partners, Point72 Turion, T. Rowe Price Sutter Hill Ventures, and others.\n\nSiFive’s business model is like Arm’s was in years gone by — it licenses its chip designs to those who modify them for their own needs and does not sell the chips themselves. (In March,Arm changed its model when it launched the first-ever chip it manufactured,an AI chip, developed with Meta with customers including OpenAI, Cerebras, and Cloudflare.)\n\nSiFive stands in rarified air with chip designs that are open, not proprietary, as well as neutral, not reliant on specific customers. In fact, SiFive hasn’t raised since March 2022, Pitchbook estimates, when it brought in $175 million led by Coatue Management at a pre-money valuation of $2.33 billion. Intel Capital, Qualcomm Ventures, Aramco Ventures, were part of that round.\n\nRISC-V has been, until recently, better known as a chip for smaller uses, like embedded systems. But with this cash and Nvidia’s attention, SiFive is moving into CPUs for AI data centers. SiFive’s designswill work with Nvidia’sCUDA software and itsNVLink Fusion, a rack server system that lets different CPUs plug into Nvidia’s “AI factory.”\n\nIn other words, as rivals Intel and AMD seek to compete with Nvidia’s GPU, Nvidia is backing an 11-year-old startup that can design CPUs on an open and completely alternate technology.",
-      "excerpt": "SiFive, a company founded in 2015 by the UC Berkeley engineers who created an open source chip design, has landeda $400 million oversubscribedround that values the company at $3.65 billion.\n\nThis deal is interesting for a bunch of reasons. For one, SiFive’s RISC-V open chip design is based on the RI",
+      "title": "AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok",
+      "link": "https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/",
+      "author": "Anthony Ha",
+      "date": "2026-04-11T13:32:23-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/audacity.jpeg?resize=1200,800",
+      "category": "",
+      "content": "While it’s not unusual for networks to promote new shows by releasing full episodes on YouTube, AMC is doing something a bit different for its Silicon Valley-focused comedy “The Audacity.”\n\nThe show’s premiere will be available on TikTok, starting on Sunday morning. It will be split into 21 segments, each lasting about three minutes,according to Deadline. The segments will be numbered, allowing users to watch the premiere in its entirety if they choose.\n\nThis could be a smart way to build buzz among younger viewers for a show that AMC’s chief marketing officerdescribed as the network biggest launch of the year. Or it might just be an odd attempt torecreate Quibi.\n\nCreated by Jonathan Glatzer and starring Billy Magnussen and Sarah Goldberg, “The Audacity” doesn’t depict real companies or executives, but it aims toprovide a darkly comedic look at many issues created by today’s technology.\n\nAnd if you don’t want to watch in three-minute segments, you can catch the full premiere on AMC and its streaming service AMC+. It will also stream simultaneously on Samsung’s free service Samsung TV Plus.",
+      "excerpt": "While it’s not unusual for networks to promote new shows by releasing full episodes on YouTube, AMC is doing something a bit different for its Silicon Valley-focused comedy “The Audacity.”\n\nThe show’s premiere will be available on TikTok, starting on Sunday morning. It will be split into 21 segments",
       "tags": [
         "Apple",
         "Amazon",
