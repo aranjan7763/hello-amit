@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T09:23:22.382115+00:00",
+  "last_updated": "2026-04-15T11:02:21.783869+00:00",
   "articles": [
     {
       "title": "Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites",
@@ -121,6 +121,23 @@
       ]
     },
     {
+      "title": "Spotify launches the ability to purchase physical books in the US and UK",
+      "link": "https://techcrunch.com/2026/04/15/spotify-launches-the-ability-to-purchase-physical-books-in-the-us-and-uk/",
+      "author": "Lauren Forristal",
+      "date": "2026-04-15T03:00:00-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Spotify_PhysicalBooks2x.png?w=1200",
+      "category": "Apps",
+      "content": "In February,Spotifymade an exciting (and a bit unusual) move when it entered the world of physical book sales. As of this week, the new feature isofficially livein the U.S. and the U.K., allowing users to purchase physical books through the Spotify app.\n\nThis collaboration is withBookshop.org, an online marketplace dedicated to supporting local, independent bookstores. On audiobook pages within the app, users will now see a button labeled “Get a copy for your bookshelf.” Clicking this button directs them to Bookshop’s website, which manages pricing, inventory, and shipping.\n\nCurrently, the ability to purchase physical books is available exclusively on Android devices, with iOS users set to gain access next week.\n\nToday’s announcement solidifies Spotify’s position as a competitor to major booksellers, as it aims to transform into a one-stop shop for book lovers. This new offering is also part of Spotify’s larger strategy focused on profitability. To further this goal, the company has beenincreasing subscription pricesin the U.S. and Europe. It recently touted reaching751 millionmonthly active listeners.\n\nIn addition to the physical book sales, Spotify launched several other updates, initially announced back in February. This includes the expansion of its “Page Match” feature, which now supports more than 30 additional languages, including French, German, and Swedish. Page Match allows users to scan a page from a physical or e-book using their smartphone camera. The tool analyzes the content and directs users to the corresponding section in the audiobook.\n\nSince the feature’s launch for English language books in February, Spotify has reported that users who use Page Match stream an average of 55% more audiobook hours each week compared to other listeners. Additionally, 62% of Page Matched audiobook titles on Spotify are books that users had never streamed before.\n\nAdditional updates include the official rollout of “Audiobook Recaps” on Android devices. This feature provides short audio summaries tailored to the user’s most recent point in the story, making it easier to jump back into listening.\n\nThe company also announced that “Audiobook Charts,” similar to Spotify’s Music and Podcast Charts, is now available in Germany, following its previous rollout in the U.S. and U.K. These charts help users discover their next favorite book by showcasing what’s popular and trending on Spotify.",
+      "excerpt": "In February,Spotifymade an exciting (and a bit unusual) move when it entered the world of physical book sales. As of this week, the new feature isofficially livein the U.S. and the U.K., allowing users to purchase physical books through the Spotify app.\n\nThis collaboration is withBookshop.org, an on",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
       "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
       "link": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
       "author": "Connie Loizos",
@@ -146,23 +163,6 @@
       "category": "Startups",
       "content": "Fluidstack, a startup that builds specialized data centers for AI companies, is in talks to raise a $1 billion round at an $18 billion valuation, potentially led by Jane Street,Bloombergreports.\n\nShould this deal come to fruition, it would more than double Fluidstack’s valuation in a matter of months.\n\nIn December, the company was reportedly raising around $700 million at a $7.5 billion valuation, sources toldBloombergat the time, although it didn’t formally announce the close of that round. That round was said to be led by Situational Awareness, an AGI-focused fund founded by former OpenAI researcher Leopold Aschenbrenner, and backed by Stripe’s Collison brothers, former GitHub CEO Nat Friedman, and the AI investor and entrepreneur Daniel Gross.\n\nTalks were apparently still ongoing for this round in February, at least with Google, which was considering kicking in $100 million to the round,The Wall Street Journal reported.\n\nThere’s good reason for the hype over Fluidstack. In November, Anthropic announced that it hadsigned a $50 billion dealwith the startup to build data centers custom-designed for its needs in Texas and New York. Unlike hyperscalers like AWS, which serve all kinds of computing needs, Fluidstack’s infrastructure is built specifically for AI.\n\nThe deal was a huge vote of confidence for Fluidstack, a company that was relatively unknown in the U.S. Anthropic primarily uses AWS and Google Cloud to serve Claude (though it also has a partnership with Microsoft to supply Claude to that software giant’s customers). But just like rival OpenAI,Anthropic is growing so fastthat it needs more capacity, and this deal gives Anthropic more control over its own cloud infrastructure.\n\nThis partnership is so significant to the startup that Fluidstack — which was spun out of Oxford and had been a rising star in Europe’s AI scene — relocated its headquarters from the U.K. to New York. Last month, it also pulled out of akey €10 billion AI project in France, Bloomberg reported, to focus on U.S. opportunities.\n\nIn addition to Anthropic, it counts Meta, Poolside, Black Forest Labs, and others as customers. Prior to the deal with Anthropic, Fluidstack was probably best known for providinginfrastructure to Mistral.\n\nFluidstack did not respond to a request for comment.",
       "excerpt": "Fluidstack, a startup that builds specialized data centers for AI companies, is in talks to raise a $1 billion round at an $18 billion valuation, potentially led by Jane Street,Bloombergreports.\n\nShould this deal come to fruition, it would more than double Fluidstack’s valuation in a matter of month",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "London gets closer to its first robotaxi service as Waymo begins testing",
-      "link": "https://techcrunch.com/2026/04/14/london-gets-closer-to-its-first-robotaxi-service-as-waymo-begins-testing/",
-      "author": "Kirsten Korosec",
-      "date": "2026-04-14T11:00:09-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/waymo-london-getty.jpg?resize=1200,800",
-      "category": "Transportation",
-      "content": "Waymo has started testing its autonomous vehicles on public roads in London as it prepares to launch a commercial robotaxi service in the city this year.\n\nThe Alphabet-owned company has been working toward this moment for months. Waymoannouncedin October it planned to begin driving onLondon’s public roads. Waymo employees initially drove the vehicles manually to map the city before starting autonomous testing. For now, a fleet of about 100 all-electric Jaguar I-Pace equipped with Waymo’s self-driving system have a human safety operator behind the wheel. Waymo is testing its vehicles across a 100-square-mile area of the city, according to the company.\n\nThe government must first finalize its trial program regulations before we can operate fully autonomously. We will work closely with regulators to ensure that our service reaches as many Londoners as possible.\n\n“Core driving AI generalizing very well,” Waymo co-CEO Dmitri Dolgov wrote in aLinkedIn postannouncing the testing. “Autonomous testing now underway with specialists behind the wheel as we master local nuances and validate performance on UK roads — a key step toward rider-only deployment.”\n\nWaymo said inanother poston LinkedIn that it is investing in the country by hiring locally and establishing multiple AV service centers across London. The company also said it was working with emergency services “as we build the foundation to expand our business in Europe.”\n\nIf Waymo follows its typical strategy, the company will eventually conduct driverless testing and allow its own employees to try out the service before inviting the public to hail its robotaxis. Waymo’s plans to launch that service in 2026 hinges on the U.K. government finalizing its approval process for those operations.\n\nWaymo already has ties to the U.K.: In 2019, the companyacquired Latent Logic, a U.K. startup spun out of Oxford University’s computer science department that uses a form of machine learning called imitation learning to make self-driving car simulation more realistic. Waymo launched an engineering hub in Oxford as part of the acquisition.\n\nWaymo has more than 3,000 robotaxis in its fleet, the company has previously told TechCrunch. Documents filed in January with the National Highway Traffic Safety Administration support those figures, although it’s possible that fleet has expanded with the addition of a new minivan-like vehicle made by Zeekr.\n\nThe robotaxis are spread out across 11 cities where Waymo operates commercially, including Atlanta, Austin, Los Angeles, Phoenix, and the San Francisco Bay Area, to name a few. Waymo is also testing and preparing to launch in several other markets.\n\nLondon could be Waymo’s first international commercial market (it’s alsotesting in Tokyo). And Waymo will face competition in both of those cities. U.K.-based autonomous vehicle technology startupWayve and Uberalso plan to launch a fully driverless robotaxi service in London. Wayve, Uber, and Nissan also signed an agreement in March to launchpilot programin Tokyo by late 2026.\n\nUpdated: This article was updated at 2 pm PT to include the size of the London-based fleet and its operating area.",
-      "excerpt": "Waymo has started testing its autonomous vehicles on public roads in London as it prepares to launch a commercial robotaxi service in the city this year.\n\nThe Alphabet-owned company has been working toward this moment for months. Waymoannouncedin October it planned to begin driving onLondon’s public",
       "tags": [
         "Apple",
         "Amazon",
