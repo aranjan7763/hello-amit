@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T21:46:52.973882+00:00",
+  "last_updated": "2026-04-16T22:43:32.282986+00:00",
   "articles": [
     {
       "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
@@ -121,6 +121,23 @@
       ]
     },
     {
+      "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
+      "link": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
+      "author": "Rebecca Bellan",
+      "date": "2026-04-16T14:58:08-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-5.36.36-PM.png?resize=1200,664",
+      "category": "AI",
+      "content": "AI video generation startup Luma has launched Innovative Dreams, a production company built in partnership with Wonder Project, a streaming service that produces religious films and TV on Amazon Prime.\n\nThe tie-up’s first show will be called “The Old Stories: Moses,” starring British actor Ben Kingsley and set to launch this spring on Prime Video.\n\n“Innovative Dreams is a production services company where seasoned filmmakers from director Jon Erwin’s team and Luma’s creative technologists work with great studios and filmmakers to help them realize ambitious ideas,” Luma said Thursday in asocial media post.\n\nThe company envisages creative teams collaborating in real time with Luma Agents to make changes to sets, props, and lighting, as well as bring in footage of human actors. Luma Agents are the company’srecently launched toolsdesigned to handle end-to-end creative work across text, image, video, and audio.\n\n“This is a significant improvement over the current virtual production and performance capture processes where things come together only in post,” Luma’s post said. “This is the leverage of AI — not just faster or cheaper, but better than what came before.”\n\nLuma isn’t the only startup to move from tooling to production. AI startup Higgsfield last week launched anoriginal series, starting with a 10-minute sci-fi episode, and London-based creative studioWonder Studiosis working on a documentary with Campfire Studios.\n\nThe launch comes the same week that competitor Runway’s co-founder and co-CEOCristóbal Valenzuela saidfilm studios should take the $100 million they spend on a single film and instead use AI to produce 50 films in order to increase their chances of making a blockbuster.\n\nLuma founder and CEO Amit Jain has made a similar case, telling TechCrunch that Hollywood’s soaring production costs have made filmmaking increasingly constrained. Generative AI, he argues, could make filmmaking faster, cheaper, and more efficient without sacrificing quality.\n\nThat thinking underpins Luma’s new partnership with Wonder Project.\n\nWonder Project, launched in 2023, is run by director Jon Erwin and former Netflix executive Kelly Hoogstraten with the goal of serving the faith and values audience globally. Their first project, “House of David,” a Biblical drama series about the life of King David, was released on Amazon Prime in 2025.\n\nIt’s unclear whether Innovative Dreams will focus solely on religious and faith-based content or expand beyond Wonder’s remit. TechCrunch has reached out for clarification.\n\nIn avideopromoting the partnership, Erwin said Innovative Dreams will use a new “real-time hybrid filmmaking” process that combines performance capture (as in “Avatar”) and virtual production (as in “The Mandalorian”), done live and more cheaply using Luma’s tools.\n\nPerformance capture is a technique where actors perform in a green-screen environment wearing suits and facial markers so their movements and expressions can be digitally captured and turned into animated characters. Virtual production involves actors performing on set, often in front of massive LED screens instead of a green screen while real-time game-engine graphics create the environment around them, blending the physical and digital worlds during the shoot.\n\nLuma’s tools, Erwin said, allow them to film a human actor anywhere and then transport that to a photorealistic scene, or go even further by generating a new face so it looks like a completely different person but still maps onto the actor’s movements and facial expressions.",
+      "excerpt": "AI video generation startup Luma has launched Innovative Dreams, a production company built in partnership with Wonder Project, a streaming service that produces religious films and TV on Amazon Prime.\n\nThe tie-up’s first show will be called “The Old Stories: Moses,” starring British actor Ben Kings",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
       "title": "Netflix co-founder and chair Reed Hastings to leave board",
       "link": "https://techcrunch.com/2026/04/16/netflix-co-founder-and-chair-reed-hastings-to-leave-board/",
       "author": "Lucas Ropek",
@@ -146,23 +163,6 @@
       "category": "",
       "content": "AI infrastructure companyUpscale AIis reportedly in talks to nab its third funding round since launching just seven months ago,according to Bloomberg.\n\nThis latest round — which aims to raise around $180 million to $200 million — would value the company at about $2 billion. The company announced a $200 million Series A in January and a$100 million seed roundin September, when it first launched. Investors in the company include Tiger Global Management, Xora Innovation, and Premji Invest.\n\nNotably, Upscale AI has yet to release a product. However, it’s said to focus on building custom chips and on the infrastructure to enable them to communicate effectively. The company is betting on a full-stack solution and open standards as being the future of scalable AI infrastructure.\n\nThe rumored valuation and raise are part of the startup playbook in this age of AI, where companies grow fast and valuations grow faster, but the hope for the next big thing outpaces it all.",
       "excerpt": "AI infrastructure companyUpscale AIis reportedly in talks to nab its third funding round since launching just seven months ago,according to Bloomberg.\n\nThis latest round — which aims to raise around $180 million to $200 million — would value the company at about $2 billion. The company announced a $",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "From the Startup Battlefield stage to the International Space Station: geCKo Materials built a sticky product",
-      "link": "https://techcrunch.com/2026/04/16/from-the-startup-battlefield-stage-to-the-international-space-station-gecko-materials-built-a-sticky-product/",
-      "author": "Maggie NyeIsabelle Johannessen12:50 PM PDT · April 16, 2026",
-      "date": "2026-04-16T12:50:10-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/BM-s2e9-featured-pic.png?resize=1200,675",
-      "category": "Startups",
-      "content": "For a successful deep tech startup, the laboratory breakthrough is only the first step. To spin out an innovative technology into a scalable business, a founder has to navigate a complicated legal process.\n\nThis week on Build Mode, Isabelle Johannessen speaks with Capella Kerst, founder and CEO of geCKo Materialsand the2024 TechCrunch Startup Battlefield runner up. Kerst was a Stanford PhD student, working on bio-inspired adhesives — materials modeled after the microscopic hairs that allow geckos to stick to walls. She wasn’t looking to be a founder but when she had a major breakthrough that made it possible to make the material rapidly and reliably, she knew it was a viable product.\n\nBut translating a lab discovery into a startup is less about the “eureka” moment and more about everything that comes after.\n\n“I got up the courage to really address my advisor in a very like we need to have a serious conversation about me spinning out this company and starting it,” Capella said. And that conversation was the beginning of a long process of building geCKo materials.\n\nHere is a roadmap for founders spinning a product out of academia.\n\nFive years later, geCKo Materials is continuing to scale and develop new ways to apply its adhesive technology which is being tested in applications ranging from robotics and manufacturing to automotive and even space. The company’s material is already in use on the International Space Station, and Kerst says the long-term vision includes replacing traditional attachment methods like Velcro or suction systems.\n\nLoading the player…\n\nApply to Startup Battlefield:We are looking for early-stage companies that have an MVP. So nominate a founder (or yourself):techcrunch.com/apply. Be sure to say you heard about Startup Battlefield from the Build Mode podcast.\n\nTechCrunch Disrupt:If you’re thinking about applying to Startup Battlefield, then October 13 to 15 in San Francisco, we’re back for TechCrunch Disrupt, where the Startup Battlefield 200 takes the stage. So if you want to cheer them on, or just network with 1000s of founders, VCs, and tech enthusiasts, thengrab your tickets.\n\nUse codebuildmode15 for 15% off any ticket type.\n\nIsabelle Johannessen is our host.Build Modeis produced and edited by Maggie Nye. Audience Development is led by Morgan Little. And a special thanks to the Foundry and Cheddar video teams.",
-      "excerpt": "For a successful deep tech startup, the laboratory breakthrough is only the first step. To spin out an innovative technology into a scalable business, a founder has to navigate a complicated legal process.\n\nThis week on Build Mode, Isabelle Johannessen speaks with Capella Kerst, founder and CEO of g",
       "tags": [
         "Apple",
         "Amazon",
