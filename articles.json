@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T18:57:05.178344+00:00",
+  "last_updated": "2026-04-24T19:54:35.302016+00:00",
   "articles": [
     {
       "title": "Google to invest up to $40B in Anthropic in cash and compute",
@@ -121,6 +121,40 @@
       ]
     },
     {
+      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+      "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+      "author": "Marina Temkin",
+      "date": "2026-04-24T12:49:35-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/05/fall-guys.png?resize=1200,675",
+      "category": "AI",
+      "content": "ComfyUI, a startup that helps creators control image, video, and audio outputs from diffusion models with a node-based workflow, has raised a $30 million funding round at a $500 million valuation.\n\nThe round was led by Craft Ventures, with participation from other investors including Pace Capital, Chemistry, and TruArrow.\n\nComfyUI was started as an open-source project in 2023 shortly after the introduction of diffusion models. At that time, models like Midjourney and OpenAI’s DALL-E were barely functional, frequently making major mistakes, such as adding extra fingers to hands.\n\nTo address these limitations, the project founders developed a modular framework that gives creators granular control over every step of the generation process.\n\nTheir tool gained such significant traction among creative professionals that it eventually evolved into a formal startup. In late 2024, ComfyUI raised $19 million in Series A financing from investors including Chemistry Ventures, Cursor Capital, and Guillermo Rauch, founder of Vercel.\n\nAlthough the latest diffusion models have come a long way from adding a sixth digit to hands, the need for the granular precision that ComfyUI offers has only grown.\n\n“If you think about your typical prompt-based solution, like Midjourney or ChatGPT, you ask for something, it [gets only] 60% – 80% there,” Yoland Yan, ComfyUI’s co-founder and CEO, told TechCrunch. “But to change that remaining 20%, you have to try this slot machine.”\n\nYan compared the process to playing in a casino because prompting the model to make a small change can result in a completely different output, including overwriting the parts that were already perfect.\n\nComfyUI’s node-based interface allows creators to link specific components of the generation process, giving them full control over the quality of their final output.\n\n“You cannot easily convey that message in the prompt box [of a foundational model],” Yan said.\n\nCreators seem to agree, as ComfyUI claims to have over 4 million users.\n\nThe tool is being used by creative professionals for visual effects, animation, advertising, and even industrial design.\n\nThe startup says its offering has become such a necessary tool of the trade for technical artists and other creatives that it is not uncommon to see “ComfyUI artist or engineer” listed as a job title on studio job boards.\n\nAlthough video and image foundational models continue to improve, Yan claims that they are far from perfect, and a tool like ComfyUI will continue to be in high demand.\n\n“In the world where AI slop is going to be everywhere, the Comfy version of human-in-the -loop approach is going to win out most of the eyeballs in the end,” he said.\n\nComfyUI’s competitors includeWeavy, a startup that was acquired by Figma last year.",
+      "excerpt": "ComfyUI, a startup that helps creators control image, video, and audio outputs from diffusion models with a node-based workflow, has raised a $30 million funding round at a $500 million valuation.\n\nThe round was led by Craft Ventures, with participation from other investors including Pace Capital, C",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "X launches standalone XChat app on iOS",
+      "link": "https://techcrunch.com/2026/04/24/x-launches-xchat-app-ios-messaging-iphone/",
+      "author": "Sarah Perez",
+      "date": "2026-04-24T12:46:58-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-musk-graffiti.jpg?resize=1200,675",
+      "category": "Apps",
+      "content": "XChat, X’s standalone messaging app, launched to the public onFriday. Initially available on iOS devices, the new app allows users to connect with their X contacts for messaging, file sharing, audio and video calls, as well as group chats.\n\nThe company first beganpublicly testing XChatwith a small group of beta users earlier this year to get their feedback about the new experience.\n\nThe XChat app is a key piece to the strategic vision for the company, which sees the social network as a jumping-off point for other services, like messaging or payments. (The latter is alsobeing tested as a dedicated app, though it is not yet available publicly.)\n\nHowever, X’s decision to break out of a piece of its platform to become its own dedicated app is a shift away from owner Elon Musk’s earlier plan to make X an “everything app,” which would provide a single place to access messaging, payments, creator content, shopping, AI, and more.\n\nInstead, xAI (Musk’s AI company thatowns X, andis itself ownedby Musk’s other company SpaceX) is now offering a suite of apps to provide more consumer touchpoints with its services.\n\nThe everything app, which requires 3 apps to use the core product.pic.twitter.com/1aJF4n2par\n\nAt launch, the XChat app offers support for messaging and calling, as well as other features that it says are privacy protected, including the ability to edit and delete messages for everyone in the chat; support for disappearing messages; and the ability to block screenshots. X claims there are no ads or tracking mechanisms in the app.\n\nThe company also claims that all messages are end-to-end encrypted and PIN protected — though security experts havepreviously disputedthe company’s encryption claims.\n\nSecurity expertshad earlier warned potential usersthat the XChat service appears to be less secure than other encrypted messaging apps, like Signal, when the app was first introduced. They will need to evaluate the dedicated XChat app again, now that it’s broadly available, to see if the necessary improvements have been made.\n\nXChat is now available. Design team is cooking on these launch videos.pic.twitter.com/u7BIKNp0pc\n\nIn addition to offering a place to have private chats or group chats, XChat is also stepping in to serve as the new destination for X’s Communities, which the companyhas decided to shut downdue to lack of use and high amounts of spam. The timing of that news could give XChat an early boost in new installs, as community members make the shift.\n\nMore updates to XChat are seemingly still planned, according to X lead designer Benji Taylor,who teasedthat the app is “just the beginning of what we’re building for messaging.”",
+      "excerpt": "XChat, X’s standalone messaging app, launched to the public onFriday. Initially available on iOS devices, the new app allows users to connect with their X contacts for messaging, file sharing, audio and video calls, as well as group chats.\n\nThe company first beganpublicly testing XChatwith a small g",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
       "title": "Nothing introduces an AI-powered dictation tool",
       "link": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
       "author": "Ivan Mehta",
@@ -129,40 +163,6 @@
       "category": "",
       "content": "In the last few years, AI-powered dictation tools have taken off. In addition to existing dictation apps like Wispr Flow, Superwhisper, Willow, and Monologue,newonesare being launched every week. On Thursday, hardware company Nothing launched a competitive product of its own, called Essential Voice.\n\nThe core idea is similar to other dictation apps, as Essential Voice works in any app to turn your speech into formatted text, removing filler words like “um” and “ah” along the way. The company said that you can also create custom voice shortcuts for words, links, templates, and repeated phrases. For instance, you can assign the “my address” shortcut to your full address.\n\nAt the moment, the feature is available on the Phone (3) with rollout for Phone (4a) Pro planned for later this month, and support for Phone (4a) arriving next month.\n\nThe average person types 36 words a minute on a phone.But, they can say it four times faster.Essential Voice turns your speech into clear, ready-to-use writing.pic.twitter.com/l08bnS8sNF\n\nTo access the feature, users either press the Essential key on devices where it is present or activate it from the keyboard. The feature issimilar to the one that Superwhisperreleased earlier this week for iPhone users, which allows them to map the iPhone’s action key to the app’s keyboard for dictation.\n\nNothing’s new tool can also translate text directly from one language to another. At launch, Nothing said the feature supports over 100 languages. Going forward, it will also introduce app-based custom styling, meaning you’ll be able to change the tone of the AI editing within app categories, like work and messaging.\n\nNothing is one of the first companies to offer a system-level integration for dictation. However, based onGoogle’s recent release of its offline dictation app, we might see more companies release similar tools in the future.",
       "excerpt": "In the last few years, AI-powered dictation tools have taken off. In addition to existing dictation apps like Wispr Flow, Superwhisper, Willow, and Monologue,newonesare being launched every week. On Thursday, hardware company Nothing launched a competitive product of its own, called Essential Voice.",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Porsche is adding an all-electric Cayenne coupe to its lineup",
-      "link": "https://techcrunch.com/2026/04/23/porsche-is-adding-an-all-electric-cayenne-coupe-to-its-lineup/",
-      "author": "Kirsten Korosec",
-      "date": "2026-04-23T21:01:00-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/porsche-coupe-white.jpg?resize=1200,801",
-      "category": "Transportation",
-      "content": "Porsche will start selling an all-electric Cayenne coupe in late summer, the latest signal from the German automaker that it still sees market demand for EVs.\n\nThe Cayenne coupe EV — which has four doors, unlike a traditional coupe — will join several other all-electric variants of the SUV when it comes to market later this year, including the base Cayenne Electric, Cayenne S Electric, and Cayenne Turbo Electric. Porsche does, after all, love its variants.\n\nAnd it could be its most successful. When Porsche introduced a coupe version of its gas-powered Cayenne in 2019, it took just a year for the sportier version of the crossover SUV to capture 20% of sales within the Cayenne lineup. Five years later, the coupe variant accounts for 40% of Cayenne sales, according to Porsche. In some markets, the coupe accounts for as much as 90%.\n\nIn other words, the numbers suggest that the all-electric Cayenne coupe is a worthy bet even with its six-figure price tag.\n\nThe Cayenne Coupe Electric (as it is officially branded) won’t replace its gas-powered or hybrid brethren, unlike thePorsche Macancompact SUV, which will only be sold as an EV after this year.\n\nThe company says the Cayenne coupe EV will be sold alongside the other fuel variants well beyond 2030, according to a Porsche spokesperson. That could produce some valuable data for Porsche on what flavor of Cayenne coupe consumers actually want to buy — and whether this electric variant proves to be its most popular. (The extra front trunk space alone could influence some buyers, not to mention gas prices.)\n\nNone of those questions can be answered, however, until the Cayenne Electric, Cayenne S Electric, Cayenne Turbo Electric, and Cayenne Coupe Electric go on sale globally later this year — about nine months after the EV version was first unveiled.\n\nWhen the Cayenne coupe EV does go on sale, it will be offered in three variants: the base version, an S coupe, and a turbo coupe. (If you think that’s a lot, go check out how many versions of its flagship PorscheTaycanEV exist.)\n\nThe Cayenne Coupe Electric starts at $113,800, not including the $2,350 delivery fee. Prices rise from there with the Cayenne S Coupe Electric at $131,200, and the Cayenne Turbo Coupe Electric at $168,000. Consumers can, of course, spend even more by adding options like the lightweight sport package, which includes a carbon roof, performance tires, and motorsports-inspired interior features.\n\nFor that kind of money, consumers will get a lot of horsepower and torque tucked inside a crossover body with a sloping roofline that is reminiscent of the iconic 911. All variants of the coupe EV come with an 800-volt powertrain, air suspension, and a shared roof design that features a new windshield and an adaptive rear spoiler. The Cayenne coupe EV is also equipped with the North American Charging Standard port, or NACS, that Tesla popularized, as as well as an additional AC charging port.\n\nFrom here, some specs change depending on the version a consumer buys. The base coupe EV generates up to 435 horsepower and 615 pound-feet of torque, with a top speed of 143 miles per hour and a zero-to-60 time of 4.5 seconds.\n\nFor those who aren’t satisfied, there are two more powerful options that push those performance specs much higher. At the top end, the turbo version generates up to 1,139 horsepower and 1,106 pound-feet of torque — putting it up there with the Tesla Model S Plaid, Lucid Air Sapphire, and Porsche Taycan Turbo GT. The turbo version has a top speed of 162 mph and can travel from 0 to 60 mph in an eye-watering 2.4 seconds.\n\nPorsche hasn’t released EPA estimates for the range these coupe EVs will deliver on a single charge. But early real-world testing is in line with other Cayenne electric variants, which is about 360 miles. Of course, if coupe EV buyers opt for those larger tires — which create more rolling resistance, requiring the battery to work harder — the range could drop about 10%.",
-      "excerpt": "Porsche will start selling an all-electric Cayenne coupe in late summer, the latest signal from the German automaker that it still sees market demand for EVs.\n\nThe Cayenne coupe EV — which has four doors, unlike a traditional coupe — will join several other all-electric variants of the SUV when it c",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Bob Iger rejoins Thrive Capital as advisor after Disney exit",
-      "link": "https://techcrunch.com/2026/04/23/bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit/",
-      "author": "Marina Temkin",
-      "date": "2026-04-23T17:11:25-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2246607264.jpg?resize=1200,800",
-      "category": "",
-      "content": "Bob Iger is returning to Thrive Capital as an advisor, just one month after stepping down as CEO of Disney, a role he held for nearly two decades.\n\nIger previously served a two-month stint as a venture partner at the firm in late 2022 but left when the Disney board asked him to retake the helm of the media conglomerate, following his initial departure from the company in 2020.\n\n“Bob leads with boldness and conviction because he knows what he is building and why. He is rejoining Thrive at a time when that kind of leadership matters most,” Thrive’s founder Josh Kushnerposted on X.\n\nIger, who already owns a stake in the firm, will work with Thrive’s investment staff and portfolio founders, the Wall Street Journalreported. However, his advisory role will likely not require a full-time commitment.\n\nThrive manages over $50 billion in assets, according to PitchBook. In February, the firm announced that it raised $10 billion in capital commitments for its 10th fund, the largest in the firm’s 17-year history. Thrive holds significant stakes in OpenAI, Stripe, and SpaceX. The firm also amassed a 7% ownership stake in Cursor, whose potential sale to SpaceX could be worth about $4.2 billion,Bloomberg reported.",
-      "excerpt": "Bob Iger is returning to Thrive Capital as an advisor, just one month after stepping down as CEO of Disney, a role he held for nearly two decades.\n\nIger previously served a two-month stint as a venture partner at the firm in late 2022 but left when the Disney board asked him to retake the helm of th",
       "tags": [
         "Apple",
         "Amazon",
