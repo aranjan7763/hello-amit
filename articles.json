@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T18:19:37.232010+00:00",
+  "last_updated": "2026-04-28T20:18:40.334879+00:00",
   "articles": [
     {
       "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "Match Group invests $100 million in Sniffies, a cruising app for gay men",
-      "link": "https://techcrunch.com/2026/04/28/match-group-invests-100-million-in-sniffies-a-cruising-app-for-gay-men/",
-      "author": "Lucas Ropek",
-      "date": "2026-04-28T11:16:54-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1241790742.jpeg?w=1024",
+      "title": "Amazon is already offering new OpenAI products on AWS",
+      "link": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+      "author": "Julie Bort",
+      "date": "2026-04-28T12:48:02-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Data-center-ChatGPT.png?resize=1200,600",
       "category": "",
-      "content": "Match Group, the dating app behemoth that owns Match, Tinder, OkCupid and Hinge, says that it has invested $100 million in yet another mobile service designed to bring people together: a Grindr competitor known as Sniffies.\n\nThewebsitefor Sniffies sports various images of men in their underwear. That tells you pretty much all you need to know about the app, which is a self-proclaimed “cruising”— or hookup — matching service for gay men. The app includes what it calls a “real-time, fully interactive map of nearby Cruisers and popular local cruising spots.”\n\n“From the first time I met the Sniffies team a year ago, it was clear they had a deep understanding of their users and a strong point of view on how its community actually connects,” said Spencer Rascoff, Chief Executive Officer of Match Group, ina press releaseMonday.\n\nSniffies, based in Seattle, has an estimated 3 million monthly active users, Match says. The company will continue to operate independently, with Match Group assisting the team’s “vision and growth,” it said.\n\nMatch Grouphas struggledin recent years as Americans have suffered fromdating app burnoutand have continually expressed a desire to meet lovers the old-fashioned way — like bumping into each other at a bookstore or asking an attractive person for their phone number. In February, Match Group beat its Q4 estimates but reporteddeclining user growthat flagship apps like Tinder.",
-      "excerpt": "Match Group, the dating app behemoth that owns Match, Tinder, OkCupid and Hinge, says that it has invested $100 million in yet another mobile service designed to bring people together: a Grindr competitor known as Sniffies.\n\nThewebsitefor Sniffies sports various images of men in their underwear. Tha",
+      "content": "Almost as soon as OpenAI announced that its major investor and cloud partner, Microsoft,no longer has exclusive rightsto any of its products, Amazon started gloating.\n\nAfter the revised OpenAI/Microsoft agreement was announced on Monday, Amazon CEO Andy Jassy noted in a tweet that it was a“very interesting announcement.”That agreement solved OpenAI’s problem of allowing AWS to offer its products, an issue that crystalized after it signed anup-to-$50-billion dealwith Amazon.\n\nAmazonannouncedon Tuesday that AWS’s Bedrock service now has OpenAI’s latest models, its code-writing service Codex, and a new product for creating OpenAI-powered AI agents. Bedrock is Amazon’s AI app building and model-choosing service.\n\nAmazon is calling the new agent service Bedrock Managed Agents. It is specifically designed to use OpenAI’s reasoning models, offering features like agent steering and security.\n\nAmazon promises in its blog post that “this is the beginning of a deeper collaboration between AWS and OpenAI.” And it will certainly be interesting to watch.\n\nThe Microsoft/OpenAI relationship hasreportedly been deteriorating for some time, with each of them finding comfort in the arms of their partner’s biggest rival. OpenAI has turned to AWS and Oracle. Microsoft to Anthropic; the Redmond-based software giant is alsoworking on a new agent offering powered by Claude.",
+      "excerpt": "Almost as soon as OpenAI announced that its major investor and cloud partner, Microsoft,no longer has exclusive rightsto any of its products, Amazon started gloating.\n\nAfter the revised OpenAI/Microsoft agreement was announced on Monday, Amazon CEO Andy Jassy noted in a tweet that it was a“very inte",
       "tags": [
         "Apple",
         "Amazon",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
-      "link": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
-      "author": "Julie Bort",
-      "date": "2026-04-28T11:15:00-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-1080946342.jpeg?resize=1200,800",
-      "category": "",
-      "content": "Google has granted the U.S. Department of Defense access to its AI for classified networks, essentially allowing all lawful uses,according to multiple news reports.\n\nThis deal follows Anthropic’spublic stand against the Trump administrationafter the model maker refused to grant the DoD the same terms. The Pentagon wanted unrestricted use of AI, whereas Anthropic wanted guardrails to prevent its AI from being used for domestic mass surveillance and autonomous weapons.\n\nBecause Anthropic refused those use cases, the DoD branded the model maker a “supply-chain risk” — a designation normally reserved for foreign adversaries. Anthropic and the DoD are now embroiled in a lawsuit, witha judge last month granting Anthropic an injunctionagainst the designation while the case proceeds.\n\nGoogle marks the third AI company to try and turn Anthropic’s loss into its own gain.OpenAI immediately signed a dealwith the DoD,as did xAI. Google’s agreement includes some language saying that it doesn’t intend for its AI for use in domestic mass surveillance or autonomous weapons, The Wall Street Journal reports, which is similar to contract language with OpenAI. But it is unclear whether such provisions are legally binding or enforceable, per the WSJ.\n\nGoogle entered this deal even though 950 of its employees have signedan open letterasking it to follow Anthropic’s lead and not sell AI to the Defense Department without similar guardrails. Google did not respond to a request for comment.",
-      "excerpt": "Google has granted the U.S. Department of Defense access to its AI for classified networks, essentially allowing all lawful uses,according to multiple news reports.\n\nThis deal follows Anthropic’spublic stand against the Trump administrationafter the model maker refused to grant the DoD the same term",
+      "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
+      "link": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+      "author": "Lauren Forristal",
+      "date": "2026-04-28T11:49:54-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Amazon-Jointhe-chat-AI.jpeg?resize=1200,675",
+      "category": "AI",
+      "content": "Amazonlauncheda new AI-powered feature on Tuesday that allows users to ask questions about products and receive conversational audio responses generated in real time. The responses are delivered by what the company calls “AI-powered shopping experts,” which present information in a natural, discussion-style format.\n\nThe new “Join the chat” feature aims to save customers time by providing key product details without requiring them to scroll through lengthy descriptions or reviews. The AI pulls together insights about product features, customer feedback, and other relevant information. For example, shoppers can ask questions like whether a coffee maker is suited for beginners or whether a sweater feels itchy based on customer reviews.\n\nRather than giving generic answers, Amazon says the AI builds on previous responses to provide more relevant and helpful information, while also making sure not to repeat anything. This is meant to be a similar experience to speaking with a knowledgeable employee at a store.\n\n“Customers can ask questions and actually steer where the conversation goes. Every question they ask influences what comes next, making the experience a conversation customers can join and customize,” the company writes in a blog post.\n\n“Join the chat” is part of a broader experience called “Hear the highlights,” which offers short audio summaries on millions of product pages within the Amazon Shopping app. That feature begantestinglast May and is currently available in the U.S. However, only select products have audio summaries.\n\nTo use the feature, customers open a product page in the app and tap the “Hear the highlights” button, located below the product image. From there, they can listen to a brief overview or tap the “Join the chat” icon to ask specific questions via text or voice. The audio can continue playing even as users browse.\n\nThe new capability builds on Amazon’s growing lineup of AI-driven shopping tools. These includeRufus, its generative AI assistant that helps customers research products and compare options;Interests, which continuously tracks and surfaces new items aligned with a shopper’s preferences; and “Help me decide,” which suggests products based on a person’s searches, browsing, and shopping history.",
+      "excerpt": "Amazonlauncheda new AI-powered feature on Tuesday that allows users to ask questions about products and receive conversational audio responses generated in real time. The responses are delivered by what the company calls “AI-powered shopping experts,” which present information in a natural, discussi",
       "tags": [
         "Apple",
         "Amazon",
