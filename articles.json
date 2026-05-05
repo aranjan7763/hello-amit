@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T23:56:15.554169+00:00",
+  "last_updated": "2026-05-05T03:30:26.960563+00:00",
   "articles": [
     {
       "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "Katie Haun raises $1B for new venture funds",
-      "link": "https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/",
-      "author": "Dominic-Madori Davis",
-      "date": "2026-05-04T12:12:15-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-1694381544.jpg?w=1024",
+      "title": "Geothermal startup Fervo Energy to raise up to $1.3B in IPO",
+      "link": "https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/",
+      "author": "Tim De Chant",
+      "date": "2026-05-04T17:13:30-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/fervo-geothermal-site-at-night.jpg?resize=1200,675",
       "category": "",
-      "content": "Former Andreessen Horowitz investor Katie Haun announced on Monday ina press releasethat her firm has raised $1 billion across new funds to continue its thesis of backing crypto and blockchain.\n\nThe capital will be spread across startupsat early and later stages,Bloomberg reported, and, within the crypto and blockchain space, it will be used to back startups focused onalternative assets (like gold and other commodities), the agentic economy, and financial services.\n\nThe firm hopes to deploy the capital globally over the next two to three years. Haun left a16z in late 2021 and launched her own venture firm shortly after, in 2022. The firm handles more than $2 billion in assets under management, estimates PitchBook, and its investments include Palmer Luckey’s Erebor Bank and the crypto finance company Ellipsis Labs.",
-      "excerpt": "Former Andreessen Horowitz investor Katie Haun announced on Monday ina press releasethat her firm has raised $1 billion across new funds to continue its thesis of backing crypto and blockchain.\n\nThe capital will be spread across startupsat early and later stages,Bloomberg reported, and, within the c",
+      "content": "Geothermal startup Fervo Energy said Monday it hopes to raise up to $1.3 billion in its initial public offering.\n\nThe company would be valued at up to $6.5 billion if shares sell at the top of its $21 to $24 price target. That’s more than twice what Fervo hadreportedly been seekingearlier this year when it confidentially filed paperwork with the SEC to start the IPO process.\n\nThe stock will trade on Nasdaq under the ticker FRVO.\n\nFervo’s price target comes on the heels of X-energy’s successful IPO. The nuclear power startupraised $1 billionin an upsized IPO. When the company set its price target for the IPO, it sought a valuation of around $7 billion. Today, X-energy’s market capitalization i over $8 billion.\n\nBoth Fervo and X-energy have been boosted by surging electricity demand from tech companies, which have been racing to secure supplies to feed their AI data centers. The scramble has driven prices for new natural gas power plants up 66% in the last two years.\n\nFervo says it’s Cape Station power plant — its first large-scale project — will generate electricity at $7,000 per kilowatt of installed capacity. The company’s goal is to reduce that to $3,000 per kilowatt of capacity, at which point it will start being cost competitive with natural gas.",
+      "excerpt": "Geothermal startup Fervo Energy said Monday it hopes to raise up to $1.3 billion in its initial public offering.\n\nThe company would be valued at up to $6.5 billion if shares sell at the top of its $21 to $24 price target. That’s more than twice what Fervo hadreportedly been seekingearlier this year ",
       "tags": [
         "Apple",
         "Amazon",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "Hackers are mass-exploiting the cPanel bug to gain control of thousands of websites",
-      "link": "https://techcrunch.com/2026/05/04/hackers-are-still-exploiting-the-cpanel-bug-to-gain-control-of-thousands-of-websites/",
-      "author": "Lorenzo Franceschi-Bicchierai",
-      "date": "2026-05-04T11:02:18-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/02/scanning-computer-group.jpg?resize=1200,675",
-      "category": "Security",
-      "content": "Nearly a week after the makers of the popular web server management software cPanel and WebHost Manager (WHM) alerted users of a critical flaw in its software, hackers are now mass-compromising thousands of websites that rely on the vulnerable software.\n\nAs of Monday, there aremore than 550,000potentially vulnerable servers running cPanel, a number that has remained stable for days. And there are nowaround 2,000cPanel instances likely compromised, down from around 44,000 on Thursday. These statistics are published by Shadowserver, a nonprofit organization that scans and monitors the internet for cyberattacks.\n\nOn Thursday, security researchers alerted thathackers started compromising servers running cPanel and WHM, taking advantage of a bug that allowed the attackers to take full control of and hijack the vulnerable servers via their control panels.\n\nAs Bleeping Computer reported, some of the extent of damage so far is visible by the fact that Googlehas indexeddozens of websites that at some point displayed a message from a group of hackers that claimed to have encrypted the victim’s files in an apparent ransomware attack. Some of those sites now load normally.\n\nThe ransom note included a chat ID for the victims to contact the hackers, who did not immediately respond to TechCrunch’s request for comment.\n\nU.S. Cybersecurity and Infrastructure Security Agency (CISA) warned on Thursday that the vulnerability — tracked asCVE-2026-41940— was being exploited in the wild, andadded itto its Known Exploited Vulnerabilities (KEV) catalog. CISA asked government agencies to patch by Sunday. CISA did not immediately respond to a request for comment, asking whether it could confirm that government agencies have patched their servers.\n\nThe attacks against web servers running cPanel and WHM have likely been ongoing since much earlier than the vulnerability was disclosed.According to KnownHost CEO Daniel Pearson, his company detected attacks as far back as February 23.\n\nAn unnamed spokesperson for cPanel acknowledged receipt of TechCrunch’s request for comment, but did not provide a response.\n\nUpdated with response from cPanel.",
-      "excerpt": "Nearly a week after the makers of the popular web server management software cPanel and WebHost Manager (WHM) alerted users of a critical flaw in its software, hackers are now mass-compromising thousands of websites that rely on the vulnerable software.\n\nAs of Monday, there aremore than 550,000poten",
+      "title": "Katie Haun raises $1B for new venture funds",
+      "link": "https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/",
+      "author": "Dominic-Madori Davis",
+      "date": "2026-05-04T12:12:15-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-1694381544.jpg?w=1024",
+      "category": "",
+      "content": "Former Andreessen Horowitz investor Katie Haun announced on Monday ina press releasethat her firm has raised $1 billion across new funds to continue its thesis of backing crypto and blockchain.\n\nThe capital will be spread across startupsat early and later stages,Bloomberg reported, and, within the crypto and blockchain space, it will be used to back startups focused onalternative assets (like gold and other commodities), the agentic economy, and financial services.\n\nThe firm hopes to deploy the capital globally over the next two to three years. Haun left a16z in late 2021 and launched her own venture firm shortly after, in 2022. The firm handles more than $2 billion in assets under management, estimates PitchBook, and its investments include Palmer Luckey’s Erebor Bank and the crypto finance company Ellipsis Labs.",
+      "excerpt": "Former Andreessen Horowitz investor Katie Haun announced on Monday ina press releasethat her firm has raised $1 billion across new funds to continue its thesis of backing crypto and blockchain.\n\nThe capital will be spread across startupsat early and later stages,Bloomberg reported, and, within the c",
       "tags": [
         "Apple",
         "Amazon",
