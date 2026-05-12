@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T04:36:58.808235+00:00",
+  "last_updated": "2026-05-12T07:43:43.736374+00:00",
   "articles": [
     {
       "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
-      "link": "https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/",
-      "author": "Julie Bort",
-      "date": "2026-05-11T10:38:32-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Helsing.jpg?resize=1200,962",
+      "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+      "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+      "author": "Connie Loizos",
+      "date": "2026-05-11T21:52:35-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2271655163.jpg?resize=1200,879",
       "category": "",
-      "content": "Five-year-old European military drone startupHelsingis reportedly close to raising a new $1.2 billion round at about an $18 billion valuation. The round is expected to be led by Dragoneer and co-led by existing Helsing investor Lightspeed, theFinancial Times reported.\n\nHelsing last raised just under a year ago,in June 2025, in a deal that was led by billionaire Spotify founder Daniel Ek. That was a €600 million investment at an estimated €12 billion valuation ($14 billion). So this new round is a step up.\n\nWhile Helsing isn’t the only European unicorn defense tech, it is by far the one that investors deem the most valuable. For instance, German drone maker Quantum Systemsraised €180 million in November, which valued it at more than €3 billion. And a year ago, Lisbon-headquartered Tekever raised £400 million at avaluation above £1 billion.Amid Russia’s ongoing war in Ukraine, the proving ground for new technologies, autonomous defense startups have become a hot area for VCs.\n\nHelsing, Dragoneer, and Lightspeed could not be immediately reached for comment.",
-      "excerpt": "Five-year-old European military drone startupHelsingis reportedly close to raising a new $1.2 billion round at about an $18 billion valuation. The round is expected to be led by Dragoneer and co-led by existing Helsing investor Lightspeed, theFinancial Times reported.\n\nHelsing last raised just under",
+      "content": "Thinking Machines Lab, the AI startup founded last year by former OpenAI CTO Mira Murati, on Monday announced something calledinteraction models, which, at its essence, sounds like AI that can interrupt you.\n\nRight now, every AI model you’ve ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it’s more like a phone call than a text chain.\n\nThe technical term for this is “full duplex,” and the company claims its model, TML-Interaction-Small, responds in 0.40 seconds, which is roughly the speed of natural human conversation and significantly faster than comparable models from OpenAI and Google.\n\nStill, this is a research preview, not a product. The company isn’t releasing it to the public yet. A “limited research preview” is coming in the next few months, it says, with a wider release set for later this year.\n\nSo what to make of it? We’re not sure. Thebenchmarksare impressive and the underlying idea — that interactivity should be native to a model, not bolted on — is definitely interesting. Whether the real-world experience lives up to the technical claims is something we won’t know until people can actually use it.",
+      "excerpt": "Thinking Machines Lab, the AI startup founded last year by former OpenAI CTO Mira Murati, on Monday announced something calledinteraction models, which, at its essence, sounds like AI that can interrupt you.\n\nRight now, every AI model you’ve ever used works the same way. You talk, it listens. It res",
       "tags": [
         "Apple",
         "Amazon",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "NYT’s Wordle to become a TV game show",
-      "link": "https://techcrunch.com/2026/05/11/nyts-wordle-to-become-a-tv-game-show/",
-      "author": "Sarah Perez",
-      "date": "2026-05-11T07:23:25-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/02/wordle-sells-1.webp?resize=1200,674",
+      "title": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
+      "link": "https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/",
+      "author": "Julie Bort",
+      "date": "2026-05-11T10:38:32-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Helsing.jpg?resize=1200,962",
       "category": "",
-      "content": "The New York Times is betting that the Wordle craze isn’t over yet. On Monday, the Timesannouncedthat it would be turning the hit mobile word game into a televised game show on NBC.\n\n“Today” show anchor Savannah Guthrie will host the affair, while The Times and “The Tonight Show” host Jimmy Fallon will both serve as production partners. Guthrie and Fallon announced the news on the 8:00 a.m. broadcast of the “Today” show on Monday, where theysharedthat the game show had been in development for the past two and a half years.\n\nThe show, which will begin airing on NBC next year, is being described as “fast-paced” and a “great family game.” That sounds a bit different from the mobile game, which often requires long periods of thought where users work through the possible choices.\n\nThis will be the first time that The Times has collaborated with a TV broadcaster for an entertainment-based program, representing yet another pivot in the media company’s attempt to build a sustainable digital subscription business as print revenue continues to decline.\n\nWordle began its life as a popular online word puzzle game after being released in October 2021 by Josh Wardle, a software engineer in Brooklyn. In January of the following year,The NYT acquired the titlefor its growing games business, almost immediatelybringing “tens of millions” of new usersto the New York Times. As of last year, NYT Games says that users played more than11 billion puzzlesacross all its games over the course of the year, up from8 billion in 2023.\n\nNBC will start shooting episodes of the game show this summer and is currently looking forcontestants.",
-      "excerpt": "The New York Times is betting that the Wordle craze isn’t over yet. On Monday, the Timesannouncedthat it would be turning the hit mobile word game into a televised game show on NBC.\n\n“Today” show anchor Savannah Guthrie will host the affair, while The Times and “The Tonight Show” host Jimmy Fallon w",
+      "content": "Five-year-old European military drone startupHelsingis reportedly close to raising a new $1.2 billion round at about an $18 billion valuation. The round is expected to be led by Dragoneer and co-led by existing Helsing investor Lightspeed, theFinancial Times reported.\n\nHelsing last raised just under a year ago,in June 2025, in a deal that was led by billionaire Spotify founder Daniel Ek. That was a €600 million investment at an estimated €12 billion valuation ($14 billion). So this new round is a step up.\n\nWhile Helsing isn’t the only European unicorn defense tech, it is by far the one that investors deem the most valuable. For instance, German drone maker Quantum Systemsraised €180 million in November, which valued it at more than €3 billion. And a year ago, Lisbon-headquartered Tekever raised £400 million at avaluation above £1 billion.Amid Russia’s ongoing war in Ukraine, the proving ground for new technologies, autonomous defense startups have become a hot area for VCs.\n\nHelsing, Dragoneer, and Lightspeed could not be immediately reached for comment.",
+      "excerpt": "Five-year-old European military drone startupHelsingis reportedly close to raising a new $1.2 billion round at about an $18 billion valuation. The round is expected to be led by Dragoneer and co-led by existing Helsing investor Lightspeed, theFinancial Times reported.\n\nHelsing last raised just under",
       "tags": [
         "Apple",
         "Amazon",
