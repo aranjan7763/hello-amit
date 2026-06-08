@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T09:24:44.627515+00:00",
+  "last_updated": "2026-06-08T14:10:56.637598+00:00",
   "articles": [
     {
       "title": "Hacked, leaked, and held for ransom: the worst breaches of 2026 so far",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "Notion restores access to Anthropic after service disruption",
-      "link": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
-      "author": "Anthony Ha",
-      "date": "2026-06-07T10:56:22-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/02/notion-glitch-hero.jpg?resize=1200,827",
-      "category": "",
-      "content": "Notion’s integration with Anthropic apparently had a hiccup this weekend.\n\nEarly Sunday morning, the companyposted, “Anthropic’s Opus 4.7 and 4.8 models are experiencing degraded performance, which is causing a higher rate of failures for users selecting these models in Notion AI.”\n\nAs a result, Notion said it was disabling use of “all Anthropic models” in its automated productivity tool.\n\nTwelve hours later, Notion’s head of product Max Schoeningwrotethat he was “astonished” at “the amount of people RT-ing this because they want a story around model quality to be the reason.” (According to the public stats on X, Notion’s post has been reposted around 1,200 times.)\n\n“The degraded performance was a temporary service disruption,” Schoening said. “This happens. It happens to Notion, GitHub, AWS, your OpenClaw, and everything in between.”\n\nHe added that Notion has restored access to Anthropic’s models.\n\nMeanwhile, an Anthropic spokesperson said in a statement, “A brief infrastructure issue caused elevated errors on multiple Claude models for a short period of time. The issue has since been resolved. We’re grateful to our users for their patience while we worked to restore service.”",
-      "excerpt": "Notion’s integration with Anthropic apparently had a hiccup this weekend.\n\nEarly Sunday morning, the companyposted, “Anthropic’s Opus 4.7 and 4.8 models are experiencing degraded performance, which is causing a higher rate of failures for users selecting these models in Notion AI.”\n\nAs a result, Not",
+      "title": "Eventbrite and Vimeo owner Bending Spoons files to go public",
+      "link": "https://techcrunch.com/2026/06/08/eventbrite-and-vimeo-owner-bending-spoons-files-to-go-public/",
+      "author": "Ivan Mehta",
+      "date": "2026-06-08T06:57:00-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/Bending-Spoons_CEO-cofounder_Luca-Ferrari_2-copy.jpeg?resize=1200,800",
+      "category": "Apps",
+      "content": "Italian app studioBending Spoons, which has acquired businesses likeEventbrite,Vimeo, andWeTransferin recent years, has filed to go public in the U.S. The company joins other names like SpaceX and Anthropic that are preparing to IPO this summer.\n\nThe company said it has over 500 million monthly active users across its apps, with 9 million paying customers. To date, it has made over 50 acquisitions, including AOL, Eventbrite, Vimeo, Komoot, WeTransfer, Evernote, and Brightcove.\n\nIn its filing with the Securities and Exchange Commission, Bending Spoons said it ended the year with $1.31 billion in revenue and has generated $601 million in Q1, a 132% year-on-year jump. The company gets the majority of its revenue from subscriptions, which account for 84% of its business. It generated $27.4 million in profit in Q1 2026.\n\nThe company raised funding at a$11 billion valuation last year, up from $2.8 billion in 2024. In April,Reutersreported that the company could seek a $20 billion valuation with the IPO.\n\nInvestment management firm Baillie Gifford holds a big chunk of the company, with other institutions such as Cox Enterprises, Durable Capital Partners, and Fidelity also on the list of backers.\n\nBending Spoons typically acquires a property whose business is not in a healthy state, trims the teams, and pushes it to profitability with different kinds of subscription structures.",
+      "excerpt": "Italian app studioBending Spoons, which has acquired businesses likeEventbrite,Vimeo, andWeTransferin recent years, has filed to go public in the U.S. The company joins other names like SpaceX and Anthropic that are preparing to IPO this summer.\n\nThe company said it has over 500 million monthly acti",
       "tags": [
         "Apple",
         "Amazon",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-      "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-      "author": "Anthony Ha",
-      "date": "2026-06-06T13:32:24-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2201630077.jpg?resize=1200,798",
-      "category": "",
-      "content": "OpenAIannounceda new feature that it says will provide additional protection from prompt injection attacks, where malicious chatbot instructions are hidden in webpages and other content sources.\n\nAmong other things, Lockdown Mode will disable live web browsing (so you can only access cached content), the retrieval and display of images from the web (you can still generate images), deep research, and agent mode.\n\nThe company says that even with Lockdown Mode turned on, ChatGPT could still be vulnerable to prompt injections — which could, for example, “appear in cached web content or in an uploaded file, and could still affect the behavior or accuracy of a response.”\n\nBut the goal is to reduce the likelihood that sensitive data gets shared in the process.\n\n“Lockdown Mode isnotintended for everyone,” OpenAI says. “It is designed for people and organizations that handle sensitive data and want stricter protection from data exfiltration risks related to prompt injection.”\n\nThe company says it’s currently rolling Lockdown Mode out to self-serve ChatGPT Business accounts, as well as eligible personal accounts.",
-      "excerpt": "OpenAIannounceda new feature that it says will provide additional protection from prompt injection attacks, where malicious chatbot instructions are hidden in webpages and other content sources.\n\nAmong other things, Lockdown Mode will disable live web browsing (so you can only access cached content)",
+      "title": "Massachusetts votes to pass new privacy rights bill that bans sale of precise location data",
+      "link": "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/",
+      "author": "Zack Whittaker",
+      "date": "2026-06-08T06:26:03-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1392356345.jpg?resize=1200,800",
+      "category": "Security",
+      "content": "Massachusetts lawmakers have voted to pass privacy protections that grant the state’s residents new rights over accessing and deleting their data held by big tech giants. The bill also bans companies from selling their users’ precise location data.\n\nLawmakers in the Massachusetts House passed the state’sConsumer Data Privacy Actin a unanimous 146-0 vote on Thursday, months after all of the Senate’s 40 lawmakers voted in favor of advancing its own billin September. Now, the bills will be combined in the Senate, and sent to the state governor’s office, where it is expected to be signed into law. It’s not immediately clear when that will happen.\n\nThe move makes Massachusetts the latest U.S. state to push for stronger consumer privacy rights after years of documented abuses by the wider technology, advertising and social media industries. While the United States does not have a nationwide privacy law, unlike many of the world’s major democracies, U.S. states have filled the void of legislation by bringing their own patchwork of privacy rules that apply to their states.\n\nThe bill, if passed into law, will apply to companies that handle or process the personal data of more than 100,000 consumers. It will largely affect medium-sized startups as well as Silicon Valley technology titans.\n\nThe law would block the sharing or sale of sensitive information without a user’s explicit consent. This data includes biometrics (such as health data, genetic information, and fingerprints), their precise geolocation data, and other markers about their religion, immigration status and sexual orientation.\n\nThe collection and sale of people’s location data has been a major flashpoint in privacy debates for years. Data brokers have for years relied on app developers selling their users’ location data to repackage and sell it to anyone who can pay, including stalkers, governments and militaries. In many cases, the government saysit does not need a warrantto purchase data that’s commercially available on the open marketplace.\n\nThe Biden administration came close to banning the sale of sensitive Americans’ data at the federal level, but the Trump government has sincescrapped the change.\n\nBy applying the location data ban to both residents and visitors, the Massachusetts law will effectively blanket ban the sale of location data across the state. The bill isanticipated to have a broad effect on startupsthat collect, share and sell location data in Massachusetts, as well as advertising companies that use location data to target people with ads.\n\nAccording to local mediaWBURand Massachusetts newspaperLynn Journal, state lawmakers worked across party lines under the belief that privacy is a fundamental right to Massachusetts state residents.\n\nThe bill was generally praised by privacy groups and advocates.\n\nEvan Greer, director of the Fight for the Future advocacy group, said the Massachusetts bill “took a major step toward cracking down on Big Tech’s surveillance abuses,” while the ACLU praised the landmark bill as positioning the state as a “leader in protecting personal privacy and curbing digital surveillance.”",
+      "excerpt": "Massachusetts lawmakers have voted to pass privacy protections that grant the state’s residents new rights over accessing and deleting their data held by big tech giants. The bill also bans companies from selling their users’ precise location data.\n\nLawmakers in the Massachusetts House passed the st",
       "tags": [
         "Apple",
         "Amazon",
