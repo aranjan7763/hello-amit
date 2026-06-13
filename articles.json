@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T08:22:00.560252+00:00",
+  "last_updated": "2026-06-13T11:16:03.991572+00:00",
   "articles": [
     {
       "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
@@ -121,6 +121,23 @@
       ]
     },
     {
+      "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
+      "link": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
+      "author": "Zack Whittaker",
+      "date": "2026-06-13T04:00:00-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/fbi-cyber-range-2.jpeg?resize=1200,675",
+      "category": "Security",
+      "content": "The Federal Bureau of Investigation is pulling back the curtain on a 22,000 square-foot replica town on its Huntsville, Alabama campus that it built to train law enforcement in simulating and investigating real-world cyberattacks.\n\nThe aim is to teach investigators in a secure environment beyond the classroom by getting hands-on with some of the latest consumer and enterprise technologies, many of which are frequently targeted by malicious hackers. The numbers put the training into context. The FBI’s 2025 Internet Crime Report, drawing on more than one million complaints, logged a record$20.9 billionin U.S. cybercrime losses, a 26% jump over the prior year, with ransomware ranked the top ongoing threat to critical infrastructure.\n\nDubbedthe Kinetic Cyber Range, the FBI’s small purpose-built town opened in February 2025 and features fully furnished houses, a hotel, a gas station and grocery mart, a courthouse, a hospital, and a power company — complete with roads and traffic lights — designed to mimic a real U.S. community. Since opening, says the agency, the facility has trained more than 1,400 students, including FBI personnel and partners from other federal and local agencies.\n\nEach part of the town is wired with functioning devices and systems that behave as they would in a real community or business, while preventing any simulated attacks from spilling out of the facility.\n\nThe range also includes a data center with more than 200 physical servers — some running Windows, some Linux — reflecting the corporate environments investigators are likely to encounter when responding to a breach or executing a search warrant. “They’re cold, they’re cramped, they’re noisy, they’re dark, they’re miserable,” Dave Beachboard, the range’s program manager, explains in the FBI’s write-up about the training environment.\n\nThe replica town also allows the FBI to simulate ransomware attacks and their real-world consequences, including the high-pressure decisions that investigators must make when responding to incidents that could cause harm to people, such as hospital systems going dark.\n\nThe Kinetic Cyber Range also helps to train U.S. investigators in digital forensics, which police use tocrack the cybersecurity defensesof encrypted modern devices to extract data from devices, often for the purposes of building a criminal investigation. The tools used for this are controversial as they work by exploiting vulnerabilities that are never disclosed to the device maker, such as Apple or Google, to defeat the protections those companies build in for their users.",
+      "excerpt": "The Federal Bureau of Investigation is pulling back the curtain on a 22,000 square-foot replica town on its Huntsville, Alabama campus that it built to train law enforcement in simulating and investigating real-world cyberattacks.\n\nThe aim is to teach investigators in a secure environment beyond the",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
       "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
       "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
       "author": "Rebecca Bellan",
@@ -146,23 +163,6 @@
       "category": "",
       "content": "All eyes are on theSpaceX IPO— the world’s largest in history — and its CEO Elon Musk. But lest you forget, there is another publicly traded company in the Musk universe that many believe will someday merge with SpaceX.\n\nWe’re talking about Tesla, which has a current market cap of about $1.52 trillion. Musk, who also leads Tesla, has pitched it as an AI and robotics company, even though the bulk of its revenue still comes from selling EVs. Some see a merger with SpaceX as a critical step to achieving that vision.\n\nSpaceX president and COO Gwynne Shotwell seems open to the idea. During an interview with CNBC, Shotwell said a merger “might make Elon’s life a little easier.”\n\nThere is evidence that SpaceX is already preparing for one. The companyamended its S-1 registration documentahead of its public debut to include new language in its risk factors section about mergers and acquisitions. The added sentence, which reads “We may issue a significant amount of equity in connection with future transactions,” is a warning to investors of future dilution. A warning like that wouldn’t be necessary for a small-scale deal; it likely means Tesla.\n\nAs a reminder, Musk is quite comfortable bringing the disparate pieces of his portfolio together. SpaceXacquiredMusk’s AI company, xAI, earlier this year. And xAI acquired Musk’s social media company, X, in anall-stock transactionthe year before.",
       "excerpt": "All eyes are on theSpaceX IPO— the world’s largest in history — and its CEO Elon Musk. But lest you forget, there is another publicly traded company in the Musk universe that many believe will someday merge with SpaceX.\n\nWe’re talking about Tesla, which has a current market cap of about $1.52 trilli",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Mistral is rumored to be raising €3B at €20B valuation",
-      "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-      "author": "Ram Iyer",
-      "date": "2026-06-12T10:38:11-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800",
-      "category": "",
-      "content": "French AI lab Mistral AI is in early discussions to raise about €3 billion ($3.5 billion), BloombergreportedFriday, citing anonymous sources.\n\nThe funding round would value the company at around €20 billion (about $23.15 billion), nearly double the €11.7 billion valuation itreceivedin a Series C funding round last September.\n\nOne of Europe’s leading AI startups, Mistral launched in 2023 with the stated ambition to “put frontier AI in the hands of everyone.” The company has taken a more open approach to its AI development compared to its American rivals,offeringsome foundational large language models with open weights, allowing anyone to customize them as they see fit.\n\nThe company also offers closed models tailored for use cases such as programming, voice cloning and generation, and optical character recognition.\n\nLately, with European countriesdistancingthemselves from American tech, Mistral haspositioneditself as a friendlier, “sovereign” and homegrown alternative. The company is setting upa data center near Parisand has partnered withFrance’s army, thegovernment of Luxembourg, andseveralmajor Europeancompanies.\n\nStill, Mistral has only raised about $4 billion to date, per PitchBook, a fraction of what U.S. rivals OpenAI ($186 billion) and Anthropic ($161.25 billion) have taken in. These labs are also valued much, much higher, reflecting how much further American labs have pulled ahead in revenue, model adoption, and enterprise demand.\n\nMistral did not immediately return a request for comment.",
-      "excerpt": "French AI lab Mistral AI is in early discussions to raise about €3 billion ($3.5 billion), BloombergreportedFriday, citing anonymous sources.\n\nThe funding round would value the company at around €20 billion (about $23.15 billion), nearly double the €11.7 billion valuation itreceivedin a Series C fun",
       "tags": [
         "Apple",
         "Amazon",
