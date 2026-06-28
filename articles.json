@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T04:04:59.093229+00:00",
+  "last_updated": "2026-06-28T08:22:26.655791+00:00",
   "articles": [
     {
       "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
@@ -121,6 +121,23 @@
       ]
     },
     {
+      "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
+      "link": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
+      "author": "Ivan Mehta",
+      "date": "2026-06-27T22:00:00-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/MTW_2026-NPCI-Dilip.jpg?resize=1200,675",
+      "category": "Fintech",
+      "content": "India’s digital payment share has increased over the years, with the Unified Payment Interface (UPI) growing to over 750 million daily transactions. With an aim to reach over a billion daily transactions, Dilip Asbe, MD and CEO of the National Payments Corporation of India, which oversees UPI, thinks AI would be heavily involved in the next phase for user growth, fraud prevention, and credit distribution.\n\nDuring an interview with TechCrunch at Mumbai Tech Week (MTW) 2026 last month, Asbe said AI could drive the next half a billion users with NPCI, India’s central bank, and the government working together.\n\n“AI will be used very effectively when we look at the next wave of UPI, and that includes all aspects, including reaching new users. We must use AI effectively to protect our current citizens, to find fraud, and to find mules. AI must also be used to provide credit to all the users and merchants who have digital footprints,” he said. “We must use AI to look at the voice and multilingual solutions to make onboarding simpler.”\n\nMany companies have talked about voice as an interface being important in India for chatting with companies or systems. Asbe believes that it is early days for that, as voice models will need to be more accurate. NPCI launcheda voice assistant-based interactive system in 2023. Asbe noted that adoption for that yet to take off, and with the right use case, voice can become a critical component in the payment ecosystem.\n\nIn the U.S., startups and public companies are racing to add AI to finance. Coinbase and Robinhood now allow agents to trade on users’ behalf, and OpenAI lets you load personal account data into ChatGPT to get financial advice. NPCI has shown some demos aroundagentic commerce and payments with Razorpay last year. However, there hasn’t been a wider rollout of some of these capabilities.\n\nNPCI’s CEO thinks that with robust regulations and a framework, India can also adopt AI-powered finance. He said that there should be enough protection for users and mitigation for risk — and in case something goes wrong, the system should be able to look at the instructions and consent given by the user to an agent.\n\nBesides the usage of models, Asbe thinks that the Indian finance ecosystem has an opportunity to build small language models.\n\n“We believe that the models will differentiate from each other based on the data sets that are made available to them,” he said. “We have a very rich data set in our ecosystem. I think there is a big opportunity for Indian companies — the banks, FinTechs, and the ecosystem — to create small language models which are sharp, specific, and as deterministic as possible.”\n\nLast year, NPCI launched a model calledFIMI to solve user disputes. Asbe noted that it is serving over a million users to cancel mandates and resolve issues, and is scaling fast.\n\nNPCI has longsought healthy competition between UPI apps, but data suggests that Walmart-owned PhonePe and Google Pay have over 80% of the market share. The regulator’s plan tocap an app’s market share at 30%is set to take effect on December 31, 2026, unless it defers the deadline date again.\n\nDuring the conversation, Asbe said that UPI apps have very low switching costs and most core features are shared. He noted that PhonePe and Google have poured millions into their apps to attain their market position. He said that if new apps find viable business models within the fintech ecosystem, their share will rise.\n\n“I believe that there are multiple issues why we see this concentration risk exist, and one of the important reasons is the availability of a viable commercial model. The moment we see the commercial model being available to the ecosystem, I believe newer players will start investing very heavily,” Asbe said.\n\nIn 2024, the payment body spun off itsBHIM UPI app to make it more competitive and grow its usage. While its transaction volume has grown, its overall market share is around 1%. Asbe said that with BHIM, there is no particular target market share NPCI is eyeing. But it wants to make it a sovereign and secure alternative to other apps, Asbe said.\n\nIndia is one of the biggest digital economies, and investors around the world will be looking at the regulatory landscape to put money into newer fintech solutions and make the market more competitive.",
+      "excerpt": "India’s digital payment share has increased over the years, with the Unified Payment Interface (UPI) growing to over 750 million daily transactions. With an aim to reach over a billion daily transactions, Dilip Asbe, MD and CEO of the National Payments Corporation of India, which oversees UPI, think",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
       "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
       "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
       "author": "Anthony Ha",
@@ -146,23 +163,6 @@
       "category": "",
       "content": "Elon Musk is eyeing an acquisition of Mesh Optical Technologies, a startup founded by three former SpaceX engineers last year developing hardware for fast data center communications.\n\nThe potential acquisition, which was revealed in aFederal Trade Commission filingand firstreported by Bloomberg, confirmed the agency expedited its antitrust review.\n\nMesh Optical came out of stealth in February when it announced that it raised a$50 million Series Aled by Thrive Capital.\n\nBefore founding Mesh Optical, the startup’s co-founders, Travis Brashears, Cameron Ramos, and Serena Grown-Haeberli, developed the optical communication links that keep thousands of SpaceX’s Starlink satellites interconnected.\n\nThe Mesh co-founders saw an opportunity to develop optical transceivers for terrestrial data centers, as light-based hardware is faster and more energy-efficient than traditional electrical-based systems.\n\nSpaceX has recently entered into agreements with Anthropic, Google, and the open-source AI developer Reflection AI to provide them with compute capacity at its data centers, generating a substantial new revenue stream for the newly public company. Acquiring Mesh could eventually allow SpaceX to improve the efficiency of its data centers, whether they are located on Earth or, in the future, in space.",
       "excerpt": "Elon Musk is eyeing an acquisition of Mesh Optical Technologies, a startup founded by three former SpaceX engineers last year developing hardware for fast data center communications.\n\nThe potential acquisition, which was revealed in aFederal Trade Commission filingand firstreported by Bloomberg, con",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Novak Djokovic has a new job —  advisor to private equity firm General Atlantic",
-      "link": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/",
-      "author": "Dominic-Madori Davis",
-      "date": "2026-06-26T12:13:40-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2282709667.jpg?w=1024",
-      "category": "",
-      "content": "General Atlantic has tapped tennis legend Novak Djokovic to serve as a global strategic advisor, where,according to a press release,he “will work closely with the firm’s leadership, portfolio companies, and investors, bringing perspectives on leadership, resilience, and innovation that reflect General Atlantic’s commitment to excellence.”\n\nThe news comes just days before Djokovic is set to play at Wimbledon, with his eyes set on a 25th Grand Slam title.The partnership, in many ways, makes sense. Djokovic has invested in a handful of wellness companies,including Waterdrop in 2023, and co-founded his ownsupplement company, SILA, in 2024, followed by the clean snack food companyCob Foods in 2025.He also backed the wearables company Incrediwear.As reported by Bloomberg,General Atlantic hopes to leverage Djokovic’s network to gain further exposure to the health and wellness sector.\n\nAt the same time, the firm is hoping to expand further into sports investing, having, over the past two years, taken stakes in a football club, a sports stadium, as well as a sports media agency. The presence of private equity in tennis has increased, with General Atlantic being just the latest name to enter the game. The firm’s CEO said in an interview with Bloomberg that Djokovic had “strong views about how professional tennis can be reshaped” and that “there’ll be opportunities there.”",
-      "excerpt": "General Atlantic has tapped tennis legend Novak Djokovic to serve as a global strategic advisor, where,according to a press release,he “will work closely with the firm’s leadership, portfolio companies, and investors, bringing perspectives on leadership, resilience, and innovation that reflect Gener",
       "tags": [
         "Apple",
         "Amazon",
