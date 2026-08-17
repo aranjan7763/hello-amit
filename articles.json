@@ -1,6 +1,57 @@
 {
-  "last_updated": "2026-08-17T14:29:24.145446+00:00",
+  "last_updated": "2026-08-17T15:26:40.518224+00:00",
   "articles": [
+    {
+      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+      "author": "Ivan Mehta",
+      "date": "2026-08-17T06:10:05-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Wispr-Flow-Android-hero.jpg?resize=1200,718",
+      "category": "Fundraising",
+      "content": "Wispr, a startup known for its AI dictation tool, raised $280 million in Series B funding, led by Menlo Ventures, at a $2 billion valuation, the company announced on Monday. The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.\n\nWith this latest round, the company has raised $361 million to date. Its last roundwas less than 10 months ago.\n\nThe new capital comes at a time when there is increased competition in the dictation space from apps likeWillow, Monologue, Aqua, and Superwhisper, among others. In addition, several developers are creating free or lower-priced tools for prosumers.\n\nExisting investors, including Notable Capital, NEA, Neo Ventures, 8VC, and MVP Ventures, doubled down in the latest round. The company also gained new investors such as Acrew, Forerunner, Goodwater, Peak XV, Together Fund, and PLUS Capital.\n\nAlongside the funding news, Wispr announced it’s launching a new model to improve the quality of speech understanding. For the last few weeks,severalusershave complained about a quality dip in Wispr Flow’s dictation output. The company said its new model, called Canto, will reduce error rates from 30% to less than 10%.\n\nSince last November, Wispr has released itsdictation app on Androidand has scaled its go-to-market teams in regions like India and the U.K.\n\nIt’s also partnering with hardware makers, like theOasis ring, to let customers dictate on their devices without speaking loudly. Separately, with its meeting notetaker, it’s taking on others in the space like Granola, Fireflies, and Read AI. While Wispr’s notetaker can display summaries and action items, there is scope for it to integrate with other tools and make updates or create documents or email drafts.\n\nLast month, the startup announced Wispr Interface Labs under Ariya Rastrow, who was one of the people to work on Amazon Alexa in its early days. With this lab, Wispr aims toexplore new interfacesfor human-computer interaction.",
+      "excerpt": "Wispr, a startup known for its AI dictation tool, raised $280 million in Series B funding, led by Menlo Ventures, at a $2 billion valuation, the company announced on Monday. The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released ",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Crypto hardware wallet owners face fresh security risks after recent spate of personal data thefts",
+      "link": "https://techcrunch.com/2026/08/17/crypto-hardware-wallet-owners-face-fresh-security-risks-after-recent-spate-of-personal-data-thefts/",
+      "author": "Zack Whittaker",
+      "date": "2026-08-17T06:00:19-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/wrench-attacks-1367232137.jpg?resize=1200,801",
+      "category": "Security",
+      "content": "Data breaches at two shipping companies has put cryptocurrency owners with physical hardware wallets at greater risk of having their funds stolen, highlighting weaknesses in the broader tech ecosystem relied on by the crypto industry.\n\nIn recent weeks, makers ofhardware crypto wallets TrezorandSafePal reported that collectively thousandsof their customers had their personal data and shipping information stolen during separate data breaches at their shipping partners. The crypto wallet makers provided their customers’ names, home addresses, email addresses, and phone numbers to the shipping companies for mailing out their hardware wallets.\n\nThe hacks did not affect the security of the wallets, a hardware device that stays offline to make it far more difficult for hackers to compromise from over the internet. Instead, the hackers targeted the broader supply chain of tech companies to obtain personal information about where high-net worth crypto holders live.\n\nBy stealing the names and home addresses of hardware wallet customers, the hacks expose crypto owners to physical attacks that rely on physically obtaining the seed phrase stored on the wallet by force or violence.\n\nKnown as wrench attacks (referring to the use of weapons), these kinds of real-world attacksare on the riseas criminals increasingly seek out crypto belonging to high-net individuals. Blockchain security company CertiK confirmed dozens of reported wrench attacks during 2025, up by 75% on the previous year, with robbers stealing upwards of $40 million. Crypto forensics giant Chainalysis puts this year’s figuresat closer to $30 millionso far, with gangs using kidnapping and home invasions to demand a person’s crypto seed phrase.\n\nWith knowledge of a person’s seed phrase, the attackers can irreversibly take control of the person’s crypto on the public blockchain.\n\nBoth Trezor and SafePal also warned customers to stay vigilant against phishing attacks, which rely on sending targeted messages to a person’s phone number or email address in an attempt to steal their crypto.\n\nIn a separate attack on a hardware wallet earlier this month, hackers stole more than $130 million in cryptocurrency directly off the blockchain by guessing the passwords set by Coinkite’s Coldcard hardware wallet.\n\nThe hackers, who have not yet been identified, were able topredict the seed phrases that Coldcard wallets would generate offlinefor their customers. Even though the wallets and seed phrases never touched the internet, the hackers were able to generate customer wallet passwords on the fly and pluck their funds directly off of the blockchain.\n\nOne victim saidin a post on Xthat they had done “everything right,” but that “none of it mattered… all because the hardware that created the seed phrase originally had one line in their code from 2021 that had a vulnerability.”",
+      "excerpt": "Data breaches at two shipping companies has put cryptocurrency owners with physical hardware wallets at greater risk of having their funds stolen, highlighting weaknesses in the broader tech ecosystem relied on by the crypto industry.\n\nIn recent weeks, makers ofhardware crypto wallets TrezorandSafeP",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Uber adds Zipline drones to its Eats delivery network",
+      "link": "https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/",
+      "author": "Sean O'Kane",
+      "date": "2026-08-17T06:18:49-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/zipline-uber.jpg?resize=1200,800",
+      "category": "Transportation",
+      "content": "Uber is investing in, and partnering with, drone delivery company Zipline with the goal of making one million deliveries per day using the startup’s drones by the end of 2029.\n\nZipline drones will make the first deliveries on the Uber Eats platform by the end of this year, the companiessaidon Monday. These deliveries will start in Zipline’s existing markets, and the companies  want to expand into “dozens of U.S. cities.”\n\nThe companies didn’t disclose the investment amount.\n\nUber has been taking on multiple drone delivery partners as it looks for ways to keep growing Uber Eats. The ride-hail giant is replicating the early business model it’s adoptedfor robotaxis and other services built around autonomous vehicles, which is to essentially bring as many companies on to its platform as possible.\n\nThis approach has helped Uber stay at the forefront of these new technologies despite selling off its own programs like the aerial ridesharing service, Uber Elevate, and Uber Autonomous Technologies Group, which was working on autonomous vehicles. Investments have been a huge part of the strategy, with Ubercommitting more than $10 billionto dozens of autonomous vehicle providers.\n\nThe strategy is not a panacea, though. Uber recently clashed with one of its highest-profile partners so far, Waymo, and the companies are nowexpected to walk away from each otherwhen their contracts expire in 2028. Uber and Waymo are also on different sides of agrowing fight over autonomous vehicle regulation.\n\nThe ride-hail giant had tested the waters of drone delivery when it still had its Elevate division. The company dipped back into the idea late last year when it announced apartnership with Israeli startup Flytrex, which also came with a minor investment.\n\nUber thinks Zipline’s drones can fulfill orders on Uber Eats within five to 10 minutes. “Truly quick commerce is proving to be an even bigger market than the original food market was,” Uber CEO Dara Khosrowshahi told The Wall Street Journal in aninterview. “We think this can be an enormous tailwind for the next leg of growth for Eats.”\n\nZipline, based in San Francisco, recentlyclosedan extended Series H funding round of $800 million, pushing its valuation to $7.6 billion.\n\n“Every great transportation revolution has changed where people live, how businesses operate, and how economies grow,” Zipline co-founder Keller Cliffton said in a statement. “Together with Uber, we’re taking the next step toward building a world where getting what you need is as fast and effortless as sending a text, no matter where you are.”",
+      "excerpt": "Uber is investing in, and partnering with, drone delivery company Zipline with the goal of making one million deliveries per day using the startup’s drones by the end of 2029.\n\nZipline drones will make the first deliveries on the Uber Eats platform by the end of this year, the companiessaidon Monday",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
     {
       "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
       "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
@@ -53,23 +104,6 @@
       ]
     },
     {
-      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "author": "Anthony Ha",
-      "date": "2026-08-16T13:57:04-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/04/Stripe-resized.webp?resize=1200,674",
-      "category": "",
-      "content": "Stripe has finalized a deal to acquire OpenRouter,according to a new report in Bloomberg.\n\nOpenRouter helps customers to select different AI models to perform different tasks, depending on their specific needs and budget. The company announced in May that it hadraised a $113 million Series B, at a reported $1.3 billion valuation. (Investors include Sequoia, Andreessen Horowitz, Menlo Ventures, and Alphabet’s Capital G.)\n\nAt the time, OpenRouter CEO Alex Atallahdescribed the companyas the equivalent of Stripe for AI, because it provides customers with a single access point for different systems and prevents lock-in. The startup also claimed to have 8 million global users and to provide access to more than 400 models.\n\nThe Wall Street Journalreported last monththat Stripe and OpenRouter were in acquisition talks. Now, Bloomberg said those discussions have led to a deal price of more than $7 billion.\n\nA Stripe spokesperson told TechCrunch that the company does not comment on rumors or speculation.",
-      "excerpt": "Stripe has finalized a deal to acquire OpenRouter,according to a new report in Bloomberg.\n\nOpenRouter helps customers to select different AI models to perform different tasks, depending on their specific needs and budget. The company announced in May that it hadraised a $113 million Series B, at a r",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
       "title": "7 desk gadgets that can make your workday better",
       "link": "https://techcrunch.com/2026/08/15/5-desk-gadgets-that-can-make-your-workday-better/",
       "author": "Aisha Malik",
@@ -95,40 +129,6 @@
       "category": "AI",
       "content": "Anthropic publisheda blog postFriday seeking to answer some basic questions about how it will watermark the text generated by its chatbot Claude. Such as: How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?\n\nClaude users have been debating the move since the companyrevealed earlier this weekthat it would be doing this watermarking to comply with the EU AI Act’s Transparency Code, which requires AI companies to use systems that make it possible to identify AI-generated content.\n\nOn Reddit, for example, one postercharacterized this as a conspiracy against innocent Claude users, while another claimed, “The only reason you wouldn’t want this is to lie to people.” AndBusiness Insider reportsthat “dozens” of users on X have claimed to cancel their Claude subscriptions as a result.\n\nAnthropic’s new post starts with a general overview of the watermarking concept, explaining that when making “low-stakes choices” — like choosing between the words “overcast” and “grey” to describe the weather — Claude can create a pattern in its responses that is “undetectable to the reader, butisdetectable to anyone who has a key that encodes it.”\n\n“Watermarking does not impact the quality of Claude’s output,” the company said. “To a reader, a watermarked response is indistinguishable from an unwatermarked one.”\n\nMore specifically, Anthropic said it will be using the SynthID-Text approach thatthe Google DeepMind team outlined in 2024, and that it plans to release a watermark detection API. It also noted that watermarking is distinct from the AI detection approaches offered bycompanies like Pangramthat look for “tells” in the writing (like the construction “this isn’t [X], it’s [Y]”) to reveal AI usage: “Picking up on these patterns is fundamentally different from checking for a watermark.”\n\nCould someone just rewrite the text to hide the watermark? Anthropic said it’s possible, but “light editing probably won’t remove the watermark completely,” while “a complete rewrite where every word is replaced will.”\n\n“In the latter case, of course, it’s arguable whether the text can any longer be described as AI-generated,” the company said.\n\nAs for whether the watermark will be detectable in text that was only proofread or edited by Claude, Anthropic said that will depend on “the length of the text and how heavily Claude has edited it.” If it’s only been lightly edited, “nearly all the words” will have been written by the human author and “there’s very little (if anything) for the watermark to attach to.”\n\nCode, meanwhile, should have less of a watermark than other text, because the model will need to create working code and won’t have the freedom to choose between a variety of equally valid options.\n\n“Having said that, in areas where there is an arbitrary choice between particular words or terms within the code, the watermark can be used, such as comments within code,” Anthropic said. “But by definition, it will have a negligible effect on the actual code produced.”\n\nAnthropic also said that Claude won’t be the only AI chatbot to generate watermarked text, as “other major model developers have signed the same Code of Practice and will be implementing their own watermarks.”",
       "excerpt": "Anthropic publisheda blog postFriday seeking to answer some basic questions about how it will watermark the text generated by its chatbot Claude. Such as: How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?\n\nClaude users have been debating the move ",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
-      "link": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
-      "author": "Sarah Perez",
-      "date": "2026-08-14T07:54:48-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2234130980.jpg?resize=1200,800",
-      "category": "Apps",
-      "content": "Aftertryingandfailingto delay the matter, Apple on Thursday submitted its proposal for the commissions it wants to charge on purchases made using external links inside apps on its iOS devices.\n\nIn a new filing in the U.S. District Court of Northern California, Apple proposed new commissions of 15% for standard apps, with further discounts for developers who are enrolled in special Apple programs.\n\nUnder the proposed structure, small business developers would pay a 5% commission on payments, while those in the Video Partner Program, News Partner Program, and Mini Apps Partner Program would pay 10%. Subscription renewals would also be reduced to 10%, the filing states.\n\nThe iPhone maker has been engaged in a years-long legal battle with Epic Games over its alleged anti-competitive policies regarding App Store commissions, and had been attempting to stall its answer to the court’s request for this part of its commission structure.\n\nApple tried to argue that these lower court proceedings should wait until the Supreme Court ruled on another matter related to the case: whether or not Apple was in contempt of a court order when it imposed a new 27% commission on purchases made through external links, and imposed rules that restricted how developers could present those links to customers.\n\nThe Supreme Court on Thursdayrejected Apple’s bidto pause further action in the lower court’s case, forcing the company to reveal its planned commission structure.\n\nApple’s position is that it should be permitted to charge fees on in-app purchases made by users of its devices as a means to recoup its investments in the tools, technology, and services that allow it to maintain its App Store and software.\n\nThe company also compared its link-out fees to those on Google Play, which charges 20% link-out rates for standard apps, 15% for apps in special programs, and 10% for subscription renewals, noting that Epic Games had agreed to these rates.",
-      "excerpt": "Aftertryingandfailingto delay the matter, Apple on Thursday submitted its proposal for the commissions it wants to charge on purchases made using external links inside apps on its iOS devices.\n\nIn a new filing in the U.S. District Court of Northern California, Apple proposed new commissions of 15% f",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "SpaceX officially closes its Cursor acquisition",
-      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "author": "Anthony Ha",
-      "date": "2026-08-15T09:30:00-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800",
-      "category": "",
-      "content": "AI coding startup Cursor is now officially a part of SpaceX, according toan announcement on the Cursor blog.\n\nElon Musk’s SpaceX — which also acquired Musk’s xAI earlier this year —announced a deal in Aprilfor the companies to develop technology together; the deal also gave SpaceX the option to acquire Cursor for $60 billion. Two months later, as SpaceX became a public company, the companies said they weremoving forward with the acquisition.\n\nIn its announcement that the deal has closed, Cursor repeatedly referenced SpaceX’s computing infrastructure, which the company has beenrenting out to customers including Anthropic and Google. (SpaceX alsofaces a lawsuit over the pollution created by its data center gas turbines.)\n\nCursor said that by becoming part of SpaceX, it will have “access to the largest fleet of GPUs in the world.”\n\n“SpaceX is building the computing capacity needed to scale intelligence far beyond what exists today,” the company added. “Cursor will be one place where that intelligence becomes useful.”",
-      "excerpt": "AI coding startup Cursor is now officially a part of SpaceX, according toan announcement on the Cursor blog.\n\nElon Musk’s SpaceX — which also acquired Musk’s xAI earlier this year —announced a deal in Aprilfor the companies to develop technology together; the deal also gave SpaceX the option to acqu",
       "tags": [
         "Apple",
         "Amazon",
