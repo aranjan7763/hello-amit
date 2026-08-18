@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T19:28:35.439188+00:00",
+  "last_updated": "2026-08-18T20:25:59.232670+00:00",
   "articles": [
     {
       "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
@@ -87,6 +87,23 @@
       ]
     },
     {
+      "title": "TikTok explores peer-to-peer payments via DMs, report says",
+      "link": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
+      "author": "Aisha Malik",
+      "date": "2026-08-18T13:03:56-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801",
+      "category": "",
+      "content": "TikTok is developing a feature that would allow users to send each other money via direct messages, according to a new report fromBloomberg. If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.\n\nReferences to the potential feature were found in code hidden within the current version of TikTok’s U.S. iPhone app, according to the report. The code indicates that recipients would be able to “tap to accept” payments, while senders could include messages with their payments, similar to Venmo.\n\nTikTok told Bloomberg that the feature is not being tested, which suggests that it’s in early development. Given that the feature is still under development, it’s unknown when or if TikTok plans to widely release peer-to-peer payments.\n\nTikTok did not immediately respond to TechCrunch’s request for comment.\n\nIt’s worth noting that this isn’t the first time TikTok has tried to push further into financial services.Reuters reportedearlier this year that TikTok had applied to Brazil’s central bank for approval to operate as a financial technology company offering lending and payment services.\n\nAlthough TikTok is widely described as a social media giant, it has graduallyexpanded beyond that categorythanks to additions such as robust search, TikTok Shop, a local discovery map, games, hotel bookings, and more. By introducing peer-to-peer payments, TikTok would be competing with services like Venmo and Zelle.\n\nTikTok isn’t the only social network pushing into financial services, as X, formerly known as Twitter, recently launchedX Moneyto allow users to send each other money.",
+      "excerpt": "TikTok is developing a feature that would allow users to send each other money via direct messages, according to a new report fromBloomberg. If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.\n\nR",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
       "title": "OpenAI institutes new safeguards after Hugging Face breach",
       "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
       "author": "Russell Brandom",
@@ -112,23 +129,6 @@
       "category": "Startups",
       "content": "The lowest prices forTechCrunch Disrupt 2026end in just a few days, this Friday, August 21 at 11:59 p.m. PT. Once that window closes, your chance tosave up to $300 on your pass, or get an even larger discount on group pricing, will come to an end.\n\nIf you’ve been circling around Disrupt, thennow’s the best time to lock in your passand start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!\n\nIf Disrupt has been on your radar,now is the time to lock in your passbefore Friday’s deadline.\n\nEach year, TechCrunch Disrupt brings together more than 10,000 founders, investors, and startup community members, driving innovation forward. And for our event this year, you’ll find a keen focus on building and developing in the AI era across all of our stages of programming. If you want to be on the cutting edge running into 2027, this is the event for you.\n\nAnd you don’t have to be a founder to get value out of Disrupt. Whether you’re raising capital, scouting investments, hiring talent, launching a startup, or building strategic partnerships, Disrupt puts you in the middle of the conversations shaping what’s next and can help you make the connections that propel your next year of growth.\n\nHere’s just a glimpse of what you gain by attending:\n\nKeeping that focus on building companies in the AI era in mind,we have a great slate of new stages and programmingto inspire and educate:\n\nOurDisrupt,AI, andBuildersStages are also returning this year, and we have excellent speakers joining us across them all:\n\nYou canexplore the rest of our extensive speaker lineup right here!\n\nThis is your last chance to save before rates increase, solock in your pass before Friday, August 21 at 11:59 p.m. PT to get the best prices, whether you’re a student looking to get their introduction to the community or an established investor in search of an untapped opportunity.",
       "excerpt": "The lowest prices forTechCrunch Disrupt 2026end in just a few days, this Friday, August 21 at 11:59 p.m. PT. Once that window closes, your chance tosave up to $300 on your pass, or get an even larger discount on group pricing, will come to an end.\n\nIf you’ve been circling around Disrupt, thennow’s t",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Etched’s valuation doubles to $21B in a month",
-      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "author": "Julie Bort",
-      "date": "2026-08-18T10:21:58-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Etched-co-founder-COO-Robert-Wachen.jpg?resize=1200,1200",
-      "category": "Startups",
-      "content": "Etchedon Tuesdayannouncedthat it has raised another $700 million at a $21 billion valuation, led by Jane Street after the famed quant fund tested and bought the startup’s AI hardware.\n\nEven by AI standards, this valuation step-up is jaw-droppingly fast. Etched was valued at $5 billion in December. It raised a $300 million Series C at a$10.3 billion valuation in July. Now investors have doubled its valuation to $21 billion, up nearly $11 billion, in a month.\n\nEtched delivers its AI tech as full systems that it calls “frontier inference clusters.” (Etched competitor Nvidia calls its full systems AI factories.)\n\nCo-founder and COO Robert Wachen told TechCrunch that investors are so enthusiastic because Etched has designed two new components from scratch to speed up inference — the computing process that happens after a user submits a prompt.\n\n“Inference is built in two stages,” Wachen said, “prefill and decode.” In the mathematically and compute-intensive “prefill phase,” the system must understand the prompt, including context. In the memory-intensive “decode” phase, the system generates output tokens, meaning the actual answer the user sees.\n\nEtched created a prefill chip that operates at low voltage, allowing it to pack in more transistors without the typical heat problems of other high-end AI chips. It can therefore process more tokens faster. Etched created a new type of memory and an interconnect for the decode process that the company calls cluster-scale memory.\n\n“It allows many chips to connect together and use a shared memory pool at a very, very fast, low latency,” Wachen said. The result, Etched promises, is higher speeds and lower costs.\n\nEtched is still battling the perception from its early days that it etches a particular model into its chips, meaning that each chip is somehow custom-designed to run one frontier model. That was its original intention but is no longer the case. Etched’s systems can run any frontier model.\n\nIn theblog postannouncing the new round, investment firm Jane Street said, “We tested the chip and are pleased with the early results. Etched’s unique approach to inference delivers the precision we will need to support our most demanding workloads. We’re excited to now have our own rack running in our datacenter.”\n\nOther investors in Etched include Kleiner Perkins, Sequoia Capital, Andreessen Horowitz, Peter Thiel, Tiger Global, Bain Capital Ventures, Neo, Stripes, Primary, Positive Sum, Diffusion, Argo, and Blackstone.",
-      "excerpt": "Etchedon Tuesdayannouncedthat it has raised another $700 million at a $21 billion valuation, led by Jane Street after the famed quant fund tested and bought the startup’s AI hardware.\n\nEven by AI standards, this valuation step-up is jaw-droppingly fast. Etched was valued at $5 billion in December. I",
       "tags": [
         "Apple",
         "Amazon",
