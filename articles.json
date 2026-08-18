@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T20:25:59.232670+00:00",
+  "last_updated": "2026-08-18T21:26:15.333517+00:00",
   "articles": [
     {
       "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
@@ -87,6 +87,23 @@
       ]
     },
     {
+      "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
+      "link": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
+      "author": "Marina Temkin",
+      "date": "2026-08-18T13:36:20-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1027979078-604311108-composite.jpg?resize=1200,675",
+      "category": "Venture",
+      "content": "The Justice Department has launched a probe into Andreessen Horowitz regarding the firm’s partners serving on the boards of competing companies,Bloomberg reported.\n\nThe nearly year-long investigation focuses specifically on the firm’s board seats at Databricks, which is valued at $190 billion, and Fivetran, which combined with dbt Labs in June. The firm’s co-founder, Ben Horowitz, serves on the board of Databricks, while partner Martin Casado serves on the board of Fivetran.\n\nSeveral VCs told TechCrunch they were surprised by news of the probe. Databricks and Fivetran are competitors now, but the two companies weren’t rivals when a16z invested in the startups, according to another Databricks investor who spoke on condition of anonymity. Databricks is largely known for its cloud storage products but, with its Lakeflow product, has expanded into AI data pipelines and application connectors. That’s Fivetran’s main business.\n\nGiven that Andreessen Horowitz has backed hundreds of companies, it’s almost inevitable that some startups will pivot or expand into the same markets, becoming competitors.\n\nWhile backing direct rivals has become more acceptable recently, as evidenced by the many VCs that funded bothAnthropic and OpenAI, holding a board seat on competing startups creates a far greater conflict of interest. Directors are generally privy to much more sensitive strategic information than non-board investors ever see.\n\nSuch conflicts can be resolved by having a partner step down from one of the boards. However, because Databricks and Fivetran have different individuals from the same VC firm on their boards, a16z can institute a so-called Chinese wall between Horowitz and Casado, which would prevent the two partners from sharing confidential information about the two companies with each other, one investor said.\n\nThe investigation invokes Section 8 of the Clayton Act, a 112-year-old law stating that an individual or entity is barred from serving on the boards of competing companies. Since regulators have rarely targeted venture capital with this rule, the industry is watching the DOJ’s probe closely. If a16z is forced to surrender a seat, founders may place less value on board commitments from top-tier VCs, given that those investors might be forced to step down if a portfolio overlap creates a future conflict.\n\nAndreessen Horowitz did not immediately respond to our request for comment, nor did it respond to Bloomberg. Databricks and DOJ declined comment.",
+      "excerpt": "The Justice Department has launched a probe into Andreessen Horowitz regarding the firm’s partners serving on the boards of competing companies,Bloomberg reported.\n\nThe nearly year-long investigation focuses specifically on the firm’s board seats at Databricks, which is valued at $190 billion, and F",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
       "title": "TikTok explores peer-to-peer payments via DMs, report says",
       "link": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
       "author": "Aisha Malik",
@@ -146,23 +163,6 @@
       "category": "Hardware",
       "content": "For nearly 20 years, the smartphone has been at the center of hardware and software development. But with AI moving from stand-alone apps to being interwoven in our go-to platforms, and then into the operating system of our devices, the shape of the next generation of hardware devices is still being developed.\n\nAt TechCrunch Disrupt 2026, Amazon SVP of Devices, Alexa & Leo, Panos Panay will discuss how AI is changing the relationship between software, hardware, and the devices we use every day.\n\nDisrupt has long been a place where the incumbents share where they’re placing their bets, and what impacts and opportunities startups need to know about. Your chance to get a jump-start on the competitionstarts October 13-15 at San Francisco’s Moscone West. Before we dig into Panay and his upcoming talk,you should consider locking in today’s ticket pricing before our next tier goes live. Our discounts won’t last much longer!\n\nPanay isn’t new to reinventing hardware categories under pressure. He spent more than 19 years at Microsoft, most notably working as their EVP and chief product officer, overseeing the development of a wide range of Surface devices, from to theoriginal Surface Laptop from 2017tothe foldable Duo. While there, he also oversaw the development of Windows 11, in an overlap of software and hardware that’s becoming a mainstay in the AI era.\n\nHis departure from Microsoft was swiftly followed by the newshe was joining Amazon, taking over fromlongtime consumer devices leader David Limp. Whereas Amazon had previously been very focused on the expansion of hardware through the home, Panay has been building around the generative AI revamp of Alexa,with the rollout of Alexa+ across several tiers of access in the U.S. earlier this year.\n\nAnd at Disrupt, Panay will dive deeper into what’s coming up next for Amazon and Alexa+. As we potentially move into a world in which your daily routine doesn’t revolve around the phone in your hand, but on an assistant, a pair of glasses, or whatever form factor OpenAI is leaning into, the possibilities are endless! And that kind of future-forward thinking isavailable only at Disrupt.\n\nJoin us and hear Panay, and our many other excellent speakers, along with more than 10,000 founders, investors, and startup community members gathering in San Francisco.Remember to grab your ticket today, or dive deeper into our other Disrupt highlights as we get closer to the event.\n\nCheck out Disrupt’s headline speakers\n\nEverything founders should know about Disrupt\n\nGet the best hotel deals ahead of Disrupt\n\nHow to host your own Side Event at Disrupt\n\nTake part in Disrupt and learn how to exhibit your startup",
       "excerpt": "For nearly 20 years, the smartphone has been at the center of hardware and software development. But with AI moving from stand-alone apps to being interwoven in our go-to platforms, and then into the operating system of our devices, the shape of the next generation of hardware devices is still being",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Rivian CEO RJ Scaringe is betting on EVs, robots, and autonomy all at once — he’ll explain why at Disrupt 2026",
-      "link": "https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/",
-      "author": "TechCrunch Events",
-      "date": "2026-08-11T08:30:00-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/RJ-Scaringe-Disrupt-Stage-2026.png?w=1200",
-      "category": "Transportation",
-      "content": "Building a company is hard. But building one that also designs, manufactures, and delivers hardware at scale, from a factory floor, with supply chain concerns galore is another order of difficulty. And Rivian’s CEO RJ Scaringe is speaking atTechCrunch Disrupt 2026to detail that journey and the lessons it’s bestowed.\n\nRivian sits at the intersection of AI, software, robotics, manufacturing, and transportation. And Scaringe has spent the better part of two decades proving that intersection isn’t just survivable. He also thinks it’s about to become much more crowded.\n\nScaringe’s Disrupt Stage session is just one of many big conversationshappening at Disruptthis year, running October 13-15 at San Francisco’s Moscone Center. Check out the programming that’s been announced so farhere, and if you don’t already have a ticket,lock in yours before our next price increase on August 22.\n\nScaringe may be best known for Rivian, but he’s been expanding beyond vehicles.He’s laid out a roadmap to full Level 4 autonomy by 2028, and he’sbuilding out Rivian’s own charging networkwith ambitions to become one of the largest in the U.S.\n\nScaringe also founded Mind Robotics, a humanoid robotics companythat’s raised $900 million this year alone, which he runs as executive chair and acting CEO, with Rivian as a large shareholder and launch customer. With the goal of turning Rivian’s factory floor in Normal, Illinois, into a proving ground for more ingrained human and robotic coexistence on the assembly line, Scaringe sees an opportunity to directly address an anticipated shortage in human labor.\n\nAs for Rivian itself, it recently beganrolling out the R2, the roughly $58,000 SUV that Scaringe is counting on to do what the pricier R1T and R1S didn’t: expand Rivian beyond the niche market. He’s called it “maybe the most important thing we’ve launched to date” amid slowing demand for costlier EVs and mounting competitive pressure, especially from lower-cost Chinese EV manufacturers.\n\nAnd at Disrupt 2026, you’ll get to watch Scaringe detail how all of these investments fit together, and what he’s learned about building in the physical world and then bringing AI into the fold, while many AI companies try to accomplish the inverse.\n\nTo hear it in person and join the 10,000+ founders, investors, and technologistsheading to San Francisco for TechCrunch Disrupt 2026on October 13-15,grab your ticket today to make sure you get the best available price.\n\nCheck out Disrupt’s headline speakers\n\nEverything founders should know about Disrupt\n\nGet the best hotel deals ahead of Disrupt\n\nHow to host your own Side Event at Disrupt\n\nTake part in Disrupt and learn how to exhibit your startup",
-      "excerpt": "Building a company is hard. But building one that also designs, manufactures, and delivers hardware at scale, from a factory floor, with supply chain concerns galore is another order of difficulty. And Rivian’s CEO RJ Scaringe is speaking atTechCrunch Disrupt 2026to detail that journey and the lesso",
       "tags": [
         "Apple",
         "Amazon",
